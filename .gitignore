@@ -1,0 +1,15 @@
+_Backup/
+AddOn/
+blob_storage/
+Cache/
+Errors/
+GPUCache/
+Logs/
+Screenshots/
+UTILS/
+.curseclient
+.flavor.info
+*.exe
+*.dll
+*.DLL
+

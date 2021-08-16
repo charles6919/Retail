@@ -1,0 +1,4 @@
+VER 3 0100000000000001 "눈속" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/시전 [@mouseover,exists][@focus,exists][@player] 눈속임
+END

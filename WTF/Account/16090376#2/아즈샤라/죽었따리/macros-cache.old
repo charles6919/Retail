@@ -1,0 +1,12 @@
+VER 3 0100000000000003 "망령" "1100041"
+/사용 프리즘 구슬
+/시전 망령 걸음
+END
+VER 3 0100000000000002 "장신구" "413580"
+#showtooltip
+/시전 [@focus,exists,nodead][] 정신 얼리기
+END
+VER 3 0100000000000001 "주시차단" "237527"
+#showtooltip
+/시전 [@focus,exists,nodead][] 정신 얼리기
+END

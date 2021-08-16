@@ -1,0 +1,4 @@
+VER 3 0100000000000001 "주시 발차기" "132219"
+#showtooltip
+/cast [@focus] 발차기
+END

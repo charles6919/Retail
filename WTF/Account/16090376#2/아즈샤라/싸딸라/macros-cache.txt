@@ -1,0 +1,77 @@
+VER 3 0100000000000010 "곰자극" "INV_MISC_QUESTIONMARK"
+/w 비밀병기장아니 자극부탁드립니다!!
+END
+VER 3 0100000000000003 "광굴 마주" "254090"
+#showtooltip
+/시전 광기에 굴복하라
+/시전 마력 주입
+END
+VER 3 0100000000000002 "마우스 오버 보막" "135940"
+#showtooltip
+/시전 [@mouseover,exists][@focus,exists][@player]신의 권능: 보호막 
+END
+VER 3 0100000000000008 "마우스오버 광휘" "1386546"
+#showtooltip
+/시전 [@mouseover,exists][@focus,exists][@player]신의 권능: 광휘
+END
+VER 3 0100000000000009 "마우스오버 소생" "135953"
+#showtooltip
+/시전 [@mouseover,exists][@focus,exists][@player] 소생
+END
+VER 3 0100000000000007 "마우스오버어치" "136202"
+#showtooltip
+/시전 [@mouseover,exists][@focus,exists][@player]어둠의 치유
+END
+VER 3 0100000000000006 "사도" "135895"
+#showtooltip
+/시전 사도
+/사용 태양피 자수정
+/사용 영혼 방출의 루비
+END
+VER 3 010000000000000C "순치 마오" "135907"
+#showtooltip
+/시전 [@mouseover,exists][@focus,exists][@player] 순간 치유
+END
+VER 3 0100000000000004 "신도 오버" "463835"
+#showtooltip
+/시전 [@mouseover,exists][@focus,exists][@player]신의의 도약 
+END
+VER 3 010000000000000F "신도 탱" "463835"
+#showtooltip
+/시전 [target=다든임]신의의 도약 
+END
+VER 3 0100000000000012 "암사 마주+태양피" "135939"
+#showtooltip
+/시전 [target=싸딸라] 마력 주입
+/사용 태양피 자수정
+END
+VER 3 010000000000000E "적해제" "136066"
+#showtooltip
+/시전 [@mouseover,exists][]  마법 무효화
+END
+VER 3 010000000000000D "정조 마오" "3565723"
+#showtooltip
+/시전 [@mouseover,exists][]  정신 조작
+END
+VER 3 0100000000000013 "주시침묵" "458230"
+#showtooltip
+/시전 [@focus,exists,nodead][] 침묵
+END
+VER 3 010000000000000B "치유 마오" "135913"
+#showtooltip
+/시전 [@mouseover,exists][@focus,exists][@player] 치유
+END
+VER 3 010000000000000A "해재 오버" "135894"
+#showtooltip
+/시전 [@mouseover,exists][@focus,exists][@player]정화
+END
+VER 3 0100000000000005 "혼너+마귀" "538565"
+#showtooltip 혼의 너울
+/사용 영혼 방출의 루비
+/시전 혼의 너울
+/시전 승천의 작렬
+END
+VER 3 0100000000000001 "환희 + 마나과충전" "135939"
+#showtooltip
+/시전 [target=싸딸라] 마력 주입
+END

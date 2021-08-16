@@ -1,0 +1,10 @@
+## Interface: 90005
+## Title: AutoJunkSeller
+## Author: Ctrlaltowned
+## SavedVariables: AutoJunkSeller
+
+## Version: v9.0.5
+
+## Notes: Automatically sells all grey items.
+
+AutoJunkSeller.lua

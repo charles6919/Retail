@@ -1,0 +1,21 @@
+VER 3 0100000000000002 "야정 변신" "135879"
+#showtooltip
+/연속시전 reset=5 야생의 정수
+END
+VER 3 0100000000000001 "조친 딜사이클 매크로" "136036"
+#showtooltip
+/연속시전 reset=5  태양섬광, 별빛쇄도, 표범 변신
+END
+VER 3 0100000000000005 "주시차단" "236946"
+#showtooltip
+/시전 [@focus,exists,nodead][] 두개골 강타
+END
+VER 3 0100000000000003 "질주" "132120"
+#showtooltip 질주
+/사용 프리즘 구슬
+/시전 질주
+END
+VER 3 0100000000000004 "테스트" "INV_MISC_QUESTIONMARK"
+#showtooltip 질주
+/시전 재생
+END

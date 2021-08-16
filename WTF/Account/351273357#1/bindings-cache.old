@@ -1,0 +1,41 @@
+BINDINGMODE 0
+bind BUTTON3 FOCUSTARGET
+bind UP NONE
+bind Q CLICK BT4Button110:LeftButton
+bind E CLICK BT4Button111:LeftButton
+bind X CLICK BT4Button117:LeftButton
+bind Z CLICK BT4Button116:LeftButton
+bind R CLICK BT4Button112:LeftButton
+bind 1 CLICK BT4Button1:LeftButton
+bind 2 CLICK BT4Button2:LeftButton
+bind 3 CLICK BT4Button3:LeftButton
+bind 4 CLICK BT4Button4:LeftButton
+bind 5 CLICK BT4Button5:LeftButton
+bind 6 CLICK BT4Button6:LeftButton
+bind 7 CLICK BT4Button7:LeftButton
+bind 8 CLICK BT4Button8:LeftButton
+bind 9 CLICK BT4Button9:LeftButton
+bind 0 CLICK BT4Button10:LeftButton
+bind - CLICK BT4Button11:LeftButton
+bind = CLICK BT4Button12:LeftButton
+bind CTRL-1 CLICK BT4PetButton6:LeftButton
+bind CTRL-2 CLICK BT4Button13:LeftButton
+bind CTRL-3 CLICK BT4Button14:LeftButton
+bind CTRL-4 CLICK BT4Button15:LeftButton
+bind CTRL-5 CLICK BT4Button16:LeftButton
+bind CTRL-6 NONE
+bind F1 CLICK BT4Button97:LeftButton
+bind F2 CLICK BT4Button98:LeftButton
+bind F3 CLICK BT4Button99:LeftButton
+bind F4 CLICK BT4Button100:LeftButton
+bind G CLICK BT4Button115:LeftButton
+bind F CLICK BT4Button114:LeftButton
+bind SHIFT-T TOGGLE_VOICE_SELF_MUTE
+bind CTRL-M NONE
+bind CTRL-S NONE
+bind CTRL-= NONE
+bind CTRL-- NONE
+bind T CLICK BT4Button113:LeftButton
+bind SHIFT-2 CLICK BT4PetButton2:LeftButton
+bind SHIFT-X TOGGLESHEATH
+bind BUTTON5 CLICK BT4Button7:LeftButton

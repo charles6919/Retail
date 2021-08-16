@@ -1,0 +1,77 @@
+VER 3 000000000000000A "AAP_MACRO" "INV_MISC_QUESTIONMARK"
+/script print('no button yet')
+END
+VER 3 0000000000000009 "da" "ABILITY_SHOOTWAND"
+#showtooltip
+/시전 [pet:원시 대지의 정령]파쇄;[pet:원시 폭풍의 정령]폭풍의 눈;[pet:원시 불의 정령,harm]유성;불의 정령
+END
+VER 3 0000000000000011 "ㅇㅂ" "606552"
+/시전 절명의 손길
+/시전 타락한 지원자의 표장
+END
+VER 3 0000000000000005 "ㅇㅂㅇ" "SPELL_NATURE_NATUREGUARDIAN"
+/focus [target=mouseover, exists]
+END
+VER 3 000000000000000E "ㅇㅂㅇ" "3015743"
+#showtooltip
+/시전 불의 정령
+/시전 [pet:원시 대지의 정령]파쇄;[pet:원시 폭풍의 정령]번개 소환;[pet:원시 불의 정령,harm]유성;불의 정령
+END
+VER 3 000000000000000F "ㅇㅂㅇ" "135972"
+#showtooltip
+/시전 [@mouseover,exists][] 신성 충격
+END
+VER 3 0000000000000008 "ㅇㅈ" "INV_MISC_QUESTIONMARK"
+/Stopcasting
+/target [@mouseover]
+/click ExtraActionButton1
+/s <%T>님 눈받으세요
+/targetlasttarget
+END
+VER 3 000000000000000C "디비엠" "132110"
+/dbm pull 5
+END
+VER 3 000000000000000D "성격" "135891"
+#showtooltip
+/적선택 [noharm][dead]
+/IsSpellInRange("성전사의 일격","target")==1
+/시전 [harm, nodead] 성전사의 일격
+/IsSpellInRange("성전사의 일격","target")==0
+/cleartarget/적선택 [noharm][dead]
+END
+VER 3 0000000000000003 "속거" "ABILITY_ROGUE_TRICKSOFTHETRADE"
+#showtooltip
+/시전 [@targettarget] 속임수 거래
+END
+VER 3 0000000000000012 "쉬엔" "620832"
+/시전 백호 쉬엔의 원령
+/시전 반짝이는 금빛 깃털
+END
+VER 3 0000000000000004 "아드레날린촉진" "SPELL_SHADOW_SHADOWWORDDOMINATE"
+#showtooltip
+/시전 아드레날린 촉진
+/시전 어둠의 칼날
+END
+VER 3 0000000000000001 "악마의 영혼" "SPELL_WARLOCK_DEMONSOUL"
+#showtooltip
+/시전 악마의 영혼: 불안정
+/사용 급속 냉동된 나뭇진 방울
+END
+VER 3 0000000000000010 "응격" "135875"
+/시전 응징의 격노
+/시전 살아 움직이는 피가 든 약병
+END
+VER 3 0000000000000006 "재집 사깃" "ABILITY_TOUGHNESS"
+#showtooltip
+/시전 재집결의 함성
+/시전 사기의 깃발
+END
+VER 3 000000000000000B "전투준비" "135328"
+/전투준비
+END
+VER 3 0000000000000007 "해깃 희생" "WARRIOR_SKULLBANNER"
+#showtooltip
+/시전 해골 깃발
+/시전 무모한 희생
+/외침 해깃 깔아요
+END

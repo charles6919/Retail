@@ -1,0 +1,4 @@
+VER 3 0100000000000001 "주시차단" "608940"
+#showtooltip
+/cast [@focus] 손날 찌르기
+END

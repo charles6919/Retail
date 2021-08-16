@@ -1,0 +1,128 @@
+VER 3 0000000000000010 "ㅁㅁ" "INV_THROWINGKNIFE_02"
+#showtooltip
+/Stopcasting
+/target [@mouseover]
+/click ExtraActionButton1
+/s <%T>에게 눈 패스!
+/targetlasttarget
+END
+VER 3 0000000000000004 "고정 사격" "ABILITY_HUNTER_STEADYSHOT"
+ㅈ
+END
+VER 3 0000000000000016 "고함!" "ACHIEVEMENT_WORGANHEAD"
+#showtooltip
+/외침 수정먼지 피해욧!!!
+END
+VER 3 000000000000001E "길드 구인" "460699"
+ <우리가 왜 호드인지 정모오면 알 수 있다>길드에서 같이 레이드,쐐기를 즐기실 신입 길드원을 모집합니다~  수리비,음식,보석 등  될 수 있는 한 지원해드려요~줄공레이드 준비하실분들 환영~
+END
+VER 3 0000000000000017 "다나와!!" "133644"
+#showtooltip
+/y 그망킬께요~~혼자맞을수있어요!!
+END
+VER 3 0000000000000020 "대혼란" "460695"
+#showtooltip
+/focus
+/시전 대혼란
+END
+VER 3 0000000000000015 "매크" "INV_MISC_QUESTIONMARK"
+/click ExtraActionButton1
+END
+VER 3 0000000000000011 "바람걸음 토템" "ABILITY_SHAMAN_WINDWALKTOTEM"
+/시전 바람걸음 토템
+/외침 "바람걸음토템!!(슬로우 면역!!)"
+END
+VER 3 000000000000001C "박쥐" "572034"
+/대상 울부짖는
+END
+VER 3 000000000000001F "발차기" "132219"
+#showtooltip
+/시전 [@mouseover,harm][harm][@player] 발차기
+/외침 도적 차단
+END
+VER 3 0000000000000007 "번개화살" "SPELL_NATURE_LIGHTNING"
+#showtooltip
+/startattack
+/cast 번개 화살
+END
+VER 3 0000000000000002 "불불" "SPELL_SHAMAN_LAVABURST"
+#showtooltip
+/연속시전 화염 충격,용암 폭발
+END
+VER 3 0000000000000003 "신비한 사격" "ABILITY_IMPALINGBOLT"
+#showtooltip
+/startattack
+/cast 신비한 사격
+END
+VER 3 0000000000000013 "액션캠 온" "136206"
+/console actioncam full
+END
+VER 3 000000000000000A "얼음불꽃화살" "ABILITY_MAGE_FROSTFIREBOLT"
+#showtooltip
+/startattack
+/cast 얼음불꽃 화살
+END
+VER 3 000000000000000B "얼음화살" "SPELL_FROST_FROSTBOLT02"
+#showtooltip
+/대상 수렁
+END
+VER 3 0000000000000001 "얼음화살 - 얼음창" "ABILITY_SHOOTWAND"
+#showtooltip
+/연속시전 얼음 화살,얼음창
+END
+VER 3 000000000000000D "연막" "ABILITY_ROGUE_SMOKE"
+#showtooltip
+/무릎
+END
+VER 3 0000000000000006 "연쇄번개" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/startattack
+/cast 연쇄 번개
+END
+VER 3 000000000000000C "으아아아 파워3버프~!!!" "SPELL_FROST_COLDHEARTED"
+#showtooltip
+/연속시전 얼음 핏줄,광폭화,환영 복제
+END
+VER 3 0000000000000005 "일제 사격" "ABILITY_UPGRADEMOONGLAIVE"
+#showtooltip
+/오라취소 최후: 절개
+END
+VER 3 0000000000000008 "전준" "ABILITY_RACIAL_PACKHOBGOBLIN"
+/전투준비
+END
+VER 3 0000000000000014 "전차" "134299"
+/외침 땅끄땅끄땅끄땅끄땅끄
+END
+VER 3 000000000000001D "주문ID" "INV_MISC_QUESTIONMARK"
+/run local a="괴저 상처"for i=99999,1,-1 do local s=GetSpellInfo(i)if s==a then DEFAULT_CHAT_FRAME:AddMessage(a.."의 spellID: "..i)break end end
+END
+VER 3 0000000000000021 "주시대상" "132177"
+/focus [@mouseover][]
+END
+VER 3 0000000000000012 "차단" "INV_AMMO_ARROW_03"
+/경보 블러드!!!!!!!!!!!!!!!
+END
+VER 3 000000000000001B "차단" "136018"
+#showtooltips 날카로운 바람
+/script s,d,e=GetSpellCooldown("날카로운 바람");t=(s+d)-GetTime();if t>0 then SendChatMessage("날카로운 바람 "..ceil(t).."초 쿨다운") else SendChatMessage("『%t』  차단") end;
+/시전 날카로운 바람
+END
+VER 3 0000000000000018 "카운트(5초)" "369214"
+/pull 3
+END
+VER 3 000000000000001A "탈것 감정표현" "1373910"
+#showtooltip
+/탈것감정표현
+END
+VER 3 0000000000000019 "탱커지원" "ABILITY_ROGUE_FEIGNDEATH"
+/assist [@raid1 ,exists,nodead]
+END
+VER 3 000000000000000F "토템 (화염,치유)" "SPELL_FIRE_SEARINGTOTEM"
+#showtooltip
+/연속시전 불타는 토템,치유의 토템 
+END
+VER 3 0000000000000009 "토템(4개)" "SPELL_FIRE_ELEMENTAL_TOTEM"
+#showtooltip
+/오라취소 천상의 보호막
+/오라취소 보호의 축복
+END

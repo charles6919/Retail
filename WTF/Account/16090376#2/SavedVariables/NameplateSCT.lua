@@ -1,0 +1,40 @@
+
+NameplateSCTDB = {
+	["profileKeys"] = {
+		["우두대리 - 아즈샤라"] = "Default",
+		["Hoppan - 굴단"] = "Default",
+		["흑우따리 - 아즈샤라"] = "Default",
+		["반신반의 - 아즈샤라"] = "Default",
+		["엄따리 - 아즈샤라"] = "Default",
+		["쟤집없음 - 아즈샤라"] = "Default",
+		["쿵따리 - 하이잘"] = "Default",
+		["깡따리 - 하이잘"] = "Default",
+		["노익쟝 - 하이잘"] = "Default",
+		["공드럼 - 아즈샤라"] = "Default",
+		["싸딸라 - 아즈샤라"] = "Default",
+		["Asdfaehahadf - 한국 신화 던전"] = "Default",
+		["죽었따리 - 아즈샤라"] = "Default",
+		["꽁짜리 - 하이잘"] = "Default",
+		["꽁따리 - 아즈샤라"] = "Default",
+		["법따리 - 아즈샤라"] = "Default",
+		["고독한격냥 - 하이잘"] = "Default",
+		["호있얍 - 아즈샤라"] = "Default",
+		["누나성기삽니다 - 아즈샤라"] = "Default",
+		["얼따리 - 아즈샤라"] = "Default",
+		["닉을뭐라고할까 - 하이잘"] = "Default",
+		["검게탄음식 - 아즈샤라"] = "Default",
+	},
+	["global"] = {
+		["personal"] = false,
+		["yOffset"] = 40,
+		["animations"] = {
+			["miss"] = "fountain",
+			["normal"] = "verticalUp",
+		},
+		["font"] = "데미지 글꼴",
+		["sizing"] = {
+			["critsScale"] = 2.3,
+			["smallHitsScale"] = 0.67,
+		},
+	},
+}

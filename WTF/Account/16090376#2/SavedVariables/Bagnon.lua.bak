@@ -1,0 +1,253 @@
+
+Bagnon_Sets = {
+	["tackleColor"] = {
+	},
+	["leatherColor"] = {
+	},
+	["refrigeColor"] = {
+	},
+	["engineerColor"] = {
+	},
+	["glowPoor"] = true,
+	["herbColor"] = {
+	},
+	["flashFind"] = true,
+	["soulColor"] = {
+	},
+	["inscribeColor"] = {
+	},
+	["glowUnusable"] = false,
+	["quiverColor"] = {
+	},
+	["keyColor"] = {
+	},
+	["normalColor"] = {
+	},
+	["closeVendor"] = true,
+	["closeCombat"] = false,
+	["reagentColor"] = {
+	},
+	["gemColor"] = {
+	},
+	["global"] = {
+		["inventory"] = {
+			["rules"] = {
+				"all", -- [1]
+				"all/all", -- [2]
+				"all/normal", -- [3]
+				"all/trade", -- [4]
+				"all/reagent", -- [5]
+				"equip", -- [6]
+				"equip/all", -- [7]
+				"equip/armor", -- [8]
+				"equip/weapon", -- [9]
+				"equip/trinket", -- [10]
+				"use", -- [11]
+				"use/all", -- [12]
+				"use/consume", -- [13]
+				"use/enhance", -- [14]
+				"trade", -- [15]
+				"trade/all", -- [16]
+				"trade/goods", -- [17]
+				"trade/gem", -- [18]
+				"trade/glyph", -- [19]
+				"trade/recipe", -- [20]
+				"quest", -- [21]
+				"misc", -- [22]
+				"quest/all", -- [23]
+				"contain/all", -- [24]
+				"misc/all", -- [25]
+			},
+			["point"] = "TOPRIGHT",
+			["hiddenBags"] = {
+				false, -- [1]
+				false, -- [2]
+				false, -- [3]
+				false, -- [4]
+				[0] = false,
+			},
+			["scale"] = 1,
+			["borderColor"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+			},
+			["actPanel"] = false,
+			["strata"] = "HIGH",
+			["color"] = {
+				0, -- [1]
+				0, -- [2]
+				0, -- [3]
+				0.343373000621796, -- [4]
+			},
+			["enabled"] = true,
+			["reverseBags"] = false,
+			["columns"] = 10,
+			["itemScale"] = 1,
+			["money"] = true,
+			["broker"] = false,
+			["bagFrame"] = true,
+			["bagBreak"] = true,
+			["y"] = -125.9852294921875,
+			["x"] = -189.9969482421875,
+			["search"] = true,
+			["showBags"] = true,
+			["reverseSlots"] = false,
+			["hiddenRules"] = {
+				["contain"] = true,
+			},
+			["brokerObject"] = "Leatrix_Plus",
+			["alpha"] = 1,
+		},
+		["vault"] = {
+			["y"] = 270.0001831054688,
+			["rules"] = {
+				"all", -- [1]
+				"all/all", -- [2]
+				"all/normal", -- [3]
+				"all/trade", -- [4]
+				"all/reagent", -- [5]
+				"equip", -- [6]
+				"equip/all", -- [7]
+				"equip/armor", -- [8]
+				"equip/weapon", -- [9]
+				"equip/trinket", -- [10]
+				"use", -- [11]
+				"use/all", -- [12]
+				"use/consume", -- [13]
+				"use/enhance", -- [14]
+				"trade", -- [15]
+				"trade/all", -- [16]
+				"trade/goods", -- [17]
+				"trade/gem", -- [18]
+				"trade/glyph", -- [19]
+				"trade/recipe", -- [20]
+				"quest", -- [21]
+				"misc", -- [22]
+				"quest/all", -- [23]
+				"contain/all", -- [24]
+				"misc/all", -- [25]
+			},
+			["point"] = "BOTTOMLEFT",
+			["hiddenBags"] = {
+			},
+			["color"] = {
+			},
+			["borderColor"] = {
+			},
+			["hiddenRules"] = {
+			},
+			["x"] = 95.00000762939453,
+		},
+		["guild"] = {
+			["rules"] = {
+				"all", -- [1]
+				"all/all", -- [2]
+				"all/normal", -- [3]
+				"all/trade", -- [4]
+				"all/reagent", -- [5]
+				"equip", -- [6]
+				"equip/all", -- [7]
+				"equip/armor", -- [8]
+				"equip/weapon", -- [9]
+				"equip/trinket", -- [10]
+				"use", -- [11]
+				"use/all", -- [12]
+				"use/consume", -- [13]
+				"use/enhance", -- [14]
+				"trade", -- [15]
+				"trade/all", -- [16]
+				"trade/goods", -- [17]
+				"trade/gem", -- [18]
+				"trade/glyph", -- [19]
+				"trade/recipe", -- [20]
+				"quest", -- [21]
+				"misc", -- [22]
+				"quest/all", -- [23]
+				"contain/all", -- [24]
+				"misc/all", -- [25]
+			},
+			["point"] = "TOPLEFT",
+			["hiddenBags"] = {
+			},
+			["color"] = {
+			},
+			["hiddenRules"] = {
+			},
+			["y"] = -186.4752807617188,
+			["x"] = 244.0020294189453,
+			["borderColor"] = {
+			},
+			["brokerObject"] = "Details",
+			["alpha"] = 1,
+			["scale"] = 1,
+			["itemScale"] = 1,
+		},
+		["bank"] = {
+			["enabled"] = true,
+			["rules"] = {
+				"all", -- [1]
+				"all/all", -- [2]
+				"all/normal", -- [3]
+				"all/trade", -- [4]
+				"all/reagent", -- [5]
+				"equip", -- [6]
+				"equip/all", -- [7]
+				"equip/armor", -- [8]
+				"equip/weapon", -- [9]
+				"equip/trinket", -- [10]
+				"use", -- [11]
+				"use/all", -- [12]
+				"use/consume", -- [13]
+				"use/enhance", -- [14]
+				"trade", -- [15]
+				"trade/all", -- [16]
+				"trade/goods", -- [17]
+				"trade/gem", -- [18]
+				"trade/glyph", -- [19]
+				"trade/recipe", -- [20]
+				"quest", -- [21]
+				"misc", -- [22]
+				"quest/all", -- [23]
+				"contain/all", -- [24]
+				"misc/all", -- [25]
+			},
+			["point"] = "BOTTOMRIGHT",
+			["hiddenBags"] = {
+				[8] = false,
+				[10] = false,
+				[-1] = false,
+				[-3] = false,
+			},
+			["color"] = {
+			},
+			["hiddenRules"] = {
+			},
+			["y"] = 0,
+			["x"] = -709.9996337890625,
+			["borderColor"] = {
+			},
+			["showBags"] = true,
+			["alpha"] = 1,
+			["scale"] = 1,
+			["itemScale"] = 1,
+		},
+	},
+	["glowAlpha"] = 0.5,
+	["emptySlots"] = false,
+	["glowNew"] = true,
+	["glowSets"] = false,
+	["profiles"] = {
+	},
+	["mineColor"] = {
+	},
+	["glowQuality"] = true,
+	["version"] = "9.0.6",
+	["displayGems"] = true,
+	["enchantColor"] = {
+	},
+	["colorSlots"] = true,
+	["closeVehicle"] = true,
+	["fridgeColor"] = {
+	},
+}

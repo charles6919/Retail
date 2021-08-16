@@ -1,0 +1,4 @@
+VER 3 0100000000000001 "차단" "132938"
+#showtooltip
+/시전 [@focus,exists,nodead][] 들이치기
+END

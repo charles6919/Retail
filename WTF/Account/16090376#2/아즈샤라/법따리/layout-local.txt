@@ -1,0 +1,15 @@
+Version: 1
+Frame: InterfaceOptionsFrame
+FrameLevel: 1
+Anchor: CENTER
+X: 0
+Y: 0
+W: 858
+H: 660
+Frame: Quartz3CastBarPlayer
+FrameLevel: 1
+Anchor: BOTTOM
+X: 10
+Y: 75
+W: 410
+H: 35

@@ -1,0 +1,33 @@
+VER 3 0100000000000003 "그밟" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/시전 [@mouseover, nodead][@player]  그림자 밟기
+END
+VER 3 0100000000000001 "속임수 거래" "INV_MISC_QUESTIONMARK"
+#showtootip 속임수 거래
+/cast [@mouseover, exists, help, nodead][target=raid1, exists, help, nodead][help] 속임수 거래
+END
+VER 3 0100000000000004 "씨앗" "136103"
+/대상 재생하는 야생씨앗
+END
+VER 3 0100000000000002 "오프닝" "132299"
+#showtooltip
+/시전 어둠의 칼날
+/시전 채찍질
+/시전 어둠의 춤
+ 
+END
+VER 3 0100000000000006 "원한" "458726"
+#showtooltip
+/시전 원한
+/시전 채찍질
+/사용 불가해한 양자 장치
+END
+VER 3 0100000000000007 "주시 그밟" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/시전 [@mouseover, nodead][@player]  그림자 밟기
+END
+VER 3 0100000000000005 "주시그밟 차단" "132219"
+#showtooltip
+/시전  [@focus,exists,nodead][@player]  그림자 밟기
+/시전 [@focus,exists,nodead][]  발차기
+END

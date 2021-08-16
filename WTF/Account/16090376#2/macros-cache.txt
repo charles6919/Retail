@@ -1,0 +1,180 @@
+VER 3 0000000000000025 "11" "136181"
+/run LoadAddOn("Blizzard_WeeklyRewards"); WeeklyRewardsFrame:Show()
+END
+VER 3 0000000000000010 "ㅁㅁ" "INV_THROWINGKNIFE_02"
+/주시 [target=mouseover]
+END
+VER 3 0000000000000004 "고정 사격" "ABILITY_HUNTER_STEADYSHOT"
+ㅈ
+END
+VER 3 0000000000000016 "고함!" "ACHIEVEMENT_WORGANHEAD"
+#showtooltip
+/외침 수정먼지 피해욧!!!
+END
+VER 3 0000000000000026 "금고" "136066"
+/run s="[";e="]";a={0,0,0,0,0,0,0,0,0,0};i=C_MythicPlus.GetRunHistory(false,true);for j=1, #i do a[j]=i[j].level end; table.sort(a,function(a,b) return a>b end);a[1]=s..a[1]..e;a[4]=s..a[4]..e;a[10]=s..a[10]..e;print(table.concat(a," "))
+END
+VER 3 000000000000001E "길드 구인" "460699"
+ <우리가 왜 호드인지 정모오면 알 수 있다>길드에서 같이 레이드,쐐기를 즐기실 신입 길드원을 모집합니다~  수리비,음식,보석 등  될 수 있는 한 지원해드려요~줄공레이드 준비하실분들 환영~
+END
+VER 3 0000000000000017 "다나와!!" "133644"
+#showtooltip
+/y 그망킬께요~~혼자맞을수있어요!!
+END
+VER 3 0000000000000020 "대혼란" "460695"
+#showtooltip
+/focus
+/시전 대혼란
+END
+VER 3 000000000000002A "마오 마주 " "135939"
+#showtooltip
+/시전 [@mouseover,exists][@focus,exists][@player] 마력 주입
+END
+VER 3 0000000000000015 "매크" "INV_MISC_QUESTIONMARK"
+/외침 2명 필요해요!!!
+/i 2명 필요해요!!!
+/s 2명 필요해요!!!
+END
+VER 3 0000000000000011 "바람걸음 토템" "ABILITY_SHAMAN_WINDWALKTOTEM"
+/시전 바람걸음 토템
+/외침 "바람걸음토템!!(슬로우 면역!!)"
+END
+VER 3 000000000000001C "박쥐" "572034"
+/대상 울부짖는
+END
+VER 3 000000000000001F "발차기" "132219"
+#showtooltip
+/시전 [@focus,exists,nodead][]  발차기
+END
+VER 3 0000000000000007 "번개화살" "SPELL_NATURE_LIGHTNING"
+#showtooltip
+/startattack
+/cast 번개 화살
+END
+VER 3 0000000000000002 "불불" "SPELL_SHAMAN_LAVABURST"
+#showtooltip
+/연속시전 화염 충격,용암 폭발
+END
+VER 3 000000000000002D "셔틀" "135939"
+#showtooltip
+/시전 [target=흑운데요] 마력 주입
+END
+VER 3 0000000000000022 "스펠보기" "INV_MISC_QUESTIONMARK"
+/run local a="불타는 숨결"for i=99999,1,-1 do local s=GetSpellInfo(i)if s==a then DEFAULT_CHAT_FRAME:AddMessage(a.."의 spellID: "..i)break end end
+END
+VER 3 0000000000000003 "신비한 사격" "ABILITY_IMPALINGBOLT"
+#showtooltip
+/startattack
+/cast 신비한 사격
+END
+VER 3 0000000000000013 "액션캠 온" "136206"
+/console actioncam full
+END
+VER 3 000000000000000A "얼음불꽃화살" "ABILITY_MAGE_FROSTFIREBOLT"
+#showtooltip
+/startattack
+/cast 얼음불꽃 화살
+END
+VER 3 000000000000000B "얼음화살" "SPELL_FROST_FROSTBOLT02"
+#showtooltip
+/대상 수렁
+END
+VER 3 000000000000000D "연막" "ABILITY_ROGUE_SMOKE"
+#showtooltip
+/무릎
+END
+VER 3 0000000000000006 "연쇄번개" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/startattack
+/cast 연쇄 번개
+END
+VER 3 000000000000000C "으아아아 파워3버프~!!!" "SPELL_FROST_COLDHEARTED"
+#showtooltip
+/연속시전 얼음 핏줄,광폭화,환영 복제
+END
+VER 3 0000000000000005 "일제 사격" "ABILITY_UPGRADEMOONGLAIVE"
+#showtooltip
+/오라취소 최후: 절개
+END
+VER 3 0000000000000008 "전준" "ABILITY_RACIAL_PACKHOBGOBLIN"
+/전투준비
+END
+VER 3 0000000000000014 "전차" "134299"
+/외침 땅끄땅끄땅끄땅끄땅끄
+END
+VER 3 0000000000000024 "좌표" "132301"
+/run local p,f="player",CreateFrame("Button",nil,UIParent,"OptionsButtonTemplate")f:SetPoint("TOP",0,0)f:SetScript("OnUpdate",function(s,e)x,y=C_Map.GetPlayerMapPosition(C_Map.GetBestMapForUnit(p),p):GetXY()f:SetText(format("(%.1f,%.1f)",x*100,y*100))end)
+END
+VER 3 000000000000001D "주문ID" "INV_MISC_QUESTIONMARK"
+/run local a="속죄"for i=81750,1,-1 do local s=GetSpellInfo(i)if s==a then DEFAULT_CHAT_FRAME:AddMessage(a.."의 spellID: "..i)break end end
+END
+VER 3 0000000000000021 "주시대상" "132177"
+/focus [@mouseover][]
+END
+VER 3 000000000000001B "차단" "136018"
+#showtooltip
+/시전 [@focus,exists,nodead][] 날카로운 바람
+END
+VER 3 0000000000000012 "차단" "INV_AMMO_ARROW_03"
+/경보 블러드!!!!!!!!!!!!!!!
+END
+VER 3 0000000000000029 "차돌 자극" "INV_MISC_QUESTIONMARK"
+/w Kigal 자극부탁드립니다!!
+END
+VER 3 0000000000000023 "첫공허 생령" "INV_MISC_QUESTIONMARK"
+/클릭 StaticPopup1Button1
+/사용 승계의 아제라이트 가슴보호구
+END
+VER 3 0000000000000018 "카운트(5초)" "369214"
+/pull 3
+END
+VER 3 000000000000001A "탈것 감정표현" "1373910"
+#showtooltip
+/탈것감정표현
+END
+VER 3 0000000000000019 "탱커지원" "ABILITY_ROGUE_FEIGNDEATH"
+/assist [@raid1 ,exists,nodead]
+END
+VER 3 000000000000000F "토템 (화염,치유)" "SPELL_FIRE_SEARINGTOTEM"
+#showtooltip
+/연속시전 불타는 토템,치유의 토템 
+END
+VER 3 0000000000000009 "토템(4개)" "SPELL_FIRE_ELEMENTAL_TOTEM"
+#showtooltip
+/오라취소 천상의 보호막
+/오라취소 보호의 축복
+END
+VER 3 000000000000002B "평온 마오" "135937"
+#showtooltip
+/시전 [@mouseover,exists][@focus,exists][@player]빛의 권능: 평온
+END
+VER 3 000000000000002C "회기" "135943"
+END
+VER 3 0000000000000028 "회전 풀기" "237563"
+/console turnspeed 175
+END
+VER 3 0000000000000027 "회전속도 업" "132294"
+/console turnspeed 2000 
+END
+VER 3 0000000000000001 "힐컷 매크로" "ABILITY_SHOOTWAND"
+/오라취소 재생
+/오라취소 회복
+/오라취소 급속 성장
+/오라취소 빛의 자락
+/오라취소 성난 해일
+/오라취소 신의 권능: 인내
+/오라취소 소생
+/오라취소 불굴의 수호물
+/오라취소 존재의샘
+/오라취소 회복의 한기
+/오라취소 축복의 전조
+/오라취소 성난 해일
+/오라취소 회복의 기원
+/오라취소 빛의 반향
+/오라취소 천상의 찬가
+/오라취소 영롱한 해라리초
+/오라취소 자각몽
+/오라취소 재집결의 함성
+/오라취소 오라 숙련
+/오라취소 빛의 봉화
+END

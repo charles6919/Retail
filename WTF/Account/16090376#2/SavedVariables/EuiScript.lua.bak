@@ -1,0 +1,44 @@
+
+ACHIEVEMENTSEARCH_DB = nil
+TalentProfilesGlobalDB = {
+	["DEATHKNIGHT"] = {
+		["specs"] = {
+		},
+	},
+	["HUNTER"] = {
+		["specs"] = {
+		},
+	},
+	["SHAMAN"] = {
+		["specs"] = {
+			{
+				["profiles"] = {
+				},
+			}, -- [1]
+			{
+				["profiles"] = {
+				},
+			}, -- [2]
+			{
+				["profiles"] = {
+				},
+			}, -- [3]
+		},
+	},
+	["ROGUE"] = {
+		["specs"] = {
+			{
+				["profiles"] = {
+				},
+			}, -- [1]
+			{
+				["profiles"] = {
+				},
+			}, -- [2]
+			{
+				["profiles"] = {
+				},
+			}, -- [3]
+		},
+	},
+}

@@ -1,0 +1,2 @@
+
+QuestieConfig = nil

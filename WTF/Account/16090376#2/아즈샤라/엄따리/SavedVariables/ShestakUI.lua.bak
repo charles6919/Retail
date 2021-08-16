@@ -1,0 +1,12 @@
+
+ShestakUISettingsPerChar = {
+	["BottomBars"] = 3,
+	["SplitBars"] = true,
+	["Archaeology"] = false,
+	["FogOfWar"] = true,
+	["BarsLocked"] = false,
+	["Coords"] = true,
+	["RightBars"] = 2,
+	["Install"] = true,
+}
+ShestakUIChatHistory = nil

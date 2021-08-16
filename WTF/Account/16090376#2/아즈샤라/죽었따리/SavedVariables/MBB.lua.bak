@@ -1,0 +1,15 @@
+
+MBB_Exclude = {
+}
+MBB_Options = {
+	["CollapseTimeout"] = 1,
+	["AltExpandDirection"] = 4,
+	["AttachToMinimap"] = 1,
+	["ExpandDirection"] = 1,
+	["DetachedButtonPos"] = "TOPLEFT",
+	["ButtonPos"] = {
+		2.722486972808838, -- [1]
+		8.507256507873535, -- [2]
+	},
+	["MaxButtonsPerLine"] = 0,
+}

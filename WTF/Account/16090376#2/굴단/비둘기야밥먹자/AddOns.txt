@@ -1,0 +1,13 @@
+!BugGrabber: disabled
+BugSack: disabled
+EuiGarrison: disabled
+AddOnSkins: disabled
+GearStatsSummary: disabled
+EuiInfoDB: disabled
+ElvUI: disabled
+ElvUI_Config: disabled
+EuiScript: disabled
+GridStatusRaidDebuff: disabled
+GridStatusDungeonDebuff: disabled
+Recount: disabled
+MarkAssistant: disabled

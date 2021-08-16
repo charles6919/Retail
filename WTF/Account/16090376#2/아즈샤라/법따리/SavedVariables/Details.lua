@@ -1,0 +1,31096 @@
+
+_detalhes_database = {
+	["savedbuffs"] = {
+	},
+	["mythic_dungeon_id"] = 0,
+	["tabela_historico"] = {
+		["tabelas"] = {
+			{
+				{
+					["combatId"] = 505,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["totalabsorbed"] = 0.006927,
+							["damage_from"] = {
+								["할란 스위트"] = true,
+								["[*] 불꽃 파편"] = true,
+								["돌개바람 사브르"] = true,
+							},
+							["targets"] = {
+								["할란 스위트"] = 52077,
+							},
+							["spec"] = 62,
+							["pets"] = {
+								"법따리 <법따리>", -- [1]
+							},
+							["friendlyfire"] = {
+							},
+							["boss_fight_component"] = true,
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 51859.006927,
+							["end_time"] = 1605429389,
+							["colocacao"] = 1,
+							["dps_started"] = false,
+							["total"] = 52077.006927,
+							["classe"] = "MAGE",
+							["aID"] = "205-0713A4FD",
+							["nome"] = "법따리",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									[7268] = {
+										["c_amt"] = 3,
+										["b_amt"] = 0,
+										["c_dmg"] = 2161,
+										["g_amt"] = 0,
+										["n_max"] = 422,
+										["targets"] = {
+											["할란 스위트"] = 10577,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 8416,
+										["n_min"] = 229,
+										["g_dmg"] = 0,
+										["counter"] = 29,
+										["total"] = 10577,
+										["c_max"] = 847,
+										["spellschool"] = 64,
+										["id"] = 7268,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 26,
+										["r_amt"] = 0,
+										["c_min"] = 477,
+									},
+									[30451] = {
+										["c_amt"] = 6,
+										["b_amt"] = 0,
+										["c_dmg"] = 13215,
+										["g_amt"] = 0,
+										["n_max"] = 2495,
+										["targets"] = {
+											["할란 스위트"] = 32902,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 19687,
+										["n_min"] = 827,
+										["g_dmg"] = 0,
+										["counter"] = 22,
+										["total"] = 32902,
+										["c_max"] = 3552,
+										["spellschool"] = 64,
+										["id"] = 30451,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 16,
+										["r_amt"] = 0,
+										["c_min"] = 1652,
+									},
+									[153640] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 1145,
+										["targets"] = {
+											["할란 스위트"] = 3284,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 3284,
+										["n_min"] = 616,
+										["g_dmg"] = 0,
+										["counter"] = 4,
+										["total"] = 3284,
+										["c_max"] = 0,
+										["spellschool"] = 64,
+										["id"] = 153640,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 4,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									},
+									[269889] = {
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 311,
+										["g_amt"] = 0,
+										["n_max"] = 156,
+										["targets"] = {
+											["할란 스위트"] = 622,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 311,
+										["n_min"] = 155,
+										["g_dmg"] = 0,
+										["counter"] = 3,
+										["total"] = 622,
+										["c_max"] = 311,
+										["spellschool"] = 8,
+										["id"] = 269889,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 2,
+										["r_amt"] = 0,
+										["c_min"] = 311,
+									},
+									[210833] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 1319,
+										["targets"] = {
+											["할란 스위트"] = 2511,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 2511,
+										["n_min"] = 1192,
+										["g_dmg"] = 0,
+										["counter"] = 2,
+										["total"] = 2511,
+										["c_max"] = 0,
+										["spellschool"] = 64,
+										["id"] = 210833,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 2,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									},
+									[44425] = {
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 1963,
+										["g_amt"] = 0,
+										["n_max"] = 0,
+										["targets"] = {
+											["할란 스위트"] = 1963,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 0,
+										["n_min"] = 0,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 1963,
+										["c_max"] = 1963,
+										["spellschool"] = 64,
+										["id"] = 44425,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 0,
+										["r_amt"] = 0,
+										["c_min"] = 1963,
+									},
+								},
+							},
+							["grupo"] = true,
+							["on_hold"] = false,
+							["serial"] = "Player-205-0713A4FD",
+							["last_dps"] = 597.4463314480593,
+							["custom"] = 0,
+							["last_event"] = 1605429389,
+							["damage_taken"] = 4100.006927,
+							["start_time"] = 1605429318,
+							["delay"] = 1605429369,
+							["tipo"] = 1,
+						}, -- [1]
+						{
+							["flag_original"] = 1298,
+							["totalabsorbed"] = 0.003957,
+							["damage_from"] = {
+								["할란 스위트"] = true,
+								["무쇠파도 대포"] = true,
+								["돌개바람 사브르"] = true,
+							},
+							["targets"] = {
+								["할란 스위트"] = 48043,
+							},
+							["spec"] = 71,
+							["pets"] = {
+							},
+							["friendlyfire"] = {
+							},
+							["boss_fight_component"] = true,
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 48043.003957,
+							["end_time"] = 1605429389,
+							["colocacao"] = 2,
+							["dps_started"] = false,
+							["total"] = 48043.003957,
+							["classe"] = "WARRIOR",
+							["aID"] = "205-06251940",
+							["nome"] = "해피뼈전사",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 5,
+										["b_amt"] = 0,
+										["c_dmg"] = 4078,
+										["g_amt"] = 0,
+										["n_max"] = 498,
+										["targets"] = {
+											["할란 스위트"] = 8551,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 4473,
+										["n_min"] = 255,
+										["g_dmg"] = 0,
+										["counter"] = 19,
+										["total"] = 8551,
+										["c_max"] = 1006,
+										["spellschool"] = 1,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 14,
+										["r_amt"] = 0,
+										["c_min"] = 566,
+									}, -- [1]
+									[7384] = {
+										["c_amt"] = 3,
+										["b_amt"] = 0,
+										["c_dmg"] = 4222,
+										["g_amt"] = 0,
+										["n_max"] = 805,
+										["targets"] = {
+											["할란 스위트"] = 8490,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 4268,
+										["n_min"] = 410,
+										["g_dmg"] = 0,
+										["counter"] = 11,
+										["total"] = 8490,
+										["c_max"] = 1651,
+										["spellschool"] = 1,
+										["id"] = 7384,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 8,
+										["r_amt"] = 0,
+										["c_min"] = 944,
+									},
+									[127802] = {
+										["c_amt"] = 2,
+										["b_amt"] = 0,
+										["c_dmg"] = 638,
+										["g_amt"] = 0,
+										["n_max"] = 168,
+										["targets"] = {
+											["할란 스위트"] = 956,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 318,
+										["n_min"] = 150,
+										["g_dmg"] = 0,
+										["counter"] = 4,
+										["total"] = 956,
+										["c_max"] = 338,
+										["spellschool"] = 32,
+										["id"] = 127802,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 2,
+										["r_amt"] = 0,
+										["c_min"] = 300,
+									},
+									[126664] = {
+										["c_amt"] = 2,
+										["b_amt"] = 0,
+										["c_dmg"] = 249,
+										["g_amt"] = 0,
+										["n_max"] = 58,
+										["targets"] = {
+											["할란 스위트"] = 414,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 165,
+										["n_min"] = 51,
+										["g_dmg"] = 0,
+										["counter"] = 5,
+										["total"] = 414,
+										["c_max"] = 130,
+										["spellschool"] = 1,
+										["id"] = 126664,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 3,
+										["r_amt"] = 0,
+										["c_min"] = 119,
+									},
+									[260798] = {
+										["c_amt"] = 3,
+										["b_amt"] = 0,
+										["c_dmg"] = 11978,
+										["g_amt"] = 0,
+										["n_max"] = 2400,
+										["targets"] = {
+											["할란 스위트"] = 18697,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 6719,
+										["n_min"] = 1168,
+										["g_dmg"] = 0,
+										["counter"] = 7,
+										["total"] = 18697,
+										["c_max"] = 4819,
+										["spellschool"] = 1,
+										["id"] = 260798,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 4,
+										["r_amt"] = 0,
+										["c_min"] = 2356,
+									},
+									[105771] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 0,
+										["targets"] = {
+											["할란 스위트"] = 0,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 0,
+										["n_min"] = 0,
+										["g_dmg"] = 0,
+										["counter"] = 5,
+										["IMMUNE"] = 5,
+										["total"] = 0,
+										["c_max"] = 0,
+										["spellschool"] = 1,
+										["id"] = 105771,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 0,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									},
+									[274575] = {
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 668,
+										["g_amt"] = 0,
+										["n_max"] = 0,
+										["targets"] = {
+											["할란 스위트"] = 668,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 0,
+										["n_min"] = 0,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 668,
+										["c_max"] = 668,
+										["spellschool"] = 8,
+										["id"] = 274575,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 0,
+										["r_amt"] = 0,
+										["c_min"] = 668,
+									},
+									[12294] = {
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 2178,
+										["g_amt"] = 0,
+										["n_max"] = 752,
+										["targets"] = {
+											["할란 스위트"] = 5795,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 3617,
+										["n_min"] = 641,
+										["g_dmg"] = 0,
+										["counter"] = 6,
+										["total"] = 5795,
+										["c_max"] = 2178,
+										["spellschool"] = 1,
+										["id"] = 12294,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 5,
+										["r_amt"] = 0,
+										["c_min"] = 2178,
+									},
+									[1464] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 492,
+										["targets"] = {
+											["할란 스위트"] = 492,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 492,
+										["n_min"] = 492,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 492,
+										["c_max"] = 0,
+										["spellschool"] = 1,
+										["id"] = 1464,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 1,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									},
+									[262115] = {
+										["c_amt"] = 3,
+										["b_amt"] = 0,
+										["c_dmg"] = 794,
+										["g_amt"] = 0,
+										["n_max"] = 162,
+										["targets"] = {
+											["할란 스위트"] = 2929,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 2135,
+										["n_min"] = 63,
+										["g_dmg"] = 0,
+										["counter"] = 21,
+										["total"] = 2929,
+										["c_max"] = 324,
+										["spellschool"] = 1,
+										["id"] = 262115,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 18,
+										["r_amt"] = 0,
+										["c_min"] = 221,
+									},
+									[167105] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 1051,
+										["targets"] = {
+											["할란 스위트"] = 1051,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 1051,
+										["n_min"] = 1051,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 1051,
+										["c_max"] = 0,
+										["spellschool"] = 1,
+										["id"] = 167105,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 1,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									},
+								},
+							},
+							["grupo"] = true,
+							["on_hold"] = false,
+							["serial"] = "Player-205-06251940",
+							["last_dps"] = 551.166784721123,
+							["custom"] = 0,
+							["last_event"] = 1605429388,
+							["damage_taken"] = 6833.003957,
+							["start_time"] = 1605429306,
+							["delay"] = 0,
+							["tipo"] = 1,
+						}, -- [2]
+						{
+							["flag_original"] = 1298,
+							["totalabsorbed"] = 0.002525,
+							["damage_from"] = {
+								["돌개바람 사브르"] = true,
+								["[*] 불꽃 파편"] = true,
+								["할란 스위트"] = true,
+							},
+							["targets"] = {
+								["할란 스위트"] = 45804,
+							},
+							["spec"] = 267,
+							["pets"] = {
+								"제프구프 <판타지곤-데스윙>", -- [1]
+							},
+							["friendlyfire"] = {
+							},
+							["boss_fight_component"] = true,
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 37839.002525,
+							["end_time"] = 1605429389,
+							["colocacao"] = 3,
+							["dps_started"] = false,
+							["total"] = 45804.002525,
+							["classe"] = "WARLOCK",
+							["aID"] = "214-07FC4C5D",
+							["nome"] = "판타지곤-데스윙",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									[17962] = {
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 1312,
+										["g_amt"] = 0,
+										["n_max"] = 1234,
+										["targets"] = {
+											["할란 스위트"] = 6309,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 4997,
+										["n_min"] = 593,
+										["g_dmg"] = 0,
+										["counter"] = 8,
+										["total"] = 6309,
+										["c_max"] = 1312,
+										["spellschool"] = 4,
+										["id"] = 17962,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 7,
+										["r_amt"] = 0,
+										["c_min"] = 1312,
+									},
+									[6353] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 2730,
+										["targets"] = {
+											["할란 스위트"] = 5362,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 5362,
+										["n_min"] = 2632,
+										["g_dmg"] = 0,
+										["counter"] = 2,
+										["total"] = 5362,
+										["c_max"] = 0,
+										["spellschool"] = 4,
+										["id"] = 6353,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 2,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									},
+									[348] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 240,
+										["targets"] = {
+											["할란 스위트"] = 240,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 240,
+										["n_min"] = 240,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 240,
+										["c_max"] = 0,
+										["spellschool"] = 4,
+										["id"] = 348,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 1,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									},
+									[157736] = {
+										["c_amt"] = 2,
+										["b_amt"] = 0,
+										["c_dmg"] = 902,
+										["g_amt"] = 0,
+										["n_max"] = 309,
+										["targets"] = {
+											["할란 스위트"] = 3530,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 2628,
+										["n_min"] = 117,
+										["g_dmg"] = 0,
+										["counter"] = 18,
+										["total"] = 3530,
+										["c_max"] = 596,
+										["spellschool"] = 4,
+										["id"] = 157736,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 16,
+										["r_amt"] = 0,
+										["c_min"] = 306,
+									},
+									[266136] = {
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 368,
+										["g_amt"] = 0,
+										["n_max"] = 25,
+										["targets"] = {
+											["할란 스위트"] = 393,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 25,
+										["n_min"] = 25,
+										["g_dmg"] = 0,
+										["counter"] = 2,
+										["total"] = 393,
+										["c_max"] = 368,
+										["spellschool"] = 4,
+										["id"] = 266136,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 1,
+										["r_amt"] = 0,
+										["c_min"] = 368,
+									},
+									[116858] = {
+										["c_amt"] = 5,
+										["b_amt"] = 0,
+										["c_dmg"] = 10705,
+										["g_amt"] = 0,
+										["n_max"] = 0,
+										["targets"] = {
+											["할란 스위트"] = 10705,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 0,
+										["n_min"] = 0,
+										["g_dmg"] = 0,
+										["counter"] = 5,
+										["total"] = 10705,
+										["c_max"] = 3638,
+										["spellschool"] = 124,
+										["id"] = 116858,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 0,
+										["r_amt"] = 0,
+										["c_min"] = 1719,
+									},
+									[29722] = {
+										["c_amt"] = 4,
+										["b_amt"] = 0,
+										["c_dmg"] = 3208,
+										["g_amt"] = 0,
+										["n_max"] = 842,
+										["targets"] = {
+											["할란 스위트"] = 11300,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 8092,
+										["n_min"] = 373,
+										["g_dmg"] = 0,
+										["counter"] = 21,
+										["total"] = 11300,
+										["c_max"] = 858,
+										["spellschool"] = 4,
+										["id"] = 29722,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 17,
+										["r_amt"] = 0,
+										["c_min"] = 777,
+									},
+								},
+							},
+							["grupo"] = true,
+							["on_hold"] = false,
+							["serial"] = "Player-214-07FC4C5D",
+							["last_dps"] = 525.4801473625192,
+							["custom"] = 0,
+							["last_event"] = 1605429389,
+							["damage_taken"] = 4156.002525,
+							["start_time"] = 1605429308,
+							["delay"] = 0,
+							["tipo"] = 1,
+						}, -- [3]
+						{
+							["flag_original"] = 1298,
+							["totalabsorbed"] = 0.005168,
+							["pets"] = {
+							},
+							["classe"] = "PALADIN",
+							["total_without_pet"] = 33162.005168,
+							["dps_started"] = false,
+							["total"] = 33162.005168,
+							["spec"] = 66,
+							["colocacao"] = 4,
+							["on_hold"] = false,
+							["isTank"] = true,
+							["serial"] = "Player-214-093AAE58",
+							["damage_from"] = {
+								["할란 스위트"] = true,
+								["돌개바람 사브르"] = true,
+							},
+							["targets"] = {
+								["할란 스위트"] = 33099,
+								["무쇠파도 폭탄병"] = 63,
+							},
+							["boss_fight_component"] = true,
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["end_time"] = 1605429389,
+							["avoidance"] = {
+								["할란 스위트"] = {
+									["DODGE"] = 1,
+									["FULL_ABSORB_AMT"] = 0,
+									["BLOCKED_AMT"] = 2520,
+									["BLOCKED_HITS"] = 26,
+									["FULL_ABSORBED"] = 0,
+									["ALL"] = 70,
+									["PARTIAL_ABSORBED"] = 0,
+									["PARRY"] = 4,
+									["PARTIAL_ABSORB_AMT"] = 0,
+									["ABSORB"] = 0,
+									["ABSORB_AMT"] = 0,
+									["FULL_HIT"] = 70,
+									["HITS"] = 70,
+									["FULL_HIT_AMT"] = 22870,
+								},
+								["overall"] = {
+									["DODGE"] = 1,
+									["FULL_ABSORB_AMT"] = 0,
+									["BLOCKED_AMT"] = 2520,
+									["BLOCKED_HITS"] = 26,
+									["FULL_ABSORBED"] = 0,
+									["ALL"] = 73,
+									["PARTIAL_ABSORBED"] = 1,
+									["PARRY"] = 4,
+									["PARTIAL_ABSORB_AMT"] = 315,
+									["ABSORB"] = 1,
+									["ABSORB_AMT"] = 315,
+									["FULL_HIT"] = 72,
+									["HITS"] = 70,
+									["FULL_HIT_AMT"] = 25072,
+								},
+								["돌개바람 사브르"] = {
+									["DODGE"] = 0,
+									["FULL_ABSORB_AMT"] = 0,
+									["BLOCKED_AMT"] = 0,
+									["BLOCKED_HITS"] = 0,
+									["FULL_ABSORBED"] = 0,
+									["ALL"] = 3,
+									["PARTIAL_ABSORBED"] = 1,
+									["PARRY"] = 0,
+									["PARTIAL_ABSORB_AMT"] = 315,
+									["ABSORB"] = 1,
+									["ABSORB_AMT"] = 315,
+									["FULL_HIT"] = 2,
+									["HITS"] = 0,
+									["FULL_HIT_AMT"] = 2202,
+								},
+							},
+							["friendlyfire"] = {
+							},
+							["nome"] = "군신잔트라-데스윙",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 8,
+										["b_amt"] = 0,
+										["c_dmg"] = 2438,
+										["g_amt"] = 0,
+										["n_max"] = 283,
+										["targets"] = {
+											["할란 스위트"] = 7278,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 4840,
+										["n_min"] = 134,
+										["g_dmg"] = 0,
+										["counter"] = 37,
+										["total"] = 7278,
+										["c_max"] = 338,
+										["spellschool"] = 1,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 29,
+										["r_amt"] = 0,
+										["c_min"] = 276,
+									}, -- [1]
+									[81297] = {
+										["c_amt"] = 22,
+										["b_amt"] = 0,
+										["c_dmg"] = 1237,
+										["g_amt"] = 0,
+										["n_max"] = 48,
+										["targets"] = {
+											["할란 스위트"] = 3334,
+											["무쇠파도 폭탄병"] = 23,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 2120,
+										["n_min"] = 23,
+										["g_dmg"] = 0,
+										["counter"] = 100,
+										["total"] = 3357,
+										["c_max"] = 94,
+										["spellschool"] = 2,
+										["id"] = 81297,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 78,
+										["r_amt"] = 0,
+										["c_min"] = 46,
+									},
+									[31935] = {
+										["c_amt"] = 2,
+										["b_amt"] = 0,
+										["c_dmg"] = 1526,
+										["g_amt"] = 0,
+										["n_max"] = 296,
+										["targets"] = {
+											["할란 스위트"] = 3069,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 1543,
+										["n_min"] = 245,
+										["g_dmg"] = 0,
+										["counter"] = 8,
+										["total"] = 3069,
+										["c_max"] = 1031,
+										["spellschool"] = 2,
+										["id"] = 31935,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 6,
+										["r_amt"] = 0,
+										["c_min"] = 495,
+									},
+									[53595] = {
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 176,
+										["g_amt"] = 0,
+										["n_max"] = 182,
+										["targets"] = {
+											["할란 스위트"] = 1487,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 1311,
+										["n_min"] = 88,
+										["g_dmg"] = 0,
+										["counter"] = 13,
+										["total"] = 1487,
+										["c_max"] = 176,
+										["spellschool"] = 1,
+										["id"] = 53595,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 12,
+										["r_amt"] = 0,
+										["c_min"] = 176,
+									},
+									[204242] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 0,
+										["targets"] = {
+											["할란 스위트"] = 0,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 0,
+										["n_min"] = 0,
+										["g_dmg"] = 0,
+										["counter"] = 14,
+										["IMMUNE"] = 14,
+										["total"] = 0,
+										["c_max"] = 0,
+										["spellschool"] = 2,
+										["id"] = 204242,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 0,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									},
+									[275779] = {
+										["c_amt"] = 2,
+										["b_amt"] = 0,
+										["c_dmg"] = 2542,
+										["g_amt"] = 0,
+										["n_max"] = 1166,
+										["targets"] = {
+											["할란 스위트"] = 12622,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 10080,
+										["n_min"] = 568,
+										["g_dmg"] = 0,
+										["counter"] = 16,
+										["total"] = 12622,
+										["c_max"] = 1388,
+										["spellschool"] = 2,
+										["id"] = 275779,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 14,
+										["r_amt"] = 0,
+										["c_min"] = 1154,
+									},
+									[157122] = {
+										["c_amt"] = 6,
+										["b_amt"] = 0,
+										["c_dmg"] = 713,
+										["g_amt"] = 0,
+										["n_max"] = 96,
+										["targets"] = {
+											["할란 스위트"] = 1882,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 1169,
+										["n_min"] = 46,
+										["g_dmg"] = 0,
+										["counter"] = 26,
+										["total"] = 1882,
+										["c_max"] = 189,
+										["spellschool"] = 2,
+										["id"] = 157122,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 20,
+										["r_amt"] = 0,
+										["c_min"] = 92,
+									},
+									[53600] = {
+										["c_amt"] = 2,
+										["b_amt"] = 0,
+										["c_dmg"] = 1091,
+										["g_amt"] = 0,
+										["n_max"] = 515,
+										["targets"] = {
+											["할란 스위트"] = 3427,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 2336,
+										["n_min"] = 199,
+										["g_dmg"] = 0,
+										["counter"] = 10,
+										["total"] = 3427,
+										["c_max"] = 613,
+										["spellschool"] = 2,
+										["id"] = 53600,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 8,
+										["r_amt"] = 0,
+										["c_min"] = 478,
+									},
+									[88263] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 40,
+										["targets"] = {
+											["무쇠파도 폭탄병"] = 40,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 40,
+										["n_min"] = 40,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 40,
+										["c_max"] = 0,
+										["spellschool"] = 2,
+										["id"] = 88263,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 1,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									},
+									[853] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 0,
+										["targets"] = {
+											["할란 스위트"] = 0,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 0,
+										["n_min"] = 0,
+										["g_dmg"] = 0,
+										["counter"] = 2,
+										["IMMUNE"] = 2,
+										["total"] = 0,
+										["c_max"] = 0,
+										["spellschool"] = 2,
+										["id"] = 853,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 0,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									},
+								},
+							},
+							["grupo"] = true,
+							["aID"] = "214-093AAE58",
+							["last_dps"] = 380.4465636601539,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["damage_taken"] = 26281.005168,
+							["start_time"] = 1605429302,
+							["delay"] = 0,
+							["last_event"] = 1605429389,
+						}, -- [4]
+						{
+							["flag_original"] = 1298,
+							["totalabsorbed"] = 0.001313,
+							["damage_from"] = {
+								["할란 스위트"] = true,
+								["무쇠파도 대포"] = true,
+								["[*] 불꽃 파편"] = true,
+								["돌개바람 사브르"] = true,
+							},
+							["targets"] = {
+								["할란 스위트"] = 6287,
+							},
+							["spec"] = 264,
+							["pets"] = {
+								"정신의 고리 토템 <덩치큰토템-데스윙>", -- [1]
+							},
+							["friendlyfire"] = {
+							},
+							["boss_fight_component"] = true,
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 6287.001313,
+							["end_time"] = 1605429389,
+							["colocacao"] = 5,
+							["dps_started"] = false,
+							["total"] = 6287.001313,
+							["classe"] = "SHAMAN",
+							["aID"] = "214-09483ED4",
+							["nome"] = "덩치큰토템-데스윙",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									[188389] = {
+										["c_amt"] = 4,
+										["b_amt"] = 0,
+										["c_dmg"] = 860,
+										["g_amt"] = 0,
+										["n_max"] = 134,
+										["targets"] = {
+											["할란 스위트"] = 2093,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 1233,
+										["n_min"] = 52,
+										["g_dmg"] = 0,
+										["counter"] = 17,
+										["total"] = 2093,
+										["c_max"] = 458,
+										["spellschool"] = 4,
+										["id"] = 188389,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 13,
+										["r_amt"] = 0,
+										["c_min"] = 134,
+									},
+									[285452] = {
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 1241,
+										["g_amt"] = 0,
+										["n_max"] = 619,
+										["targets"] = {
+											["할란 스위트"] = 1860,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 619,
+										["n_min"] = 619,
+										["g_dmg"] = 0,
+										["counter"] = 2,
+										["total"] = 1860,
+										["c_max"] = 1241,
+										["spellschool"] = 4,
+										["id"] = 285452,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 1,
+										["r_amt"] = 0,
+										["c_min"] = 1241,
+									},
+									[196840] = {
+										["c_amt"] = 3,
+										["b_amt"] = 0,
+										["c_dmg"] = 2069,
+										["g_amt"] = 0,
+										["n_max"] = 265,
+										["targets"] = {
+											["할란 스위트"] = 2334,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 265,
+										["n_min"] = 265,
+										["g_dmg"] = 0,
+										["counter"] = 4,
+										["total"] = 2334,
+										["c_max"] = 1034,
+										["spellschool"] = 16,
+										["id"] = 196840,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 1,
+										["r_amt"] = 0,
+										["c_min"] = 514,
+									},
+								},
+							},
+							["grupo"] = true,
+							["on_hold"] = false,
+							["serial"] = "Player-214-09483ED4",
+							["last_dps"] = 72.12676173049336,
+							["custom"] = 0,
+							["last_event"] = 1605429389,
+							["damage_taken"] = 4213.001313,
+							["start_time"] = 1605429361,
+							["delay"] = 1605429327,
+							["tipo"] = 1,
+						}, -- [5]
+						{
+							["flag_original"] = 2632,
+							["totalabsorbed"] = 896.007994,
+							["friendlyfire"] = {
+							},
+							["damage_from"] = {
+								["해피뼈전사"] = true,
+								["군신잔트라-데스윙"] = true,
+								["덩치큰토템-데스윙"] = true,
+								["제프구프 <판타지곤-데스윙>"] = true,
+								["법따리"] = true,
+								["법따리 <법따리>"] = true,
+								["판타지곤-데스윙"] = true,
+							},
+							["targets"] = {
+								["해피뼈전사"] = 634,
+								["군신잔트라-데스윙"] = 22870,
+								["덩치큰토템-데스윙"] = 1280,
+								["법따리"] = 1144,
+								["판타지곤-데스윙"] = 642,
+							},
+							["pets"] = {
+							},
+							["end_time"] = 1605429389,
+							["boss_fight_component"] = true,
+							["aID"] = "126983",
+							["raid_targets"] = {
+								[2] = 22870,
+							},
+							["total_without_pet"] = 26570.007994,
+							["monster"] = true,
+							["dps_started"] = false,
+							["total"] = 26570.007994,
+							["on_hold"] = false,
+							["friendlyfire_total"] = 0,
+							["nome"] = "할란 스위트",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 0,
+										["b_amt"] = 26,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 691,
+										["targets"] = {
+											["군신잔트라-데스윙"] = 22870,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 22870,
+										["DODGE"] = 1,
+										["n_min"] = 130,
+										["g_dmg"] = 0,
+										["counter"] = 75,
+										["a_amt"] = 0,
+										["total"] = 22870,
+										["c_max"] = 0,
+										["spellschool"] = 1,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["PARRY"] = 4,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 7106,
+										["n_amt"] = 70,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									}, -- [1]
+									[257308] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 130,
+										["targets"] = {
+											["판타지곤-데스윙"] = 642,
+											["법따리"] = 1144,
+											["해피뼈전사"] = 634,
+											["덩치큰토템-데스윙"] = 1280,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 3700,
+										["n_min"] = 125,
+										["g_dmg"] = 0,
+										["counter"] = 30,
+										["IMMUNE"] = 1,
+										["total"] = 3700,
+										["c_max"] = 0,
+										["spellschool"] = 4,
+										["id"] = 257308,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 383,
+										["m_crit"] = 0,
+										["a_amt"] = 3,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 29,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									},
+									[257316] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 0,
+										["targets"] = {
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 0,
+										["n_min"] = 0,
+										["g_dmg"] = 0,
+										["counter"] = 0,
+										["total"] = 0,
+										["c_max"] = 0,
+										["id"] = 257316,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 2,
+										["b_dmg"] = 0,
+										["n_amt"] = 0,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									},
+									[257402] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 0,
+										["targets"] = {
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 0,
+										["n_min"] = 0,
+										["g_dmg"] = 0,
+										["counter"] = 0,
+										["total"] = 0,
+										["c_max"] = 0,
+										["id"] = 257402,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 1,
+										["b_dmg"] = 0,
+										["n_amt"] = 0,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									},
+									[257278] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 0,
+										["targets"] = {
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 0,
+										["n_min"] = 0,
+										["g_dmg"] = 0,
+										["counter"] = 0,
+										["total"] = 0,
+										["c_max"] = 0,
+										["id"] = 257278,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 2,
+										["b_dmg"] = 0,
+										["n_amt"] = 0,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									},
+									[257458] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 0,
+										["targets"] = {
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 0,
+										["n_min"] = 0,
+										["g_dmg"] = 0,
+										["counter"] = 0,
+										["total"] = 0,
+										["c_max"] = 0,
+										["id"] = 257458,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 1,
+										["b_dmg"] = 0,
+										["n_amt"] = 0,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									},
+								},
+							},
+							["classe"] = "UNKNOW",
+							["serial"] = "Creature-0-3058-1754-18048-126983-000030E278",
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["last_event"] = 1605429387,
+							["damage_taken"] = 185310.007994,
+							["start_time"] = 1605429305,
+							["delay"] = 0,
+							["tipo"] = 1,
+						}, -- [6]
+						{
+							["flag_original"] = 2632,
+							["totalabsorbed"] = 2618.003001,
+							["friendlyfire"] = {
+							},
+							["damage_from"] = {
+							},
+							["targets"] = {
+								["해피뼈전사"] = 5180,
+								["군신잔트라-데스윙"] = 3411,
+								["덩치큰토템-데스윙"] = 1325,
+								["판타지곤-데스윙"] = 2618,
+								["법따리"] = 2652,
+							},
+							["pets"] = {
+							},
+							["end_time"] = 1605429389,
+							["boss_fight_component"] = true,
+							["aID"] = "129747",
+							["raid_targets"] = {
+								[2] = 3411,
+							},
+							["total_without_pet"] = 15186.003001,
+							["monster"] = true,
+							["dps_started"] = false,
+							["total"] = 15186.003001,
+							["on_hold"] = false,
+							["friendlyfire_total"] = 0,
+							["nome"] = "돌개바람 사브르",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									[257293] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 1327,
+										["targets"] = {
+											["해피뼈전사"] = 5180,
+											["군신잔트라-데스윙"] = 3411,
+											["덩치큰토템-데스윙"] = 1325,
+											["판타지곤-데스윙"] = 2618,
+											["법따리"] = 2652,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 15186,
+										["n_min"] = 984,
+										["g_dmg"] = 0,
+										["counter"] = 12,
+										["total"] = 15186,
+										["c_max"] = 0,
+										["spellschool"] = 8,
+										["id"] = 257293,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 3861,
+										["m_crit"] = 0,
+										["a_amt"] = 3,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 12,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									},
+								},
+							},
+							["classe"] = "UNKNOW",
+							["serial"] = "Creature-0-3058-1754-18048-129747-000130E83E",
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["last_event"] = 1605429389,
+							["damage_taken"] = 0.003001,
+							["start_time"] = 1605429382,
+							["delay"] = 1605429368,
+							["tipo"] = 1,
+						}, -- [7]
+						{
+							["flag_original"] = 4370,
+							["totalabsorbed"] = 0.008496,
+							["classe"] = "PET",
+							["damage_from"] = {
+							},
+							["targets"] = {
+								["할란 스위트"] = 7965,
+							},
+							["on_hold"] = false,
+							["pets"] = {
+							},
+							["boss_fight_component"] = true,
+							["end_time"] = 1605429389,
+							["aID"] = "Pet-0-3058-1754-18048-416-01019C2D49",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 7965.008496,
+							["serial"] = "Pet-0-3058-1754-18048-416-01019C2D49",
+							["dps_started"] = false,
+							["total"] = 7965.008496,
+							["friendlyfire_total"] = 0,
+							["ownerName"] = "판타지곤-데스윙",
+							["nome"] = "제프구프 <판타지곤-데스윙>",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									[3110] = {
+										["c_amt"] = 3,
+										["b_amt"] = 0,
+										["c_dmg"] = 2044,
+										["g_amt"] = 0,
+										["n_max"] = 521,
+										["targets"] = {
+											["할란 스위트"] = 7965,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 5921,
+										["n_min"] = 253,
+										["g_dmg"] = 0,
+										["counter"] = 24,
+										["total"] = 7965,
+										["c_max"] = 1020,
+										["spellschool"] = 4,
+										["id"] = 3110,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 21,
+										["r_amt"] = 0,
+										["c_min"] = 505,
+									},
+								},
+							},
+							["friendlyfire"] = {
+							},
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["last_event"] = 1605429389,
+							["damage_taken"] = 0.008496,
+							["start_time"] = 1605429310,
+							["delay"] = 0,
+							["tipo"] = 1,
+						}, -- [8]
+						{
+							["flag_original"] = 2632,
+							["totalabsorbed"] = 0.008565,
+							["damage_from"] = {
+							},
+							["targets"] = {
+								["해피뼈전사"] = 1019,
+								["덩치큰토템-데스윙"] = 1007,
+							},
+							["total"] = 2026.008565,
+							["pets"] = {
+							},
+							["classe"] = "UNKNOW",
+							["aID"] = "130850",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 2026.008565,
+							["boss_fight_component"] = true,
+							["monster"] = true,
+							["dps_started"] = false,
+							["end_time"] = 1605429389,
+							["on_hold"] = false,
+							["friendlyfire_total"] = 0,
+							["nome"] = "무쇠파도 대포",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									[257310] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 1019,
+										["targets"] = {
+											["법따리"] = 0,
+											["해피뼈전사"] = 1019,
+											["덩치큰토템-데스윙"] = 1007,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 2026,
+										["n_min"] = 1007,
+										["g_dmg"] = 0,
+										["counter"] = 7,
+										["IMMUNE"] = 5,
+										["total"] = 2026,
+										["c_max"] = 0,
+										["spellschool"] = 4,
+										["id"] = 257310,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 2,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									},
+								},
+							},
+							["friendlyfire"] = {
+							},
+							["serial"] = "Creature-0-3058-1754-18048-130850-000030E278",
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["last_event"] = 1605429366,
+							["damage_taken"] = 0.008565,
+							["start_time"] = 1605429385,
+							["delay"] = 1605429366,
+							["tipo"] = 1,
+						}, -- [9]
+						{
+							["flag_original"] = 2632,
+							["totalabsorbed"] = 304.007801,
+							["serial"] = "",
+							["damage_from"] = {
+							},
+							["targets"] = {
+								["판타지곤-데스윙"] = 896,
+								["법따리"] = 304,
+								["덩치큰토템-데스윙"] = 601,
+							},
+							["spellicon"] = 132847,
+							["on_hold"] = false,
+							["boss_fight_component"] = true,
+							["aID"] = "",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 1801.007801,
+							["pets"] = {
+							},
+							["monster"] = true,
+							["dps_started"] = false,
+							["end_time"] = 1605429389,
+							["friendlyfire_total"] = 0,
+							["classe"] = "UNKNOW",
+							["nome"] = "[*] 불꽃 파편",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									[257460] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 307,
+										["targets"] = {
+											["판타지곤-데스윙"] = 896,
+											["법따리"] = 304,
+											["덩치큰토템-데스윙"] = 601,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 1801,
+										["n_min"] = 292,
+										["g_dmg"] = 0,
+										["counter"] = 11,
+										["IMMUNE"] = 5,
+										["total"] = 1801,
+										["c_max"] = 0,
+										["spellschool"] = 4,
+										["id"] = 257460,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 896,
+										["m_crit"] = 0,
+										["a_amt"] = 3,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 6,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									},
+								},
+							},
+							["total"] = 1801.007801,
+							["friendlyfire"] = {
+							},
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["last_event"] = 1605429367,
+							["damage_taken"] = 0.007801,
+							["start_time"] = 1605429377,
+							["delay"] = 1605429367,
+							["tipo"] = 1,
+						}, -- [10]
+						{
+							["flag_original"] = 8465,
+							["totalabsorbed"] = 0.004314,
+							["friendlyfire"] = {
+							},
+							["damage_from"] = {
+							},
+							["targets"] = {
+								["할란 스위트"] = 218,
+							},
+							["serial"] = "Creature-0-3058-1754-18048-31216-000130E881",
+							["pets"] = {
+							},
+							["boss_fight_component"] = true,
+							["on_hold"] = false,
+							["aID"] = "31216",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 218.004314,
+							["dps_started"] = false,
+							["end_time"] = 1605429389,
+							["friendlyfire_total"] = 0,
+							["ownerName"] = "법따리",
+							["nome"] = "법따리 <법따리>",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									[59638] = {
+										["c_amt"] = 3,
+										["b_amt"] = 0,
+										["c_dmg"] = 87,
+										["g_amt"] = 0,
+										["n_max"] = 21,
+										["targets"] = {
+											["할란 스위트"] = 218,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 131,
+										["n_min"] = 15,
+										["g_dmg"] = 0,
+										["counter"] = 11,
+										["total"] = 218,
+										["c_max"] = 29,
+										["spellschool"] = 16,
+										["id"] = 59638,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 8,
+										["r_amt"] = 0,
+										["c_min"] = 29,
+									},
+								},
+							},
+							["classe"] = "PET",
+							["total"] = 218.004314,
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["last_event"] = 1605429389,
+							["damage_taken"] = 0.004314,
+							["start_time"] = 1605429384,
+							["delay"] = 0,
+							["tipo"] = 1,
+						}, -- [11]
+						{
+							["flag_original"] = 8466,
+							["totalabsorbed"] = 0.008819,
+							["friendlyfire"] = {
+							},
+							["damage_from"] = {
+							},
+							["targets"] = {
+							},
+							["pets"] = {
+							},
+							["classe"] = "PET",
+							["boss_fight_component"] = true,
+							["aID"] = "53006",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 0.008819,
+							["on_hold"] = false,
+							["serial"] = "Creature-0-3058-1754-18048-53006-000030E860",
+							["dps_started"] = false,
+							["end_time"] = 1605429389,
+							["ownerName"] = "덩치큰토템-데스윙",
+							["nome"] = "정신의 고리 토템 <덩치큰토템-데스윙>",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+								},
+							},
+							["friendlyfire_total"] = 0,
+							["total"] = 0.008819,
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["last_event"] = 1605429353,
+							["damage_taken"] = 0.008819,
+							["start_time"] = 1605429389,
+							["delay"] = 0,
+							["tipo"] = 1,
+						}, -- [12]
+						{
+							["flag_original"] = 2632,
+							["totalabsorbed"] = 0.004227,
+							["damage_from"] = {
+								["군신잔트라-데스윙"] = true,
+							},
+							["targets"] = {
+							},
+							["pets"] = {
+							},
+							["classe"] = "UNKNOW",
+							["aID"] = "129758",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 0.004227,
+							["boss_fight_component"] = true,
+							["monster"] = true,
+							["dps_started"] = false,
+							["end_time"] = 1605429389,
+							["on_hold"] = false,
+							["friendlyfire_total"] = 0,
+							["nome"] = "무쇠파도 폭탄병",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									[257314] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 0,
+										["targets"] = {
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 0,
+										["n_min"] = 0,
+										["g_dmg"] = 0,
+										["counter"] = 0,
+										["total"] = 0,
+										["c_max"] = 0,
+										["id"] = 257314,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 1,
+										["b_dmg"] = 0,
+										["n_amt"] = 0,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									},
+								},
+							},
+							["friendlyfire"] = {
+							},
+							["total"] = 0.004227,
+							["serial"] = "Creature-0-3058-1754-18048-129758-000030E854",
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["last_event"] = 0,
+							["damage_taken"] = 63.004227,
+							["start_time"] = 1605429389,
+							["delay"] = 0,
+							["tipo"] = 1,
+						}, -- [13]
+					},
+				}, -- [1]
+				{
+					["combatId"] = 505,
+					["tipo"] = 3,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1298,
+							["targets_overheal"] = {
+								["해피뼈전사"] = 2920,
+								["군신잔트라-데스윙"] = 5120,
+								["덩치큰토템-데스윙"] = 4784,
+								["판타지곤-데스윙"] = 1532,
+								["법따리"] = 841,
+								["제프구프 <판타지곤-데스윙>"] = 1947,
+							},
+							["pets"] = {
+								"치유의 토템 <덩치큰토템-데스윙>", -- [1]
+								"정신의 고리 토템 <덩치큰토템-데스윙>", -- [2]
+							},
+							["iniciar_hps"] = false,
+							["aID"] = "214-09483ED4",
+							["totalover"] = 17582.007958,
+							["total_without_pet"] = 30299.007958,
+							["total"] = 32659.007958,
+							["targets_absorbs"] = {
+							},
+							["heal_enemy"] = {
+							},
+							["on_hold"] = false,
+							["serial"] = "Player-214-09483ED4",
+							["totalabsorb"] = 0.007958,
+							["last_hps"] = 0,
+							["targets"] = {
+								["해피뼈전사"] = 4159,
+								["군신잔트라-데스윙"] = 25699,
+								["덩치큰토템-데스윙"] = 2279,
+								["법따리"] = 96,
+								["판타지곤-데스윙"] = 426,
+							},
+							["totalover_without_pet"] = 0.007958,
+							["healing_taken"] = 2279.007958,
+							["boss_fight_component"] = true,
+							["end_time"] = 1605429389,
+							["healing_from"] = {
+								["덩치큰토템-데스윙"] = true,
+							},
+							["heal_enemy_amt"] = 0,
+							["nome"] = "덩치큰토템-데스윙",
+							["spells"] = {
+								["tipo"] = 3,
+								["_ActorTable"] = {
+									[61295] = {
+										["c_amt"] = 1,
+										["totalabsorb"] = 0,
+										["targets_overheal"] = {
+											["군신잔트라-데스윙"] = 151,
+										},
+										["n_max"] = 990,
+										["targets"] = {
+											["군신잔트라-데스윙"] = 1595,
+										},
+										["n_min"] = 121,
+										["counter"] = 5,
+										["overheal"] = 151,
+										["total"] = 1595,
+										["c_max"] = 239,
+										["id"] = 61295,
+										["targets_absorbs"] = {
+										},
+										["c_curado"] = 239,
+										["m_crit"] = 0,
+										["c_min"] = 239,
+										["m_amt"] = 0,
+										["n_curado"] = 1356,
+										["n_amt"] = 4,
+										["totaldenied"] = 0,
+										["m_healed"] = 0,
+										["absorbed"] = 0,
+									},
+									[73921] = {
+										["c_amt"] = 13,
+										["totalabsorb"] = 0,
+										["targets_overheal"] = {
+											["해피뼈전사"] = 1212,
+											["군신잔트라-데스윙"] = 556,
+											["덩치큰토템-데스윙"] = 1555,
+											["판타지곤-데스윙"] = 846,
+											["법따리"] = 841,
+											["제프구프 <판타지곤-데스윙>"] = 938,
+										},
+										["n_max"] = 170,
+										["targets"] = {
+											["해피뼈전사"] = 584,
+											["군신잔트라-데스윙"] = 1534,
+											["덩치큰토템-데스윙"] = 0,
+											["제프구프 <판타지곤-데스윙>"] = 0,
+											["법따리"] = 0,
+											["판타지곤-데스윙"] = 0,
+										},
+										["n_min"] = 0,
+										["counter"] = 51,
+										["overheal"] = 5948,
+										["total"] = 2118,
+										["c_max"] = 343,
+										["id"] = 73921,
+										["targets_absorbs"] = {
+										},
+										["c_curado"] = 641,
+										["m_crit"] = 0,
+										["c_min"] = 0,
+										["m_amt"] = 0,
+										["n_curado"] = 1477,
+										["n_amt"] = 38,
+										["totaldenied"] = 0,
+										["m_healed"] = 0,
+										["absorbed"] = 0,
+									},
+									[8004] = {
+										["c_amt"] = 2,
+										["totalabsorb"] = 0,
+										["targets_overheal"] = {
+											["군신잔트라-데스윙"] = 3152,
+											["덩치큰토템-데스윙"] = 1126,
+										},
+										["n_max"] = 1600,
+										["targets"] = {
+											["군신잔트라-데스윙"] = 6068,
+											["덩치큰토템-데스윙"] = 0,
+										},
+										["n_min"] = 1496,
+										["counter"] = 5,
+										["overheal"] = 4278,
+										["total"] = 6068,
+										["c_max"] = 1850,
+										["id"] = 8004,
+										["targets_absorbs"] = {
+										},
+										["c_curado"] = 2972,
+										["m_crit"] = 0,
+										["c_min"] = 1122,
+										["m_amt"] = 0,
+										["n_curado"] = 3096,
+										["n_amt"] = 3,
+										["totaldenied"] = 0,
+										["m_healed"] = 0,
+										["absorbed"] = 0,
+									},
+									[1064] = {
+										["c_amt"] = 4,
+										["totalabsorb"] = 0,
+										["targets_overheal"] = {
+											["해피뼈전사"] = 1708,
+											["군신잔트라-데스윙"] = 1261,
+											["덩치큰토템-데스윙"] = 2103,
+											["제프구프 <판타지곤-데스윙>"] = 1009,
+											["판타지곤-데스윙"] = 686,
+										},
+										["n_max"] = 1258,
+										["targets"] = {
+											["해피뼈전사"] = 3349,
+											["군신잔트라-데스윙"] = 8483,
+											["덩치큰토템-데스윙"] = 2279,
+											["제프구프 <판타지곤-데스윙>"] = 0,
+											["판타지곤-데스윙"] = 426,
+										},
+										["n_min"] = 142,
+										["counter"] = 25,
+										["overheal"] = 6767,
+										["total"] = 14537,
+										["c_max"] = 2778,
+										["id"] = 1064,
+										["targets_absorbs"] = {
+										},
+										["c_curado"] = 4873,
+										["m_crit"] = 0,
+										["c_min"] = 251,
+										["m_amt"] = 0,
+										["n_curado"] = 9664,
+										["n_amt"] = 21,
+										["totaldenied"] = 0,
+										["m_healed"] = 0,
+										["absorbed"] = 0,
+									},
+									[379] = {
+										["c_amt"] = 6,
+										["totalabsorb"] = 0,
+										["targets_overheal"] = {
+										},
+										["n_max"] = 221,
+										["targets"] = {
+											["군신잔트라-데스윙"] = 5981,
+										},
+										["n_min"] = 170,
+										["counter"] = 23,
+										["overheal"] = 0,
+										["total"] = 5981,
+										["c_max"] = 433,
+										["id"] = 379,
+										["targets_absorbs"] = {
+										},
+										["c_curado"] = 2478,
+										["m_crit"] = 0,
+										["c_min"] = 401,
+										["m_amt"] = 0,
+										["n_curado"] = 3503,
+										["n_amt"] = 17,
+										["totaldenied"] = 0,
+										["m_healed"] = 0,
+										["absorbed"] = 0,
+									},
+								},
+							},
+							["grupo"] = true,
+							["start_time"] = 1605429304,
+							["spec"] = 264,
+							["custom"] = 0,
+							["tipo"] = 2,
+							["classe"] = "SHAMAN",
+							["totaldenied"] = 0.007958,
+							["delay"] = 0,
+							["last_event"] = 1605429388,
+						}, -- [1]
+						{
+							["flag_original"] = 2600,
+							["healing_from"] = {
+							},
+							["pets"] = {
+							},
+							["iniciar_hps"] = false,
+							["heal_enemy_amt"] = 0,
+							["totalover"] = 438.004201,
+							["total_without_pet"] = 2360.004201,
+							["total"] = 2360.004201,
+							["targets_absorbs"] = {
+							},
+							["heal_enemy"] = {
+							},
+							["on_hold"] = false,
+							["serial"] = "Creature-0-3058-1754-18048-3527-000030E835",
+							["totalabsorb"] = 0.004201,
+							["last_hps"] = 0,
+							["targets"] = {
+								["해피뼈전사"] = 226,
+								["군신잔트라-데스윙"] = 2038,
+								["법따리"] = 96,
+							},
+							["totalover_without_pet"] = 0.004201,
+							["healing_taken"] = 0.004201,
+							["boss_fight_component"] = true,
+							["end_time"] = 1605429389,
+							["targets_overheal"] = {
+								["군신잔트라-데스윙"] = 88,
+								["법따리"] = 350,
+							},
+							["ownerName"] = "덩치큰토템-데스윙",
+							["nome"] = "치유의 토템 <덩치큰토템-데스윙>",
+							["spells"] = {
+								["tipo"] = 3,
+								["_ActorTable"] = {
+									[52042] = {
+										["c_amt"] = 2,
+										["totalabsorb"] = 0,
+										["targets_overheal"] = {
+											["군신잔트라-데스윙"] = 88,
+											["법따리"] = 350,
+										},
+										["n_max"] = 264,
+										["targets"] = {
+											["법따리"] = 96,
+											["군신잔트라-데스윙"] = 2038,
+											["해피뼈전사"] = 226,
+										},
+										["n_min"] = 39,
+										["counter"] = 10,
+										["overheal"] = 438,
+										["total"] = 2360,
+										["c_max"] = 528,
+										["id"] = 52042,
+										["targets_absorbs"] = {
+										},
+										["c_curado"] = 965,
+										["m_crit"] = 0,
+										["c_min"] = 437,
+										["m_amt"] = 0,
+										["n_curado"] = 1395,
+										["n_amt"] = 8,
+										["totaldenied"] = 0,
+										["m_healed"] = 0,
+										["absorbed"] = 0,
+									},
+								},
+							},
+							["start_time"] = 1605429373,
+							["aID"] = "3527",
+							["custom"] = 0,
+							["last_event"] = 1605429319,
+							["classe"] = "UNKNOW",
+							["totaldenied"] = 0.004201,
+							["delay"] = 1605429319,
+							["tipo"] = 2,
+						}, -- [2]
+						{
+							["flag_original"] = 1297,
+							["targets_overheal"] = {
+							},
+							["pets"] = {
+							},
+							["iniciar_hps"] = false,
+							["aID"] = "205-0713A4FD",
+							["totalover"] = 0.00815,
+							["total_without_pet"] = 3831.00815,
+							["total"] = 3831.00815,
+							["targets_absorbs"] = {
+								["법따리"] = 3201,
+							},
+							["heal_enemy"] = {
+							},
+							["on_hold"] = false,
+							["serial"] = "Player-205-0713A4FD",
+							["totalabsorb"] = 3201.00815,
+							["last_hps"] = 0,
+							["targets"] = {
+								["법따리"] = 3831,
+							},
+							["totalover_without_pet"] = 0.00815,
+							["healing_taken"] = 3927.00815,
+							["boss_fight_component"] = true,
+							["end_time"] = 1605429389,
+							["healing_from"] = {
+								["치유의 토템 <덩치큰토템-데스윙>"] = true,
+								["법따리"] = true,
+							},
+							["heal_enemy_amt"] = 0,
+							["nome"] = "법따리",
+							["spells"] = {
+								["tipo"] = 3,
+								["_ActorTable"] = {
+									[269279] = {
+										["c_amt"] = 0,
+										["totalabsorb"] = 3201,
+										["targets_overheal"] = {
+										},
+										["n_max"] = 1195,
+										["targets"] = {
+											["법따리"] = 3201,
+										},
+										["n_min"] = 126,
+										["counter"] = 8,
+										["overheal"] = 0,
+										["total"] = 3201,
+										["c_max"] = 0,
+										["id"] = 269279,
+										["targets_absorbs"] = {
+											["법따리"] = 3201,
+										},
+										["m_healed"] = 0,
+										["c_curado"] = 0,
+										["m_crit"] = 0,
+										["c_min"] = 0,
+										["m_amt"] = 0,
+										["n_curado"] = 3201,
+										["n_amt"] = 8,
+										["totaldenied"] = 0,
+										["is_shield"] = true,
+										["absorbed"] = 0,
+									},
+									[143924] = {
+										["c_amt"] = 0,
+										["totalabsorb"] = 0,
+										["targets_overheal"] = {
+										},
+										["n_max"] = 68,
+										["targets"] = {
+											["법따리"] = 630,
+										},
+										["n_min"] = 4,
+										["counter"] = 32,
+										["overheal"] = 0,
+										["total"] = 630,
+										["c_max"] = 0,
+										["id"] = 143924,
+										["targets_absorbs"] = {
+										},
+										["c_curado"] = 0,
+										["m_crit"] = 0,
+										["c_min"] = 0,
+										["m_amt"] = 0,
+										["n_curado"] = 630,
+										["n_amt"] = 32,
+										["totaldenied"] = 0,
+										["m_healed"] = 0,
+										["absorbed"] = 0,
+									},
+								},
+							},
+							["grupo"] = true,
+							["start_time"] = 1605429315,
+							["spec"] = 62,
+							["custom"] = 0,
+							["tipo"] = 2,
+							["classe"] = "MAGE",
+							["totaldenied"] = 0.00815,
+							["delay"] = 0,
+							["last_event"] = 1605429389,
+						}, -- [3]
+						{
+							["flag_original"] = 1298,
+							["targets_overheal"] = {
+							},
+							["pets"] = {
+							},
+							["iniciar_hps"] = false,
+							["aID"] = "214-093AAE58",
+							["totalover"] = 0.003985,
+							["total_without_pet"] = 227.003985,
+							["total"] = 227.003985,
+							["targets_absorbs"] = {
+								["군신잔트라-데스윙"] = 227,
+							},
+							["heal_enemy"] = {
+							},
+							["on_hold"] = false,
+							["isTank"] = true,
+							["serial"] = "Player-214-093AAE58",
+							["totalabsorb"] = 227.003985,
+							["last_hps"] = 0,
+							["targets"] = {
+								["군신잔트라-데스윙"] = 227,
+							},
+							["totalover_without_pet"] = 0.003985,
+							["healing_taken"] = 25926.003985,
+							["boss_fight_component"] = true,
+							["end_time"] = 1605429389,
+							["healing_from"] = {
+								["치유의 토템 <덩치큰토템-데스윙>"] = true,
+								["군신잔트라-데스윙"] = true,
+								["덩치큰토템-데스윙"] = true,
+							},
+							["heal_enemy_amt"] = 0,
+							["nome"] = "군신잔트라-데스윙",
+							["spells"] = {
+								["tipo"] = 3,
+								["_ActorTable"] = {
+									[152261] = {
+										["c_amt"] = 0,
+										["totalabsorb"] = 227,
+										["targets_overheal"] = {
+										},
+										["n_max"] = 227,
+										["targets"] = {
+											["군신잔트라-데스윙"] = 227,
+										},
+										["n_min"] = 227,
+										["counter"] = 1,
+										["overheal"] = 0,
+										["total"] = 227,
+										["c_max"] = 0,
+										["id"] = 152261,
+										["targets_absorbs"] = {
+											["군신잔트라-데스윙"] = 227,
+										},
+										["m_healed"] = 0,
+										["c_curado"] = 0,
+										["m_crit"] = 0,
+										["c_min"] = 0,
+										["m_amt"] = 0,
+										["n_curado"] = 227,
+										["n_amt"] = 1,
+										["totaldenied"] = 0,
+										["is_shield"] = true,
+										["absorbed"] = 0,
+									},
+								},
+							},
+							["grupo"] = true,
+							["start_time"] = 1605429388,
+							["spec"] = 66,
+							["custom"] = 0,
+							["tipo"] = 2,
+							["classe"] = "PALADIN",
+							["totaldenied"] = 0.003985,
+							["delay"] = 1605429355,
+							["last_event"] = 1605429355,
+						}, -- [4]
+						{
+							["flag_original"] = 1298,
+							["targets_overheal"] = {
+								["판타지곤-데스윙"] = 144,
+							},
+							["pets"] = {
+								"제프구프 <판타지곤-데스윙>", -- [1]
+							},
+							["iniciar_hps"] = false,
+							["aID"] = "214-07FC4C5D",
+							["totalover"] = 144.007462,
+							["total_without_pet"] = 2389.007462,
+							["total"] = 2389.007462,
+							["targets_absorbs"] = {
+								["판타지곤-데스윙"] = 2389,
+							},
+							["heal_enemy"] = {
+							},
+							["on_hold"] = false,
+							["serial"] = "Player-214-07FC4C5D",
+							["totalabsorb"] = 2389.007462,
+							["last_hps"] = 0,
+							["targets"] = {
+								["판타지곤-데스윙"] = 2389,
+							},
+							["totalover_without_pet"] = 0.007462,
+							["healing_taken"] = 2815.007462,
+							["boss_fight_component"] = true,
+							["end_time"] = 1605429389,
+							["healing_from"] = {
+								["덩치큰토템-데스윙"] = true,
+								["판타지곤-데스윙"] = true,
+							},
+							["heal_enemy_amt"] = 0,
+							["nome"] = "판타지곤-데스윙",
+							["spells"] = {
+								["tipo"] = 3,
+								["_ActorTable"] = {
+									[77220] = {
+										["c_amt"] = 0,
+										["totalabsorb"] = 117,
+										["targets_overheal"] = {
+										},
+										["n_max"] = 34,
+										["targets"] = {
+											["판타지곤-데스윙"] = 117,
+										},
+										["n_min"] = 3,
+										["counter"] = 10,
+										["overheal"] = 0,
+										["total"] = 117,
+										["c_max"] = 0,
+										["id"] = 77220,
+										["targets_absorbs"] = {
+											["판타지곤-데스윙"] = 117,
+										},
+										["m_healed"] = 0,
+										["c_curado"] = 0,
+										["m_crit"] = 0,
+										["c_min"] = 0,
+										["m_amt"] = 0,
+										["n_curado"] = 117,
+										["n_amt"] = 10,
+										["totaldenied"] = 0,
+										["is_shield"] = true,
+										["absorbed"] = 0,
+									},
+									[108366] = {
+										["c_amt"] = 0,
+										["totalabsorb"] = 2272,
+										["targets_overheal"] = {
+											["판타지곤-데스윙"] = 144,
+										},
+										["n_max"] = 916,
+										["targets"] = {
+											["판타지곤-데스윙"] = 2272,
+										},
+										["n_min"] = 0,
+										["counter"] = 14,
+										["overheal"] = 144,
+										["total"] = 2272,
+										["c_max"] = 0,
+										["id"] = 108366,
+										["targets_absorbs"] = {
+											["판타지곤-데스윙"] = 2272,
+										},
+										["m_healed"] = 0,
+										["c_curado"] = 0,
+										["m_crit"] = 0,
+										["c_min"] = 0,
+										["m_amt"] = 0,
+										["n_curado"] = 2272,
+										["n_amt"] = 14,
+										["totaldenied"] = 0,
+										["is_shield"] = true,
+										["absorbed"] = 0,
+									},
+								},
+							},
+							["grupo"] = true,
+							["start_time"] = 1605429381,
+							["spec"] = 267,
+							["custom"] = 0,
+							["tipo"] = 2,
+							["classe"] = "WARLOCK",
+							["totaldenied"] = 0.007462,
+							["delay"] = 1605429363,
+							["last_event"] = 1605429363,
+						}, -- [5]
+						{
+							["flag_original"] = 4370,
+							["targets_overheal"] = {
+							},
+							["pets"] = {
+							},
+							["iniciar_hps"] = false,
+							["heal_enemy_amt"] = 0,
+							["totalover"] = 0.001155,
+							["total_without_pet"] = 0.001155,
+							["total"] = 0.001155,
+							["targets_absorbs"] = {
+							},
+							["heal_enemy"] = {
+							},
+							["on_hold"] = false,
+							["serial"] = "Pet-0-3058-1754-18048-416-01019C2D49",
+							["totalabsorb"] = 0.001155,
+							["last_hps"] = 0,
+							["targets"] = {
+							},
+							["totalover_without_pet"] = 0.001155,
+							["healing_taken"] = 0.001155,
+							["boss_fight_component"] = true,
+							["end_time"] = 1605429389,
+							["healing_from"] = {
+							},
+							["ownerName"] = "판타지곤-데스윙",
+							["nome"] = "제프구프 <판타지곤-데스윙>",
+							["spells"] = {
+								["tipo"] = 3,
+								["_ActorTable"] = {
+								},
+							},
+							["start_time"] = 1605429389,
+							["classe"] = "PET",
+							["custom"] = 0,
+							["tipo"] = 2,
+							["aID"] = "Pet-0-3058-1754-18048-416-01019C2D49",
+							["totaldenied"] = 0.001155,
+							["delay"] = 0,
+							["last_event"] = 0,
+						}, -- [6]
+						{
+							["flag_original"] = 1298,
+							["targets_overheal"] = {
+								["해피뼈전사"] = 620,
+							},
+							["pets"] = {
+							},
+							["iniciar_hps"] = false,
+							["aID"] = "205-06251940",
+							["totalover"] = 620.002658,
+							["total_without_pet"] = 2702.002658,
+							["total"] = 2702.002658,
+							["targets_absorbs"] = {
+							},
+							["heal_enemy"] = {
+							},
+							["on_hold"] = false,
+							["serial"] = "Player-205-06251940",
+							["totalabsorb"] = 0.002658,
+							["last_hps"] = 0,
+							["targets"] = {
+								["해피뼈전사"] = 2702,
+							},
+							["totalover_without_pet"] = 0.002658,
+							["healing_taken"] = 6861.002657999999,
+							["boss_fight_component"] = true,
+							["end_time"] = 1605429389,
+							["healing_from"] = {
+								["치유의 토템 <덩치큰토템-데스윙>"] = true,
+								["해피뼈전사"] = true,
+								["덩치큰토템-데스윙"] = true,
+							},
+							["heal_enemy_amt"] = 0,
+							["nome"] = "해피뼈전사",
+							["spells"] = {
+								["tipo"] = 3,
+								["_ActorTable"] = {
+									[127802] = {
+										["c_amt"] = 0,
+										["totalabsorb"] = 0,
+										["targets_overheal"] = {
+											["해피뼈전사"] = 533,
+										},
+										["n_max"] = 386,
+										["targets"] = {
+											["해피뼈전사"] = 555,
+										},
+										["n_min"] = 169,
+										["counter"] = 4,
+										["overheal"] = 533,
+										["total"] = 555,
+										["c_max"] = 0,
+										["id"] = 127802,
+										["targets_absorbs"] = {
+										},
+										["c_curado"] = 0,
+										["m_crit"] = 0,
+										["c_min"] = 0,
+										["m_amt"] = 0,
+										["n_curado"] = 555,
+										["n_amt"] = 4,
+										["totaldenied"] = 0,
+										["m_healed"] = 0,
+										["absorbed"] = 0,
+									},
+									[202147] = {
+										["c_amt"] = 0,
+										["totalabsorb"] = 0,
+										["targets_overheal"] = {
+											["해피뼈전사"] = 87,
+										},
+										["n_max"] = 320,
+										["targets"] = {
+											["해피뼈전사"] = 2147,
+										},
+										["n_min"] = 232,
+										["counter"] = 7,
+										["overheal"] = 87,
+										["total"] = 2147,
+										["c_max"] = 0,
+										["id"] = 202147,
+										["targets_absorbs"] = {
+										},
+										["c_curado"] = 0,
+										["m_crit"] = 0,
+										["c_min"] = 0,
+										["m_amt"] = 0,
+										["n_curado"] = 2147,
+										["n_amt"] = 7,
+										["totaldenied"] = 0,
+										["m_healed"] = 0,
+										["absorbed"] = 0,
+									},
+								},
+							},
+							["grupo"] = true,
+							["start_time"] = 1605429384,
+							["spec"] = 71,
+							["custom"] = 0,
+							["tipo"] = 2,
+							["classe"] = "WARRIOR",
+							["totaldenied"] = 0.002658,
+							["delay"] = 1605429374,
+							["last_event"] = 1605429374,
+						}, -- [7]
+						{
+							["flag_original"] = 8466,
+							["healing_from"] = {
+							},
+							["pets"] = {
+							},
+							["iniciar_hps"] = false,
+							["heal_enemy_amt"] = 0,
+							["totalover"] = 0.003679,
+							["total_without_pet"] = 0.003679,
+							["total"] = 0.003679,
+							["targets_absorbs"] = {
+							},
+							["heal_enemy"] = {
+							},
+							["on_hold"] = false,
+							["serial"] = "Creature-0-3058-1754-18048-53006-000030E860",
+							["totalabsorb"] = 0.003679,
+							["last_hps"] = 0,
+							["targets"] = {
+							},
+							["totalover_without_pet"] = 0.003679,
+							["healing_taken"] = 0.003679,
+							["boss_fight_component"] = true,
+							["end_time"] = 1605429389,
+							["targets_overheal"] = {
+							},
+							["ownerName"] = "덩치큰토템-데스윙",
+							["nome"] = "정신의 고리 토템 <덩치큰토템-데스윙>",
+							["spells"] = {
+								["tipo"] = 3,
+								["_ActorTable"] = {
+									[98021] = {
+										["c_amt"] = 0,
+										["totalabsorb"] = 0,
+										["targets_overheal"] = {
+										},
+										["n_max"] = 1297,
+										["targets"] = {
+											["군신잔트라-데스윙"] = 2246,
+											["덩치큰토템-데스윙"] = 2567,
+										},
+										["n_min"] = 54,
+										["counter"] = 10,
+										["overheal"] = 0,
+										["total"] = 4813,
+										["c_max"] = 0,
+										["id"] = 98021,
+										["targets_absorbs"] = {
+										},
+										["neutral"] = true,
+										["c_curado"] = 0,
+										["m_crit"] = 0,
+										["c_min"] = 0,
+										["m_amt"] = 0,
+										["n_curado"] = 4813,
+										["n_amt"] = 10,
+										["totaldenied"] = 0,
+										["m_healed"] = 0,
+										["absorbed"] = 0,
+									},
+								},
+							},
+							["start_time"] = 1605429389,
+							["aID"] = "53006",
+							["custom"] = 0,
+							["last_event"] = 1605429353,
+							["classe"] = "PET",
+							["totaldenied"] = 0.003679,
+							["delay"] = 0,
+							["tipo"] = 2,
+						}, -- [8]
+					},
+				}, -- [2]
+				{
+					["combatId"] = 505,
+					["tipo"] = 7,
+					["_ActorTable"] = {
+						{
+							["received"] = 70.006639,
+							["resource"] = 0.006639,
+							["targets"] = {
+								["해피뼈전사"] = 70,
+							},
+							["pets"] = {
+							},
+							["powertype"] = 1,
+							["aID"] = "205-06251940",
+							["passiveover"] = 0.006639,
+							["total"] = 70.006639,
+							["boss_fight_component"] = true,
+							["nome"] = "해피뼈전사",
+							["spells"] = {
+								["tipo"] = 7,
+								["_ActorTable"] = {
+									[100] = {
+										["total"] = 60,
+										["id"] = 100,
+										["totalover"] = 40,
+										["targets"] = {
+											["해피뼈전사"] = 60,
+										},
+										["counter"] = 5,
+									},
+									[262232] = {
+										["total"] = 10,
+										["id"] = 262232,
+										["totalover"] = 0,
+										["targets"] = {
+											["해피뼈전사"] = 10,
+										},
+										["counter"] = 1,
+									},
+								},
+							},
+							["grupo"] = true,
+							["spec"] = 71,
+							["flag_original"] = 1298,
+							["alternatepower"] = 0.006639,
+							["last_event"] = 1605429389,
+							["classe"] = "WARRIOR",
+							["tipo"] = 3,
+							["serial"] = "Player-205-06251940",
+							["totalover"] = 40.006639,
+						}, -- [1]
+						{
+							["received"] = 0.007283,
+							["resource"] = 34.007283,
+							["targets"] = {
+							},
+							["pets"] = {
+							},
+							["powertype"] = 0,
+							["aID"] = "214-093AAE58",
+							["passiveover"] = 0.007283,
+							["boss_fight_component"] = true,
+							["total"] = 0.007283,
+							["resource_type"] = 9,
+							["tipo"] = 3,
+							["nome"] = "군신잔트라-데스윙",
+							["spells"] = {
+								["tipo"] = 7,
+								["_ActorTable"] = {
+								},
+							},
+							["grupo"] = true,
+							["spec"] = 66,
+							["flag_original"] = 1298,
+							["alternatepower"] = 0.007283,
+							["last_event"] = 1605429389,
+							["classe"] = "PALADIN",
+							["isTank"] = true,
+							["serial"] = "Player-214-093AAE58",
+							["totalover"] = 0.007283,
+						}, -- [2]
+						{
+							["received"] = 0.008979,
+							["resource"] = 3.008979,
+							["targets"] = {
+							},
+							["pets"] = {
+							},
+							["powertype"] = 0,
+							["aID"] = "205-0713A4FD",
+							["passiveover"] = 0.008979,
+							["total"] = 0.008979,
+							["boss_fight_component"] = true,
+							["resource_type"] = 16,
+							["nome"] = "법따리",
+							["spells"] = {
+								["tipo"] = 7,
+								["_ActorTable"] = {
+								},
+							},
+							["grupo"] = true,
+							["spec"] = 62,
+							["flag_original"] = 1297,
+							["alternatepower"] = 0.008979,
+							["last_event"] = 1605429389,
+							["classe"] = "MAGE",
+							["tipo"] = 3,
+							["serial"] = "Player-205-0713A4FD",
+							["totalover"] = 0.008979,
+						}, -- [3]
+						{
+							["received"] = 149.003979,
+							["resource"] = 0.003979,
+							["targets"] = {
+								["덩치큰토템-데스윙"] = 149,
+							},
+							["pets"] = {
+							},
+							["powertype"] = 0,
+							["aID"] = "214-09483ED4",
+							["passiveover"] = 0.003979,
+							["total"] = 149.003979,
+							["boss_fight_component"] = true,
+							["nome"] = "덩치큰토템-데스윙",
+							["spells"] = {
+								["tipo"] = 7,
+								["_ActorTable"] = {
+									[101033] = {
+										["total"] = 149,
+										["id"] = 101033,
+										["totalover"] = 0,
+										["targets"] = {
+											["덩치큰토템-데스윙"] = 149,
+										},
+										["counter"] = 6,
+									},
+								},
+							},
+							["grupo"] = true,
+							["spec"] = 264,
+							["flag_original"] = 1298,
+							["alternatepower"] = 0.003979,
+							["last_event"] = 1605429384,
+							["classe"] = "SHAMAN",
+							["tipo"] = 3,
+							["serial"] = "Player-214-09483ED4",
+							["totalover"] = 0.003979,
+						}, -- [4]
+					},
+				}, -- [3]
+				{
+					["combatId"] = 505,
+					["tipo"] = 9,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1047,
+							["debuff_uptime_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[188389] = {
+										["activedamt"] = 0,
+										["id"] = 188389,
+										["targets"] = {
+										},
+										["uptime"] = 27,
+										["appliedamt"] = 2,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+								},
+							},
+							["cooldowns_defensive"] = 1.006866,
+							["buff_uptime"] = 353,
+							["classe"] = "SHAMAN",
+							["cooldowns_defensive_targets"] = {
+								["[*] 공격대 단위 생존기"] = 1,
+							},
+							["buff_uptime_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[280615] = {
+										["activedamt"] = 3,
+										["id"] = 280615,
+										["targets"] = {
+										},
+										["uptime"] = 13,
+										["appliedamt"] = 3,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[320763] = {
+										["activedamt"] = 1,
+										["id"] = 320763,
+										["targets"] = {
+										},
+										["uptime"] = 5,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[93825] = {
+										["activedamt"] = 1,
+										["id"] = 93825,
+										["targets"] = {
+										},
+										["uptime"] = 87,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[326396] = {
+										["activedamt"] = 1,
+										["id"] = 326396,
+										["targets"] = {
+										},
+										["uptime"] = 87,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[77762] = {
+										["activedamt"] = 3,
+										["id"] = 77762,
+										["targets"] = {
+										},
+										["uptime"] = 4,
+										["appliedamt"] = 3,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[325174] = {
+										["activedamt"] = 1,
+										["id"] = 325174,
+										["targets"] = {
+										},
+										["uptime"] = 6,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[79206] = {
+										["activedamt"] = 1,
+										["id"] = 79206,
+										["targets"] = {
+										},
+										["uptime"] = 15,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[53390] = {
+										["activedamt"] = 3,
+										["id"] = 53390,
+										["targets"] = {
+										},
+										["uptime"] = 49,
+										["appliedamt"] = 3,
+										["refreshamt"] = 1,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[72221] = {
+										["activedamt"] = 1,
+										["id"] = 72221,
+										["targets"] = {
+										},
+										["uptime"] = 87,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+								},
+							},
+							["debuff_uptime"] = 27,
+							["boss_fight_component"] = true,
+							["cooldowns_defensive_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[98008] = {
+										["id"] = 98008,
+										["targets"] = {
+											["[*] 공격대 단위 생존기"] = 1,
+										},
+										["counter"] = 1,
+									},
+								},
+							},
+							["nome"] = "덩치큰토템-데스윙",
+							["spec"] = 264,
+							["grupo"] = true,
+							["spell_cast"] = {
+								[98008] = 1,
+								[73920] = 2,
+								[188389] = 2,
+								[51505] = 2,
+								[8004] = 5,
+								[196840] = 4,
+								[79206] = 1,
+								[61295] = 1,
+								[5394] = 1,
+								[1064] = 7,
+								[974] = 5,
+							},
+							["debuff_uptime_targets"] = {
+							},
+							["buff_uptime_targets"] = {
+							},
+							["last_event"] = 1605429389,
+							["pets"] = {
+								"치유의 토템 <덩치큰토템-데스윙>", -- [1]
+								"마나 해일 토템 <덩치큰토템-데스윙>", -- [2]
+								"정신의 고리 토템 <덩치큰토템-데스윙>", -- [3]
+							},
+							["aID"] = "214-09483ED4",
+							["serial"] = "Player-214-09483ED4",
+							["tipo"] = 4,
+						}, -- [1]
+						{
+							["flag_original"] = 1047,
+							["debuff_uptime_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[197277] = {
+										["activedamt"] = 0,
+										["id"] = 197277,
+										["targets"] = {
+										},
+										["uptime"] = 51,
+										["appliedamt"] = 9,
+										["refreshamt"] = 7,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[62124] = {
+										["activedamt"] = 0,
+										["id"] = 62124,
+										["targets"] = {
+										},
+										["uptime"] = 15,
+										["appliedamt"] = 5,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[204242] = {
+										["activedamt"] = 1,
+										["id"] = 204242,
+										["targets"] = {
+										},
+										["uptime"] = 1,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+								},
+							},
+							["cooldowns_defensive"] = 1.008707,
+							["buff_uptime"] = 603,
+							["last_cooldown"] = {
+								1605429324.044, -- [1]
+								31850, -- [2]
+							},
+							["classe"] = "PALADIN",
+							["cooldowns_defensive_targets"] = {
+								["군신잔트라-데스윙"] = 1,
+							},
+							["buff_uptime_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[132403] = {
+										["activedamt"] = 9,
+										["id"] = 132403,
+										["targets"] = {
+										},
+										["uptime"] = 50,
+										["appliedamt"] = 9,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[188370] = {
+										["activedamt"] = 17,
+										["id"] = 188370,
+										["targets"] = {
+										},
+										["uptime"] = 80,
+										["appliedamt"] = 17,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[223819] = {
+										["activedamt"] = 1,
+										["id"] = 223819,
+										["targets"] = {
+										},
+										["uptime"] = 10,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[31884] = {
+										["activedamt"] = 1,
+										["id"] = 31884,
+										["targets"] = {
+										},
+										["uptime"] = 20,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[93830] = {
+										["activedamt"] = 1,
+										["id"] = 93830,
+										["targets"] = {
+										},
+										["uptime"] = 87,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[465] = {
+										["activedamt"] = 1,
+										["id"] = 465,
+										["targets"] = {
+										},
+										["uptime"] = 87,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[31850] = {
+										["activedamt"] = 1,
+										["id"] = 31850,
+										["targets"] = {
+										},
+										["uptime"] = 8,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[292361] = {
+										["activedamt"] = 1,
+										["id"] = 292361,
+										["targets"] = {
+										},
+										["uptime"] = 87,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[72221] = {
+										["activedamt"] = 1,
+										["id"] = 72221,
+										["targets"] = {
+										},
+										["uptime"] = 87,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[326396] = {
+										["activedamt"] = 1,
+										["id"] = 326396,
+										["targets"] = {
+										},
+										["uptime"] = 87,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+								},
+							},
+							["boss_fight_component"] = true,
+							["debuff_uptime"] = 67,
+							["cooldowns_defensive_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[31850] = {
+										["id"] = 31850,
+										["targets"] = {
+											["군신잔트라-데스윙"] = 1,
+										},
+										["counter"] = 1,
+									},
+								},
+							},
+							["debuff_uptime_targets"] = {
+							},
+							["nome"] = "군신잔트라-데스윙",
+							["spec"] = 66,
+							["grupo"] = true,
+							["spell_cast"] = {
+								[31935] = 7,
+								[53595] = 13,
+								[26573] = 14,
+								[62124] = 5,
+								[275779] = 16,
+								[31884] = 1,
+								[853] = 2,
+								[53600] = 11,
+								[31850] = 1,
+							},
+							["buff_uptime_targets"] = {
+							},
+							["pets"] = {
+							},
+							["last_event"] = 1605429389,
+							["aID"] = "214-093AAE58",
+							["isTank"] = true,
+							["serial"] = "Player-214-093AAE58",
+							["tipo"] = 4,
+						}, -- [2]
+						{
+							["flag_original"] = 1047,
+							["debuff_uptime_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[157736] = {
+										["activedamt"] = 0,
+										["id"] = 157736,
+										["targets"] = {
+										},
+										["uptime"] = 49,
+										["appliedamt"] = 3,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+								},
+							},
+							["buff_uptime"] = 372,
+							["classe"] = "WARLOCK",
+							["buff_uptime_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[72968] = {
+										["activedamt"] = 1,
+										["id"] = 72968,
+										["targets"] = {
+										},
+										["uptime"] = 87,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[326396] = {
+										["activedamt"] = 1,
+										["id"] = 326396,
+										["targets"] = {
+										},
+										["uptime"] = 87,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[72221] = {
+										["activedamt"] = 1,
+										["id"] = 72221,
+										["targets"] = {
+										},
+										["uptime"] = 87,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[108366] = {
+										["activedamt"] = 7,
+										["id"] = 108366,
+										["targets"] = {
+										},
+										["uptime"] = 85,
+										["appliedamt"] = 7,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[117828] = {
+										["activedamt"] = 8,
+										["id"] = 117828,
+										["targets"] = {
+										},
+										["uptime"] = 26,
+										["appliedamt"] = 8,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+								},
+							},
+							["debuff_uptime"] = 49,
+							["boss_fight_component"] = true,
+							["nome"] = "판타지곤-데스윙",
+							["spec"] = 267,
+							["grupo"] = true,
+							["spell_cast"] = {
+								[29722] = 22,
+								[6353] = 2,
+								[348] = 1,
+								[116858] = 5,
+								[17962] = 8,
+							},
+							["debuff_uptime_targets"] = {
+							},
+							["buff_uptime_targets"] = {
+							},
+							["last_event"] = 1605429389,
+							["pets"] = {
+								"제프구프 <판타지곤-데스윙>", -- [1]
+							},
+							["aID"] = "214-07FC4C5D",
+							["serial"] = "Player-214-07FC4C5D",
+							["tipo"] = 4,
+						}, -- [3]
+						{
+							["flag_original"] = 1047,
+							["debuff_uptime_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[115804] = {
+										["activedamt"] = 0,
+										["id"] = 115804,
+										["targets"] = {
+										},
+										["uptime"] = 49,
+										["appliedamt"] = 3,
+										["refreshamt"] = 3,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[262115] = {
+										["activedamt"] = 0,
+										["id"] = 262115,
+										["targets"] = {
+										},
+										["uptime"] = 57,
+										["appliedamt"] = 1,
+										["refreshamt"] = 6,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[208086] = {
+										["activedamt"] = 0,
+										["id"] = 208086,
+										["targets"] = {
+										},
+										["uptime"] = 10,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+								},
+							},
+							["buff_uptime"] = 361,
+							["classe"] = "WARRIOR",
+							["buff_uptime_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[260708] = {
+										["activedamt"] = 1,
+										["id"] = 260708,
+										["targets"] = {
+										},
+										["uptime"] = 12,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[7384] = {
+										["activedamt"] = 8,
+										["id"] = 7384,
+										["targets"] = {
+										},
+										["uptime"] = 45,
+										["appliedamt"] = 8,
+										["refreshamt"] = 3,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[93825] = {
+										["activedamt"] = 1,
+										["id"] = 93825,
+										["targets"] = {
+										},
+										["uptime"] = 87,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[199854] = {
+										["activedamt"] = 8,
+										["id"] = 199854,
+										["targets"] = {
+										},
+										["actived_at"] = 1605429388,
+										["uptime"] = 11,
+										["appliedamt"] = 8,
+										["refreshamt"] = 0,
+										["actived"] = true,
+										["counter"] = 0,
+									},
+									[72221] = {
+										["activedamt"] = 1,
+										["id"] = 72221,
+										["targets"] = {
+										},
+										["uptime"] = 87,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[201405] = {
+										["activedamt"] = 2,
+										["id"] = 201405,
+										["targets"] = {
+										},
+										["uptime"] = 32,
+										["appliedamt"] = 2,
+										["refreshamt"] = 1,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[326396] = {
+										["activedamt"] = 1,
+										["id"] = 326396,
+										["targets"] = {
+										},
+										["uptime"] = 87,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+								},
+							},
+							["debuff_uptime"] = 116,
+							["boss_fight_component"] = true,
+							["nome"] = "해피뼈전사",
+							["spec"] = 71,
+							["grupo"] = true,
+							["spell_cast"] = {
+								[12294] = 6,
+								[281000] = 7,
+								[7384] = 11,
+								[1464] = 1,
+								[100] = 5,
+								[260708] = 1,
+								[126664] = 5,
+								[167105] = 1,
+							},
+							["debuff_uptime_targets"] = {
+							},
+							["buff_uptime_targets"] = {
+							},
+							["last_event"] = 1605429389,
+							["pets"] = {
+							},
+							["aID"] = "205-06251940",
+							["serial"] = "Player-205-06251940",
+							["tipo"] = 4,
+						}, -- [4]
+						{
+							["flag_original"] = 1047,
+							["debuff_uptime_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[210824] = {
+										["activedamt"] = 0,
+										["id"] = 210824,
+										["targets"] = {
+										},
+										["uptime"] = 16,
+										["appliedamt"] = 2,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[41425] = {
+										["activedamt"] = 1,
+										["id"] = 41425,
+										["targets"] = {
+										},
+										["uptime"] = 26,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+								},
+							},
+							["cooldowns_defensive"] = 1.007526,
+							["buff_uptime"] = 338,
+							["last_cooldown"] = {
+								1605429362.545, -- [1]
+								45438, -- [2]
+							},
+							["classe"] = "MAGE",
+							["cooldowns_defensive_targets"] = {
+								["법따리"] = 1,
+							},
+							["buff_uptime_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[270670] = {
+										["activedamt"] = 5,
+										["id"] = 270670,
+										["targets"] = {
+										},
+										["uptime"] = 9,
+										["appliedamt"] = 5,
+										["refreshamt"] = 22,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[269279] = {
+										["activedamt"] = 3,
+										["id"] = 269279,
+										["targets"] = {
+										},
+										["uptime"] = 49,
+										["appliedamt"] = 3,
+										["refreshamt"] = 1,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[186403] = {
+										["activedamt"] = 1,
+										["id"] = 186403,
+										["targets"] = {
+										},
+										["uptime"] = 87,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[273330] = {
+										["activedamt"] = 1,
+										["id"] = 273330,
+										["targets"] = {
+										},
+										["uptime"] = 17,
+										["appliedamt"] = 1,
+										["refreshamt"] = 4,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[12042] = {
+										["activedamt"] = 1,
+										["id"] = 12042,
+										["targets"] = {
+										},
+										["uptime"] = 10,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[116014] = {
+										["activedamt"] = 5,
+										["id"] = 116014,
+										["targets"] = {
+										},
+										["uptime"] = 32,
+										["appliedamt"] = 5,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[45438] = {
+										["activedamt"] = 1,
+										["id"] = 45438,
+										["targets"] = {
+										},
+										["uptime"] = 4,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[55342] = {
+										["activedamt"] = 1,
+										["id"] = 55342,
+										["targets"] = {
+										},
+										["actived_at"] = 1605429380,
+										["uptime"] = 0,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = true,
+										["counter"] = 0,
+									},
+									[264774] = {
+										["activedamt"] = 1,
+										["id"] = 264774,
+										["targets"] = {
+										},
+										["uptime"] = 4,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[12051] = {
+										["activedamt"] = 1,
+										["id"] = 12051,
+										["targets"] = {
+										},
+										["uptime"] = 4,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[205025] = {
+										["activedamt"] = 2,
+										["id"] = 205025,
+										["targets"] = {
+										},
+										["uptime"] = 7,
+										["appliedamt"] = 2,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[72221] = {
+										["activedamt"] = 1,
+										["id"] = 72221,
+										["targets"] = {
+										},
+										["uptime"] = 87,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[263725] = {
+										["activedamt"] = 2,
+										["id"] = 263725,
+										["targets"] = {
+										},
+										["uptime"] = 28,
+										["appliedamt"] = 2,
+										["refreshamt"] = 3,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+								},
+							},
+							["debuff_uptime"] = 42,
+							["boss_fight_component"] = true,
+							["cooldowns_defensive_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[45438] = {
+										["id"] = 45438,
+										["targets"] = {
+											["법따리"] = 1,
+										},
+										["counter"] = 1,
+									},
+								},
+							},
+							["nome"] = "법따리",
+							["spec"] = 62,
+							["grupo"] = true,
+							["spell_cast"] = {
+								[55342] = 1,
+								[153626] = 4,
+								[12051] = 1,
+								[116011] = 2,
+								[30451] = 22,
+								[12042] = 1,
+								[116014] = 5,
+								[321507] = 2,
+								[44425] = 1,
+								[5143] = 5,
+								[59638] = 12,
+								[205025] = 2,
+								[45438] = 1,
+							},
+							["debuff_uptime_targets"] = {
+							},
+							["buff_uptime_targets"] = {
+							},
+							["last_event"] = 1605429389,
+							["pets"] = {
+							},
+							["aID"] = "205-0713A4FD",
+							["serial"] = "Player-205-0713A4FD",
+							["tipo"] = 4,
+						}, -- [5]
+						{
+							["flag_original"] = 8466,
+							["ownerName"] = "덩치큰토템-데스윙",
+							["nome"] = "치유의 토템 <덩치큰토템-데스윙>",
+							["tipo"] = 4,
+							["pets"] = {
+							},
+							["boss_fight_component"] = true,
+							["spell_cast"] = {
+								[5672] = 1,
+							},
+							["last_event"] = 0,
+							["classe"] = "PET",
+							["serial"] = "Creature-0-3058-1754-18048-3527-000030E835",
+							["aID"] = "3527",
+						}, -- [6]
+						{
+							["flag_original"] = 8466,
+							["ownerName"] = "덩치큰토템-데스윙",
+							["nome"] = "마나 해일 토템 <덩치큰토템-데스윙>",
+							["tipo"] = 4,
+							["pets"] = {
+							},
+							["boss_fight_component"] = true,
+							["spell_cast"] = {
+								[320763] = 1,
+							},
+							["last_event"] = 0,
+							["classe"] = "PET",
+							["serial"] = "Creature-0-3058-1754-18048-10467-000030E82F",
+							["aID"] = "10467",
+						}, -- [7]
+						{
+							["flag_original"] = 4370,
+							["ownerName"] = "판타지곤-데스윙",
+							["nome"] = "제프구프 <판타지곤-데스윙>",
+							["aID"] = "Pet-0-3058-1754-18048-416-01019C2D49",
+							["pets"] = {
+							},
+							["boss_fight_component"] = true,
+							["spell_cast"] = {
+								[3110] = 24,
+							},
+							["tipo"] = 4,
+							["classe"] = "PET",
+							["serial"] = "Pet-0-3058-1754-18048-416-01019C2D49",
+							["last_event"] = 0,
+						}, -- [8]
+						{
+							["flag_original"] = 68168,
+							["tipo"] = 4,
+							["nome"] = "할란 스위트",
+							["boss_fight_component"] = true,
+							["pets"] = {
+							},
+							["spell_cast"] = {
+								[257278] = 2,
+								[257316] = 2,
+								[257402] = 1,
+								[257458] = 1,
+							},
+							["monster"] = true,
+							["last_event"] = 0,
+							["classe"] = "UNKNOW",
+							["serial"] = "Creature-0-3058-1754-18048-126983-000030E278",
+							["aID"] = "126983",
+						}, -- [9]
+						{
+							["flag_original"] = 68168,
+							["debuff_uptime_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+								},
+							},
+							["pets"] = {
+							},
+							["aID"] = "126983",
+							["boss_debuff"] = true,
+							["monster"] = true,
+							["debuff_uptime"] = 24,
+							["spellschool"] = 4,
+							["nome"] = "대포 포화",
+							["boss_fight_component"] = true,
+							["debuff_uptime_targets"] = {
+								["해피뼈전사"] = {
+									["uptime"] = 4,
+									["appliedamt"] = 0,
+									["activedamt"] = 0,
+									["actived"] = false,
+									["refreshamt"] = 0,
+								},
+								["법따리"] = {
+									["uptime"] = 8,
+									["appliedamt"] = 0,
+									["activedamt"] = 0,
+									["actived"] = false,
+									["refreshamt"] = 0,
+								},
+								["판타지곤-데스윙"] = {
+									["uptime"] = 4,
+									["appliedamt"] = 0,
+									["activedamt"] = 0,
+									["actived"] = false,
+									["refreshamt"] = 0,
+								},
+								["덩치큰토템-데스윙"] = {
+									["uptime"] = 8,
+									["appliedamt"] = 0,
+									["activedamt"] = 0,
+									["actived"] = false,
+									["refreshamt"] = 0,
+								},
+							},
+							["damage_spellid"] = 257305,
+							["tipo"] = 4,
+							["damage_twin"] = "할란 스위트",
+							["classe"] = "UNKNOW",
+							["serial"] = "Creature-0-3058-1754-18048-126983-000030E278",
+							["last_event"] = 1605429363,
+						}, -- [10]
+						{
+							["flag_original"] = 2632,
+							["debuff_uptime_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+								},
+							},
+							["pets"] = {
+							},
+							["aID"] = "",
+							["boss_debuff"] = true,
+							["monster"] = true,
+							["debuff_uptime"] = 4,
+							["spellschool"] = 4,
+							["nome"] = "불꽃 파편",
+							["boss_fight_component"] = true,
+							["debuff_uptime_targets"] = {
+								["판타지곤-데스윙"] = {
+									["uptime"] = 1,
+									["appliedamt"] = 0,
+									["activedamt"] = 0,
+									["actived"] = false,
+									["refreshamt"] = 0,
+								},
+								["법따리"] = {
+									["uptime"] = 1,
+									["appliedamt"] = 0,
+									["activedamt"] = 0,
+									["actived"] = false,
+									["refreshamt"] = 0,
+								},
+								["덩치큰토템-데스윙"] = {
+									["uptime"] = 2,
+									["appliedamt"] = 0,
+									["activedamt"] = 0,
+									["actived"] = false,
+									["refreshamt"] = 0,
+								},
+							},
+							["damage_spellid"] = 257460,
+							["last_event"] = 1605429368,
+							["damage_twin"] = "[*] 불꽃 파편",
+							["classe"] = "UNKNOW",
+							["serial"] = "",
+							["tipo"] = 4,
+						}, -- [11]
+						{
+							["flag_original"] = 8466,
+							["ownerName"] = "덩치큰토템-데스윙",
+							["nome"] = "정신의 고리 토템 <덩치큰토템-데스윙>",
+							["tipo"] = 4,
+							["pets"] = {
+							},
+							["boss_fight_component"] = true,
+							["spell_cast"] = {
+								[325174] = 3,
+							},
+							["last_event"] = 0,
+							["classe"] = "PET",
+							["serial"] = "Creature-0-3058-1754-18048-53006-000030E860",
+							["aID"] = "53006",
+						}, -- [12]
+						{
+							["flag_original"] = 2632,
+							["tipo"] = 4,
+							["nome"] = "무쇠파도 폭탄병",
+							["boss_fight_component"] = true,
+							["pets"] = {
+							},
+							["spell_cast"] = {
+								[257314] = 1,
+							},
+							["monster"] = true,
+							["last_event"] = 0,
+							["classe"] = "UNKNOW",
+							["serial"] = "Creature-0-3058-1754-18048-129758-000030E854",
+							["aID"] = "129758",
+						}, -- [13]
+						{
+							["flag_original"] = 2632,
+							["debuff_uptime_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+								},
+							},
+							["pets"] = {
+							},
+							["aID"] = "129758",
+							["boss_debuff"] = true,
+							["monster"] = true,
+							["debuff_uptime"] = 0,
+							["spellschool"] = 1,
+							["nome"] = "검은 화약 폭탄",
+							["boss_fight_component"] = true,
+							["debuff_uptime_targets"] = {
+								["판타지곤-데스윙"] = {
+									["uptime"] = 0,
+									["actived_at"] = 1605429387,
+									["appliedamt"] = 0,
+									["activedamt"] = 1,
+									["actived"] = true,
+									["refreshamt"] = 0,
+								},
+							},
+							["damage_spellid"] = 257314,
+							["tipo"] = 4,
+							["damage_twin"] = "무쇠파도 폭탄병",
+							["classe"] = "UNKNOW",
+							["serial"] = "Creature-0-3058-1754-18048-129758-000030E854",
+							["last_event"] = 1605429387,
+						}, -- [14]
+					},
+				}, -- [4]
+				{
+					["combatId"] = 505,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+					},
+				}, -- [5]
+				["raid_roster"] = {
+					["해피뼈전사"] = true,
+					["군신잔트라-데스윙"] = true,
+					["덩치큰토템-데스윙"] = true,
+					["판타지곤-데스윙"] = true,
+					["법따리"] = true,
+				},
+				["CombatStartedAt"] = 35628.615,
+				["overall_added"] = true,
+				["last_events_tables"] = {
+				},
+				["alternate_power"] = {
+				},
+				["combat_counter"] = 566,
+				["totals"] = {
+					230956, -- [1]
+					41808, -- [2]
+					{
+						70, -- [1]
+						[0] = 149,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 3,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+					["frags_total"] = 0,
+					["voidzone_damage"] = 0,
+				},
+				["totals_grupo"] = {
+					177190, -- [1]
+					39448, -- [2]
+					{
+						70, -- [1]
+						[0] = 149,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 3,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+				},
+				["frags_need_refresh"] = false,
+				["instance_type"] = "party",
+				["data_fim"] = "17:36:29",
+				["cleu_timeline"] = {
+				},
+				["enemy"] = "군주 할란 스위트",
+				["TotalElapsedCombatTime"] = 86.30000000000291,
+				["CombatEndedAt"] = 35714.915,
+				["aura_timeline"] = {
+					["Player-214-093AAE58"] = {
+						[62124] = {
+							["enabled"] = false,
+							["appliedAt"] = 35699.647,
+							["spellId"] = 62124,
+							["data"] = {
+								{
+									35640.182, -- [1]
+									35643.182, -- [2]
+								}, -- [1]
+								{
+									35650.532, -- [1]
+									35653.531, -- [2]
+								}, -- [2]
+								{
+									35659.048, -- [1]
+									35662.048, -- [2]
+								}, -- [3]
+								{
+									35672.964, -- [1]
+									35675.981, -- [2]
+								}, -- [4]
+								{
+									35699.647, -- [1]
+									35702.647, -- [2]
+								}, -- [5]
+							},
+							["amountUp"] = 0,
+						},
+						[197277] = {
+							["enabled"] = false,
+							["appliedAt"] = 35707.697,
+							["spellId"] = 197277,
+							["data"] = {
+								{
+									35631.749, -- [1]
+									35633.649, -- [2]
+								}, -- [1]
+								{
+									35637.215, -- [1]
+									35638.815, -- [2]
+								}, -- [2]
+								{
+									35641.382, -- [1]
+									35648.232, -- [2]
+								}, -- [3]
+								{
+									35650.198, -- [1]
+									35658.131, -- [2]
+								}, -- [4]
+								{
+									35660.965, -- [1]
+									35662.748, -- [2]
+								}, -- [5]
+								{
+									35666.165, -- [1]
+									35672.064, -- [2]
+								}, -- [6]
+								{
+									35677.531, -- [1]
+									35680.814, -- [2]
+								}, -- [7]
+								{
+									35690.214, -- [1]
+									35706.514, -- [2]
+								}, -- [8]
+								{
+									35707.697, -- [1]
+									35714.814, -- [2]
+								}, -- [9]
+							},
+							["amountUp"] = 0,
+						},
+						[204242] = {
+							["enabled"] = false,
+							["appliedAt"] = 35713.297,
+							["spellId"] = 204242,
+							["data"] = {
+								{
+									35713.297, -- [1]
+									35714.831, -- [2]
+								}, -- [1]
+							},
+							["amountUp"] = 0,
+						},
+						[132403] = {
+							["enabled"] = false,
+							["appliedAt"] = 35706.514,
+							["spellId"] = 132403,
+							["data"] = {
+								{
+									35633.632, -- [1]
+									35638.148, -- [2]
+								}, -- [1]
+								{
+									35638.798, -- [1]
+									35643.298, -- [2]
+								}, -- [2]
+								{
+									35648.215, -- [1]
+									35657.231, -- [2]
+								}, -- [3]
+								{
+									35658.131, -- [1]
+									35662.631, -- [2]
+								}, -- [4]
+								{
+									35662.731, -- [1]
+									35667.248, -- [2]
+								}, -- [5]
+								{
+									35672.048, -- [1]
+									35676.564, -- [2]
+								}, -- [6]
+								{
+									35680.798, -- [1]
+									35689.814, -- [2]
+								}, -- [7]
+								{
+									35693.097, -- [1]
+									35697.614, -- [2]
+								}, -- [8]
+								{
+									35706.514, -- [1]
+									35711.014, -- [2]
+								}, -- [9]
+							},
+							["amountUp"] = 0,
+						},
+						[31850] = {
+							["enabled"] = false,
+							["appliedAt"] = 35649.598,
+							["spellId"] = 31850,
+							["data"] = {
+								{
+									35649.598, -- [1]
+									35657.615, -- [2]
+								}, -- [1]
+							},
+							["amountUp"] = 0,
+						},
+						[188370] = {
+							["enabled"] = false,
+							["appliedAt"] = 35713.114,
+							["spellId"] = 188370,
+							["data"] = {
+								{
+									35630.432, -- [1]
+									35634.448, -- [2]
+								}, -- [1]
+								{
+									35634.498, -- [1]
+									35643.415, -- [2]
+								}, -- [2]
+								{
+									35643.465, -- [1]
+									35653.232, -- [2]
+								}, -- [3]
+								{
+									35654.198, -- [1]
+									35656.581, -- [2]
+								}, -- [4]
+								{
+									35657.248, -- [1]
+									35659.498, -- [2]
+								}, -- [5]
+								{
+									35659.598, -- [1]
+									35664.031, -- [2]
+								}, -- [6]
+								{
+									35664.031, -- [1]
+									35668.798, -- [2]
+								}, -- [7]
+								{
+									35668.848, -- [1]
+									35673.831, -- [2]
+								}, -- [8]
+								{
+									35673.914, -- [1]
+									35681.298, -- [2]
+								}, -- [9]
+								{
+									35682.531, -- [1]
+									35683.148, -- [2]
+								}, -- [10]
+								{
+									35683.181, -- [1]
+									35688.747, -- [2]
+								}, -- [11]
+								{
+									35688.831, -- [1]
+									35693.481, -- [2]
+								}, -- [12]
+								{
+									35694.014, -- [1]
+									35696.647, -- [2]
+								}, -- [13]
+								{
+									35696.683, -- [1]
+									35703.481, -- [2]
+								}, -- [14]
+								{
+									35703.497, -- [1]
+									35708.947, -- [2]
+								}, -- [15]
+								{
+									35708.98, -- [1]
+									35713.064, -- [2]
+								}, -- [16]
+								{
+									35713.114, -- [1]
+									35714.831, -- [2]
+								}, -- [17]
+							},
+							["amountUp"] = 0,
+						},
+						[223819] = {
+							["enabled"] = false,
+							["appliedAt"] = 35638.832,
+							["spellId"] = 223819,
+							["data"] = {
+								{
+									35638.832, -- [1]
+									35648.215, -- [2]
+								}, -- [1]
+							},
+							["amountUp"] = 0,
+						},
+						[31884] = {
+							["enabled"] = false,
+							["appliedAt"] = 35642.298,
+							["spellId"] = 31884,
+							["data"] = {
+								{
+									35642.298, -- [1]
+									35662.298, -- [2]
+								}, -- [1]
+							},
+							["amountUp"] = 0,
+						},
+					},
+					["Player-205-06251940"] = {
+						[115804] = {
+							["enabled"] = false,
+							["appliedAt"] = 35678.131,
+							["spellId"] = 115804,
+							["data"] = {
+								{
+									35632.949, -- [1]
+									35662.331, -- [2]
+								}, -- [1]
+								{
+									35662.915, -- [1]
+									35672.914, -- [2]
+								}, -- [2]
+								{
+									35678.131, -- [1]
+									35688.154, -- [2]
+								}, -- [3]
+							},
+							["amountUp"] = 0,
+						},
+						[199854] = {
+							["enabled"] = false,
+							["appliedAt"] = 35713.53,
+							["spellId"] = 199854,
+							["data"] = {
+								{
+									35632.949, -- [1]
+									35634.732, -- [2]
+								}, -- [1]
+								{
+									35638.565, -- [1]
+									35640.582, -- [2]
+								}, -- [2]
+								{
+									35645.232, -- [1]
+									35647.248, -- [2]
+								}, -- [3]
+								{
+									35678.131, -- [1]
+									35679.548, -- [2]
+								}, -- [4]
+								{
+									35703.647, -- [1]
+									35705.097, -- [2]
+								}, -- [5]
+								{
+									35706.497, -- [1]
+									35707.914, -- [2]
+								}, -- [6]
+								{
+									35710.714, -- [1]
+									35712.13, -- [2]
+								}, -- [7]
+								{
+									35713.53, -- [1]
+									35714.831, -- [2]
+								}, -- [8]
+							},
+							["amountUp"] = 0,
+						},
+						[260708] = {
+							["enabled"] = false,
+							["appliedAt"] = 35667.9,
+							["spellId"] = 260708,
+							["data"] = {
+								{
+									35667.9, -- [1]
+									35679.914, -- [2]
+								}, -- [1]
+							},
+							["amountUp"] = 0,
+						},
+						[208086] = {
+							["enabled"] = false,
+							["appliedAt"] = 35646.982,
+							["spellId"] = 208086,
+							["data"] = {
+								{
+									35646.982, -- [1]
+									35656.998, -- [2]
+								}, -- [1]
+							},
+							["amountUp"] = 0,
+						},
+						[262115] = {
+							["enabled"] = false,
+							["appliedAt"] = 35632.982,
+							["spellId"] = 262115,
+							["data"] = {
+								{
+									35632.982, -- [1]
+									35690.547, -- [2]
+								}, -- [1]
+							},
+							["amountUp"] = 0,
+						},
+						[201405] = {
+							["enabled"] = false,
+							["appliedAt"] = 35685.864,
+							["spellId"] = 201405,
+							["data"] = {
+								{
+									35645.265, -- [1]
+									35661.965, -- [2]
+								}, -- [1]
+								{
+									35685.864, -- [1]
+									35700.847, -- [2]
+								}, -- [2]
+							},
+							["amountUp"] = 0,
+						},
+						[7384] = {
+							["enabled"] = false,
+							["appliedAt"] = 35698.981,
+							["spellId"] = 7384,
+							["data"] = {
+								{
+									35631.332, -- [1]
+									35632.965, -- [2]
+								}, -- [1]
+								{
+									35634.732, -- [1]
+									35638.583, -- [2]
+								}, -- [2]
+								{
+									35643.832, -- [1]
+									35645.248, -- [2]
+								}, -- [3]
+								{
+									35648.065, -- [1]
+									35652.331, -- [2]
+								}, -- [4]
+								{
+									35661.498, -- [1]
+									35662.915, -- [2]
+								}, -- [5]
+								{
+									35676.731, -- [1]
+									35678.148, -- [2]
+								}, -- [6]
+								{
+									35679.548, -- [1]
+									35694.547, -- [2]
+								}, -- [7]
+								{
+									35698.981, -- [1]
+									35714.831, -- [2]
+								}, -- [8]
+							},
+							["amountUp"] = 0,
+						},
+					},
+					["Player-214-07FC4C5D"] = {
+						[117828] = {
+							["enabled"] = false,
+							["appliedAt"] = 35714.447,
+							["spellId"] = 117828,
+							["data"] = {
+								{
+									35633.632, -- [1]
+									35636.265, -- [2]
+								}, -- [1]
+								{
+									35639.898, -- [1]
+									35643.365, -- [2]
+								}, -- [2]
+								{
+									35646.998, -- [1]
+									35650.265, -- [2]
+								}, -- [3]
+								{
+									35657.581, -- [1]
+									35660.215, -- [2]
+								}, -- [4]
+								{
+									35668.798, -- [1]
+									35672.081, -- [2]
+								}, -- [5]
+								{
+									35680.964, -- [1]
+									35686.397, -- [2]
+								}, -- [6]
+								{
+									35693.697, -- [1]
+									35697.564, -- [2]
+								}, -- [7]
+								{
+									35714.447, -- [1]
+									35714.831, -- [2]
+								}, -- [8]
+							},
+							["amountUp"] = 0,
+						},
+						[157736] = {
+							["enabled"] = false,
+							["appliedAt"] = 35693.697,
+							["spellId"] = 157736,
+							["data"] = {
+								{
+									35633.632, -- [1]
+									35650.965, -- [2]
+								}, -- [1]
+								{
+									35677.064, -- [1]
+									35690.081, -- [2]
+								}, -- [2]
+								{
+									35693.697, -- [1]
+									35711.714, -- [2]
+								}, -- [3]
+							},
+							["amountUp"] = 0,
+						},
+						[108366] = {
+							["enabled"] = false,
+							["appliedAt"] = 35689.197,
+							["spellId"] = 108366,
+							["data"] = {
+								{
+									35682.164, -- [1]
+									35683.031, -- [2]
+								}, -- [1]
+								{
+									35683.181, -- [1]
+									35686.097, -- [2]
+								}, -- [2]
+								{
+									35686.181, -- [1]
+									35686.897, -- [2]
+								}, -- [3]
+								{
+									35687.197, -- [1]
+									35687.964, -- [2]
+								}, -- [4]
+								{
+									35688.186, -- [1]
+									35688.481, -- [2]
+								}, -- [5]
+								{
+									35689.197, -- [1]
+									35714.831, -- [2]
+								}, -- [6]
+							},
+							["amountUp"] = 0,
+						},
+					},
+					["Player-214-09483ED4"] = {
+						[53390] = {
+							["enabled"] = false,
+							["appliedAt"] = 35680.048,
+							["spellId"] = 53390,
+							["data"] = {
+								{
+									35646.548, -- [1]
+									35648.348, -- [2]
+								}, -- [1]
+								{
+									35660.748, -- [1]
+									35675.765, -- [2]
+								}, -- [2]
+								{
+									35680.048, -- [1]
+									35712.014, -- [2]
+								}, -- [3]
+							},
+							["amountUp"] = 0,
+						},
+						[61295] = {
+							["enabled"] = false,
+							["appliedAt"] = 35702.097,
+							["spellId"] = 61295,
+							["data"] = {
+								{
+									35702.097, -- [1]
+									35714.831, -- [2]
+								}, -- [1]
+							},
+							["amountUp"] = 0,
+						},
+						[188389] = {
+							["enabled"] = false,
+							["appliedAt"] = 35705.18,
+							["spellId"] = 188389,
+							["data"] = {
+								{
+									35633.815, -- [1]
+									35651.815, -- [2]
+								}, -- [1]
+								{
+									35705.18, -- [1]
+									35714.814, -- [2]
+								}, -- [2]
+							},
+							["amountUp"] = 0,
+						},
+						[974] = {
+							["enabled"] = false,
+							["appliedAt"] = 35685.964,
+							["spellId"] = 974,
+							["data"] = {
+								{
+									35685.964, -- [1]
+									35714.831, -- [2]
+								}, -- [1]
+							},
+							["amountUp"] = 0,
+						},
+						[280615] = {
+							["enabled"] = false,
+							["appliedAt"] = 35712.014,
+							["spellId"] = 280615,
+							["data"] = {
+								{
+									35648.348, -- [1]
+									35656.781, -- [2]
+								}, -- [1]
+								{
+									35709.347, -- [1]
+									35712.014, -- [2]
+								}, -- [2]
+								{
+									35712.014, -- [1]
+									35714.831, -- [2]
+								}, -- [3]
+							},
+							["amountUp"] = 0,
+						},
+						[77762] = {
+							["enabled"] = false,
+							["appliedAt"] = 35712.564,
+							["spellId"] = 77762,
+							["data"] = {
+								{
+									35637.515, -- [1]
+									35638.715, -- [2]
+								}, -- [1]
+								{
+									35650.382, -- [1]
+									35651.832, -- [2]
+								}, -- [2]
+								{
+									35712.564, -- [1]
+									35714.831, -- [2]
+								}, -- [3]
+							},
+							["amountUp"] = 0,
+						},
+						[79206] = {
+							["enabled"] = false,
+							["appliedAt"] = 35674.248,
+							["spellId"] = 79206,
+							["data"] = {
+								{
+									35674.248, -- [1]
+									35689.248, -- [2]
+								}, -- [1]
+							},
+							["amountUp"] = 0,
+						},
+					},
+				},
+				["__call"] = {
+				},
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+							["해피뼈전사"] = 2702.002658,
+							["군신잔트라-데스윙"] = 227.003985,
+							["덩치큰토템-데스윙"] = 32659.007958,
+							["법따리"] = 3831.00815,
+							["판타지곤-데스윙"] = 2389.007462,
+						}, -- [1]
+					},
+					["damage_section"] = {
+					},
+					["damage"] = {
+						{
+							["해피뼈전사"] = 48043.003957,
+							["군신잔트라-데스윙"] = 33162.005168,
+							["덩치큰토템-데스윙"] = 6287.001313,
+							["법따리"] = 52077.006927,
+							["판타지곤-데스윙"] = 45804.002525,
+						}, -- [1]
+					},
+				},
+				["end_time"] = 35714.831,
+				["combat_id"] = 505,
+				["cleu_events"] = {
+					["n"] = 1,
+				},
+				["tempo_start"] = 1605429302,
+				["player_last_events"] = {
+				},
+				["spells_cast_timeline"] = {
+					["Player-214-093AAE58"] = {
+					},
+					["Player-205-06251940"] = {
+					},
+					["Player-214-07FC4C5D"] = {
+					},
+					["Player-214-09483ED4"] = {
+					},
+				},
+				["is_boss"] = {
+					["diff_string"] = "일반",
+					["index"] = 1,
+					["zone"] = "자유지대",
+					["encounter"] = "군주 할란 스위트",
+					["mapid"] = 1754,
+					["try_number"] = 1,
+					["name"] = "군주 할란 스위트",
+					["diff"] = 1,
+					["id"] = 2096,
+					["ej_instance_id"] = 1001,
+					["killed"] = true,
+				},
+				["data_inicio"] = "17:35:02",
+				["CombatSkillCache"] = {
+				},
+				["frags"] = {
+				},
+				["start_time"] = 35627.665,
+				["TimeData"] = {
+				},
+				["contra"] = "할란 스위트",
+			}, -- [1]
+			{
+				{
+					["combatId"] = 501,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["totalabsorbed"] = 0.002222,
+							["damage_from"] = {
+							},
+							["targets"] = {
+								["트로삭"] = 49471,
+							},
+							["end_time"] = 1605429145,
+							["pets"] = {
+							},
+							["on_hold"] = false,
+							["boss_fight_component"] = true,
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 49471.002222,
+							["colocacao"] = 1,
+							["friendlyfire"] = {
+							},
+							["dps_started"] = false,
+							["total"] = 49471.002222,
+							["classe"] = "MAGE",
+							["aID"] = "205-0713A4FD",
+							["nome"] = "법따리",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									[7268] = {
+										["c_amt"] = 6,
+										["b_amt"] = 0,
+										["c_dmg"] = 4034,
+										["g_amt"] = 0,
+										["n_max"] = 422,
+										["targets"] = {
+											["트로삭"] = 10332,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 6298,
+										["n_min"] = 258,
+										["g_dmg"] = 0,
+										["counter"] = 24,
+										["total"] = 10332,
+										["c_max"] = 836,
+										["spellschool"] = 64,
+										["id"] = 7268,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 18,
+										["r_amt"] = 0,
+										["c_min"] = 494,
+									},
+									[30451] = {
+										["c_amt"] = 5,
+										["b_amt"] = 0,
+										["c_dmg"] = 11231,
+										["g_amt"] = 0,
+										["n_max"] = 1550,
+										["targets"] = {
+											["트로삭"] = 29085,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 17854,
+										["n_min"] = 813,
+										["g_dmg"] = 0,
+										["counter"] = 21,
+										["total"] = 29085,
+										["c_max"] = 3057,
+										["spellschool"] = 64,
+										["id"] = 30451,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 16,
+										["r_amt"] = 0,
+										["c_min"] = 1649,
+									},
+									[153640] = {
+										["c_amt"] = 2,
+										["b_amt"] = 0,
+										["c_dmg"] = 3485,
+										["g_amt"] = 0,
+										["n_max"] = 882,
+										["targets"] = {
+											["트로삭"] = 4367,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 882,
+										["n_min"] = 882,
+										["g_dmg"] = 0,
+										["counter"] = 3,
+										["total"] = 4367,
+										["c_max"] = 2281,
+										["spellschool"] = 64,
+										["id"] = 153640,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 1,
+										["r_amt"] = 0,
+										["c_min"] = 1204,
+									},
+									[269889] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 156,
+										["targets"] = {
+											["트로삭"] = 932,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 932,
+										["n_min"] = 155,
+										["g_dmg"] = 0,
+										["counter"] = 6,
+										["total"] = 932,
+										["c_max"] = 0,
+										["spellschool"] = 8,
+										["id"] = 269889,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 6,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									},
+									[210833] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 2813,
+										["targets"] = {
+											["트로삭"] = 2813,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 2813,
+										["n_min"] = 2813,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 2813,
+										["c_max"] = 0,
+										["spellschool"] = 64,
+										["id"] = 210833,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 1,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									},
+									[44425] = {
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 1942,
+										["g_amt"] = 0,
+										["n_max"] = 0,
+										["targets"] = {
+											["트로삭"] = 1942,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 0,
+										["n_min"] = 0,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 1942,
+										["c_max"] = 1942,
+										["spellschool"] = 64,
+										["id"] = 44425,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 0,
+										["r_amt"] = 0,
+										["c_min"] = 1942,
+									},
+								},
+							},
+							["grupo"] = true,
+							["spec"] = 62,
+							["serial"] = "Player-205-0713A4FD",
+							["last_dps"] = 857.3979136900041,
+							["custom"] = 0,
+							["last_event"] = 1605429145,
+							["damage_taken"] = 0.002222,
+							["start_time"] = 1605429090,
+							["delay"] = 0,
+							["tipo"] = 1,
+						}, -- [1]
+						{
+							["flag_original"] = 1298,
+							["totalabsorbed"] = 0.002458,
+							["damage_from"] = {
+								["트로삭"] = true,
+								["톱니 상어"] = true,
+							},
+							["targets"] = {
+								["트로삭"] = 31878,
+							},
+							["end_time"] = 1605429145,
+							["pets"] = {
+							},
+							["on_hold"] = false,
+							["boss_fight_component"] = true,
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 31878.002458,
+							["colocacao"] = 2,
+							["friendlyfire"] = {
+							},
+							["dps_started"] = false,
+							["total"] = 31878.002458,
+							["classe"] = "WARRIOR",
+							["aID"] = "205-06251940",
+							["nome"] = "해피뼈전사",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 882,
+										["g_amt"] = 0,
+										["n_max"] = 438,
+										["targets"] = {
+											["트로삭"] = 4239,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 3357,
+										["n_min"] = 238,
+										["g_dmg"] = 0,
+										["counter"] = 12,
+										["total"] = 4239,
+										["c_max"] = 882,
+										["spellschool"] = 1,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 11,
+										["r_amt"] = 0,
+										["c_min"] = 882,
+									}, -- [1]
+									[1464] = {
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 677,
+										["g_amt"] = 0,
+										["n_max"] = 352,
+										["targets"] = {
+											["트로삭"] = 1371,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 694,
+										["n_min"] = 342,
+										["g_dmg"] = 0,
+										["counter"] = 3,
+										["total"] = 1371,
+										["c_max"] = 677,
+										["spellschool"] = 1,
+										["id"] = 1464,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 2,
+										["r_amt"] = 0,
+										["c_min"] = 677,
+									},
+									[274575] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 334,
+										["targets"] = {
+											["트로삭"] = 334,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 334,
+										["n_min"] = 334,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 334,
+										["c_max"] = 0,
+										["spellschool"] = 8,
+										["id"] = 274575,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 1,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									},
+									[126664] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 60,
+										["targets"] = {
+											["트로삭"] = 109,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 109,
+										["n_min"] = 49,
+										["g_dmg"] = 0,
+										["counter"] = 2,
+										["total"] = 109,
+										["c_max"] = 0,
+										["spellschool"] = 1,
+										["id"] = 126664,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 2,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									},
+									[260798] = {
+										["c_amt"] = 2,
+										["b_amt"] = 0,
+										["c_dmg"] = 6912,
+										["g_amt"] = 0,
+										["n_max"] = 1987,
+										["targets"] = {
+											["트로삭"] = 12634,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 5722,
+										["n_min"] = 1756,
+										["g_dmg"] = 0,
+										["counter"] = 5,
+										["total"] = 12634,
+										["c_max"] = 4099,
+										["spellschool"] = 1,
+										["id"] = 260798,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 3,
+										["r_amt"] = 0,
+										["c_min"] = 2813,
+									},
+									[105771] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 0,
+										["targets"] = {
+											["트로삭"] = 0,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 0,
+										["n_min"] = 0,
+										["g_dmg"] = 0,
+										["counter"] = 2,
+										["IMMUNE"] = 2,
+										["total"] = 0,
+										["c_max"] = 0,
+										["spellschool"] = 1,
+										["id"] = 105771,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 0,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									},
+									[167105] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 949,
+										["targets"] = {
+											["트로삭"] = 949,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 949,
+										["n_min"] = 949,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 949,
+										["c_max"] = 0,
+										["spellschool"] = 1,
+										["id"] = 167105,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 1,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									},
+									[12294] = {
+										["c_amt"] = 2,
+										["b_amt"] = 0,
+										["c_dmg"] = 2546,
+										["g_amt"] = 0,
+										["n_max"] = 724,
+										["targets"] = {
+											["트로삭"] = 3892,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 1346,
+										["n_min"] = 622,
+										["g_dmg"] = 0,
+										["counter"] = 4,
+										["total"] = 3892,
+										["c_max"] = 1301,
+										["spellschool"] = 1,
+										["id"] = 12294,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 2,
+										["r_amt"] = 0,
+										["c_min"] = 1245,
+									},
+									[127802] = {
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 337,
+										["g_amt"] = 0,
+										["n_max"] = 150,
+										["targets"] = {
+											["트로삭"] = 636,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 299,
+										["n_min"] = 149,
+										["g_dmg"] = 0,
+										["counter"] = 3,
+										["total"] = 636,
+										["c_max"] = 337,
+										["spellschool"] = 32,
+										["id"] = 127802,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 2,
+										["r_amt"] = 0,
+										["c_min"] = 337,
+									},
+									[262115] = {
+										["c_amt"] = 3,
+										["b_amt"] = 0,
+										["c_dmg"] = 666,
+										["g_amt"] = 0,
+										["n_max"] = 162,
+										["targets"] = {
+											["트로삭"] = 2478,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 1812,
+										["n_min"] = 16,
+										["g_dmg"] = 0,
+										["counter"] = 19,
+										["total"] = 2478,
+										["c_max"] = 222,
+										["spellschool"] = 1,
+										["id"] = 262115,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 16,
+										["r_amt"] = 0,
+										["c_min"] = 222,
+									},
+									[7384] = {
+										["c_amt"] = 3,
+										["b_amt"] = 0,
+										["c_dmg"] = 3099,
+										["g_amt"] = 0,
+										["n_max"] = 686,
+										["targets"] = {
+											["트로삭"] = 5236,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 2137,
+										["n_min"] = 393,
+										["g_dmg"] = 0,
+										["counter"] = 7,
+										["total"] = 5236,
+										["c_max"] = 1386,
+										["spellschool"] = 1,
+										["id"] = 7384,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 4,
+										["r_amt"] = 0,
+										["c_min"] = 793,
+									},
+								},
+							},
+							["grupo"] = true,
+							["spec"] = 71,
+							["serial"] = "Player-205-06251940",
+							["last_dps"] = 552.487954002664,
+							["custom"] = 0,
+							["last_event"] = 1605429144,
+							["damage_taken"] = 4374.002458,
+							["start_time"] = 1605429090,
+							["delay"] = 0,
+							["tipo"] = 1,
+						}, -- [2]
+						{
+							["flag_original"] = 1298,
+							["totalabsorbed"] = 0.002168,
+							["damage_from"] = {
+								["망치상어"] = true,
+							},
+							["targets"] = {
+								["트로삭"] = 26941,
+							},
+							["end_time"] = 1605429145,
+							["pets"] = {
+								"제프구프 <판타지곤-데스윙>", -- [1]
+							},
+							["on_hold"] = false,
+							["boss_fight_component"] = true,
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 22544.002168,
+							["colocacao"] = 3,
+							["friendlyfire"] = {
+							},
+							["dps_started"] = false,
+							["total"] = 26941.002168,
+							["classe"] = "WARLOCK",
+							["aID"] = "214-07FC4C5D",
+							["nome"] = "판타지곤-데스윙",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									[17962] = {
+										["c_amt"] = 2,
+										["b_amt"] = 0,
+										["c_dmg"] = 2449,
+										["g_amt"] = 0,
+										["n_max"] = 667,
+										["targets"] = {
+											["트로삭"] = 4944,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 2495,
+										["n_min"] = 599,
+										["g_dmg"] = 0,
+										["counter"] = 6,
+										["total"] = 4944,
+										["c_max"] = 1250,
+										["spellschool"] = 4,
+										["id"] = 17962,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 4,
+										["r_amt"] = 0,
+										["c_min"] = 1199,
+									},
+									[6353] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 2578,
+										["targets"] = {
+											["트로삭"] = 2578,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 2578,
+										["n_min"] = 2578,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 2578,
+										["c_max"] = 0,
+										["spellschool"] = 4,
+										["id"] = 6353,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 1,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									},
+									[157736] = {
+										["c_amt"] = 3,
+										["b_amt"] = 0,
+										["c_dmg"] = 958,
+										["g_amt"] = 0,
+										["n_max"] = 158,
+										["targets"] = {
+											["트로삭"] = 1116,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 158,
+										["n_min"] = 158,
+										["g_dmg"] = 0,
+										["counter"] = 4,
+										["total"] = 1116,
+										["c_max"] = 326,
+										["spellschool"] = 4,
+										["id"] = 157736,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 1,
+										["r_amt"] = 0,
+										["c_min"] = 316,
+									},
+									[266136] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 185,
+										["targets"] = {
+											["트로삭"] = 228,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 228,
+										["n_min"] = 43,
+										["g_dmg"] = 0,
+										["counter"] = 2,
+										["total"] = 228,
+										["c_max"] = 0,
+										["spellschool"] = 4,
+										["id"] = 266136,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 2,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									},
+									[116858] = {
+										["c_amt"] = 4,
+										["b_amt"] = 0,
+										["c_dmg"] = 7123,
+										["g_amt"] = 0,
+										["n_max"] = 0,
+										["targets"] = {
+											["트로삭"] = 7123,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 0,
+										["n_min"] = 0,
+										["g_dmg"] = 0,
+										["counter"] = 4,
+										["total"] = 7123,
+										["c_max"] = 1810,
+										["spellschool"] = 124,
+										["id"] = 116858,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 0,
+										["r_amt"] = 0,
+										["c_min"] = 1761,
+									},
+									[29722] = {
+										["c_amt"] = 4,
+										["b_amt"] = 0,
+										["c_dmg"] = 3241,
+										["g_amt"] = 0,
+										["n_max"] = 425,
+										["targets"] = {
+											["트로삭"] = 6555,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 3314,
+										["n_min"] = 386,
+										["g_dmg"] = 0,
+										["counter"] = 12,
+										["total"] = 6555,
+										["c_max"] = 855,
+										["spellschool"] = 4,
+										["id"] = 29722,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 8,
+										["r_amt"] = 0,
+										["c_min"] = 765,
+									},
+								},
+							},
+							["grupo"] = true,
+							["spec"] = 267,
+							["serial"] = "Player-214-07FC4C5D",
+							["last_dps"] = 466.9232078198887,
+							["custom"] = 0,
+							["last_event"] = 1605429143,
+							["damage_taken"] = 1651.002168,
+							["start_time"] = 1605429093,
+							["delay"] = 0,
+							["tipo"] = 1,
+						}, -- [3]
+						{
+							["flag_original"] = 1298,
+							["totalabsorbed"] = 0.008625,
+							["pets"] = {
+							},
+							["classe"] = "PALADIN",
+							["total_without_pet"] = 20596.008625,
+							["dps_started"] = false,
+							["total"] = 20596.008625,
+							["spec"] = 66,
+							["colocacao"] = 4,
+							["on_hold"] = false,
+							["isTank"] = true,
+							["serial"] = "Player-214-093AAE58",
+							["damage_from"] = {
+								["트로삭"] = true,
+							},
+							["targets"] = {
+								["트로삭"] = 20596,
+							},
+							["boss_fight_component"] = true,
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["end_time"] = 1605429145,
+							["avoidance"] = {
+								["overall"] = {
+									["DODGE"] = 2,
+									["FULL_ABSORB_AMT"] = 0,
+									["BLOCKED_AMT"] = 2921,
+									["BLOCKED_HITS"] = 13,
+									["FULL_ABSORBED"] = 0,
+									["ALL"] = 30,
+									["PARTIAL_ABSORBED"] = 0,
+									["PARRY"] = 0,
+									["PARTIAL_ABSORB_AMT"] = 0,
+									["ABSORB"] = 0,
+									["ABSORB_AMT"] = 0,
+									["FULL_HIT"] = 30,
+									["HITS"] = 18,
+									["FULL_HIT_AMT"] = 22193,
+								},
+								["트로삭"] = {
+									["DODGE"] = 2,
+									["FULL_ABSORB_AMT"] = 0,
+									["BLOCKED_AMT"] = 2921,
+									["BLOCKED_HITS"] = 13,
+									["FULL_ABSORBED"] = 0,
+									["ALL"] = 30,
+									["PARTIAL_ABSORBED"] = 0,
+									["PARRY"] = 0,
+									["PARTIAL_ABSORB_AMT"] = 0,
+									["ABSORB"] = 0,
+									["ABSORB_AMT"] = 0,
+									["FULL_HIT"] = 30,
+									["HITS"] = 18,
+									["FULL_HIT_AMT"] = 22193,
+								},
+							},
+							["friendlyfire"] = {
+							},
+							["nome"] = "군신잔트라-데스윙",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 4,
+										["b_amt"] = 0,
+										["c_dmg"] = 1275,
+										["g_amt"] = 0,
+										["n_max"] = 171,
+										["targets"] = {
+											["트로삭"] = 4087,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 2812,
+										["n_min"] = 135,
+										["g_dmg"] = 0,
+										["counter"] = 23,
+										["total"] = 4087,
+										["c_max"] = 337,
+										["spellschool"] = 1,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 19,
+										["r_amt"] = 0,
+										["c_min"] = 282,
+									}, -- [1]
+									[53595] = {
+										["c_amt"] = 2,
+										["b_amt"] = 0,
+										["c_dmg"] = 400,
+										["g_amt"] = 0,
+										["n_max"] = 107,
+										["targets"] = {
+											["트로삭"] = 1163,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 763,
+										["n_min"] = 87,
+										["g_dmg"] = 0,
+										["counter"] = 10,
+										["total"] = 1163,
+										["c_max"] = 218,
+										["spellschool"] = 1,
+										["id"] = 53595,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 8,
+										["r_amt"] = 0,
+										["c_min"] = 182,
+									},
+									[204242] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 0,
+										["targets"] = {
+											["트로삭"] = 0,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 0,
+										["n_min"] = 0,
+										["g_dmg"] = 0,
+										["counter"] = 12,
+										["IMMUNE"] = 12,
+										["total"] = 0,
+										["c_max"] = 0,
+										["spellschool"] = 2,
+										["id"] = 204242,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 0,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									},
+									[275779] = {
+										["c_amt"] = 2,
+										["b_amt"] = 0,
+										["c_dmg"] = 2776,
+										["g_amt"] = 0,
+										["n_max"] = 673,
+										["targets"] = {
+											["트로삭"] = 8663,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 5887,
+										["n_min"] = 561,
+										["g_dmg"] = 0,
+										["counter"] = 12,
+										["total"] = 8663,
+										["c_max"] = 1406,
+										["spellschool"] = 2,
+										["id"] = 275779,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 10,
+										["r_amt"] = 0,
+										["c_min"] = 1370,
+									},
+									[53600] = {
+										["c_amt"] = 2,
+										["b_amt"] = 0,
+										["c_dmg"] = 1012,
+										["g_amt"] = 0,
+										["n_max"] = 311,
+										["targets"] = {
+											["트로삭"] = 2131,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 1119,
+										["n_min"] = 250,
+										["g_dmg"] = 0,
+										["counter"] = 6,
+										["total"] = 2131,
+										["c_max"] = 603,
+										["spellschool"] = 2,
+										["id"] = 53600,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 4,
+										["r_amt"] = 0,
+										["c_min"] = 409,
+									},
+									[853] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 0,
+										["targets"] = {
+											["트로삭"] = 0,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 0,
+										["n_min"] = 0,
+										["g_dmg"] = 0,
+										["counter"] = 2,
+										["IMMUNE"] = 2,
+										["total"] = 0,
+										["c_max"] = 0,
+										["spellschool"] = 2,
+										["id"] = 853,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 0,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									},
+									[157122] = {
+										["c_amt"] = 4,
+										["b_amt"] = 0,
+										["c_dmg"] = 454,
+										["g_amt"] = 0,
+										["n_max"] = 56,
+										["targets"] = {
+											["트로삭"] = 660,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 206,
+										["n_min"] = 47,
+										["g_dmg"] = 0,
+										["counter"] = 8,
+										["total"] = 660,
+										["c_max"] = 115,
+										["spellschool"] = 2,
+										["id"] = 157122,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 4,
+										["r_amt"] = 0,
+										["c_min"] = 111,
+									},
+									[81297] = {
+										["c_amt"] = 19,
+										["b_amt"] = 0,
+										["c_dmg"] = 995,
+										["g_amt"] = 0,
+										["n_max"] = 30,
+										["targets"] = {
+											["트로삭"] = 1998,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 1003,
+										["n_min"] = 23,
+										["g_dmg"] = 0,
+										["counter"] = 59,
+										["total"] = 1998,
+										["c_max"] = 59,
+										["spellschool"] = 2,
+										["id"] = 81297,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 40,
+										["r_amt"] = 0,
+										["c_min"] = 46,
+									},
+									[31935] = {
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 597,
+										["g_amt"] = 0,
+										["n_max"] = 295,
+										["targets"] = {
+											["트로삭"] = 1894,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 1297,
+										["n_min"] = 246,
+										["g_dmg"] = 0,
+										["counter"] = 6,
+										["total"] = 1894,
+										["c_max"] = 597,
+										["spellschool"] = 2,
+										["id"] = 31935,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 5,
+										["r_amt"] = 0,
+										["c_min"] = 597,
+									},
+								},
+							},
+							["grupo"] = true,
+							["aID"] = "214-093AAE58",
+							["last_dps"] = 356.9560759285224,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["damage_taken"] = 22193.008625,
+							["start_time"] = 1605429088,
+							["delay"] = 0,
+							["last_event"] = 1605429145,
+						}, -- [4]
+						{
+							["flag_original"] = 1298,
+							["totalabsorbed"] = 0.006415,
+							["damage_from"] = {
+								["트로삭"] = true,
+								["톱니 상어"] = true,
+							},
+							["targets"] = {
+								["트로삭"] = 4229,
+							},
+							["end_time"] = 1605429145,
+							["pets"] = {
+							},
+							["on_hold"] = false,
+							["boss_fight_component"] = true,
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 4229.006415,
+							["colocacao"] = 5,
+							["friendlyfire"] = {
+							},
+							["dps_started"] = false,
+							["total"] = 4229.006415,
+							["classe"] = "SHAMAN",
+							["aID"] = "214-09483ED4",
+							["nome"] = "덩치큰토템-데스윙",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									[196840] = {
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 523,
+										["g_amt"] = 0,
+										["n_max"] = 0,
+										["targets"] = {
+											["트로삭"] = 523,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 0,
+										["n_min"] = 0,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 523,
+										["c_max"] = 523,
+										["spellschool"] = 16,
+										["id"] = 196840,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 0,
+										["r_amt"] = 0,
+										["c_min"] = 523,
+									},
+									[285452] = {
+										["c_amt"] = 2,
+										["b_amt"] = 0,
+										["c_dmg"] = 2521,
+										["g_amt"] = 0,
+										["n_max"] = 0,
+										["targets"] = {
+											["트로삭"] = 2521,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 0,
+										["n_min"] = 0,
+										["g_dmg"] = 0,
+										["counter"] = 2,
+										["total"] = 2521,
+										["c_max"] = 1264,
+										["spellschool"] = 4,
+										["id"] = 285452,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 0,
+										["r_amt"] = 0,
+										["c_min"] = 1257,
+									},
+									[188389] = {
+										["c_amt"] = 4,
+										["b_amt"] = 0,
+										["c_dmg"] = 598,
+										["g_amt"] = 0,
+										["n_max"] = 115,
+										["targets"] = {
+											["트로삭"] = 1185,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 587,
+										["n_min"] = 67,
+										["g_dmg"] = 0,
+										["counter"] = 12,
+										["total"] = 1185,
+										["c_max"] = 225,
+										["spellschool"] = 4,
+										["id"] = 188389,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 8,
+										["r_amt"] = 0,
+										["c_min"] = 105,
+									},
+								},
+							},
+							["grupo"] = true,
+							["spec"] = 264,
+							["serial"] = "Player-214-09483ED4",
+							["last_dps"] = 73.29427572401535,
+							["custom"] = 0,
+							["last_event"] = 1605429145,
+							["damage_taken"] = 9666.006415,
+							["start_time"] = 1605429126,
+							["delay"] = 1605429106,
+							["tipo"] = 1,
+						}, -- [5]
+						{
+							["flag_original"] = 68168,
+							["totalabsorbed"] = 0.005765,
+							["damage_from"] = {
+								["해피뼈전사"] = true,
+								["군신잔트라-데스윙"] = true,
+								["덩치큰토템-데스윙"] = true,
+								["법따리"] = true,
+								["제프구프 <판타지곤-데스윙>"] = true,
+								["판타지곤-데스윙"] = true,
+							},
+							["targets"] = {
+								["해피뼈전사"] = 2616,
+								["군신잔트라-데스윙"] = 22193,
+								["덩치큰토템-데스윙"] = 1155,
+							},
+							["serial"] = "Vehicle-0-3058-1754-18048-126969-000030E739",
+							["pets"] = {
+							},
+							["on_hold"] = false,
+							["aID"] = "",
+							["raid_targets"] = {
+								[2] = 22193,
+							},
+							["total_without_pet"] = 25964.005765,
+							["boss_fight_component"] = true,
+							["monster"] = true,
+							["dps_started"] = false,
+							["end_time"] = 1605429145,
+							["friendlyfire_total"] = 0,
+							["classe"] = "UNKNOW",
+							["nome"] = "트로삭",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 0,
+										["b_amt"] = 8,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 1277,
+										["targets"] = {
+											["군신잔트라-데스윙"] = 15327,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 15327,
+										["n_min"] = 501,
+										["g_dmg"] = 0,
+										["counter"] = 19,
+										["DODGE"] = 1,
+										["total"] = 15327,
+										["c_max"] = 0,
+										["spellschool"] = 1,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 5866,
+										["n_amt"] = 18,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									}, -- [1]
+									[256405] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 0,
+										["targets"] = {
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 0,
+										["n_min"] = 0,
+										["g_dmg"] = 0,
+										["counter"] = 0,
+										["total"] = 0,
+										["c_max"] = 0,
+										["id"] = 256405,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 2,
+										["b_dmg"] = 0,
+										["n_amt"] = 0,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									},
+									[256546] = {
+										["c_amt"] = 0,
+										["b_amt"] = 5,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 643,
+										["targets"] = {
+											["군신잔트라-데스윙"] = 6866,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 6866,
+										["n_min"] = 473,
+										["g_dmg"] = 0,
+										["counter"] = 13,
+										["DODGE"] = 1,
+										["total"] = 6866,
+										["c_max"] = 0,
+										["spellschool"] = 1,
+										["id"] = 256546,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 2365,
+										["n_amt"] = 12,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									},
+									[256358] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 0,
+										["targets"] = {
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 0,
+										["n_min"] = 0,
+										["g_dmg"] = 0,
+										["counter"] = 0,
+										["total"] = 0,
+										["c_max"] = 0,
+										["id"] = 256358,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 2,
+										["b_dmg"] = 0,
+										["n_amt"] = 0,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									},
+									[256706] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 1155,
+										["targets"] = {
+											["덩치큰토템-데스윙"] = 1155,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 1155,
+										["n_min"] = 1155,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 1155,
+										["c_max"] = 0,
+										["spellschool"] = 1,
+										["id"] = 256706,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 1,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									},
+									[256363] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 365,
+										["targets"] = {
+											["해피뼈전사"] = 2616,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 2616,
+										["n_min"] = 236,
+										["g_dmg"] = 0,
+										["counter"] = 10,
+										["total"] = 2616,
+										["c_max"] = 0,
+										["id"] = 256363,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 2,
+										["b_dmg"] = 0,
+										["n_amt"] = 10,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									},
+								},
+							},
+							["total"] = 25964.005765,
+							["friendlyfire"] = {
+							},
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["last_event"] = 1605429145,
+							["damage_taken"] = 133115.005765,
+							["start_time"] = 1605429088,
+							["delay"] = 0,
+							["tipo"] = 1,
+						}, -- [6]
+						{
+							["flag_original"] = 2632,
+							["totalabsorbed"] = 0.005791,
+							["total"] = 10269.005791,
+							["damage_from"] = {
+							},
+							["targets"] = {
+								["해피뼈전사"] = 1758,
+								["덩치큰토템-데스윙"] = 8511,
+							},
+							["pets"] = {
+							},
+							["monster"] = true,
+							["boss_fight_component"] = true,
+							["aID"] = "129359",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 10269.005791,
+							["on_hold"] = false,
+							["dps_started"] = false,
+							["end_time"] = 1605429145,
+							["friendlyfire_total"] = 0,
+							["classe"] = "UNKNOW",
+							["nome"] = "톱니 상어",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									[256477] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 747,
+										["targets"] = {
+											["덩치큰토템-데스윙"] = 1489,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 1489,
+										["n_min"] = 742,
+										["g_dmg"] = 0,
+										["counter"] = 2,
+										["total"] = 1489,
+										["c_max"] = 0,
+										["id"] = 256477,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 2,
+										["b_dmg"] = 0,
+										["n_amt"] = 2,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									},
+									[256551] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 0,
+										["targets"] = {
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 0,
+										["n_min"] = 0,
+										["g_dmg"] = 0,
+										["counter"] = 0,
+										["total"] = 0,
+										["c_max"] = 0,
+										["id"] = 256551,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 14,
+										["b_dmg"] = 0,
+										["n_amt"] = 0,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									},
+									[256553] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 0,
+										["targets"] = {
+											["톱니 상어"] = 0,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 0,
+										["n_min"] = 0,
+										["g_dmg"] = 0,
+										["counter"] = 15,
+										["IMMUNE"] = 15,
+										["total"] = 0,
+										["c_max"] = 0,
+										["spellschool"] = 1,
+										["id"] = 256553,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 0,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									},
+									[256552] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 925,
+										["targets"] = {
+											["해피뼈전사"] = 1758,
+											["덩치큰토템-데스윙"] = 7022,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 8780,
+										["n_min"] = 838,
+										["g_dmg"] = 0,
+										["counter"] = 10,
+										["total"] = 8780,
+										["c_max"] = 0,
+										["id"] = 256552,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 14,
+										["b_dmg"] = 0,
+										["n_amt"] = 10,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									},
+								},
+							},
+							["friendlyfire"] = {
+							},
+							["serial"] = "Creature-0-3058-1754-18048-129359-000030E739",
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["last_event"] = 1605429145,
+							["damage_taken"] = 0.005791,
+							["start_time"] = 1605429115,
+							["delay"] = 1605429119,
+							["tipo"] = 1,
+						}, -- [7]
+						{
+							["flag_original"] = 4370,
+							["totalabsorbed"] = 0.005967,
+							["total"] = 4397.005967,
+							["damage_from"] = {
+							},
+							["targets"] = {
+								["트로삭"] = 4397,
+							},
+							["serial"] = "Pet-0-3058-1754-18048-416-01019C2D49",
+							["pets"] = {
+							},
+							["boss_fight_component"] = true,
+							["on_hold"] = false,
+							["aID"] = "Pet-0-3058-1754-18048-416-01019C2D49",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 4397.005967,
+							["friendlyfire_total"] = 0,
+							["dps_started"] = false,
+							["end_time"] = 1605429145,
+							["ownerName"] = "판타지곤-데스윙",
+							["nome"] = "제프구프 <판타지곤-데스윙>",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									[3110] = {
+										["c_amt"] = 2,
+										["b_amt"] = 0,
+										["c_dmg"] = 1031,
+										["g_amt"] = 0,
+										["n_max"] = 265,
+										["targets"] = {
+											["트로삭"] = 4397,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 3366,
+										["n_min"] = 253,
+										["g_dmg"] = 0,
+										["counter"] = 15,
+										["total"] = 4397,
+										["c_max"] = 516,
+										["spellschool"] = 4,
+										["id"] = 3110,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 13,
+										["r_amt"] = 0,
+										["c_min"] = 515,
+									},
+								},
+							},
+							["classe"] = "PET",
+							["friendlyfire"] = {
+							},
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["last_event"] = 1605429141,
+							["damage_taken"] = 0.005967,
+							["start_time"] = 1605429097,
+							["delay"] = 0,
+							["tipo"] = 1,
+						}, -- [8]
+						{
+							["flag_original"] = 2632,
+							["totalabsorbed"] = 793.003048,
+							["total"] = 1651.003048,
+							["damage_from"] = {
+							},
+							["targets"] = {
+								["판타지곤-데스윙"] = 1651,
+							},
+							["pets"] = {
+							},
+							["monster"] = true,
+							["boss_fight_component"] = true,
+							["aID"] = "129448",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 1651.003048,
+							["on_hold"] = false,
+							["dps_started"] = false,
+							["end_time"] = 1605429145,
+							["friendlyfire_total"] = 0,
+							["classe"] = "UNKNOW",
+							["nome"] = "망치상어",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									[256477] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 793,
+										["targets"] = {
+											["판타지곤-데스윙"] = 793,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 793,
+										["n_min"] = 793,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 793,
+										["c_max"] = 0,
+										["id"] = 256477,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 1,
+										["b_dmg"] = 0,
+										["n_amt"] = 1,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									},
+									[256551] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 0,
+										["targets"] = {
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 0,
+										["n_min"] = 0,
+										["g_dmg"] = 0,
+										["counter"] = 0,
+										["total"] = 0,
+										["c_max"] = 0,
+										["id"] = 256551,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 3,
+										["b_dmg"] = 0,
+										["n_amt"] = 0,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									},
+									[256553] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 0,
+										["targets"] = {
+											["망치상어"] = 0,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 0,
+										["n_min"] = 0,
+										["g_dmg"] = 0,
+										["counter"] = 3,
+										["IMMUNE"] = 3,
+										["total"] = 0,
+										["c_max"] = 0,
+										["spellschool"] = 1,
+										["id"] = 256553,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 0,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									},
+									[256552] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 858,
+										["targets"] = {
+											["판타지곤-데스윙"] = 858,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 858,
+										["n_min"] = 858,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 858,
+										["c_max"] = 0,
+										["id"] = 256552,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 858,
+										["m_crit"] = 0,
+										["a_amt"] = 1,
+										["m_amt"] = 0,
+										["successful_casted"] = 2,
+										["b_dmg"] = 0,
+										["n_amt"] = 1,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									},
+								},
+							},
+							["friendlyfire"] = {
+							},
+							["serial"] = "Creature-0-3058-1754-18048-129448-000030E739",
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["last_event"] = 1605429125,
+							["damage_taken"] = 0.003048,
+							["start_time"] = 1605429138,
+							["delay"] = 1605429125,
+							["tipo"] = 1,
+						}, -- [9]
+					},
+				}, -- [1]
+				{
+					["combatId"] = 501,
+					["tipo"] = 3,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1298,
+							["targets_overheal"] = {
+								["제프구프 <판타지곤-데스윙>"] = 428,
+								["군신잔트라-데스윙"] = 2364,
+								["덩치큰토템-데스윙"] = 877,
+							},
+							["pets"] = {
+								"치유의 토템 <덩치큰토템-데스윙>", -- [1]
+							},
+							["iniciar_hps"] = false,
+							["aID"] = "214-09483ED4",
+							["totalover"] = 3669.003622,
+							["total_without_pet"] = 32202.003622,
+							["total"] = 34360.003622,
+							["targets_absorbs"] = {
+							},
+							["heal_enemy"] = {
+							},
+							["on_hold"] = false,
+							["serial"] = "Player-214-09483ED4",
+							["totalabsorb"] = 0.003622,
+							["last_hps"] = 0,
+							["targets"] = {
+								["해피뼈전사"] = 1157,
+								["군신잔트라-데스윙"] = 22408,
+								["덩치큰토템-데스윙"] = 10795,
+							},
+							["totalover_without_pet"] = 0.003622,
+							["healing_taken"] = 10795.003622,
+							["boss_fight_component"] = true,
+							["end_time"] = 1605429145,
+							["healing_from"] = {
+								["치유의 토템 <덩치큰토템-데스윙>"] = true,
+								["덩치큰토템-데스윙"] = true,
+							},
+							["heal_enemy_amt"] = 0,
+							["nome"] = "덩치큰토템-데스윙",
+							["spells"] = {
+								["tipo"] = 3,
+								["_ActorTable"] = {
+									[61295] = {
+										["c_amt"] = 2,
+										["totalabsorb"] = 0,
+										["targets_overheal"] = {
+											["군신잔트라-데스윙"] = 118,
+										},
+										["n_max"] = 1172,
+										["targets"] = {
+											["군신잔트라-데스윙"] = 3874,
+										},
+										["n_min"] = 120,
+										["counter"] = 14,
+										["overheal"] = 118,
+										["total"] = 3874,
+										["c_max"] = 248,
+										["id"] = 61295,
+										["targets_absorbs"] = {
+										},
+										["c_curado"] = 491,
+										["m_crit"] = 0,
+										["c_min"] = 243,
+										["m_amt"] = 0,
+										["n_curado"] = 3383,
+										["n_amt"] = 12,
+										["totaldenied"] = 0,
+										["m_healed"] = 0,
+										["absorbed"] = 0,
+									},
+									[73921] = {
+										["c_amt"] = 2,
+										["totalabsorb"] = 0,
+										["targets_overheal"] = {
+										},
+										["n_max"] = 176,
+										["targets"] = {
+											["군신잔트라-데스윙"] = 1435,
+										},
+										["n_min"] = 76,
+										["counter"] = 7,
+										["overheal"] = 0,
+										["total"] = 1435,
+										["c_max"] = 359,
+										["id"] = 73921,
+										["targets_absorbs"] = {
+										},
+										["c_curado"] = 692,
+										["m_crit"] = 0,
+										["c_min"] = 333,
+										["m_amt"] = 0,
+										["n_curado"] = 743,
+										["n_amt"] = 5,
+										["totaldenied"] = 0,
+										["m_healed"] = 0,
+										["absorbed"] = 0,
+									},
+									[8004] = {
+										["c_amt"] = 3,
+										["totalabsorb"] = 0,
+										["targets_overheal"] = {
+											["군신잔트라-데스윙"] = 2208,
+											["덩치큰토템-데스윙"] = 877,
+										},
+										["n_max"] = 1761,
+										["targets"] = {
+											["군신잔트라-데스윙"] = 10478,
+											["덩치큰토템-데스윙"] = 9051,
+										},
+										["n_min"] = 1215,
+										["counter"] = 13,
+										["overheal"] = 3085,
+										["total"] = 19529,
+										["c_max"] = 2533,
+										["id"] = 8004,
+										["targets_absorbs"] = {
+										},
+										["c_curado"] = 5275,
+										["m_crit"] = 0,
+										["c_min"] = 1218,
+										["m_amt"] = 0,
+										["n_curado"] = 14254,
+										["n_amt"] = 10,
+										["totaldenied"] = 0,
+										["m_healed"] = 0,
+										["absorbed"] = 0,
+									},
+									[379] = {
+										["c_amt"] = 3,
+										["totalabsorb"] = 0,
+										["targets_overheal"] = {
+										},
+										["n_max"] = 217,
+										["targets"] = {
+											["군신잔트라-데스윙"] = 3371,
+										},
+										["n_min"] = 198,
+										["counter"] = 13,
+										["overheal"] = 0,
+										["total"] = 3371,
+										["c_max"] = 445,
+										["id"] = 379,
+										["targets_absorbs"] = {
+										},
+										["c_curado"] = 1291,
+										["m_crit"] = 0,
+										["c_min"] = 415,
+										["m_amt"] = 0,
+										["n_curado"] = 2080,
+										["n_amt"] = 10,
+										["totaldenied"] = 0,
+										["m_healed"] = 0,
+										["absorbed"] = 0,
+									},
+									[1064] = {
+										["c_amt"] = 1,
+										["totalabsorb"] = 0,
+										["targets_overheal"] = {
+											["군신잔트라-데스윙"] = 38,
+											["제프구프 <판타지곤-데스윙>"] = 428,
+										},
+										["n_max"] = 699,
+										["targets"] = {
+											["해피뼈전사"] = 699,
+											["제프구프 <판타지곤-데스윙>"] = 0,
+											["군신잔트라-데스윙"] = 2935,
+											["덩치큰토템-데스윙"] = 359,
+										},
+										["n_min"] = 699,
+										["counter"] = 4,
+										["overheal"] = 466,
+										["total"] = 3993,
+										["c_max"] = 2935,
+										["id"] = 1064,
+										["targets_absorbs"] = {
+										},
+										["c_curado"] = 2935,
+										["m_crit"] = 0,
+										["c_min"] = 2935,
+										["m_amt"] = 0,
+										["n_curado"] = 1058,
+										["n_amt"] = 3,
+										["totaldenied"] = 0,
+										["m_healed"] = 0,
+										["absorbed"] = 0,
+									},
+								},
+							},
+							["grupo"] = true,
+							["start_time"] = 1605429088,
+							["spec"] = 264,
+							["custom"] = 0,
+							["tipo"] = 2,
+							["classe"] = "SHAMAN",
+							["totaldenied"] = 0.003622,
+							["delay"] = 0,
+							["last_event"] = 1605429145,
+						}, -- [1]
+						{
+							["flag_original"] = 1298,
+							["targets_overheal"] = {
+							},
+							["pets"] = {
+							},
+							["iniciar_hps"] = false,
+							["aID"] = "214-093AAE58",
+							["totalover"] = 0.005718,
+							["total_without_pet"] = 0.005718,
+							["total"] = 0.005718,
+							["targets_absorbs"] = {
+							},
+							["heal_enemy"] = {
+							},
+							["on_hold"] = false,
+							["isTank"] = true,
+							["serial"] = "Player-214-093AAE58",
+							["totalabsorb"] = 0.005718,
+							["last_hps"] = 0,
+							["targets"] = {
+							},
+							["totalover_without_pet"] = 0.005718,
+							["healing_taken"] = 22408.005718,
+							["boss_fight_component"] = true,
+							["end_time"] = 1605429145,
+							["healing_from"] = {
+								["치유의 토템 <덩치큰토템-데스윙>"] = true,
+								["덩치큰토템-데스윙"] = true,
+							},
+							["heal_enemy_amt"] = 0,
+							["nome"] = "군신잔트라-데스윙",
+							["spells"] = {
+								["tipo"] = 3,
+								["_ActorTable"] = {
+								},
+							},
+							["grupo"] = true,
+							["start_time"] = 1605429145,
+							["spec"] = 66,
+							["custom"] = 0,
+							["tipo"] = 2,
+							["classe"] = "PALADIN",
+							["totaldenied"] = 0.005718,
+							["delay"] = 0,
+							["last_event"] = 0,
+						}, -- [2]
+						{
+							["flag_original"] = 1298,
+							["targets_overheal"] = {
+								["해피뼈전사"] = 573,
+							},
+							["pets"] = {
+							},
+							["iniciar_hps"] = false,
+							["aID"] = "205-06251940",
+							["totalover"] = 573.002887,
+							["total_without_pet"] = 789.002887,
+							["total"] = 789.002887,
+							["targets_absorbs"] = {
+							},
+							["heal_enemy"] = {
+							},
+							["on_hold"] = false,
+							["serial"] = "Player-205-06251940",
+							["totalabsorb"] = 0.002887,
+							["last_hps"] = 0,
+							["targets"] = {
+								["해피뼈전사"] = 789,
+							},
+							["totalover_without_pet"] = 0.002887,
+							["healing_taken"] = 1946.002887,
+							["boss_fight_component"] = true,
+							["end_time"] = 1605429145,
+							["healing_from"] = {
+								["치유의 토템 <덩치큰토템-데스윙>"] = true,
+								["해피뼈전사"] = true,
+								["덩치큰토템-데스윙"] = true,
+							},
+							["heal_enemy_amt"] = 0,
+							["nome"] = "해피뼈전사",
+							["spells"] = {
+								["tipo"] = 3,
+								["_ActorTable"] = {
+									[127802] = {
+										["c_amt"] = 0,
+										["totalabsorb"] = 0,
+										["targets_overheal"] = {
+											["해피뼈전사"] = 338,
+										},
+										["n_max"] = 384,
+										["targets"] = {
+											["해피뼈전사"] = 384,
+										},
+										["n_min"] = 384,
+										["counter"] = 3,
+										["overheal"] = 338,
+										["total"] = 384,
+										["c_max"] = 0,
+										["id"] = 127802,
+										["targets_absorbs"] = {
+										},
+										["c_curado"] = 0,
+										["m_crit"] = 0,
+										["c_min"] = 0,
+										["m_amt"] = 0,
+										["n_curado"] = 384,
+										["n_amt"] = 3,
+										["totaldenied"] = 0,
+										["m_healed"] = 0,
+										["absorbed"] = 0,
+									},
+									[202147] = {
+										["c_amt"] = 0,
+										["totalabsorb"] = 0,
+										["targets_overheal"] = {
+											["해피뼈전사"] = 235,
+										},
+										["n_max"] = 320,
+										["targets"] = {
+											["해피뼈전사"] = 405,
+										},
+										["n_min"] = 85,
+										["counter"] = 2,
+										["overheal"] = 235,
+										["total"] = 405,
+										["c_max"] = 0,
+										["id"] = 202147,
+										["targets_absorbs"] = {
+										},
+										["c_curado"] = 0,
+										["m_crit"] = 0,
+										["c_min"] = 0,
+										["m_amt"] = 0,
+										["n_curado"] = 405,
+										["n_amt"] = 2,
+										["totaldenied"] = 0,
+										["m_healed"] = 0,
+										["absorbed"] = 0,
+									},
+								},
+							},
+							["grupo"] = true,
+							["start_time"] = 1605429137,
+							["spec"] = 71,
+							["custom"] = 0,
+							["tipo"] = 2,
+							["classe"] = "WARRIOR",
+							["totaldenied"] = 0.002887,
+							["delay"] = 1605429135,
+							["last_event"] = 1605429135,
+						}, -- [3]
+						{
+							["flag_original"] = 2600,
+							["healing_from"] = {
+							},
+							["pets"] = {
+							},
+							["iniciar_hps"] = false,
+							["heal_enemy_amt"] = 0,
+							["totalover"] = 0.004188,
+							["total_without_pet"] = 2158.004188,
+							["total"] = 2158.004188,
+							["targets_absorbs"] = {
+							},
+							["heal_enemy"] = {
+							},
+							["on_hold"] = false,
+							["serial"] = "Creature-0-3058-1754-18048-3527-000030E771",
+							["totalabsorb"] = 0.004188,
+							["last_hps"] = 0,
+							["targets"] = {
+								["해피뼈전사"] = 458,
+								["군신잔트라-데스윙"] = 315,
+								["덩치큰토템-데스윙"] = 1385,
+							},
+							["totalover_without_pet"] = 0.004188,
+							["healing_taken"] = 0.004188,
+							["boss_fight_component"] = true,
+							["end_time"] = 1605429145,
+							["targets_overheal"] = {
+							},
+							["ownerName"] = "덩치큰토템-데스윙",
+							["nome"] = "치유의 토템 <덩치큰토템-데스윙>",
+							["spells"] = {
+								["tipo"] = 3,
+								["_ActorTable"] = {
+									[52042] = {
+										["c_amt"] = 0,
+										["totalabsorb"] = 0,
+										["targets_overheal"] = {
+										},
+										["n_max"] = 276,
+										["targets"] = {
+											["해피뼈전사"] = 458,
+											["군신잔트라-데스윙"] = 315,
+											["덩치큰토템-데스윙"] = 1385,
+										},
+										["n_min"] = 39,
+										["counter"] = 10,
+										["overheal"] = 0,
+										["total"] = 2158,
+										["c_max"] = 0,
+										["id"] = 52042,
+										["targets_absorbs"] = {
+										},
+										["c_curado"] = 0,
+										["m_crit"] = 0,
+										["c_min"] = 0,
+										["m_amt"] = 0,
+										["n_curado"] = 2158,
+										["n_amt"] = 10,
+										["totaldenied"] = 0,
+										["m_healed"] = 0,
+										["absorbed"] = 0,
+									},
+								},
+							},
+							["start_time"] = 1605429129,
+							["aID"] = "3527",
+							["custom"] = 0,
+							["last_event"] = 1605429123,
+							["classe"] = "UNKNOW",
+							["totaldenied"] = 0.004188,
+							["delay"] = 1605429123,
+							["tipo"] = 2,
+						}, -- [4]
+						{
+							["flag_original"] = 1298,
+							["targets_overheal"] = {
+							},
+							["pets"] = {
+								"제프구프 <판타지곤-데스윙>", -- [1]
+							},
+							["iniciar_hps"] = false,
+							["aID"] = "214-07FC4C5D",
+							["totalover"] = 0.005331,
+							["total_without_pet"] = 1096.005331,
+							["total"] = 1096.005331,
+							["targets_absorbs"] = {
+								["판타지곤-데스윙"] = 1096,
+							},
+							["heal_enemy"] = {
+							},
+							["on_hold"] = false,
+							["serial"] = "Player-214-07FC4C5D",
+							["totalabsorb"] = 1096.005331,
+							["last_hps"] = 0,
+							["targets"] = {
+								["판타지곤-데스윙"] = 1096,
+							},
+							["totalover_without_pet"] = 0.005331,
+							["healing_taken"] = 1096.005331,
+							["boss_fight_component"] = true,
+							["end_time"] = 1605429145,
+							["healing_from"] = {
+								["판타지곤-데스윙"] = true,
+							},
+							["heal_enemy_amt"] = 0,
+							["nome"] = "판타지곤-데스윙",
+							["spells"] = {
+								["tipo"] = 3,
+								["_ActorTable"] = {
+									[77220] = {
+										["c_amt"] = 0,
+										["totalabsorb"] = 65,
+										["targets_overheal"] = {
+										},
+										["n_max"] = 34,
+										["targets"] = {
+											["판타지곤-데스윙"] = 65,
+										},
+										["n_min"] = 31,
+										["counter"] = 2,
+										["overheal"] = 0,
+										["total"] = 65,
+										["c_max"] = 0,
+										["id"] = 77220,
+										["targets_absorbs"] = {
+											["판타지곤-데스윙"] = 65,
+										},
+										["m_healed"] = 0,
+										["c_curado"] = 0,
+										["m_crit"] = 0,
+										["c_min"] = 0,
+										["m_amt"] = 0,
+										["n_curado"] = 65,
+										["n_amt"] = 2,
+										["totaldenied"] = 0,
+										["is_shield"] = true,
+										["absorbed"] = 0,
+									},
+									[108366] = {
+										["c_amt"] = 0,
+										["totalabsorb"] = 1031,
+										["targets_overheal"] = {
+										},
+										["n_max"] = 537,
+										["targets"] = {
+											["판타지곤-데스윙"] = 1031,
+										},
+										["n_min"] = 494,
+										["counter"] = 2,
+										["overheal"] = 0,
+										["total"] = 1031,
+										["c_max"] = 0,
+										["id"] = 108366,
+										["targets_absorbs"] = {
+											["판타지곤-데스윙"] = 1031,
+										},
+										["m_healed"] = 0,
+										["c_curado"] = 0,
+										["m_crit"] = 0,
+										["c_min"] = 0,
+										["m_amt"] = 0,
+										["n_curado"] = 1031,
+										["n_amt"] = 2,
+										["totaldenied"] = 0,
+										["is_shield"] = true,
+										["absorbed"] = 0,
+									},
+								},
+							},
+							["grupo"] = true,
+							["start_time"] = 1605429141,
+							["spec"] = 267,
+							["custom"] = 0,
+							["tipo"] = 2,
+							["classe"] = "WARLOCK",
+							["totaldenied"] = 0.005331,
+							["delay"] = 1605429122,
+							["last_event"] = 1605429122,
+						}, -- [5]
+						{
+							["flag_original"] = 4370,
+							["targets_overheal"] = {
+							},
+							["pets"] = {
+							},
+							["iniciar_hps"] = false,
+							["heal_enemy_amt"] = 0,
+							["totalover"] = 0.007926,
+							["total_without_pet"] = 0.007926,
+							["total"] = 0.007926,
+							["targets_absorbs"] = {
+							},
+							["heal_enemy"] = {
+							},
+							["on_hold"] = false,
+							["serial"] = "Pet-0-3058-1754-18048-416-01019C2D49",
+							["totalabsorb"] = 0.007926,
+							["last_hps"] = 0,
+							["targets"] = {
+							},
+							["totalover_without_pet"] = 0.007926,
+							["healing_taken"] = 0.007926,
+							["boss_fight_component"] = true,
+							["end_time"] = 1605429145,
+							["healing_from"] = {
+							},
+							["ownerName"] = "판타지곤-데스윙",
+							["nome"] = "제프구프 <판타지곤-데스윙>",
+							["spells"] = {
+								["tipo"] = 3,
+								["_ActorTable"] = {
+								},
+							},
+							["start_time"] = 1605429145,
+							["classe"] = "PET",
+							["custom"] = 0,
+							["tipo"] = 2,
+							["aID"] = "Pet-0-3058-1754-18048-416-01019C2D49",
+							["totaldenied"] = 0.007926,
+							["delay"] = 0,
+							["last_event"] = 0,
+						}, -- [6]
+					},
+				}, -- [2]
+				{
+					["combatId"] = 501,
+					["tipo"] = 7,
+					["_ActorTable"] = {
+						{
+							["received"] = 1158.00147,
+							["resource"] = 3.00147,
+							["targets"] = {
+								["법따리"] = 1158,
+							},
+							["pets"] = {
+							},
+							["powertype"] = 0,
+							["aID"] = "205-0713A4FD",
+							["passiveover"] = 0.00147,
+							["total"] = 1158.00147,
+							["boss_fight_component"] = true,
+							["resource_type"] = 16,
+							["nome"] = "법따리",
+							["spells"] = {
+								["tipo"] = 7,
+								["_ActorTable"] = {
+									[5405] = {
+										["total"] = 1158,
+										["id"] = 5405,
+										["totalover"] = 0,
+										["targets"] = {
+											["법따리"] = 1158,
+										},
+										["counter"] = 1,
+									},
+								},
+							},
+							["grupo"] = true,
+							["spec"] = 62,
+							["flag_original"] = 1297,
+							["alternatepower"] = 0.00147,
+							["last_event"] = 1605429145,
+							["classe"] = "MAGE",
+							["tipo"] = 3,
+							["serial"] = "Player-205-0713A4FD",
+							["totalover"] = 0.00147,
+						}, -- [1]
+						{
+							["received"] = 56.00614,
+							["resource"] = 0.00614,
+							["targets"] = {
+								["해피뼈전사"] = 56,
+							},
+							["pets"] = {
+							},
+							["powertype"] = 1,
+							["aID"] = "205-06251940",
+							["passiveover"] = 0.00614,
+							["total"] = 56.00614,
+							["boss_fight_component"] = true,
+							["nome"] = "해피뼈전사",
+							["spells"] = {
+								["tipo"] = 7,
+								["_ActorTable"] = {
+									[100] = {
+										["total"] = 40,
+										["id"] = 100,
+										["totalover"] = 0,
+										["targets"] = {
+											["해피뼈전사"] = 40,
+										},
+										["counter"] = 2,
+									},
+									[262232] = {
+										["total"] = 10,
+										["id"] = 262232,
+										["totalover"] = 0,
+										["targets"] = {
+											["해피뼈전사"] = 10,
+										},
+										["counter"] = 1,
+									},
+									[195707] = {
+										["total"] = 6,
+										["id"] = 195707,
+										["totalover"] = 0,
+										["targets"] = {
+											["해피뼈전사"] = 6,
+										},
+										["counter"] = 2,
+									},
+								},
+							},
+							["grupo"] = true,
+							["spec"] = 71,
+							["flag_original"] = 1298,
+							["alternatepower"] = 0.00614,
+							["last_event"] = 1605429145,
+							["classe"] = "WARRIOR",
+							["tipo"] = 3,
+							["serial"] = "Player-205-06251940",
+							["totalover"] = 0.00614,
+						}, -- [2]
+						{
+							["received"] = 0.007505,
+							["resource"] = 23.007505,
+							["targets"] = {
+							},
+							["pets"] = {
+							},
+							["powertype"] = 0,
+							["aID"] = "214-093AAE58",
+							["passiveover"] = 0.007505,
+							["boss_fight_component"] = true,
+							["total"] = 0.007505,
+							["resource_type"] = 9,
+							["tipo"] = 3,
+							["nome"] = "군신잔트라-데스윙",
+							["spells"] = {
+								["tipo"] = 7,
+								["_ActorTable"] = {
+								},
+							},
+							["grupo"] = true,
+							["spec"] = 66,
+							["flag_original"] = 1298,
+							["alternatepower"] = 0.007505,
+							["last_event"] = 1605429178,
+							["classe"] = "PALADIN",
+							["isTank"] = true,
+							["serial"] = "Player-214-093AAE58",
+							["totalover"] = 0.007505,
+						}, -- [3]
+						{
+							["received"] = 137.006161,
+							["resource"] = 0.006161,
+							["targets"] = {
+								["덩치큰토템-데스윙"] = 137,
+							},
+							["pets"] = {
+							},
+							["powertype"] = 0,
+							["aID"] = "214-09483ED4",
+							["passiveover"] = 0.006161,
+							["total"] = 137.006161,
+							["boss_fight_component"] = true,
+							["nome"] = "덩치큰토템-데스윙",
+							["spells"] = {
+								["tipo"] = 7,
+								["_ActorTable"] = {
+									[101033] = {
+										["total"] = 137,
+										["id"] = 101033,
+										["totalover"] = 0,
+										["targets"] = {
+											["덩치큰토템-데스윙"] = 137,
+										},
+										["counter"] = 4,
+									},
+								},
+							},
+							["grupo"] = true,
+							["spec"] = 264,
+							["flag_original"] = 1298,
+							["alternatepower"] = 0.006161,
+							["last_event"] = 1605429142,
+							["classe"] = "SHAMAN",
+							["tipo"] = 3,
+							["serial"] = "Player-214-09483ED4",
+							["totalover"] = 0.006161,
+						}, -- [4]
+					},
+				}, -- [3]
+				{
+					["combatId"] = 501,
+					["tipo"] = 9,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1047,
+							["debuff_uptime_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[188389] = {
+										["activedamt"] = 0,
+										["id"] = 188389,
+										["targets"] = {
+										},
+										["uptime"] = 18,
+										["appliedamt"] = 2,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+								},
+							},
+							["buff_uptime"] = 210,
+							["classe"] = "SHAMAN",
+							["buff_uptime_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[53390] = {
+										["activedamt"] = 2,
+										["id"] = 53390,
+										["targets"] = {
+										},
+										["uptime"] = 15,
+										["appliedamt"] = 2,
+										["refreshamt"] = 1,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[326396] = {
+										["activedamt"] = 1,
+										["id"] = 326396,
+										["targets"] = {
+										},
+										["uptime"] = 57,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[79206] = {
+										["activedamt"] = 1,
+										["id"] = 79206,
+										["targets"] = {
+										},
+										["uptime"] = 11,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[280615] = {
+										["activedamt"] = 3,
+										["id"] = 280615,
+										["targets"] = {
+										},
+										["uptime"] = 9,
+										["appliedamt"] = 3,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[72221] = {
+										["activedamt"] = 1,
+										["id"] = 72221,
+										["targets"] = {
+										},
+										["uptime"] = 57,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[77762] = {
+										["activedamt"] = 2,
+										["id"] = 77762,
+										["targets"] = {
+										},
+										["uptime"] = 4,
+										["appliedamt"] = 2,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[93825] = {
+										["activedamt"] = 1,
+										["id"] = 93825,
+										["targets"] = {
+										},
+										["uptime"] = 57,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+								},
+							},
+							["debuff_uptime"] = 18,
+							["boss_fight_component"] = true,
+							["nome"] = "덩치큰토템-데스윙",
+							["spec"] = 264,
+							["grupo"] = true,
+							["spell_cast"] = {
+								[974] = 2,
+								[188389] = 2,
+								[51505] = 2,
+								[8004] = 13,
+								[196840] = 1,
+								[1064] = 1,
+								[61295] = 2,
+								[79206] = 1,
+								[5394] = 1,
+								[73920] = 1,
+							},
+							["debuff_uptime_targets"] = {
+							},
+							["buff_uptime_targets"] = {
+							},
+							["last_event"] = 1605429145,
+							["pets"] = {
+								"치유의 토템 <덩치큰토템-데스윙>", -- [1]
+							},
+							["aID"] = "214-09483ED4",
+							["serial"] = "Player-214-09483ED4",
+							["tipo"] = 4,
+						}, -- [1]
+						{
+							["flag_original"] = 1047,
+							["debuff_uptime_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[197277] = {
+										["activedamt"] = 0,
+										["id"] = 197277,
+										["targets"] = {
+										},
+										["uptime"] = 33,
+										["appliedamt"] = 6,
+										["refreshamt"] = 6,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[62124] = {
+										["activedamt"] = 0,
+										["id"] = 62124,
+										["targets"] = {
+										},
+										["uptime"] = 10,
+										["appliedamt"] = 4,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+								},
+							},
+							["cooldowns_defensive"] = 1.006951,
+							["buff_uptime"] = 419,
+							["last_cooldown"] = {
+								1605429118.098, -- [1]
+								31850, -- [2]
+							},
+							["classe"] = "PALADIN",
+							["cooldowns_defensive_targets"] = {
+								["군신잔트라-데스윙"] = 1,
+							},
+							["buff_uptime_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[132403] = {
+										["activedamt"] = 4,
+										["id"] = 132403,
+										["targets"] = {
+										},
+										["uptime"] = 26,
+										["appliedamt"] = 4,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[188370] = {
+										["activedamt"] = 11,
+										["id"] = 188370,
+										["targets"] = {
+										},
+										["uptime"] = 53,
+										["appliedamt"] = 11,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[31850] = {
+										["activedamt"] = 1,
+										["id"] = 31850,
+										["targets"] = {
+										},
+										["uptime"] = 8,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[31884] = {
+										["activedamt"] = 1,
+										["id"] = 31884,
+										["targets"] = {
+										},
+										["uptime"] = 20,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[93830] = {
+										["activedamt"] = 1,
+										["id"] = 93830,
+										["targets"] = {
+										},
+										["uptime"] = 57,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[465] = {
+										["activedamt"] = 1,
+										["id"] = 465,
+										["targets"] = {
+										},
+										["uptime"] = 57,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[292463] = {
+										["activedamt"] = 2,
+										["id"] = 292463,
+										["targets"] = {
+										},
+										["uptime"] = 27,
+										["appliedamt"] = 2,
+										["refreshamt"] = 1,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[292361] = {
+										["activedamt"] = 1,
+										["id"] = 292361,
+										["targets"] = {
+										},
+										["uptime"] = 57,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[72221] = {
+										["activedamt"] = 1,
+										["id"] = 72221,
+										["targets"] = {
+										},
+										["uptime"] = 57,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[326396] = {
+										["activedamt"] = 1,
+										["id"] = 326396,
+										["targets"] = {
+										},
+										["uptime"] = 57,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+								},
+							},
+							["boss_fight_component"] = true,
+							["debuff_uptime"] = 43,
+							["cooldowns_defensive_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[31850] = {
+										["id"] = 31850,
+										["targets"] = {
+											["군신잔트라-데스윙"] = 1,
+										},
+										["counter"] = 1,
+									},
+								},
+							},
+							["debuff_uptime_targets"] = {
+							},
+							["nome"] = "군신잔트라-데스윙",
+							["spec"] = 66,
+							["grupo"] = true,
+							["spell_cast"] = {
+								[31935] = 5,
+								[53595] = 10,
+								[26573] = 11,
+								[62124] = 4,
+								[275779] = 12,
+								[31884] = 1,
+								[853] = 2,
+								[53600] = 6,
+								[31850] = 1,
+							},
+							["buff_uptime_targets"] = {
+							},
+							["pets"] = {
+							},
+							["last_event"] = 1605429145,
+							["aID"] = "214-093AAE58",
+							["isTank"] = true,
+							["serial"] = "Player-214-093AAE58",
+							["tipo"] = 4,
+						}, -- [2]
+						{
+							["flag_original"] = 1047,
+							["debuff_uptime_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[157736] = {
+										["activedamt"] = 0,
+										["id"] = 157736,
+										["targets"] = {
+										},
+										["uptime"] = 12,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+								},
+							},
+							["buff_uptime"] = 251,
+							["classe"] = "WARLOCK",
+							["buff_uptime_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[72968] = {
+										["activedamt"] = 1,
+										["id"] = 72968,
+										["targets"] = {
+										},
+										["uptime"] = 57,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[326396] = {
+										["activedamt"] = 1,
+										["id"] = 326396,
+										["targets"] = {
+										},
+										["uptime"] = 57,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[72221] = {
+										["activedamt"] = 1,
+										["id"] = 72221,
+										["targets"] = {
+										},
+										["uptime"] = 57,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[108366] = {
+										["activedamt"] = 2,
+										["id"] = 108366,
+										["targets"] = {
+										},
+										["uptime"] = 57,
+										["appliedamt"] = 2,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[117828] = {
+										["activedamt"] = 6,
+										["id"] = 117828,
+										["targets"] = {
+										},
+										["uptime"] = 23,
+										["appliedamt"] = 6,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+								},
+							},
+							["debuff_uptime"] = 12,
+							["boss_fight_component"] = true,
+							["nome"] = "판타지곤-데스윙",
+							["spec"] = 267,
+							["grupo"] = true,
+							["spell_cast"] = {
+								[116858] = 4,
+								[6353] = 1,
+								[17962] = 6,
+								[29722] = 13,
+							},
+							["debuff_uptime_targets"] = {
+							},
+							["buff_uptime_targets"] = {
+							},
+							["last_event"] = 1605429145,
+							["pets"] = {
+								"제프구프 <판타지곤-데스윙>", -- [1]
+							},
+							["aID"] = "214-07FC4C5D",
+							["serial"] = "Player-214-07FC4C5D",
+							["tipo"] = 4,
+						}, -- [3]
+						{
+							["flag_original"] = 1047,
+							["debuff_uptime_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[115804] = {
+										["activedamt"] = 0,
+										["id"] = 115804,
+										["targets"] = {
+										},
+										["uptime"] = 33,
+										["appliedamt"] = 2,
+										["refreshamt"] = 2,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[262115] = {
+										["activedamt"] = 0,
+										["id"] = 262115,
+										["targets"] = {
+										},
+										["uptime"] = 49,
+										["appliedamt"] = 2,
+										["refreshamt"] = 3,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[208086] = {
+										["activedamt"] = 0,
+										["id"] = 208086,
+										["targets"] = {
+										},
+										["uptime"] = 10,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+								},
+							},
+							["buff_uptime"] = 229,
+							["classe"] = "WARRIOR",
+							["buff_uptime_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[7384] = {
+										["activedamt"] = 4,
+										["id"] = 7384,
+										["targets"] = {
+										},
+										["uptime"] = 35,
+										["appliedamt"] = 4,
+										["refreshamt"] = 3,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[93825] = {
+										["activedamt"] = 1,
+										["id"] = 93825,
+										["targets"] = {
+										},
+										["uptime"] = 57,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[199854] = {
+										["activedamt"] = 5,
+										["id"] = 199854,
+										["targets"] = {
+										},
+										["uptime"] = 10,
+										["appliedamt"] = 5,
+										["refreshamt"] = 2,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[72221] = {
+										["activedamt"] = 1,
+										["id"] = 72221,
+										["targets"] = {
+										},
+										["uptime"] = 57,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[201405] = {
+										["activedamt"] = 1,
+										["id"] = 201405,
+										["targets"] = {
+										},
+										["uptime"] = 13,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[326396] = {
+										["activedamt"] = 1,
+										["id"] = 326396,
+										["targets"] = {
+										},
+										["uptime"] = 57,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+								},
+							},
+							["debuff_uptime"] = 92,
+							["boss_fight_component"] = true,
+							["nome"] = "해피뼈전사",
+							["spec"] = 71,
+							["grupo"] = true,
+							["spell_cast"] = {
+								[12294] = 4,
+								[7384] = 7,
+								[167105] = 1,
+								[100] = 2,
+								[281000] = 5,
+								[126664] = 2,
+								[1464] = 3,
+							},
+							["debuff_uptime_targets"] = {
+							},
+							["buff_uptime_targets"] = {
+							},
+							["last_event"] = 1605429145,
+							["pets"] = {
+							},
+							["aID"] = "205-06251940",
+							["serial"] = "Player-205-06251940",
+							["tipo"] = 4,
+						}, -- [4]
+						{
+							["flag_original"] = 1047,
+							["debuff_uptime_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[210824] = {
+										["activedamt"] = 0,
+										["id"] = 210824,
+										["targets"] = {
+										},
+										["uptime"] = 8,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+								},
+							},
+							["buff_uptime"] = 261,
+							["classe"] = "MAGE",
+							["buff_uptime_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[270670] = {
+										["activedamt"] = 4,
+										["id"] = 270670,
+										["targets"] = {
+										},
+										["uptime"] = 5,
+										["appliedamt"] = 4,
+										["refreshamt"] = 17,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[269279] = {
+										["activedamt"] = 1,
+										["id"] = 269279,
+										["targets"] = {
+										},
+										["uptime"] = 57,
+										["appliedamt"] = 1,
+										["refreshamt"] = 1,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[186403] = {
+										["activedamt"] = 1,
+										["id"] = 186403,
+										["targets"] = {
+										},
+										["uptime"] = 57,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[273330] = {
+										["activedamt"] = 1,
+										["id"] = 273330,
+										["targets"] = {
+										},
+										["uptime"] = 14,
+										["appliedamt"] = 1,
+										["refreshamt"] = 5,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[12042] = {
+										["activedamt"] = 1,
+										["id"] = 12042,
+										["targets"] = {
+										},
+										["uptime"] = 10,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[116014] = {
+										["activedamt"] = 2,
+										["id"] = 116014,
+										["targets"] = {
+										},
+										["uptime"] = 30,
+										["appliedamt"] = 2,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[264774] = {
+										["activedamt"] = 1,
+										["id"] = 264774,
+										["targets"] = {
+										},
+										["uptime"] = 7,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[12051] = {
+										["activedamt"] = 1,
+										["id"] = 12051,
+										["targets"] = {
+										},
+										["uptime"] = 5,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[205025] = {
+										["activedamt"] = 1,
+										["id"] = 205025,
+										["targets"] = {
+										},
+										["uptime"] = 2,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[72221] = {
+										["activedamt"] = 1,
+										["id"] = 72221,
+										["targets"] = {
+										},
+										["uptime"] = 57,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[263725] = {
+										["activedamt"] = 5,
+										["id"] = 263725,
+										["targets"] = {
+										},
+										["uptime"] = 17,
+										["appliedamt"] = 5,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+								},
+							},
+							["debuff_uptime"] = 8,
+							["boss_fight_component"] = true,
+							["nome"] = "법따리",
+							["spec"] = 62,
+							["grupo"] = true,
+							["spell_cast"] = {
+								[153626] = 3,
+								[12051] = 1,
+								[116011] = 1,
+								[30451] = 21,
+								[12042] = 1,
+								[116014] = 2,
+								[321507] = 1,
+								[5143] = 4,
+								[44425] = 1,
+								[205025] = 1,
+								[5405] = 1,
+							},
+							["debuff_uptime_targets"] = {
+							},
+							["buff_uptime_targets"] = {
+							},
+							["last_event"] = 1605429145,
+							["pets"] = {
+							},
+							["aID"] = "205-0713A4FD",
+							["serial"] = "Player-205-0713A4FD",
+							["tipo"] = 4,
+						}, -- [5]
+						{
+							["flag_original"] = 68168,
+							["aID"] = "",
+							["nome"] = "트로삭",
+							["boss_fight_component"] = true,
+							["pets"] = {
+							},
+							["spell_cast"] = {
+								[256363] = 2,
+								[256358] = 2,
+								[256405] = 2,
+							},
+							["monster"] = true,
+							["tipo"] = 4,
+							["classe"] = "UNKNOW",
+							["serial"] = "Vehicle-0-3058-1754-18048-126969-000030E739",
+							["last_event"] = 0,
+						}, -- [6]
+						{
+							["flag_original"] = 68168,
+							["debuff_uptime_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+								},
+							},
+							["pets"] = {
+							},
+							["aID"] = "",
+							["boss_debuff"] = true,
+							["monster"] = true,
+							["debuff_uptime"] = 24,
+							["spellschool"] = 1,
+							["nome"] = "갈퀴 강타",
+							["boss_fight_component"] = true,
+							["debuff_uptime_targets"] = {
+								["해피뼈전사"] = {
+									["uptime"] = 24,
+									["appliedamt"] = 0,
+									["activedamt"] = 0,
+									["actived"] = false,
+									["refreshamt"] = 0,
+								},
+							},
+							["damage_spellid"] = 256363,
+							["last_event"] = 1605429136,
+							["damage_twin"] = "트로삭",
+							["classe"] = "UNKNOW",
+							["serial"] = "Vehicle-0-3058-1754-18048-126969-000030E739",
+							["tipo"] = 4,
+						}, -- [7]
+						{
+							["flag_original"] = 4370,
+							["ownerName"] = "판타지곤-데스윙",
+							["nome"] = "제프구프 <판타지곤-데스윙>",
+							["aID"] = "Pet-0-3058-1754-18048-416-01019C2D49",
+							["pets"] = {
+							},
+							["boss_fight_component"] = true,
+							["spell_cast"] = {
+								[3110] = 16,
+							},
+							["tipo"] = 4,
+							["classe"] = "PET",
+							["serial"] = "Pet-0-3058-1754-18048-416-01019C2D49",
+							["last_event"] = 0,
+						}, -- [8]
+						{
+							["flag_original"] = 2632,
+							["tipo"] = 4,
+							["nome"] = "톱니 상어",
+							["boss_fight_component"] = true,
+							["pets"] = {
+							},
+							["spell_cast"] = {
+								[256477] = 2,
+								[256551] = 14,
+								[256552] = 14,
+							},
+							["monster"] = true,
+							["last_event"] = 0,
+							["classe"] = "UNKNOW",
+							["serial"] = "Creature-0-3058-1754-18048-129359-000030E739",
+							["aID"] = "129359",
+						}, -- [9]
+						{
+							["flag_original"] = 8466,
+							["ownerName"] = "덩치큰토템-데스윙",
+							["nome"] = "치유의 토템 <덩치큰토템-데스윙>",
+							["tipo"] = 4,
+							["pets"] = {
+							},
+							["boss_fight_component"] = true,
+							["spell_cast"] = {
+								[5672] = 1,
+							},
+							["last_event"] = 0,
+							["classe"] = "PET",
+							["serial"] = "Creature-0-3058-1754-18048-3527-000030E771",
+							["aID"] = "3527",
+						}, -- [10]
+						{
+							["flag_original"] = 2632,
+							["tipo"] = 4,
+							["nome"] = "망치상어",
+							["boss_fight_component"] = true,
+							["pets"] = {
+							},
+							["spell_cast"] = {
+								[256477] = 1,
+								[256551] = 3,
+								[256552] = 2,
+							},
+							["monster"] = true,
+							["last_event"] = 0,
+							["classe"] = "UNKNOW",
+							["serial"] = "Creature-0-3058-1754-18048-129448-000030E739",
+							["aID"] = "129448",
+						}, -- [11]
+					},
+				}, -- [4]
+				{
+					["combatId"] = 501,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+					},
+				}, -- [5]
+				["raid_roster"] = {
+					["해피뼈전사"] = true,
+					["군신잔트라-데스윙"] = true,
+					["덩치큰토템-데스윙"] = true,
+					["판타지곤-데스윙"] = true,
+					["법따리"] = true,
+				},
+				["CombatStartedAt"] = 35415.336,
+				["overall_added"] = true,
+				["last_events_tables"] = {
+				},
+				["alternate_power"] = {
+				},
+				["combat_counter"] = 562,
+				["totals"] = {
+					170999, -- [1]
+					36245, -- [2]
+					{
+						56, -- [1]
+						[0] = 1295,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 1,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+					["frags_total"] = 0,
+					["voidzone_damage"] = 0,
+				},
+				["totals_grupo"] = {
+					128718, -- [1]
+					34087, -- [2]
+					{
+						56, -- [1]
+						[0] = 1295,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 1,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+				},
+				["frags_need_refresh"] = true,
+				["instance_type"] = "party",
+				["data_fim"] = "17:32:25",
+				["cleu_timeline"] = {
+				},
+				["enemy"] = "무법의 링",
+				["TotalElapsedCombatTime"] = 56.01799999999639,
+				["CombatEndedAt"] = 35471.354,
+				["aura_timeline"] = {
+					["Player-214-093AAE58"] = {
+						[62124] = {
+							["enabled"] = false,
+							["appliedAt"] = 35462.818,
+							["spellId"] = 62124,
+							["data"] = {
+								{
+									35418.552, -- [1]
+									35421.552, -- [2]
+								}, -- [1]
+								{
+									35428.986, -- [1]
+									35430.952, -- [2]
+								}, -- [2]
+								{
+									35453.652, -- [1]
+									35456.652, -- [2]
+								}, -- [3]
+								{
+									35462.818, -- [1]
+									35464.752, -- [2]
+								}, -- [4]
+							},
+							["amountUp"] = 0,
+						},
+						[197277] = {
+							["enabled"] = false,
+							["appliedAt"] = 35465.502,
+							["spellId"] = 197277,
+							["data"] = {
+								{
+									35415.852, -- [1]
+									35417.619, -- [2]
+								}, -- [1]
+								{
+									35422.686, -- [1]
+									35424.436, -- [2]
+								}, -- [2]
+								{
+									35426.786, -- [1]
+									35433.419, -- [2]
+								}, -- [3]
+								{
+									35437.385, -- [1]
+									35450.235, -- [2]
+								}, -- [4]
+								{
+									35455.935, -- [1]
+									35459.085, -- [2]
+								}, -- [5]
+								{
+									35465.502, -- [1]
+									35470.818, -- [2]
+								}, -- [6]
+							},
+							["amountUp"] = 0,
+						},
+						[132403] = {
+							["enabled"] = false,
+							["appliedAt"] = 35450.218,
+							["spellId"] = 132403,
+							["data"] = {
+								{
+									35417.619, -- [1]
+									35422.119, -- [2]
+								}, -- [1]
+								{
+									35424.436, -- [1]
+									35428.936, -- [2]
+								}, -- [2]
+								{
+									35433.402, -- [1]
+									35437.919, -- [2]
+								}, -- [3]
+								{
+									35450.218, -- [1]
+									35463.718, -- [2]
+								}, -- [4]
+							},
+							["amountUp"] = 0,
+						},
+						[31850] = {
+							["enabled"] = false,
+							["appliedAt"] = 35443.669,
+							["spellId"] = 31850,
+							["data"] = {
+								{
+									35443.669, -- [1]
+									35451.669, -- [2]
+								}, -- [1]
+							},
+							["amountUp"] = 0,
+						},
+						[188370] = {
+							["enabled"] = false,
+							["appliedAt"] = 35468.185,
+							["spellId"] = 188370,
+							["data"] = {
+								{
+									35414.353, -- [1]
+									35421.169, -- [2]
+								}, -- [1]
+								{
+									35421.186, -- [1]
+									35425.269, -- [2]
+								}, -- [2]
+								{
+									35425.319, -- [1]
+									35430.219, -- [2]
+								}, -- [3]
+								{
+									35430.269, -- [1]
+									35434.519, -- [2]
+								}, -- [4]
+								{
+									35434.552, -- [1]
+									35444.085, -- [2]
+								}, -- [5]
+								{
+									35444.135, -- [1]
+									35446.735, -- [2]
+								}, -- [6]
+								{
+									35448.385, -- [1]
+									35454.419, -- [2]
+								}, -- [7]
+								{
+									35454.518, -- [1]
+									35459.902, -- [2]
+								}, -- [8]
+								{
+									35460.002, -- [1]
+									35463.985, -- [2]
+								}, -- [9]
+								{
+									35464.102, -- [1]
+									35468.102, -- [2]
+								}, -- [10]
+								{
+									35468.185, -- [1]
+									35470.835, -- [2]
+								}, -- [11]
+							},
+							["amountUp"] = 0,
+						},
+						[31884] = {
+							["enabled"] = false,
+							["appliedAt"] = 35416.069,
+							["spellId"] = 31884,
+							["data"] = {
+								{
+									35416.069, -- [1]
+									35436.086, -- [2]
+								}, -- [1]
+							},
+							["amountUp"] = 0,
+						},
+						[292463] = {
+							["enabled"] = false,
+							["appliedAt"] = 35446.285,
+							["spellId"] = 292463,
+							["data"] = {
+								{
+									35419.786, -- [1]
+									35434.702, -- [2]
+								}, -- [1]
+								{
+									35446.285, -- [1]
+									35458.285, -- [2]
+								}, -- [2]
+							},
+							["amountUp"] = 0,
+						},
+					},
+					["Player-205-06251940"] = {
+						[115804] = {
+							["enabled"] = false,
+							["appliedAt"] = 35448.385,
+							["spellId"] = 115804,
+							["data"] = {
+								{
+									35418.152, -- [1]
+									35441.052, -- [2]
+								}, -- [1]
+								{
+									35448.385, -- [1]
+									35458.385, -- [2]
+								}, -- [2]
+							},
+							["amountUp"] = 0,
+						},
+						[199854] = {
+							["enabled"] = false,
+							["appliedAt"] = 35462.068,
+							["spellId"] = 199854,
+							["data"] = {
+								{
+									35427.936, -- [1]
+									35429.352, -- [2]
+								}, -- [1]
+								{
+									35431.052, -- [1]
+									35432.702, -- [2]
+								}, -- [2]
+								{
+									35449.935, -- [1]
+									35451.935, -- [2]
+								}, -- [3]
+								{
+									35456.385, -- [1]
+									35460.602, -- [2]
+								}, -- [4]
+								{
+									35462.068, -- [1]
+									35463.485, -- [2]
+								}, -- [5]
+							},
+							["amountUp"] = 0,
+						},
+						[208086] = {
+							["enabled"] = false,
+							["appliedAt"] = 35453.735,
+							["spellId"] = 208086,
+							["data"] = {
+								{
+									35453.735, -- [1]
+									35463.74, -- [2]
+								}, -- [1]
+							},
+							["amountUp"] = 0,
+						},
+						[262115] = {
+							["enabled"] = false,
+							["appliedAt"] = 35448.403,
+							["spellId"] = 262115,
+							["data"] = {
+								{
+									35418.202, -- [1]
+									35446.685, -- [2]
+								}, -- [1]
+								{
+									35448.403, -- [1]
+									35469.335, -- [2]
+								}, -- [2]
+							},
+							["amountUp"] = 0,
+						},
+						[201405] = {
+							["enabled"] = false,
+							["appliedAt"] = 35457.802,
+							["spellId"] = 201405,
+							["data"] = {
+								{
+									35457.802, -- [1]
+									35470.835, -- [2]
+								}, -- [1]
+							},
+							["amountUp"] = 0,
+						},
+						[7384] = {
+							["enabled"] = false,
+							["appliedAt"] = 35454.985,
+							["spellId"] = 7384,
+							["data"] = {
+								{
+									35416.503, -- [1]
+									35418.169, -- [2]
+								}, -- [1]
+								{
+									35429.352, -- [1]
+									35431.069, -- [2]
+								}, -- [2]
+								{
+									35432.702, -- [1]
+									35448.385, -- [2]
+								}, -- [3]
+								{
+									35454.985, -- [1]
+									35470.835, -- [2]
+								}, -- [4]
+							},
+							["amountUp"] = 0,
+						},
+					},
+					["Player-214-07FC4C5D"] = {
+						[117828] = {
+							["enabled"] = false,
+							["appliedAt"] = 35467.718,
+							["spellId"] = 117828,
+							["data"] = {
+								{
+									35418.769, -- [1]
+									35421.386, -- [2]
+								}, -- [1]
+								{
+									35421.386, -- [1]
+									35424.019, -- [2]
+								}, -- [2]
+								{
+									35431.269, -- [1]
+									35433.902, -- [2]
+								}, -- [3]
+								{
+									35442.219, -- [1]
+									35452.219, -- [2]
+								}, -- [4]
+								{
+									35455.102, -- [1]
+									35457.752, -- [2]
+								}, -- [5]
+								{
+									35467.718, -- [1]
+									35470.485, -- [2]
+								}, -- [6]
+							},
+							["amountUp"] = 0,
+						},
+						[157736] = {
+							["enabled"] = false,
+							["appliedAt"] = 35418.769,
+							["spellId"] = 157736,
+							["data"] = {
+								{
+									35418.769, -- [1]
+									35430.569, -- [2]
+								}, -- [1]
+							},
+							["amountUp"] = 0,
+						},
+						[108366] = {
+							["enabled"] = false,
+							["appliedAt"] = 35447.152,
+							["spellId"] = 108366,
+							["data"] = {
+								{
+									35447.152, -- [1]
+									35470.835, -- [2]
+								}, -- [1]
+							},
+							["amountUp"] = 0,
+						},
+					},
+					["Player-214-09483ED4"] = {
+						[53390] = {
+							["enabled"] = false,
+							["appliedAt"] = 35456.352,
+							["spellId"] = 53390,
+							["data"] = {
+								{
+									35425.002, -- [1]
+									35427.769, -- [2]
+								}, -- [1]
+								{
+									35456.352, -- [1]
+									35468.968, -- [2]
+								}, -- [2]
+							},
+							["amountUp"] = 0,
+						},
+						[61295] = {
+							["enabled"] = false,
+							["appliedAt"] = 35456.352,
+							["spellId"] = 61295,
+							["data"] = {
+								{
+									35425.019, -- [1]
+									35443.002, -- [2]
+								}, -- [1]
+								{
+									35456.352, -- [1]
+									35470.835, -- [2]
+								}, -- [2]
+							},
+							["amountUp"] = 0,
+						},
+						[188389] = {
+							["enabled"] = false,
+							["appliedAt"] = 35470.202,
+							["spellId"] = 188389,
+							["data"] = {
+								{
+									35413.586, -- [1]
+									35431.586, -- [2]
+								}, -- [1]
+								{
+									35470.202, -- [1]
+									35470.818, -- [2]
+								}, -- [2]
+							},
+							["amountUp"] = 0,
+						},
+						[280615] = {
+							["enabled"] = false,
+							["appliedAt"] = 35468.968,
+							["spellId"] = 280615,
+							["data"] = {
+								{
+									35427.769, -- [1]
+									35433.486, -- [2]
+								}, -- [1]
+								{
+									35467.435, -- [1]
+									35468.968, -- [2]
+								}, -- [2]
+								{
+									35468.968, -- [1]
+									35470.835, -- [2]
+								}, -- [3]
+							},
+							["amountUp"] = 0,
+						},
+						[77762] = {
+							["enabled"] = false,
+							["appliedAt"] = 35426.469,
+							["spellId"] = 77762,
+							["data"] = {
+								{
+									35415.436, -- [1]
+									35416.336, -- [2]
+								}, -- [1]
+								{
+									35426.469, -- [1]
+									35429.302, -- [2]
+								}, -- [2]
+							},
+							["amountUp"] = 0,
+						},
+						[79206] = {
+							["enabled"] = false,
+							["appliedAt"] = 35459.435,
+							["spellId"] = 79206,
+							["data"] = {
+								{
+									35459.435, -- [1]
+									35470.835, -- [2]
+								}, -- [1]
+							},
+							["amountUp"] = 0,
+						},
+					},
+				},
+				["__call"] = {
+				},
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+							["판타지곤-데스윙"] = 1096.005331,
+							["해피뼈전사"] = 789.002887,
+							["군신잔트라-데스윙"] = 0.005718,
+							["덩치큰토템-데스윙"] = 34360.003622,
+						}, -- [1]
+					},
+					["damage_section"] = {
+					},
+					["damage"] = {
+						{
+							["해피뼈전사"] = 31878.002458,
+							["군신잔트라-데스윙"] = 20596.008625,
+							["덩치큰토템-데스윙"] = 4229.006415,
+							["법따리"] = 49471.002222,
+							["판타지곤-데스윙"] = 26941.002168,
+						}, -- [1]
+					},
+				},
+				["end_time"] = 35470.835,
+				["combat_id"] = 501,
+				["cleu_events"] = {
+					["n"] = 1,
+				},
+				["tempo_start"] = 1605429088,
+				["player_last_events"] = {
+				},
+				["spells_cast_timeline"] = {
+					["Player-214-093AAE58"] = {
+					},
+					["Player-205-06251940"] = {
+					},
+					["Player-214-07FC4C5D"] = {
+					},
+					["Player-214-09483ED4"] = {
+					},
+				},
+				["is_boss"] = {
+					["diff_string"] = "일반",
+					["index"] = 1,
+					["zone"] = "자유지대",
+					["encounter"] = "무법의 링",
+					["mapid"] = 1754,
+					["try_number"] = 1,
+					["name"] = "무법의 링",
+					["diff"] = 1,
+					["id"] = 2095,
+					["ej_instance_id"] = 1001,
+					["killed"] = true,
+				},
+				["data_inicio"] = "17:31:28",
+				["CombatSkillCache"] = {
+				},
+				["frags"] = {
+					["트로삭"] = 1,
+				},
+				["start_time"] = 35413.136,
+				["TimeData"] = {
+				},
+				["contra"] = "트로삭",
+			}, -- [2]
+			{
+				{
+					["combatId"] = 494,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["totalabsorbed"] = 0.001653,
+							["damage_from"] = {
+								["선장 유도라"] = true,
+							},
+							["targets"] = {
+								["선장 졸리"] = 9502,
+								["선장 유도라"] = 36841,
+							},
+							["spec"] = 62,
+							["pets"] = {
+							},
+							["friendlyfire"] = {
+							},
+							["boss_fight_component"] = true,
+							["aID"] = "205-0713A4FD",
+							["raid_targets"] = {
+								[128] = 36841,
+							},
+							["total_without_pet"] = 46343.001653,
+							["end_time"] = 1605428726,
+							["colocacao"] = 1,
+							["dps_started"] = false,
+							["total"] = 46343.001653,
+							["friendlyfire_total"] = 0,
+							["classe"] = "MAGE",
+							["nome"] = "법따리",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									[7268] = {
+										["c_amt"] = 2,
+										["b_amt"] = 0,
+										["c_dmg"] = 1423,
+										["g_amt"] = 0,
+										["n_max"] = 406,
+										["targets"] = {
+											["선장 유도라"] = 5539,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 4116,
+										["n_min"] = 232,
+										["g_dmg"] = 0,
+										["counter"] = 16,
+										["total"] = 5539,
+										["c_max"] = 834,
+										["spellschool"] = 64,
+										["id"] = 7268,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 14,
+										["r_amt"] = 0,
+										["c_min"] = 589,
+									},
+									[30451] = {
+										["c_amt"] = 4,
+										["b_amt"] = 0,
+										["c_dmg"] = 10096,
+										["g_amt"] = 0,
+										["n_max"] = 1550,
+										["targets"] = {
+											["선장 졸리"] = 5632,
+											["선장 유도라"] = 26633,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 22169,
+										["n_min"] = 212,
+										["g_dmg"] = 0,
+										["counter"] = 26,
+										["total"] = 32265,
+										["c_max"] = 3077,
+										["spellschool"] = 64,
+										["id"] = 30451,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 22,
+										["r_amt"] = 0,
+										["c_min"] = 1654,
+									},
+									[44425] = {
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 857,
+										["g_amt"] = 0,
+										["n_max"] = 1109,
+										["targets"] = {
+											["선장 졸리"] = 1794,
+											["선장 유도라"] = 1109,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 2046,
+										["n_min"] = 937,
+										["g_dmg"] = 0,
+										["counter"] = 3,
+										["total"] = 2903,
+										["c_max"] = 857,
+										["spellschool"] = 64,
+										["id"] = 44425,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 2,
+										["r_amt"] = 0,
+										["c_min"] = 857,
+									},
+									[269889] = {
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 312,
+										["g_amt"] = 0,
+										["n_max"] = 171,
+										["targets"] = {
+											["선장 졸리"] = 482,
+											["선장 유도라"] = 777,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 947,
+										["n_min"] = 155,
+										["g_dmg"] = 0,
+										["counter"] = 7,
+										["total"] = 1259,
+										["c_max"] = 312,
+										["spellschool"] = 8,
+										["id"] = 269889,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 6,
+										["r_amt"] = 0,
+										["c_min"] = 312,
+									},
+									[210833] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 1291,
+										["targets"] = {
+											["선장 유도라"] = 1291,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 1291,
+										["n_min"] = 1291,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 1291,
+										["c_max"] = 0,
+										["spellschool"] = 64,
+										["id"] = 210833,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 1,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									},
+									[271465] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 70,
+										["targets"] = {
+											["선장 졸리"] = 70,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 70,
+										["n_min"] = 70,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 70,
+										["c_max"] = 0,
+										["spellschool"] = 32,
+										["id"] = 271465,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 1,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									},
+									[153640] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 859,
+										["targets"] = {
+											["선장 졸리"] = 1524,
+											["선장 유도라"] = 1492,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 3016,
+										["n_min"] = 633,
+										["g_dmg"] = 0,
+										["counter"] = 4,
+										["total"] = 3016,
+										["c_max"] = 0,
+										["spellschool"] = 64,
+										["id"] = 153640,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 4,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									},
+								},
+							},
+							["grupo"] = true,
+							["on_hold"] = false,
+							["serial"] = "Player-205-0713A4FD",
+							["last_dps"] = 521.4871848155203,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["damage_taken"] = 10872.001653,
+							["start_time"] = 1605428643,
+							["delay"] = 0,
+							["last_event"] = 1605428726,
+						}, -- [1]
+						{
+							["flag_original"] = 1298,
+							["totalabsorbed"] = 0.007528,
+							["damage_from"] = {
+								["[*] 칼날의 회오리"] = true,
+								["선장 유도라"] = true,
+							},
+							["targets"] = {
+								["선장 졸리"] = 17715,
+								["선장 유도라"] = 28525,
+							},
+							["spec"] = 71,
+							["pets"] = {
+							},
+							["friendlyfire"] = {
+							},
+							["boss_fight_component"] = true,
+							["aID"] = "205-06251940",
+							["raid_targets"] = {
+								[128] = 28525,
+							},
+							["total_without_pet"] = 46240.007528,
+							["end_time"] = 1605428726,
+							["colocacao"] = 2,
+							["dps_started"] = false,
+							["total"] = 46240.007528,
+							["friendlyfire_total"] = 0,
+							["classe"] = "WARRIOR",
+							["nome"] = "해피뼈전사",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 721,
+										["g_amt"] = 0,
+										["n_max"] = 387,
+										["targets"] = {
+											["선장 졸리"] = 1943,
+											["선장 유도라"] = 3826,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 5048,
+										["n_min"] = 238,
+										["g_dmg"] = 0,
+										["counter"] = 18,
+										["total"] = 5769,
+										["c_max"] = 721,
+										["spellschool"] = 1,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 17,
+										["r_amt"] = 0,
+										["c_min"] = 721,
+									}, -- [1]
+									[7384] = {
+										["c_amt"] = 3,
+										["b_amt"] = 0,
+										["c_dmg"] = 3278,
+										["g_amt"] = 0,
+										["n_max"] = 531,
+										["targets"] = {
+											["선장 졸리"] = 2228,
+											["선장 유도라"] = 4332,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 3282,
+										["n_min"] = 397,
+										["g_dmg"] = 0,
+										["counter"] = 10,
+										["total"] = 6560,
+										["c_max"] = 1249,
+										["spellschool"] = 1,
+										["id"] = 7384,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 7,
+										["r_amt"] = 0,
+										["c_min"] = 807,
+									},
+									[127802] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 168,
+										["targets"] = {
+											["선장 졸리"] = 150,
+											["선장 유도라"] = 467,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 617,
+										["n_min"] = 149,
+										["g_dmg"] = 0,
+										["counter"] = 4,
+										["total"] = 617,
+										["c_max"] = 0,
+										["spellschool"] = 32,
+										["id"] = 127802,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 4,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									},
+									[126664] = {
+										["c_amt"] = 2,
+										["b_amt"] = 0,
+										["c_dmg"] = 221,
+										["g_amt"] = 0,
+										["n_max"] = 51,
+										["targets"] = {
+											["선장 졸리"] = 170,
+											["선장 유도라"] = 202,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 151,
+										["n_min"] = 50,
+										["g_dmg"] = 0,
+										["counter"] = 5,
+										["total"] = 372,
+										["c_max"] = 120,
+										["spellschool"] = 1,
+										["id"] = 126664,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 3,
+										["r_amt"] = 0,
+										["c_min"] = 101,
+									},
+									[34428] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 178,
+										["targets"] = {
+											["선장 유도라"] = 178,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 178,
+										["n_min"] = 178,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 178,
+										["c_max"] = 0,
+										["spellschool"] = 1,
+										["id"] = 34428,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 1,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									},
+									[105771] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 0,
+										["targets"] = {
+											["선장 졸리"] = 0,
+											["선장 유도라"] = 0,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 0,
+										["n_min"] = 0,
+										["g_dmg"] = 0,
+										["counter"] = 5,
+										["IMMUNE"] = 5,
+										["total"] = 0,
+										["c_max"] = 0,
+										["spellschool"] = 1,
+										["id"] = 105771,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 0,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									},
+									[260798] = {
+										["c_amt"] = 4,
+										["b_amt"] = 0,
+										["c_dmg"] = 12519,
+										["g_amt"] = 0,
+										["n_max"] = 1813,
+										["targets"] = {
+											["선장 졸리"] = 10323,
+											["선장 유도라"] = 10344,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 8148,
+										["n_min"] = 1352,
+										["g_dmg"] = 0,
+										["counter"] = 9,
+										["total"] = 20667,
+										["c_max"] = 3606,
+										["spellschool"] = 1,
+										["id"] = 260798,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 5,
+										["r_amt"] = 0,
+										["c_min"] = 2745,
+									},
+									[167105] = {
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 1622,
+										["g_amt"] = 0,
+										["n_max"] = 0,
+										["targets"] = {
+											["선장 유도라"] = 1622,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 0,
+										["n_min"] = 0,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 1622,
+										["c_max"] = 1622,
+										["spellschool"] = 1,
+										["id"] = 167105,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 0,
+										["r_amt"] = 0,
+										["c_min"] = 1622,
+									},
+									[12294] = {
+										["c_amt"] = 2,
+										["b_amt"] = 0,
+										["c_dmg"] = 3131,
+										["g_amt"] = 0,
+										["n_max"] = 643,
+										["targets"] = {
+											["선장 졸리"] = 2076,
+											["선장 유도라"] = 2950,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 1895,
+										["n_min"] = 624,
+										["g_dmg"] = 0,
+										["counter"] = 5,
+										["total"] = 5026,
+										["c_max"] = 1679,
+										["spellschool"] = 1,
+										["id"] = 12294,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 3,
+										["r_amt"] = 0,
+										["c_min"] = 1452,
+									},
+									[274575] = {
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 669,
+										["g_amt"] = 0,
+										["n_max"] = 334,
+										["targets"] = {
+											["선장 유도라"] = 1003,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 334,
+										["n_min"] = 334,
+										["g_dmg"] = 0,
+										["counter"] = 2,
+										["total"] = 1003,
+										["c_max"] = 669,
+										["spellschool"] = 8,
+										["id"] = 274575,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 1,
+										["r_amt"] = 0,
+										["c_min"] = 669,
+									},
+									[262115] = {
+										["c_amt"] = 6,
+										["b_amt"] = 0,
+										["c_dmg"] = 1440,
+										["g_amt"] = 0,
+										["n_max"] = 145,
+										["targets"] = {
+											["선장 졸리"] = 825,
+											["선장 유도라"] = 2460,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 1845,
+										["n_min"] = 4,
+										["g_dmg"] = 0,
+										["counter"] = 23,
+										["total"] = 3285,
+										["c_max"] = 274,
+										["spellschool"] = 1,
+										["id"] = 262115,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 17,
+										["r_amt"] = 0,
+										["c_min"] = 222,
+									},
+									[1464] = {
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 763,
+										["g_amt"] = 0,
+										["n_max"] = 378,
+										["targets"] = {
+											["선장 유도라"] = 1141,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 378,
+										["n_min"] = 378,
+										["g_dmg"] = 0,
+										["counter"] = 2,
+										["total"] = 1141,
+										["c_max"] = 763,
+										["spellschool"] = 1,
+										["id"] = 1464,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 1,
+										["r_amt"] = 0,
+										["c_min"] = 763,
+									},
+								},
+							},
+							["grupo"] = true,
+							["on_hold"] = false,
+							["serial"] = "Player-205-06251940",
+							["last_dps"] = 520.3282155130796,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["damage_taken"] = 6521.007528,
+							["start_time"] = 1605428642,
+							["delay"] = 0,
+							["last_event"] = 1605428726,
+						}, -- [2]
+						{
+							["flag_original"] = 1298,
+							["totalabsorbed"] = 0.001118,
+							["damage_from"] = {
+								["선장 졸리"] = true,
+								["선장 유도라"] = true,
+							},
+							["targets"] = {
+								["선장 졸리"] = 38229,
+							},
+							["spec"] = 267,
+							["pets"] = {
+								"제프구프 <판타지곤-데스윙>", -- [1]
+							},
+							["friendlyfire"] = {
+							},
+							["boss_fight_component"] = true,
+							["aID"] = "214-07FC4C5D",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 31728.001118,
+							["end_time"] = 1605428726,
+							["colocacao"] = 3,
+							["dps_started"] = false,
+							["total"] = 38229.001118,
+							["friendlyfire_total"] = 0,
+							["classe"] = "WARLOCK",
+							["nome"] = "판타지곤-데스윙",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									[17962] = {
+										["c_amt"] = 3,
+										["b_amt"] = 0,
+										["c_dmg"] = 3666,
+										["g_amt"] = 0,
+										["n_max"] = 667,
+										["targets"] = {
+											["선장 졸리"] = 6243,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 2577,
+										["n_min"] = 589,
+										["g_dmg"] = 0,
+										["counter"] = 7,
+										["total"] = 6243,
+										["c_max"] = 1247,
+										["spellschool"] = 4,
+										["id"] = 17962,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 4,
+										["r_amt"] = 0,
+										["c_min"] = 1188,
+									},
+									[6353] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 2731,
+										["targets"] = {
+											["선장 졸리"] = 5342,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 5342,
+										["n_min"] = 2611,
+										["g_dmg"] = 0,
+										["counter"] = 2,
+										["total"] = 5342,
+										["c_max"] = 0,
+										["spellschool"] = 4,
+										["id"] = 6353,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 2,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									},
+									[157736] = {
+										["c_amt"] = 3,
+										["b_amt"] = 0,
+										["c_dmg"] = 923,
+										["g_amt"] = 0,
+										["n_max"] = 161,
+										["targets"] = {
+											["선장 졸리"] = 2239,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 1316,
+										["n_min"] = 92,
+										["g_dmg"] = 0,
+										["counter"] = 12,
+										["total"] = 2239,
+										["c_max"] = 318,
+										["spellschool"] = 4,
+										["id"] = 157736,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 9,
+										["r_amt"] = 0,
+										["c_min"] = 299,
+									},
+									[266136] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 181,
+										["targets"] = {
+											["선장 졸리"] = 181,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 181,
+										["n_min"] = 181,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 181,
+										["c_max"] = 0,
+										["spellschool"] = 4,
+										["id"] = 266136,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 1,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									},
+									[116858] = {
+										["c_amt"] = 3,
+										["b_amt"] = 0,
+										["c_dmg"] = 5429,
+										["g_amt"] = 0,
+										["n_max"] = 0,
+										["targets"] = {
+											["선장 졸리"] = 5429,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 0,
+										["n_min"] = 0,
+										["g_dmg"] = 0,
+										["counter"] = 3,
+										["total"] = 5429,
+										["c_max"] = 1841,
+										["spellschool"] = 124,
+										["id"] = 116858,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 0,
+										["r_amt"] = 0,
+										["c_min"] = 1755,
+									},
+									[29722] = {
+										["c_amt"] = 6,
+										["b_amt"] = 0,
+										["c_dmg"] = 4774,
+										["g_amt"] = 0,
+										["n_max"] = 426,
+										["targets"] = {
+											["선장 졸리"] = 11272,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 6498,
+										["n_min"] = 384,
+										["g_dmg"] = 0,
+										["counter"] = 22,
+										["total"] = 11272,
+										["c_max"] = 848,
+										["spellschool"] = 4,
+										["id"] = 29722,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 16,
+										["r_amt"] = 0,
+										["c_min"] = 756,
+									},
+									[42223] = {
+										["c_amt"] = 2,
+										["b_amt"] = 0,
+										["c_dmg"] = 406,
+										["g_amt"] = 0,
+										["n_max"] = 107,
+										["targets"] = {
+											["선장 졸리"] = 1022,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 616,
+										["n_min"] = 99,
+										["g_dmg"] = 0,
+										["counter"] = 8,
+										["total"] = 1022,
+										["c_max"] = 204,
+										["spellschool"] = 4,
+										["id"] = 42223,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 6,
+										["r_amt"] = 0,
+										["c_min"] = 202,
+									},
+								},
+							},
+							["grupo"] = true,
+							["on_hold"] = false,
+							["serial"] = "Player-214-07FC4C5D",
+							["last_dps"] = 430.1821949430126,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["damage_taken"] = 9231.001118,
+							["start_time"] = 1605428647,
+							["delay"] = 0,
+							["last_event"] = 1605428726,
+						}, -- [3]
+						{
+							["flag_original"] = 1298,
+							["totalabsorbed"] = 0.005385,
+							["pets"] = {
+							},
+							["classe"] = "PALADIN",
+							["total_without_pet"] = 28987.005385,
+							["dps_started"] = false,
+							["total"] = 28987.005385,
+							["spec"] = 66,
+							["colocacao"] = 4,
+							["on_hold"] = false,
+							["isTank"] = true,
+							["serial"] = "Player-214-093AAE58",
+							["damage_from"] = {
+								["[*] 칼날의 회오리"] = true,
+								["선장 졸리"] = true,
+								["선장 유도라"] = true,
+							},
+							["targets"] = {
+								["자유지대 선박원"] = 53,
+								["선장 졸리"] = 12980,
+								["선장 유도라"] = 15954,
+							},
+							["boss_fight_component"] = true,
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+								[128] = 15954,
+							},
+							["end_time"] = 1605428732,
+							["avoidance"] = {
+								["[*] 칼날의 회오리"] = {
+									["DODGE"] = 0,
+									["FULL_ABSORB_AMT"] = 0,
+									["BLOCKED_AMT"] = 0,
+									["BLOCKED_HITS"] = 0,
+									["FULL_ABSORBED"] = 0,
+									["ALL"] = 2,
+									["PARTIAL_ABSORBED"] = 0,
+									["PARRY"] = 0,
+									["PARTIAL_ABSORB_AMT"] = 0,
+									["ABSORB"] = 0,
+									["ABSORB_AMT"] = 0,
+									["FULL_HIT"] = 2,
+									["HITS"] = 0,
+									["FULL_HIT_AMT"] = 4047,
+								},
+								["overall"] = {
+									["DODGE"] = 0,
+									["FULL_ABSORB_AMT"] = 0,
+									["BLOCKED_AMT"] = 1957,
+									["BLOCKED_HITS"] = 7,
+									["FULL_ABSORBED"] = 0,
+									["ALL"] = 44,
+									["PARTIAL_ABSORBED"] = 3,
+									["PARRY"] = 3,
+									["PARTIAL_ABSORB_AMT"] = 1167,
+									["ABSORB"] = 3,
+									["ABSORB_AMT"] = 1167,
+									["FULL_HIT"] = 41,
+									["HITS"] = 34,
+									["FULL_HIT_AMT"] = 46189,
+								},
+								["선장 졸리"] = {
+									["DODGE"] = 0,
+									["FULL_ABSORB_AMT"] = 0,
+									["BLOCKED_AMT"] = 1006,
+									["BLOCKED_HITS"] = 4,
+									["FULL_ABSORBED"] = 0,
+									["ALL"] = 27,
+									["PARTIAL_ABSORBED"] = 0,
+									["PARRY"] = 3,
+									["PARTIAL_ABSORB_AMT"] = 0,
+									["ABSORB"] = 0,
+									["ABSORB_AMT"] = 0,
+									["FULL_HIT"] = 27,
+									["HITS"] = 27,
+									["FULL_HIT_AMT"] = 26371,
+								},
+								["선장 유도라"] = {
+									["DODGE"] = 0,
+									["FULL_ABSORB_AMT"] = 0,
+									["BLOCKED_AMT"] = 951,
+									["BLOCKED_HITS"] = 3,
+									["FULL_ABSORBED"] = 0,
+									["ALL"] = 15,
+									["PARTIAL_ABSORBED"] = 3,
+									["PARRY"] = 0,
+									["PARTIAL_ABSORB_AMT"] = 1167,
+									["ABSORB"] = 3,
+									["ABSORB_AMT"] = 1167,
+									["FULL_HIT"] = 12,
+									["HITS"] = 7,
+									["FULL_HIT_AMT"] = 15771,
+								},
+							},
+							["friendlyfire"] = {
+							},
+							["nome"] = "군신잔트라-데스윙",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 7,
+										["b_amt"] = 0,
+										["c_dmg"] = 1992,
+										["g_amt"] = 0,
+										["n_max"] = 171,
+										["targets"] = {
+											["선장 졸리"] = 2731,
+											["선장 유도라"] = 3161,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 3900,
+										["n_min"] = 135,
+										["g_dmg"] = 0,
+										["counter"] = 34,
+										["total"] = 5892,
+										["c_max"] = 324,
+										["spellschool"] = 1,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 27,
+										["r_amt"] = 0,
+										["c_min"] = 271,
+									}, -- [1]
+									[81297] = {
+										["c_amt"] = 22,
+										["b_amt"] = 0,
+										["c_dmg"] = 1147,
+										["g_amt"] = 0,
+										["n_max"] = 30,
+										["targets"] = {
+											["자유지대 선박원"] = 53,
+											["선장 졸리"] = 2266,
+											["선장 유도라"] = 1416,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 2588,
+										["n_min"] = 23,
+										["g_dmg"] = 0,
+										["counter"] = 128,
+										["total"] = 3735,
+										["c_max"] = 59,
+										["spellschool"] = 2,
+										["id"] = 81297,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 106,
+										["r_amt"] = 0,
+										["c_min"] = 46,
+									},
+									[31935] = {
+										["c_amt"] = 2,
+										["b_amt"] = 0,
+										["c_dmg"] = 1087,
+										["g_amt"] = 0,
+										["n_max"] = 256,
+										["targets"] = {
+											["선장 졸리"] = 1011,
+											["선장 유도라"] = 1587,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 1511,
+										["n_min"] = 247,
+										["g_dmg"] = 0,
+										["counter"] = 8,
+										["total"] = 2598,
+										["c_max"] = 596,
+										["spellschool"] = 2,
+										["id"] = 31935,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 6,
+										["r_amt"] = 0,
+										["c_min"] = 491,
+									},
+									[53595] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 108,
+										["targets"] = {
+											["선장 졸리"] = 184,
+											["선장 유도라"] = 379,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 563,
+										["n_min"] = 90,
+										["g_dmg"] = 0,
+										["counter"] = 6,
+										["total"] = 563,
+										["c_max"] = 0,
+										["spellschool"] = 1,
+										["id"] = 53595,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 6,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									},
+									[204242] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 0,
+										["targets"] = {
+											["선장 졸리"] = 0,
+											["선장 유도라"] = 0,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 0,
+										["n_min"] = 0,
+										["g_dmg"] = 0,
+										["counter"] = 23,
+										["IMMUNE"] = 23,
+										["total"] = 0,
+										["c_max"] = 0,
+										["spellschool"] = 2,
+										["id"] = 204242,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 0,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									},
+									[88263] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 49,
+										["targets"] = {
+											["선장 졸리"] = 132,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 132,
+										["n_min"] = 41,
+										["g_dmg"] = 0,
+										["counter"] = 3,
+										["total"] = 132,
+										["c_max"] = 0,
+										["spellschool"] = 2,
+										["id"] = 88263,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 3,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									},
+									[853] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 0,
+										["targets"] = {
+											["선장 유도라"] = 0,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 0,
+										["n_min"] = 0,
+										["g_dmg"] = 0,
+										["counter"] = 2,
+										["IMMUNE"] = 2,
+										["total"] = 0,
+										["c_max"] = 0,
+										["spellschool"] = 2,
+										["id"] = 853,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 0,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									},
+									[53600] = {
+										["c_amt"] = 2,
+										["b_amt"] = 0,
+										["c_dmg"] = 1029,
+										["g_amt"] = 0,
+										["n_max"] = 309,
+										["targets"] = {
+											["선장 졸리"] = 2327,
+											["선장 유도라"] = 1652,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 2950,
+										["n_min"] = 200,
+										["g_dmg"] = 0,
+										["counter"] = 14,
+										["total"] = 3979,
+										["c_max"] = 622,
+										["spellschool"] = 2,
+										["id"] = 53600,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 12,
+										["r_amt"] = 0,
+										["c_min"] = 407,
+									},
+									[157122] = {
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 112,
+										["g_amt"] = 0,
+										["n_max"] = 57,
+										["targets"] = {
+											["선장 졸리"] = 261,
+											["선장 유도라"] = 297,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 446,
+										["n_min"] = 46,
+										["g_dmg"] = 0,
+										["counter"] = 10,
+										["total"] = 558,
+										["c_max"] = 112,
+										["spellschool"] = 2,
+										["id"] = 157122,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 9,
+										["r_amt"] = 0,
+										["c_min"] = 112,
+									},
+									[275779] = {
+										["c_amt"] = 3,
+										["b_amt"] = 0,
+										["c_dmg"] = 3896,
+										["g_amt"] = 0,
+										["n_max"] = 686,
+										["targets"] = {
+											["선장 졸리"] = 4068,
+											["선장 유도라"] = 7462,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 7634,
+										["n_min"] = 560,
+										["g_dmg"] = 0,
+										["counter"] = 16,
+										["total"] = 11530,
+										["c_max"] = 1398,
+										["spellschool"] = 2,
+										["id"] = 275779,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 13,
+										["r_amt"] = 0,
+										["c_min"] = 1137,
+									},
+								},
+							},
+							["grupo"] = true,
+							["aID"] = "214-093AAE58",
+							["last_dps"] = 326.1841334241117,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["damage_taken"] = 50661.005385,
+							["start_time"] = 1605428638,
+							["delay"] = 0,
+							["last_event"] = 1605428731,
+						}, -- [4]
+						{
+							["flag_original"] = 1298,
+							["totalabsorbed"] = 0.001422,
+							["damage_from"] = {
+								["선장 졸리"] = true,
+								["선장 유도라"] = true,
+							},
+							["targets"] = {
+								["선장 졸리"] = 2148,
+								["자유지대 선박원"] = 619,
+							},
+							["spec"] = 264,
+							["pets"] = {
+							},
+							["friendlyfire"] = {
+							},
+							["boss_fight_component"] = true,
+							["aID"] = "214-09483ED4",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 2767.001422,
+							["end_time"] = 1605428732,
+							["colocacao"] = 5,
+							["dps_started"] = false,
+							["total"] = 2767.001422,
+							["friendlyfire_total"] = 0,
+							["classe"] = "SHAMAN",
+							["nome"] = "덩치큰토템-데스윙",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									[196840] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 254,
+										["targets"] = {
+											["선장 졸리"] = 254,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 254,
+										["n_min"] = 254,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 254,
+										["c_max"] = 0,
+										["spellschool"] = 16,
+										["id"] = 196840,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 1,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									},
+									[285452] = {
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 1245,
+										["g_amt"] = 0,
+										["n_max"] = 619,
+										["targets"] = {
+											["선장 졸리"] = 1245,
+											["자유지대 선박원"] = 619,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 619,
+										["n_min"] = 619,
+										["g_dmg"] = 0,
+										["counter"] = 2,
+										["total"] = 1864,
+										["c_max"] = 1245,
+										["spellschool"] = 4,
+										["id"] = 285452,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 1,
+										["r_amt"] = 0,
+										["c_min"] = 1245,
+									},
+									[188389] = {
+										["c_amt"] = 2,
+										["b_amt"] = 0,
+										["c_dmg"] = 268,
+										["g_amt"] = 0,
+										["n_max"] = 113,
+										["targets"] = {
+											["선장 졸리"] = 649,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 381,
+										["n_min"] = 67,
+										["g_dmg"] = 0,
+										["counter"] = 7,
+										["total"] = 649,
+										["c_max"] = 134,
+										["spellschool"] = 4,
+										["id"] = 188389,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 5,
+										["r_amt"] = 0,
+										["c_min"] = 134,
+									},
+								},
+							},
+							["grupo"] = true,
+							["on_hold"] = false,
+							["serial"] = "Player-214-09483ED4",
+							["last_dps"] = 31.13643334421159,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["damage_taken"] = 4518.001422,
+							["start_time"] = 1605428714,
+							["delay"] = 0,
+							["last_event"] = 1605428728,
+						}, -- [5]
+						{
+							["flag_original"] = 2632,
+							["totalabsorbed"] = 232.003789,
+							["total"] = 49921.003789,
+							["damage_from"] = {
+								["해피뼈전사"] = true,
+								["군신잔트라-데스윙"] = true,
+								["법따리"] = true,
+							},
+							["targets"] = {
+								["선장 라울"] = 4899,
+								["군신잔트라-데스윙"] = 20243,
+								["덩치큰토템-데스윙"] = 3055,
+								["해피뼈전사"] = 4337,
+								["제프구프 <판타지곤-데스윙>"] = 232,
+								["판타지곤-데스윙"] = 6283,
+								["법따리"] = 10872,
+							},
+							["pets"] = {
+							},
+							["monster"] = true,
+							["boss_fight_component"] = true,
+							["aID"] = "126848",
+							["raid_targets"] = {
+								[2] = 20243,
+							},
+							["total_without_pet"] = 49921.003789,
+							["on_hold"] = false,
+							["dps_started"] = false,
+							["end_time"] = 1605428726,
+							["friendlyfire_total"] = 0,
+							["classe"] = "UNKNOW",
+							["nome"] = "선장 유도라",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 0,
+										["b_amt"] = 1,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 1736,
+										["targets"] = {
+											["군신잔트라-데스윙"] = 10177,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 10177,
+										["n_min"] = 1119,
+										["g_dmg"] = 0,
+										["counter"] = 7,
+										["total"] = 10177,
+										["c_max"] = 0,
+										["spellschool"] = 1,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 1319,
+										["n_amt"] = 7,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									}, -- [1]
+									[258352] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 1639,
+										["targets"] = {
+											["선장 라울"] = 4899,
+											["군신잔트라-데스윙"] = 7614,
+											["덩치큰토템-데스윙"] = 3055,
+											["해피뼈전사"] = 3058,
+											["제프구프 <판타지곤-데스윙>"] = 232,
+											["판타지곤-데스윙"] = 3049,
+											["법따리"] = 4546,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 26453,
+										["n_min"] = 76,
+										["g_dmg"] = 0,
+										["counter"] = 20,
+										["total"] = 26453,
+										["c_max"] = 0,
+										["id"] = 258352,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 9035,
+										["m_crit"] = 0,
+										["a_amt"] = 6,
+										["m_amt"] = 0,
+										["successful_casted"] = 14,
+										["b_dmg"] = 0,
+										["n_amt"] = 20,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									},
+									[258381] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 0,
+										["targets"] = {
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 0,
+										["n_min"] = 0,
+										["g_dmg"] = 0,
+										["counter"] = 0,
+										["total"] = 0,
+										["c_max"] = 0,
+										["id"] = 258381,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 2,
+										["b_dmg"] = 0,
+										["n_amt"] = 0,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									},
+									[256979] = {
+										["c_amt"] = 0,
+										["b_amt"] = 2,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 1628,
+										["targets"] = {
+											["판타지곤-데스윙"] = 3234,
+											["법따리"] = 6326,
+											["군신잔트라-데스윙"] = 2452,
+											["해피뼈전사"] = 1279,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 13291,
+										["n_min"] = 574,
+										["g_dmg"] = 0,
+										["counter"] = 10,
+										["total"] = 13291,
+										["c_max"] = 0,
+										["id"] = 256979,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 4820,
+										["m_crit"] = 0,
+										["a_amt"] = 3,
+										["m_amt"] = 0,
+										["successful_casted"] = 10,
+										["b_dmg"] = 1361,
+										["n_amt"] = 10,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									},
+								},
+							},
+							["friendlyfire"] = {
+							},
+							["serial"] = "Creature-0-3058-1754-18048-126848-000030E278",
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["last_event"] = 1605428696,
+							["damage_taken"] = 81320.00378900001,
+							["start_time"] = 1605428669,
+							["delay"] = 1605428696,
+							["tipo"] = 1,
+						}, -- [6]
+						{
+							["flag_original"] = 2632,
+							["totalabsorbed"] = 73.00696,
+							["total"] = 30855.00696,
+							["damage_from"] = {
+								["선장 라울"] = true,
+								["군신잔트라-데스윙"] = true,
+								["덩치큰토템-데스윙"] = true,
+								["해피뼈전사"] = true,
+								["판타지곤-데스윙"] = true,
+								["법따리"] = true,
+								["제프구프 <판타지곤-데스윙>"] = true,
+							},
+							["targets"] = {
+								["판타지곤-데스윙"] = 2948,
+								["제프구프 <판타지곤-데스윙>"] = 73,
+								["군신잔트라-데스윙"] = 26371,
+								["덩치큰토템-데스윙"] = 1463,
+							},
+							["pets"] = {
+							},
+							["monster"] = true,
+							["boss_fight_component"] = true,
+							["aID"] = "126845",
+							["raid_targets"] = {
+								[2] = 26371,
+							},
+							["total_without_pet"] = 30855.00696,
+							["on_hold"] = false,
+							["dps_started"] = false,
+							["end_time"] = 1605428726,
+							["friendlyfire_total"] = 0,
+							["classe"] = "UNKNOW",
+							["nome"] = "선장 졸리",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 0,
+										["b_amt"] = 4,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 1490,
+										["targets"] = {
+											["군신잔트라-데스윙"] = 26371,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 26371,
+										["n_min"] = 499,
+										["g_dmg"] = 0,
+										["counter"] = 30,
+										["a_amt"] = 0,
+										["total"] = 26371,
+										["c_max"] = 0,
+										["spellschool"] = 1,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["PARRY"] = 3,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 2835,
+										["n_amt"] = 27,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									}, -- [1]
+									[272374] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 1476,
+										["targets"] = {
+											["제프구프 <판타지곤-데스윙>"] = 73,
+											["판타지곤-데스윙"] = 2948,
+											["덩치큰토템-데스윙"] = 1463,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 4484,
+										["n_min"] = 73,
+										["g_dmg"] = 0,
+										["counter"] = 4,
+										["total"] = 4484,
+										["c_max"] = 0,
+										["spellschool"] = 4,
+										["id"] = 272374,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 2948,
+										["m_crit"] = 0,
+										["a_amt"] = 2,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 4,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									},
+									[267533] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 0,
+										["targets"] = {
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 0,
+										["n_min"] = 0,
+										["g_dmg"] = 0,
+										["counter"] = 0,
+										["total"] = 0,
+										["c_max"] = 0,
+										["id"] = 267533,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 4,
+										["b_dmg"] = 0,
+										["n_amt"] = 0,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									},
+									[267522] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 0,
+										["targets"] = {
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 0,
+										["n_min"] = 0,
+										["g_dmg"] = 0,
+										["counter"] = 0,
+										["total"] = 0,
+										["c_max"] = 0,
+										["id"] = 267522,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 3,
+										["b_dmg"] = 0,
+										["n_amt"] = 0,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									},
+									[267523] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 0,
+										["targets"] = {
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 0,
+										["n_min"] = 0,
+										["g_dmg"] = 0,
+										["counter"] = 0,
+										["total"] = 0,
+										["c_max"] = 0,
+										["id"] = 267523,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 3,
+										["b_dmg"] = 0,
+										["n_amt"] = 0,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									},
+								},
+							},
+							["friendlyfire"] = {
+							},
+							["serial"] = "Creature-0-3058-1754-18048-126845-000030E278",
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["last_event"] = 1605428725,
+							["damage_taken"] = 81522.00696,
+							["start_time"] = 1605428652,
+							["delay"] = 1605428684,
+							["tipo"] = 1,
+						}, -- [7]
+						{
+							["flag_original"] = 4370,
+							["totalabsorbed"] = 0.003925,
+							["total"] = 6501.003925,
+							["damage_from"] = {
+								["선장 졸리"] = true,
+								["선장 유도라"] = true,
+							},
+							["targets"] = {
+								["선장 졸리"] = 6501,
+							},
+							["serial"] = "Pet-0-3058-1754-18048-416-01019C2D49",
+							["pets"] = {
+							},
+							["boss_fight_component"] = true,
+							["on_hold"] = false,
+							["aID"] = "Pet-0-3058-1754-18048-416-01019C2D49",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 6501.003925,
+							["friendlyfire_total"] = 0,
+							["dps_started"] = false,
+							["end_time"] = 1605428726,
+							["ownerName"] = "판타지곤-데스윙",
+							["nome"] = "제프구프 <판타지곤-데스윙>",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									[3110] = {
+										["c_amt"] = 2,
+										["b_amt"] = 0,
+										["c_dmg"] = 1043,
+										["g_amt"] = 0,
+										["n_max"] = 265,
+										["targets"] = {
+											["선장 졸리"] = 6501,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 5458,
+										["n_min"] = 253,
+										["g_dmg"] = 0,
+										["counter"] = 23,
+										["total"] = 6501,
+										["c_max"] = 529,
+										["spellschool"] = 4,
+										["id"] = 3110,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 21,
+										["r_amt"] = 0,
+										["c_min"] = 514,
+									},
+								},
+							},
+							["classe"] = "PET",
+							["friendlyfire"] = {
+							},
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["last_event"] = 1605428725,
+							["damage_taken"] = 305.003925,
+							["start_time"] = 1605428650,
+							["delay"] = 0,
+							["tipo"] = 1,
+						}, -- [8]
+						{
+							["flag_original"] = 2632,
+							["totalabsorbed"] = 0.00447,
+							["damage_from"] = {
+							},
+							["targets"] = {
+								["군신잔트라-데스윙"] = 4047,
+								["해피뼈전사"] = 2184,
+							},
+							["pets"] = {
+							},
+							["serial"] = "",
+							["monster"] = true,
+							["classe"] = "UNKNOW",
+							["raid_targets"] = {
+								[2] = 4047,
+							},
+							["total_without_pet"] = 6231.00447,
+							["spellicon"] = 1500963,
+							["boss_fight_component"] = true,
+							["dps_started"] = false,
+							["total"] = 6231.00447,
+							["aID"] = "",
+							["friendlyfire_total"] = 0,
+							["nome"] = "[*] 칼날의 회오리",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									[272397] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 2184,
+										["targets"] = {
+											["군신잔트라-데스윙"] = 4047,
+											["해피뼈전사"] = 2184,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 6231,
+										["n_min"] = 1991,
+										["g_dmg"] = 0,
+										["counter"] = 3,
+										["total"] = 6231,
+										["c_max"] = 0,
+										["spellschool"] = 8,
+										["id"] = 272397,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 3,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									},
+								},
+							},
+							["end_time"] = 1605428726,
+							["on_hold"] = false,
+							["friendlyfire"] = {
+							},
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["damage_taken"] = 0.00447,
+							["start_time"] = 1605428725,
+							["delay"] = 1605428701,
+							["last_event"] = 1605428701,
+						}, -- [9]
+						{
+							["flag_original"] = 2584,
+							["totalabsorbed"] = 0.006929,
+							["damage_from"] = {
+								["선장 유도라"] = true,
+							},
+							["targets"] = {
+								["선장 졸리"] = 948,
+							},
+							["pets"] = {
+							},
+							["aID"] = "",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 948.006929,
+							["on_hold"] = false,
+							["boss_fight_component"] = true,
+							["dps_started"] = false,
+							["end_time"] = 1605428726,
+							["friendlyfire_total"] = 0,
+							["classe"] = "UNKNOW",
+							["nome"] = "선장 라울",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 4,
+										["b_amt"] = 0,
+										["c_dmg"] = 217,
+										["g_amt"] = 0,
+										["n_max"] = 32,
+										["targets"] = {
+											["선장 졸리"] = 948,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 731,
+										["MISS"] = 2,
+										["n_min"] = 22,
+										["g_dmg"] = 0,
+										["counter"] = 35,
+										["DODGE"] = 2,
+										["total"] = 948,
+										["c_max"] = 61,
+										["spellschool"] = 1,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 27,
+										["r_amt"] = 0,
+										["c_min"] = 47,
+									}, -- [1]
+								},
+							},
+							["total"] = 948.006929,
+							["serial"] = "Vehicle-0-3058-1754-18048-126847-000030E278",
+							["friendlyfire"] = {
+							},
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["last_event"] = 1605428723,
+							["damage_taken"] = 4899.006929,
+							["start_time"] = 1605428641,
+							["delay"] = 0,
+							["tipo"] = 1,
+						}, -- [10]
+					},
+				}, -- [1]
+				{
+					["combatId"] = 494,
+					["tipo"] = 3,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1298,
+							["targets_overheal"] = {
+								["제프구프 <판타지곤-데스윙>"] = 215,
+								["해피뼈전사"] = 336,
+								["군신잔트라-데스윙"] = 3657,
+								["덩치큰토템-데스윙"] = 247,
+							},
+							["pets"] = {
+								"치유의 토템 <덩치큰토템-데스윙>", -- [1]
+							},
+							["iniciar_hps"] = false,
+							["aID"] = "214-09483ED4",
+							["totalover"] = 4455.008067,
+							["total_without_pet"] = 62711.008067,
+							["total"] = 65425.008067,
+							["targets_absorbs"] = {
+							},
+							["heal_enemy"] = {
+							},
+							["on_hold"] = false,
+							["serial"] = "Player-214-09483ED4",
+							["totalabsorb"] = 0.008067,
+							["last_hps"] = 0,
+							["targets"] = {
+								["군신잔트라-데스윙"] = 51397,
+								["덩치큰토템-데스윙"] = 4165,
+								["법따리"] = 6715,
+								["제프구프 <판타지곤-데스윙>"] = 86,
+								["판타지곤-데스윙"] = 3062,
+							},
+							["totalover_without_pet"] = 0.008067,
+							["healing_taken"] = 4165.008067,
+							["boss_fight_component"] = true,
+							["end_time"] = 1605428726,
+							["healing_from"] = {
+								["치유의 토템 <덩치큰토템-데스윙>"] = true,
+								["덩치큰토템-데스윙"] = true,
+							},
+							["heal_enemy_amt"] = 0,
+							["nome"] = "덩치큰토템-데스윙",
+							["spells"] = {
+								["tipo"] = 3,
+								["_ActorTable"] = {
+									[77472] = {
+										["c_amt"] = 0,
+										["totalabsorb"] = 0,
+										["targets_overheal"] = {
+										},
+										["n_max"] = 2144,
+										["targets"] = {
+											["군신잔트라-데스윙"] = 2144,
+										},
+										["n_min"] = 2144,
+										["counter"] = 1,
+										["overheal"] = 0,
+										["total"] = 2144,
+										["c_max"] = 0,
+										["id"] = 77472,
+										["targets_absorbs"] = {
+										},
+										["c_curado"] = 0,
+										["m_crit"] = 0,
+										["c_min"] = 0,
+										["m_amt"] = 0,
+										["n_curado"] = 2144,
+										["n_amt"] = 1,
+										["totaldenied"] = 0,
+										["m_healed"] = 0,
+										["absorbed"] = 0,
+									},
+									[61295] = {
+										["c_amt"] = 5,
+										["totalabsorb"] = 0,
+										["targets_overheal"] = {
+											["군신잔트라-데스윙"] = 236,
+										},
+										["n_max"] = 1207,
+										["targets"] = {
+											["군신잔트라-데스윙"] = 8969,
+										},
+										["n_min"] = 61,
+										["counter"] = 26,
+										["overheal"] = 236,
+										["total"] = 8969,
+										["c_max"] = 2539,
+										["id"] = 61295,
+										["targets_absorbs"] = {
+										},
+										["c_curado"] = 3555,
+										["m_crit"] = 0,
+										["c_min"] = 248,
+										["m_amt"] = 0,
+										["n_curado"] = 5414,
+										["n_amt"] = 21,
+										["totaldenied"] = 0,
+										["m_healed"] = 0,
+										["absorbed"] = 0,
+									},
+									[73921] = {
+										["c_amt"] = 6,
+										["totalabsorb"] = 0,
+										["targets_overheal"] = {
+											["해피뼈전사"] = 336,
+										},
+										["n_max"] = 189,
+										["targets"] = {
+											["해피뼈전사"] = 0,
+											["군신잔트라-데스윙"] = 795,
+											["덩치큰토템-데스윙"] = 766,
+											["판타지곤-데스윙"] = 1110,
+											["법따리"] = 1117,
+										},
+										["n_min"] = 0,
+										["counter"] = 24,
+										["overheal"] = 336,
+										["total"] = 3788,
+										["c_max"] = 356,
+										["id"] = 73921,
+										["targets_absorbs"] = {
+										},
+										["c_curado"] = 1776,
+										["m_crit"] = 0,
+										["c_min"] = 273,
+										["m_amt"] = 0,
+										["n_curado"] = 2012,
+										["n_amt"] = 18,
+										["totaldenied"] = 0,
+										["m_healed"] = 0,
+										["absorbed"] = 0,
+									},
+									[8004] = {
+										["c_amt"] = 5,
+										["totalabsorb"] = 0,
+										["targets_overheal"] = {
+											["군신잔트라-데스윙"] = 3421,
+										},
+										["n_max"] = 1800,
+										["targets"] = {
+											["판타지곤-데스윙"] = 1233,
+											["법따리"] = 3916,
+											["군신잔트라-데스윙"] = 30529,
+											["덩치큰토템-데스윙"] = 2447,
+										},
+										["n_min"] = 1205,
+										["counter"] = 21,
+										["overheal"] = 3421,
+										["total"] = 38125,
+										["c_max"] = 3900,
+										["id"] = 8004,
+										["targets_absorbs"] = {
+										},
+										["c_curado"] = 15829,
+										["m_crit"] = 0,
+										["c_min"] = 1739,
+										["m_amt"] = 0,
+										["n_curado"] = 22296,
+										["n_amt"] = 16,
+										["totaldenied"] = 0,
+										["m_healed"] = 0,
+										["absorbed"] = 0,
+									},
+									[379] = {
+										["c_amt"] = 2,
+										["totalabsorb"] = 0,
+										["targets_overheal"] = {
+										},
+										["n_max"] = 233,
+										["targets"] = {
+											["군신잔트라-데스윙"] = 4272,
+										},
+										["n_min"] = 193,
+										["counter"] = 18,
+										["overheal"] = 0,
+										["total"] = 4272,
+										["c_max"] = 445,
+										["id"] = 379,
+										["targets_absorbs"] = {
+										},
+										["c_curado"] = 841,
+										["m_crit"] = 0,
+										["c_min"] = 396,
+										["m_amt"] = 0,
+										["n_curado"] = 3431,
+										["n_amt"] = 16,
+										["totaldenied"] = 0,
+										["m_healed"] = 0,
+										["absorbed"] = 0,
+									},
+									[1064] = {
+										["c_amt"] = 2,
+										["totalabsorb"] = 0,
+										["targets_overheal"] = {
+											["제프구프 <판타지곤-데스윙>"] = 215,
+											["덩치큰토템-데스윙"] = 247,
+										},
+										["n_max"] = 1339,
+										["targets"] = {
+											["법따리"] = 743,
+											["제프구프 <판타지곤-데스윙>"] = 86,
+											["군신잔트라-데스윙"] = 3858,
+											["덩치큰토템-데스윙"] = 726,
+										},
+										["n_min"] = 86,
+										["counter"] = 5,
+										["overheal"] = 462,
+										["total"] = 5413,
+										["c_max"] = 2519,
+										["id"] = 1064,
+										["targets_absorbs"] = {
+										},
+										["c_curado"] = 3245,
+										["m_crit"] = 0,
+										["c_min"] = 726,
+										["m_amt"] = 0,
+										["n_curado"] = 2168,
+										["n_amt"] = 3,
+										["totaldenied"] = 0,
+										["m_healed"] = 0,
+										["absorbed"] = 0,
+									},
+								},
+							},
+							["grupo"] = true,
+							["start_time"] = 1605428639,
+							["spec"] = 264,
+							["custom"] = 0,
+							["tipo"] = 2,
+							["classe"] = "SHAMAN",
+							["totaldenied"] = 0.008067,
+							["delay"] = 0,
+							["last_event"] = 1605428726,
+						}, -- [1]
+						{
+							["flag_original"] = 1298,
+							["targets_overheal"] = {
+							},
+							["pets"] = {
+							},
+							["iniciar_hps"] = false,
+							["aID"] = "214-093AAE58",
+							["totalover"] = 0.002301,
+							["total_without_pet"] = 841.002301,
+							["total"] = 841.002301,
+							["targets_absorbs"] = {
+								["군신잔트라-데스윙"] = 841,
+							},
+							["heal_enemy"] = {
+							},
+							["on_hold"] = false,
+							["isTank"] = true,
+							["serial"] = "Player-214-093AAE58",
+							["totalabsorb"] = 841.002301,
+							["last_hps"] = 0,
+							["targets"] = {
+								["군신잔트라-데스윙"] = 841,
+							},
+							["totalover_without_pet"] = 0.002301,
+							["healing_taken"] = 52238.002301,
+							["boss_fight_component"] = true,
+							["end_time"] = 1605428726,
+							["healing_from"] = {
+								["치유의 토템 <덩치큰토템-데스윙>"] = true,
+								["군신잔트라-데스윙"] = true,
+								["덩치큰토템-데스윙"] = true,
+							},
+							["heal_enemy_amt"] = 0,
+							["nome"] = "군신잔트라-데스윙",
+							["spells"] = {
+								["tipo"] = 3,
+								["_ActorTable"] = {
+									[152261] = {
+										["c_amt"] = 0,
+										["totalabsorb"] = 841,
+										["targets_overheal"] = {
+										},
+										["n_max"] = 291,
+										["targets"] = {
+											["군신잔트라-데스윙"] = 841,
+										},
+										["n_min"] = 260,
+										["counter"] = 3,
+										["overheal"] = 0,
+										["total"] = 841,
+										["c_max"] = 0,
+										["id"] = 152261,
+										["targets_absorbs"] = {
+											["군신잔트라-데스윙"] = 841,
+										},
+										["m_healed"] = 0,
+										["c_curado"] = 0,
+										["m_crit"] = 0,
+										["c_min"] = 0,
+										["m_amt"] = 0,
+										["n_curado"] = 841,
+										["n_amt"] = 3,
+										["totaldenied"] = 0,
+										["is_shield"] = true,
+										["absorbed"] = 0,
+									},
+								},
+							},
+							["grupo"] = true,
+							["start_time"] = 1605428720,
+							["spec"] = 66,
+							["custom"] = 0,
+							["tipo"] = 2,
+							["classe"] = "PALADIN",
+							["totaldenied"] = 0.002301,
+							["delay"] = 1605428683,
+							["last_event"] = 1605428683,
+						}, -- [2]
+						{
+							["flag_original"] = 1298,
+							["targets_overheal"] = {
+								["해피뼈전사"] = 3183,
+							},
+							["pets"] = {
+							},
+							["iniciar_hps"] = false,
+							["aID"] = "205-06251940",
+							["totalover"] = 3183.008864,
+							["total_without_pet"] = 3141.008864,
+							["total"] = 3141.008864,
+							["targets_absorbs"] = {
+							},
+							["heal_enemy"] = {
+							},
+							["on_hold"] = false,
+							["serial"] = "Player-205-06251940",
+							["totalabsorb"] = 0.008864,
+							["last_hps"] = 0,
+							["targets"] = {
+								["해피뼈전사"] = 3141,
+							},
+							["totalover_without_pet"] = 0.008864,
+							["healing_taken"] = 3141.008864,
+							["boss_fight_component"] = true,
+							["end_time"] = 1605428726,
+							["healing_from"] = {
+								["해피뼈전사"] = true,
+							},
+							["heal_enemy_amt"] = 0,
+							["nome"] = "해피뼈전사",
+							["spells"] = {
+								["tipo"] = 3,
+								["_ActorTable"] = {
+									[118779] = {
+										["c_amt"] = 0,
+										["totalabsorb"] = 0,
+										["targets_overheal"] = {
+											["해피뼈전사"] = 1794,
+										},
+										["n_max"] = 0,
+										["targets"] = {
+											["해피뼈전사"] = 0,
+										},
+										["n_min"] = 0,
+										["counter"] = 1,
+										["overheal"] = 1794,
+										["total"] = 0,
+										["c_max"] = 0,
+										["id"] = 118779,
+										["targets_absorbs"] = {
+										},
+										["c_curado"] = 0,
+										["m_crit"] = 0,
+										["c_min"] = 0,
+										["m_amt"] = 0,
+										["n_curado"] = 0,
+										["n_amt"] = 1,
+										["totaldenied"] = 0,
+										["m_healed"] = 0,
+										["absorbed"] = 0,
+									},
+									[127802] = {
+										["c_amt"] = 0,
+										["totalabsorb"] = 0,
+										["targets_overheal"] = {
+											["해피뼈전사"] = 699,
+										},
+										["n_max"] = 0,
+										["targets"] = {
+											["해피뼈전사"] = 0,
+										},
+										["n_min"] = 0,
+										["counter"] = 4,
+										["overheal"] = 699,
+										["total"] = 0,
+										["c_max"] = 0,
+										["id"] = 127802,
+										["targets_absorbs"] = {
+										},
+										["c_curado"] = 0,
+										["m_crit"] = 0,
+										["c_min"] = 0,
+										["m_amt"] = 0,
+										["n_curado"] = 0,
+										["n_amt"] = 4,
+										["totaldenied"] = 0,
+										["m_healed"] = 0,
+										["absorbed"] = 0,
+									},
+									[202147] = {
+										["c_amt"] = 0,
+										["totalabsorb"] = 0,
+										["targets_overheal"] = {
+											["해피뼈전사"] = 690,
+										},
+										["n_max"] = 320,
+										["targets"] = {
+											["해피뼈전사"] = 3141,
+										},
+										["n_min"] = 80,
+										["counter"] = 12,
+										["overheal"] = 690,
+										["total"] = 3141,
+										["c_max"] = 0,
+										["id"] = 202147,
+										["targets_absorbs"] = {
+										},
+										["c_curado"] = 0,
+										["m_crit"] = 0,
+										["c_min"] = 0,
+										["m_amt"] = 0,
+										["n_curado"] = 3141,
+										["n_amt"] = 12,
+										["totaldenied"] = 0,
+										["m_healed"] = 0,
+										["absorbed"] = 0,
+									},
+								},
+							},
+							["grupo"] = true,
+							["start_time"] = 1605428698,
+							["spec"] = 71,
+							["custom"] = 0,
+							["tipo"] = 2,
+							["classe"] = "WARRIOR",
+							["totaldenied"] = 0.008864,
+							["delay"] = 1605428711,
+							["last_event"] = 1605428711,
+						}, -- [3]
+						{
+							["flag_original"] = 1297,
+							["targets_overheal"] = {
+							},
+							["pets"] = {
+							},
+							["iniciar_hps"] = false,
+							["aID"] = "205-0713A4FD",
+							["totalover"] = 0.002679,
+							["total_without_pet"] = 3022.002679,
+							["total"] = 3022.002679,
+							["targets_absorbs"] = {
+								["법따리"] = 2390,
+							},
+							["heal_enemy"] = {
+							},
+							["on_hold"] = false,
+							["serial"] = "Player-205-0713A4FD",
+							["totalabsorb"] = 2390.002679,
+							["last_hps"] = 0,
+							["targets"] = {
+								["법따리"] = 3022,
+							},
+							["totalover_without_pet"] = 0.002679,
+							["healing_taken"] = 9737.002679000001,
+							["boss_fight_component"] = true,
+							["end_time"] = 1605428726,
+							["healing_from"] = {
+								["법따리"] = true,
+								["치유의 토템 <덩치큰토템-데스윙>"] = true,
+								["덩치큰토템-데스윙"] = true,
+							},
+							["heal_enemy_amt"] = 0,
+							["nome"] = "법따리",
+							["spells"] = {
+								["tipo"] = 3,
+								["_ActorTable"] = {
+									[269279] = {
+										["c_amt"] = 0,
+										["totalabsorb"] = 2390,
+										["targets_overheal"] = {
+										},
+										["n_max"] = 1195,
+										["targets"] = {
+											["법따리"] = 2390,
+										},
+										["n_min"] = 1195,
+										["counter"] = 2,
+										["overheal"] = 0,
+										["total"] = 2390,
+										["c_max"] = 0,
+										["id"] = 269279,
+										["targets_absorbs"] = {
+											["법따리"] = 2390,
+										},
+										["m_healed"] = 0,
+										["c_curado"] = 0,
+										["m_crit"] = 0,
+										["c_min"] = 0,
+										["m_amt"] = 0,
+										["n_curado"] = 2390,
+										["n_amt"] = 2,
+										["totaldenied"] = 0,
+										["is_shield"] = true,
+										["absorbed"] = 0,
+									},
+									[143924] = {
+										["c_amt"] = 0,
+										["totalabsorb"] = 0,
+										["targets_overheal"] = {
+										},
+										["n_max"] = 45,
+										["targets"] = {
+											["법따리"] = 632,
+										},
+										["n_min"] = 1,
+										["counter"] = 40,
+										["overheal"] = 0,
+										["total"] = 632,
+										["c_max"] = 0,
+										["id"] = 143924,
+										["targets_absorbs"] = {
+										},
+										["c_curado"] = 0,
+										["m_crit"] = 0,
+										["c_min"] = 0,
+										["m_amt"] = 0,
+										["n_curado"] = 632,
+										["n_amt"] = 40,
+										["totaldenied"] = 0,
+										["m_healed"] = 0,
+										["absorbed"] = 0,
+									},
+								},
+							},
+							["grupo"] = true,
+							["start_time"] = 1605428645,
+							["spec"] = 62,
+							["custom"] = 0,
+							["tipo"] = 2,
+							["classe"] = "MAGE",
+							["totaldenied"] = 0.002679,
+							["delay"] = 0,
+							["last_event"] = 1605428726,
+						}, -- [4]
+						{
+							["flag_original"] = 1298,
+							["targets_overheal"] = {
+							},
+							["pets"] = {
+								"제프구프 <판타지곤-데스윙>", -- [1]
+							},
+							["iniciar_hps"] = false,
+							["aID"] = "214-07FC4C5D",
+							["totalover"] = 0.001904,
+							["total_without_pet"] = 3896.001904,
+							["total"] = 3896.001904,
+							["targets_absorbs"] = {
+								["판타지곤-데스윙"] = 3675,
+								["제프구프 <판타지곤-데스윙>"] = 221,
+							},
+							["heal_enemy"] = {
+							},
+							["on_hold"] = false,
+							["serial"] = "Player-214-07FC4C5D",
+							["totalabsorb"] = 3896.001904,
+							["last_hps"] = 0,
+							["targets"] = {
+								["판타지곤-데스윙"] = 3675,
+								["제프구프 <판타지곤-데스윙>"] = 221,
+							},
+							["totalover_without_pet"] = 0.001904,
+							["healing_taken"] = 6737.001904,
+							["boss_fight_component"] = true,
+							["end_time"] = 1605428726,
+							["healing_from"] = {
+								["판타지곤-데스윙"] = true,
+								["치유의 토템 <덩치큰토템-데스윙>"] = true,
+								["덩치큰토템-데스윙"] = true,
+							},
+							["heal_enemy_amt"] = 0,
+							["nome"] = "판타지곤-데스윙",
+							["spells"] = {
+								["tipo"] = 3,
+								["_ActorTable"] = {
+									[108366] = {
+										["c_amt"] = 0,
+										["totalabsorb"] = 3592,
+										["targets_overheal"] = {
+										},
+										["n_max"] = 953,
+										["targets"] = {
+											["판타지곤-데스윙"] = 3371,
+											["제프구프 <판타지곤-데스윙>"] = 221,
+										},
+										["n_min"] = 53,
+										["counter"] = 10,
+										["overheal"] = 0,
+										["total"] = 3592,
+										["c_max"] = 0,
+										["id"] = 108366,
+										["targets_absorbs"] = {
+											["판타지곤-데스윙"] = 3371,
+											["제프구프 <판타지곤-데스윙>"] = 221,
+										},
+										["m_healed"] = 0,
+										["c_curado"] = 0,
+										["m_crit"] = 0,
+										["c_min"] = 0,
+										["m_amt"] = 0,
+										["n_curado"] = 3592,
+										["n_amt"] = 10,
+										["totaldenied"] = 0,
+										["is_shield"] = true,
+										["absorbed"] = 0,
+									},
+									[77220] = {
+										["c_amt"] = 0,
+										["totalabsorb"] = 304,
+										["targets_overheal"] = {
+										},
+										["n_max"] = 67,
+										["targets"] = {
+											["판타지곤-데스윙"] = 304,
+										},
+										["n_min"] = 42,
+										["counter"] = 6,
+										["overheal"] = 0,
+										["total"] = 304,
+										["c_max"] = 0,
+										["id"] = 77220,
+										["targets_absorbs"] = {
+											["판타지곤-데스윙"] = 304,
+										},
+										["m_healed"] = 0,
+										["c_curado"] = 0,
+										["m_crit"] = 0,
+										["c_min"] = 0,
+										["m_amt"] = 0,
+										["n_curado"] = 304,
+										["n_amt"] = 6,
+										["totaldenied"] = 0,
+										["is_shield"] = true,
+										["absorbed"] = 0,
+									},
+								},
+							},
+							["grupo"] = true,
+							["start_time"] = 1605428709,
+							["spec"] = 267,
+							["custom"] = 0,
+							["tipo"] = 2,
+							["classe"] = "WARLOCK",
+							["totaldenied"] = 0.001904,
+							["delay"] = 1605428696,
+							["last_event"] = 1605428696,
+						}, -- [5]
+						{
+							["flag_original"] = 4370,
+							["targets_overheal"] = {
+							},
+							["pets"] = {
+							},
+							["iniciar_hps"] = false,
+							["heal_enemy_amt"] = 0,
+							["totalover"] = 0.002562,
+							["total_without_pet"] = 0.002562,
+							["total"] = 0.002562,
+							["targets_absorbs"] = {
+							},
+							["heal_enemy"] = {
+							},
+							["on_hold"] = false,
+							["serial"] = "Pet-0-3058-1754-18048-416-01019C2D49",
+							["totalabsorb"] = 0.002562,
+							["last_hps"] = 0,
+							["targets"] = {
+							},
+							["totalover_without_pet"] = 0.002562,
+							["healing_taken"] = 307.002562,
+							["boss_fight_component"] = true,
+							["end_time"] = 1605428726,
+							["healing_from"] = {
+								["덩치큰토템-데스윙"] = true,
+								["판타지곤-데스윙"] = true,
+							},
+							["ownerName"] = "판타지곤-데스윙",
+							["nome"] = "제프구프 <판타지곤-데스윙>",
+							["spells"] = {
+								["tipo"] = 3,
+								["_ActorTable"] = {
+								},
+							},
+							["start_time"] = 1605428726,
+							["classe"] = "PET",
+							["custom"] = 0,
+							["tipo"] = 2,
+							["aID"] = "Pet-0-3058-1754-18048-416-01019C2D49",
+							["totaldenied"] = 0.002562,
+							["delay"] = 0,
+							["last_event"] = 0,
+						}, -- [6]
+						{
+							["flag_original"] = 8466,
+							["healing_from"] = {
+							},
+							["pets"] = {
+							},
+							["iniciar_hps"] = false,
+							["heal_enemy_amt"] = 0,
+							["totalover"] = 0.002292,
+							["total_without_pet"] = 2714.002292,
+							["total"] = 2714.002292,
+							["targets_absorbs"] = {
+							},
+							["heal_enemy"] = {
+							},
+							["on_hold"] = false,
+							["serial"] = "Creature-0-3058-1754-18048-3527-000030E5B6",
+							["totalabsorb"] = 0.002292,
+							["last_hps"] = 0,
+							["targets"] = {
+								["판타지곤-데스윙"] = 719,
+								["법따리"] = 939,
+								["군신잔트라-데스윙"] = 830,
+								["덩치큰토템-데스윙"] = 226,
+							},
+							["totalover_without_pet"] = 0.002292,
+							["healing_taken"] = 0.002292,
+							["boss_fight_component"] = true,
+							["end_time"] = 1605428726,
+							["targets_overheal"] = {
+							},
+							["ownerName"] = "덩치큰토템-데스윙",
+							["nome"] = "치유의 토템 <덩치큰토템-데스윙>",
+							["spells"] = {
+								["tipo"] = 3,
+								["_ActorTable"] = {
+									[52042] = {
+										["c_amt"] = 2,
+										["totalabsorb"] = 0,
+										["targets_overheal"] = {
+										},
+										["n_max"] = 279,
+										["targets"] = {
+											["판타지곤-데스윙"] = 719,
+											["법따리"] = 939,
+											["군신잔트라-데스윙"] = 830,
+											["덩치큰토템-데스윙"] = 226,
+										},
+										["n_min"] = 33,
+										["counter"] = 10,
+										["overheal"] = 0,
+										["total"] = 2714,
+										["c_max"] = 459,
+										["id"] = 52042,
+										["targets_absorbs"] = {
+										},
+										["c_curado"] = 912,
+										["m_crit"] = 0,
+										["c_min"] = 453,
+										["m_amt"] = 0,
+										["n_curado"] = 1802,
+										["n_amt"] = 8,
+										["totaldenied"] = 0,
+										["m_healed"] = 0,
+										["absorbed"] = 0,
+									},
+								},
+							},
+							["start_time"] = 1605428710,
+							["aID"] = "3527",
+							["custom"] = 0,
+							["last_event"] = 1605428680,
+							["classe"] = "PET",
+							["totaldenied"] = 0.002292,
+							["delay"] = 1605428680,
+							["tipo"] = 2,
+						}, -- [7]
+					},
+				}, -- [2]
+				{
+					["combatId"] = 494,
+					["tipo"] = 7,
+					["_ActorTable"] = {
+						{
+							["received"] = 0.00658,
+							["resource"] = 25.00658,
+							["targets"] = {
+							},
+							["pets"] = {
+							},
+							["powertype"] = 0,
+							["aID"] = "214-093AAE58",
+							["passiveover"] = 0.00658,
+							["boss_fight_component"] = true,
+							["total"] = 0.00658,
+							["resource_type"] = 9,
+							["tipo"] = 3,
+							["nome"] = "군신잔트라-데스윙",
+							["spells"] = {
+								["tipo"] = 7,
+								["_ActorTable"] = {
+								},
+							},
+							["grupo"] = true,
+							["spec"] = 66,
+							["flag_original"] = 1298,
+							["alternatepower"] = 0.00658,
+							["last_event"] = 1605428726,
+							["classe"] = "PALADIN",
+							["isTank"] = true,
+							["serial"] = "Player-214-093AAE58",
+							["totalover"] = 0.00658,
+						}, -- [1]
+						{
+							["received"] = 1158.003991,
+							["resource"] = 7.003991,
+							["targets"] = {
+								["법따리"] = 1158,
+							},
+							["pets"] = {
+							},
+							["powertype"] = 0,
+							["aID"] = "205-0713A4FD",
+							["passiveover"] = 0.003991,
+							["total"] = 1158.003991,
+							["boss_fight_component"] = true,
+							["resource_type"] = 16,
+							["nome"] = "법따리",
+							["spells"] = {
+								["tipo"] = 7,
+								["_ActorTable"] = {
+									[5405] = {
+										["total"] = 1158,
+										["id"] = 5405,
+										["totalover"] = 0,
+										["targets"] = {
+											["법따리"] = 1158,
+										},
+										["counter"] = 1,
+									},
+								},
+							},
+							["grupo"] = true,
+							["spec"] = 62,
+							["flag_original"] = 1297,
+							["alternatepower"] = 0.003991,
+							["last_event"] = 1605428725,
+							["classe"] = "MAGE",
+							["tipo"] = 3,
+							["serial"] = "Player-205-0713A4FD",
+							["totalover"] = 0.003991,
+						}, -- [2]
+						{
+							["received"] = 79.20228757084655,
+							["resource"] = 0.002288,
+							["targets"] = {
+								["해피뼈전사"] = 79.19999957084656,
+							},
+							["pets"] = {
+							},
+							["powertype"] = 1,
+							["aID"] = "205-06251940",
+							["passiveover"] = 0.002288,
+							["total"] = 79.20228757084655,
+							["boss_fight_component"] = true,
+							["nome"] = "해피뼈전사",
+							["spells"] = {
+								["tipo"] = 7,
+								["_ActorTable"] = {
+									[100] = {
+										["total"] = 59.19999957084656,
+										["id"] = 100,
+										["totalover"] = 40.8000009059906,
+										["targets"] = {
+											["해피뼈전사"] = 59.19999957084656,
+										},
+										["counter"] = 5,
+									},
+									[262232] = {
+										["total"] = 20,
+										["id"] = 262232,
+										["totalover"] = 0,
+										["targets"] = {
+											["해피뼈전사"] = 20,
+										},
+										["counter"] = 2,
+									},
+								},
+							},
+							["grupo"] = true,
+							["spec"] = 71,
+							["flag_original"] = 1298,
+							["alternatepower"] = 0.002288,
+							["last_event"] = 1605428727,
+							["classe"] = "WARRIOR",
+							["tipo"] = 3,
+							["serial"] = "Player-205-06251940",
+							["totalover"] = 40.8022889059906,
+						}, -- [3]
+						{
+							["received"] = 273.004099,
+							["resource"] = 0.004099,
+							["targets"] = {
+								["덩치큰토템-데스윙"] = 273,
+							},
+							["pets"] = {
+							},
+							["powertype"] = 0,
+							["aID"] = "214-09483ED4",
+							["passiveover"] = 0.004099,
+							["total"] = 273.004099,
+							["boss_fight_component"] = true,
+							["nome"] = "덩치큰토템-데스윙",
+							["spells"] = {
+								["tipo"] = 7,
+								["_ActorTable"] = {
+									[101033] = {
+										["total"] = 273,
+										["id"] = 101033,
+										["totalover"] = 0,
+										["targets"] = {
+											["덩치큰토템-데스윙"] = 273,
+										},
+										["counter"] = 8,
+									},
+								},
+							},
+							["grupo"] = true,
+							["spec"] = 264,
+							["flag_original"] = 1298,
+							["alternatepower"] = 0.004099,
+							["last_event"] = 1605428701,
+							["classe"] = "SHAMAN",
+							["tipo"] = 3,
+							["serial"] = "Player-214-09483ED4",
+							["totalover"] = 0.004099,
+						}, -- [4]
+					},
+				}, -- [3]
+				{
+					["combatId"] = 494,
+					["tipo"] = 9,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1047,
+							["debuff_uptime_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[188389] = {
+										["activedamt"] = 0,
+										["id"] = 188389,
+										["targets"] = {
+										},
+										["uptime"] = 12,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+								},
+							},
+							["cooldowns_defensive"] = 1.007894,
+							["pets"] = {
+								"치유의 토템 <덩치큰토템-데스윙>", -- [1]
+								"마나 해일 토템 <덩치큰토템-데스윙>", -- [2]
+							},
+							["classe"] = "SHAMAN",
+							["cooldowns_defensive_targets"] = {
+								["[*] 공격대 단위 생존기"] = 1,
+							},
+							["buff_uptime_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[280615] = {
+										["activedamt"] = 6,
+										["id"] = 280615,
+										["targets"] = {
+										},
+										["uptime"] = 12,
+										["appliedamt"] = 6,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[53390] = {
+										["activedamt"] = 4,
+										["id"] = 53390,
+										["targets"] = {
+										},
+										["uptime"] = 23,
+										["appliedamt"] = 4,
+										["refreshamt"] = 2,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[326396] = {
+										["activedamt"] = 1,
+										["id"] = 326396,
+										["targets"] = {
+										},
+										["uptime"] = 88,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[79206] = {
+										["activedamt"] = 1,
+										["id"] = 79206,
+										["targets"] = {
+										},
+										["uptime"] = 15,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[320763] = {
+										["activedamt"] = 1,
+										["id"] = 320763,
+										["targets"] = {
+										},
+										["uptime"] = 8,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[72221] = {
+										["activedamt"] = 1,
+										["id"] = 72221,
+										["targets"] = {
+										},
+										["uptime"] = 88,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[77762] = {
+										["activedamt"] = 2,
+										["id"] = 77762,
+										["targets"] = {
+										},
+										["uptime"] = 3,
+										["appliedamt"] = 2,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[93825] = {
+										["activedamt"] = 1,
+										["id"] = 93825,
+										["targets"] = {
+										},
+										["uptime"] = 88,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+								},
+							},
+							["debuff_uptime"] = 12,
+							["boss_fight_component"] = true,
+							["debuff_uptime_targets"] = {
+							},
+							["nome"] = "덩치큰토템-데스윙",
+							["spec"] = 264,
+							["grupo"] = true,
+							["spell_cast"] = {
+								[77472] = 1,
+								[974] = 3,
+								[188389] = 1,
+								[51505] = 1,
+								[5394] = 1,
+								[79206] = 1,
+								[196840] = 1,
+								[16191] = 1,
+								[61295] = 4,
+								[73920] = 1,
+								[8004] = 21,
+								[1064] = 2,
+							},
+							["cooldowns_defensive_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[16191] = {
+										["id"] = 16191,
+										["targets"] = {
+											["[*] 공격대 단위 생존기"] = 1,
+										},
+										["counter"] = 1,
+									},
+								},
+							},
+							["buff_uptime_targets"] = {
+							},
+							["tipo"] = 4,
+							["buff_uptime"] = 325,
+							["aID"] = "214-09483ED4",
+							["serial"] = "Player-214-09483ED4",
+							["last_event"] = 1605428726,
+						}, -- [1]
+						{
+							["flag_original"] = 1047,
+							["debuff_uptime_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[197277] = {
+										["activedamt"] = 0,
+										["id"] = 197277,
+										["targets"] = {
+										},
+										["uptime"] = 52,
+										["appliedamt"] = 10,
+										["refreshamt"] = 6,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[62124] = {
+										["activedamt"] = 0,
+										["id"] = 62124,
+										["targets"] = {
+										},
+										["uptime"] = 11,
+										["appliedamt"] = 4,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+								},
+							},
+							["cooldowns_defensive"] = 1.001157,
+							["buff_uptime"] = 592,
+							["last_cooldown"] = {
+								1605428645.997, -- [1]
+								31850, -- [2]
+							},
+							["classe"] = "PALADIN",
+							["cooldowns_defensive_targets"] = {
+								["군신잔트라-데스윙"] = 1,
+							},
+							["buff_uptime_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[132403] = {
+										["activedamt"] = 9,
+										["id"] = 132403,
+										["targets"] = {
+										},
+										["uptime"] = 43,
+										["appliedamt"] = 9,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[188370] = {
+										["activedamt"] = 16,
+										["id"] = 188370,
+										["targets"] = {
+										},
+										["uptime"] = 69,
+										["appliedamt"] = 16,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[31850] = {
+										["activedamt"] = 1,
+										["id"] = 31850,
+										["targets"] = {
+										},
+										["uptime"] = 8,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[31884] = {
+										["activedamt"] = 1,
+										["id"] = 31884,
+										["targets"] = {
+										},
+										["uptime"] = 20,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[93830] = {
+										["activedamt"] = 1,
+										["id"] = 93830,
+										["targets"] = {
+										},
+										["uptime"] = 88,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[465] = {
+										["activedamt"] = 1,
+										["id"] = 465,
+										["targets"] = {
+										},
+										["uptime"] = 88,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[292463] = {
+										["activedamt"] = 1,
+										["id"] = 292463,
+										["targets"] = {
+										},
+										["uptime"] = 12,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[292361] = {
+										["activedamt"] = 1,
+										["id"] = 292361,
+										["targets"] = {
+										},
+										["uptime"] = 88,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[72221] = {
+										["activedamt"] = 1,
+										["id"] = 72221,
+										["targets"] = {
+										},
+										["uptime"] = 88,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[326396] = {
+										["activedamt"] = 1,
+										["id"] = 326396,
+										["targets"] = {
+										},
+										["uptime"] = 88,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+								},
+							},
+							["boss_fight_component"] = true,
+							["debuff_uptime"] = 63,
+							["cooldowns_defensive_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[31850] = {
+										["id"] = 31850,
+										["targets"] = {
+											["군신잔트라-데스윙"] = 1,
+										},
+										["counter"] = 1,
+									},
+								},
+							},
+							["debuff_uptime_targets"] = {
+							},
+							["nome"] = "군신잔트라-데스윙",
+							["spec"] = 66,
+							["grupo"] = true,
+							["spell_cast"] = {
+								[31935] = 5,
+								[53595] = 6,
+								[26573] = 15,
+								[62124] = 4,
+								[275779] = 16,
+								[31884] = 1,
+								[853] = 2,
+								[53600] = 9,
+								[31850] = 1,
+							},
+							["buff_uptime_targets"] = {
+							},
+							["pets"] = {
+							},
+							["last_event"] = 1605428726,
+							["aID"] = "214-093AAE58",
+							["isTank"] = true,
+							["serial"] = "Player-214-093AAE58",
+							["tipo"] = 4,
+						}, -- [2]
+						{
+							["flag_original"] = 1047,
+							["debuff_uptime_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[157736] = {
+										["activedamt"] = 0,
+										["id"] = 157736,
+										["targets"] = {
+										},
+										["uptime"] = 31,
+										["appliedamt"] = 2,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+								},
+							},
+							["buff_uptime"] = 372,
+							["classe"] = "WARLOCK",
+							["buff_uptime_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[72968] = {
+										["activedamt"] = 1,
+										["id"] = 72968,
+										["targets"] = {
+										},
+										["uptime"] = 88,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[326396] = {
+										["activedamt"] = 1,
+										["id"] = 326396,
+										["targets"] = {
+										},
+										["uptime"] = 88,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[72221] = {
+										["activedamt"] = 1,
+										["id"] = 72221,
+										["targets"] = {
+										},
+										["uptime"] = 88,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[108366] = {
+										["activedamt"] = 7,
+										["id"] = 108366,
+										["targets"] = {
+										},
+										["uptime"] = 86,
+										["appliedamt"] = 7,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[117828] = {
+										["activedamt"] = 7,
+										["id"] = 117828,
+										["targets"] = {
+										},
+										["uptime"] = 22,
+										["appliedamt"] = 7,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+								},
+							},
+							["debuff_uptime"] = 31,
+							["boss_fight_component"] = true,
+							["nome"] = "판타지곤-데스윙",
+							["spec"] = 267,
+							["grupo"] = true,
+							["spell_cast"] = {
+								[29722] = 22,
+								[6353] = 2,
+								[116858] = 3,
+								[5740] = 1,
+								[17962] = 7,
+							},
+							["debuff_uptime_targets"] = {
+							},
+							["buff_uptime_targets"] = {
+							},
+							["last_event"] = 1605428726,
+							["pets"] = {
+								"제프구프 <판타지곤-데스윙>", -- [1]
+							},
+							["aID"] = "214-07FC4C5D",
+							["serial"] = "Player-214-07FC4C5D",
+							["tipo"] = 4,
+						}, -- [3]
+						{
+							["flag_original"] = 1047,
+							["debuff_uptime_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[115804] = {
+										["activedamt"] = 0,
+										["id"] = 115804,
+										["targets"] = {
+										},
+										["uptime"] = 44,
+										["appliedamt"] = 3,
+										["refreshamt"] = 2,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[262115] = {
+										["activedamt"] = 0,
+										["id"] = 262115,
+										["targets"] = {
+										},
+										["uptime"] = 63,
+										["appliedamt"] = 4,
+										["refreshamt"] = 2,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[208086] = {
+										["activedamt"] = 0,
+										["id"] = 208086,
+										["targets"] = {
+										},
+										["uptime"] = 10,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+								},
+							},
+							["buff_uptime"] = 374,
+							["classe"] = "WARRIOR",
+							["buff_uptime_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[32216] = {
+										["activedamt"] = 1,
+										["id"] = 32216,
+										["targets"] = {
+										},
+										["uptime"] = 5,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[199854] = {
+										["activedamt"] = 7,
+										["id"] = 199854,
+										["targets"] = {
+										},
+										["uptime"] = 15,
+										["appliedamt"] = 7,
+										["refreshamt"] = 2,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[93825] = {
+										["activedamt"] = 1,
+										["id"] = 93825,
+										["targets"] = {
+										},
+										["uptime"] = 88,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[201405] = {
+										["activedamt"] = 3,
+										["id"] = 201405,
+										["targets"] = {
+										},
+										["uptime"] = 20,
+										["appliedamt"] = 3,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[272900] = {
+										["activedamt"] = 0,
+										["id"] = 272900,
+										["targets"] = {
+										},
+										["uptime"] = 0,
+										["appliedamt"] = 0,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[326396] = {
+										["activedamt"] = 1,
+										["id"] = 326396,
+										["targets"] = {
+										},
+										["uptime"] = 88,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[118779] = {
+										["activedamt"] = 1,
+										["id"] = 118779,
+										["targets"] = {
+										},
+										["uptime"] = 6,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[262232] = {
+										["activedamt"] = 1,
+										["id"] = 262232,
+										["targets"] = {
+										},
+										["uptime"] = 8,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[72221] = {
+										["activedamt"] = 1,
+										["id"] = 72221,
+										["targets"] = {
+										},
+										["uptime"] = 88,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[7384] = {
+										["activedamt"] = 7,
+										["id"] = 7384,
+										["targets"] = {
+										},
+										["uptime"] = 56,
+										["appliedamt"] = 7,
+										["refreshamt"] = 3,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+								},
+							},
+							["debuff_uptime"] = 117,
+							["boss_fight_component"] = true,
+							["nome"] = "해피뼈전사",
+							["spec"] = 71,
+							["grupo"] = true,
+							["spell_cast"] = {
+								[12294] = 5,
+								[281000] = 10,
+								[7384] = 10,
+								[167105] = 1,
+								[100] = 5,
+								[34428] = 1,
+								[126664] = 5,
+								[1464] = 2,
+							},
+							["debuff_uptime_targets"] = {
+							},
+							["buff_uptime_targets"] = {
+							},
+							["last_event"] = 1605428726,
+							["pets"] = {
+							},
+							["aID"] = "205-06251940",
+							["serial"] = "Player-205-06251940",
+							["tipo"] = 4,
+						}, -- [4]
+						{
+							["flag_original"] = 1047,
+							["debuff_uptime_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[210824] = {
+										["activedamt"] = 0,
+										["id"] = 210824,
+										["targets"] = {
+										},
+										["uptime"] = 16,
+										["appliedamt"] = 2,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[271465] = {
+										["activedamt"] = 0,
+										["id"] = 271465,
+										["targets"] = {
+										},
+										["uptime"] = 0,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+								},
+							},
+							["buff_uptime"] = 353,
+							["classe"] = "MAGE",
+							["buff_uptime_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[263725] = {
+										["activedamt"] = 3,
+										["id"] = 263725,
+										["targets"] = {
+										},
+										["uptime"] = 35,
+										["appliedamt"] = 3,
+										["refreshamt"] = 2,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[269279] = {
+										["activedamt"] = 3,
+										["id"] = 269279,
+										["targets"] = {
+										},
+										["uptime"] = 49,
+										["appliedamt"] = 3,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[186403] = {
+										["activedamt"] = 1,
+										["id"] = 186403,
+										["targets"] = {
+										},
+										["uptime"] = 88,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[273330] = {
+										["activedamt"] = 1,
+										["id"] = 273330,
+										["targets"] = {
+										},
+										["uptime"] = 30,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[12042] = {
+										["activedamt"] = 1,
+										["id"] = 12042,
+										["targets"] = {
+										},
+										["uptime"] = 10,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[116014] = {
+										["activedamt"] = 4,
+										["id"] = 116014,
+										["targets"] = {
+										},
+										["uptime"] = 30,
+										["appliedamt"] = 4,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[212653] = {
+										["activedamt"] = 2,
+										["id"] = 212653,
+										["targets"] = {
+										},
+										["uptime"] = 1,
+										["appliedamt"] = 2,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[264774] = {
+										["activedamt"] = 3,
+										["id"] = 264774,
+										["targets"] = {
+										},
+										["uptime"] = 9,
+										["appliedamt"] = 3,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[12051] = {
+										["activedamt"] = 1,
+										["id"] = 12051,
+										["targets"] = {
+										},
+										["uptime"] = 1,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[270670] = {
+										["activedamt"] = 3,
+										["id"] = 270670,
+										["targets"] = {
+										},
+										["uptime"] = 6,
+										["appliedamt"] = 3,
+										["refreshamt"] = 13,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[72221] = {
+										["activedamt"] = 1,
+										["id"] = 72221,
+										["targets"] = {
+										},
+										["uptime"] = 88,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[205025] = {
+										["activedamt"] = 2,
+										["id"] = 205025,
+										["targets"] = {
+										},
+										["uptime"] = 6,
+										["appliedamt"] = 2,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+								},
+							},
+							["debuff_uptime"] = 16,
+							["boss_fight_component"] = true,
+							["nome"] = "법따리",
+							["spec"] = 62,
+							["grupo"] = true,
+							["spell_cast"] = {
+								[153626] = 4,
+								[12051] = 1,
+								[116011] = 1,
+								[30451] = 26,
+								[12042] = 1,
+								[116014] = 4,
+								[321507] = 2,
+								[271462] = 1,
+								[212653] = 2,
+								[5143] = 3,
+								[5405] = 1,
+								[205025] = 2,
+								[44425] = 2,
+							},
+							["debuff_uptime_targets"] = {
+							},
+							["buff_uptime_targets"] = {
+							},
+							["last_event"] = 1605428726,
+							["pets"] = {
+							},
+							["aID"] = "205-0713A4FD",
+							["serial"] = "Player-205-0713A4FD",
+							["tipo"] = 4,
+						}, -- [5]
+						{
+							["flag_original"] = 68168,
+							["tipo"] = 4,
+							["nome"] = "선장 유도라",
+							["boss_fight_component"] = true,
+							["pets"] = {
+							},
+							["spell_cast"] = {
+								[258352] = 14,
+								[258381] = 2,
+								[256979] = 10,
+							},
+							["monster"] = true,
+							["last_event"] = 0,
+							["classe"] = "UNKNOW",
+							["serial"] = "Creature-0-3058-1754-18048-126848-000030E278",
+							["aID"] = "126848",
+						}, -- [6]
+						{
+							["flag_original"] = 4370,
+							["ownerName"] = "판타지곤-데스윙",
+							["nome"] = "제프구프 <판타지곤-데스윙>",
+							["aID"] = "Pet-0-3058-1754-18048-416-01019C2D49",
+							["pets"] = {
+							},
+							["boss_fight_component"] = true,
+							["spell_cast"] = {
+								[3110] = 23,
+							},
+							["tipo"] = 4,
+							["classe"] = "PET",
+							["serial"] = "Pet-0-3058-1754-18048-416-01019C2D49",
+							["last_event"] = 0,
+						}, -- [7]
+						{
+							["flag_original"] = 2632,
+							["tipo"] = 4,
+							["nome"] = "선장 졸리",
+							["boss_fight_component"] = true,
+							["pets"] = {
+							},
+							["spell_cast"] = {
+								[267523] = 3,
+								[267533] = 4,
+								[267522] = 3,
+							},
+							["monster"] = true,
+							["last_event"] = 0,
+							["classe"] = "UNKNOW",
+							["serial"] = "Creature-0-3058-1754-18048-126845-000030E278",
+							["aID"] = "126845",
+						}, -- [8]
+						{
+							["flag_original"] = 2584,
+							["nome"] = "선장 라울",
+							["aID"] = "",
+							["pets"] = {
+							},
+							["boss_fight_component"] = true,
+							["spell_cast"] = {
+								[272884] = 4,
+							},
+							["tipo"] = 4,
+							["classe"] = "UNKNOW",
+							["serial"] = "Vehicle-0-3058-1754-18048-126847-000030E278",
+							["last_event"] = 0,
+						}, -- [9]
+						{
+							["flag_original"] = 8466,
+							["ownerName"] = "덩치큰토템-데스윙",
+							["nome"] = "치유의 토템 <덩치큰토템-데스윙>",
+							["tipo"] = 4,
+							["pets"] = {
+							},
+							["boss_fight_component"] = true,
+							["spell_cast"] = {
+								[5672] = 1,
+							},
+							["last_event"] = 0,
+							["classe"] = "PET",
+							["serial"] = "Creature-0-3058-1754-18048-3527-000030E5B6",
+							["aID"] = "3527",
+						}, -- [10]
+						{
+							["flag_original"] = 8466,
+							["ownerName"] = "덩치큰토템-데스윙",
+							["nome"] = "마나 해일 토템 <덩치큰토템-데스윙>",
+							["tipo"] = 4,
+							["pets"] = {
+							},
+							["boss_fight_component"] = true,
+							["spell_cast"] = {
+								[320763] = 2,
+							},
+							["last_event"] = 0,
+							["classe"] = "PET",
+							["serial"] = "Creature-0-3058-1754-18048-10467-000030E5DB",
+							["aID"] = "10467",
+						}, -- [11]
+					},
+				}, -- [4]
+				{
+					["combatId"] = 494,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+					},
+				}, -- [5]
+				["raid_roster"] = {
+					["해피뼈전사"] = true,
+					["군신잔트라-데스윙"] = true,
+					["덩치큰토템-데스윙"] = true,
+					["판타지곤-데스윙"] = true,
+					["법따리"] = true,
+				},
+				["CombatStartedAt"] = 34965.894,
+				["overall_added"] = true,
+				["last_events_tables"] = {
+				},
+				["alternate_power"] = {
+				},
+				["combat_counter"] = 555,
+				["totals"] = {
+					250520.99864, -- [1]
+					76325, -- [2]
+					{
+						79.19999957084656, -- [1]
+						[0] = 1431,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 2,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+					["frags_total"] = 0,
+					["voidzone_damage"] = 0,
+				},
+				["totals_grupo"] = {
+					156065, -- [1]
+					73611, -- [2]
+					{
+						79.19999957084656, -- [1]
+						[0] = 1431,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 2,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+				},
+				["frags_need_refresh"] = true,
+				["instance_type"] = "party",
+				["data_fim"] = "17:25:27",
+				["cleu_timeline"] = {
+				},
+				["enemy"] = "선장의 의회",
+				["TotalElapsedCombatTime"] = 87.00400000000081,
+				["CombatEndedAt"] = 35052.898,
+				["aura_timeline"] = {
+					["Player-214-093AAE58"] = {
+						[62124] = {
+							["enabled"] = false,
+							["appliedAt"] = 35028.443,
+							["spellId"] = 62124,
+							["data"] = {
+								{
+									34969.071, -- [1]
+									34972.078, -- [2]
+								}, -- [1]
+								{
+									34986.994, -- [1]
+									34988.945, -- [2]
+								}, -- [2]
+								{
+									35012.627, -- [1]
+									35015.643, -- [2]
+								}, -- [3]
+								{
+									35028.443, -- [1]
+									35031.443, -- [2]
+								}, -- [4]
+							},
+							["amountUp"] = 0,
+						},
+						[197277] = {
+							["enabled"] = false,
+							["appliedAt"] = 35041.293,
+							["spellId"] = 197277,
+							["data"] = {
+								{
+									34966.067, -- [1]
+									34967.611, -- [2]
+								}, -- [1]
+								{
+									34971.527, -- [1]
+									34985.529, -- [2]
+								}, -- [2]
+								{
+									34987.295, -- [1]
+									34993.927, -- [2]
+								}, -- [3]
+								{
+									34997.294, -- [1]
+									35005.461, -- [2]
+								}, -- [4]
+								{
+									35009.06, -- [1]
+									35011.944, -- [2]
+								}, -- [5]
+								{
+									35015.793, -- [1]
+									35021.027, -- [2]
+								}, -- [6]
+								{
+									35025.51, -- [1]
+									35026.143, -- [2]
+								}, -- [7]
+								{
+									35031.879, -- [1]
+									35040.693, -- [2]
+								}, -- [8]
+								{
+									35041.293, -- [1]
+									35045.876, -- [2]
+								}, -- [9]
+							},
+							["amountUp"] = 0,
+						},
+						[132403] = {
+							["enabled"] = false,
+							["appliedAt"] = 35045.876,
+							["spellId"] = 132403,
+							["data"] = {
+								{
+									34967.594, -- [1]
+									34972.096, -- [2]
+								}, -- [1]
+								{
+									34972.195, -- [1]
+									34976.694, -- [2]
+								}, -- [2]
+								{
+									34985.529, -- [1]
+									34990.028, -- [2]
+								}, -- [3]
+								{
+									34993.91, -- [1]
+									34998.41, -- [2]
+								}, -- [4]
+								{
+									35005.427, -- [1]
+									35009.944, -- [2]
+								}, -- [5]
+								{
+									35011.927, -- [1]
+									35016.433, -- [2]
+								}, -- [6]
+								{
+									35026.11, -- [1]
+									35030.615, -- [2]
+								}, -- [7]
+								{
+									35040.693, -- [1]
+									35045.193, -- [2]
+								}, -- [8]
+								{
+									35045.876, -- [1]
+									35050.382, -- [2]
+								}, -- [9]
+							},
+							["amountUp"] = 0,
+						},
+						[292463] = {
+							["enabled"] = false,
+							["appliedAt"] = 35037.345,
+							["spellId"] = 292463,
+							["data"] = {
+								{
+									35037.345, -- [1]
+									35049.359, -- [2]
+								}, -- [1]
+							},
+							["amountUp"] = 0,
+						},
+						[188370] = {
+							["enabled"] = false,
+							["appliedAt"] = 35047.126,
+							["spellId"] = 188370,
+							["data"] = {
+								{
+									34964.628, -- [1]
+									34970.096, -- [2]
+								}, -- [1]
+								{
+									34970.114, -- [1]
+									34974.996, -- [2]
+								}, -- [2]
+								{
+									34975.046, -- [1]
+									34979.494, -- [2]
+								}, -- [3]
+								{
+									34983.777, -- [1]
+									34990.01, -- [2]
+								}, -- [4]
+								{
+									34990.077, -- [1]
+									34995.827, -- [2]
+								}, -- [5]
+								{
+									34995.844, -- [1]
+									35000.81, -- [2]
+								}, -- [6]
+								{
+									35000.894, -- [1]
+									35002.844, -- [2]
+								}, -- [7]
+								{
+									35007.662, -- [1]
+									35014.349, -- [2]
+								}, -- [8]
+								{
+									35014.47, -- [1]
+									35018.46, -- [2]
+								}, -- [9]
+								{
+									35018.493, -- [1]
+									35022.827, -- [2]
+								}, -- [10]
+								{
+									35024.36, -- [1]
+									35026.91, -- [2]
+								}, -- [11]
+								{
+									35028.53, -- [1]
+									35029.445, -- [2]
+								}, -- [12]
+								{
+									35029.566, -- [1]
+									35035.934, -- [2]
+								}, -- [13]
+								{
+									35035.967, -- [1]
+									35040.293, -- [2]
+								}, -- [14]
+								{
+									35042.66, -- [1]
+									35047.076, -- [2]
+								}, -- [15]
+								{
+									35047.126, -- [1]
+									35049.643, -- [2]
+								}, -- [16]
+							},
+							["amountUp"] = 0,
+						},
+						[31884] = {
+							["enabled"] = false,
+							["appliedAt"] = 34970.911,
+							["spellId"] = 31884,
+							["data"] = {
+								{
+									34970.911, -- [1]
+									34990.91, -- [2]
+								}, -- [1]
+							},
+							["amountUp"] = 0,
+						},
+						[31850] = {
+							["enabled"] = false,
+							["appliedAt"] = 34971.568,
+							["spellId"] = 31850,
+							["data"] = {
+								{
+									34971.568, -- [1]
+									34979.577, -- [2]
+								}, -- [1]
+							},
+							["amountUp"] = 0,
+						},
+					},
+					["Player-205-06251940"] = {
+						[115804] = {
+							["enabled"] = false,
+							["appliedAt"] = 35034.41,
+							["spellId"] = 115804,
+							["data"] = {
+								{
+									34970.661, -- [1]
+									34980.677, -- [2]
+								}, -- [1]
+								{
+									34985.077, -- [1]
+									35002.046, -- [2]
+								}, -- [2]
+								{
+									35034.41, -- [1]
+									35051.259, -- [2]
+								}, -- [3]
+							},
+							["amountUp"] = 0,
+						},
+						[262232] = {
+							["enabled"] = false,
+							["appliedAt"] = 35021.049,
+							["spellId"] = 262232,
+							["data"] = {
+								{
+									35021.049, -- [1]
+									35029.043, -- [2]
+								}, -- [1]
+							},
+							["amountUp"] = 0,
+						},
+						[7384] = {
+							["enabled"] = false,
+							["appliedAt"] = 35044.059,
+							["spellId"] = 7384,
+							["data"] = {
+								{
+									34967.448, -- [1]
+									34970.679, -- [2]
+								}, -- [1]
+								{
+									34983.494, -- [1]
+									34985.094, -- [2]
+								}, -- [2]
+								{
+									34990.477, -- [1]
+									34992.045, -- [2]
+								}, -- [3]
+								{
+									34997.744, -- [1]
+									35012.743, -- [2]
+								}, -- [4]
+								{
+									35013.91, -- [1]
+									35034.429, -- [2]
+								}, -- [5]
+								{
+									35035.934, -- [1]
+									35041.243, -- [2]
+								}, -- [6]
+								{
+									35044.059, -- [1]
+									35051.928, -- [2]
+								}, -- [7]
+							},
+							["amountUp"] = 0,
+						},
+						[208086] = {
+							["enabled"] = false,
+							["appliedAt"] = 35009.877,
+							["spellId"] = 208086,
+							["data"] = {
+								{
+									35009.877, -- [1]
+									35019.877, -- [2]
+								}, -- [1]
+							},
+							["amountUp"] = 0,
+						},
+						[118779] = {
+							["enabled"] = false,
+							["appliedAt"] = 34968.86,
+							["spellId"] = 118779,
+							["data"] = {
+								{
+									34968.86, -- [1]
+									34974.861, -- [2]
+								}, -- [1]
+							},
+							["amountUp"] = 0,
+						},
+						[262115] = {
+							["enabled"] = false,
+							["appliedAt"] = 35034.447,
+							["spellId"] = 262115,
+							["data"] = {
+								{
+									34970.695, -- [1]
+									34982.694, -- [2]
+								}, -- [1]
+								{
+									34985.111, -- [1]
+									35007.678, -- [2]
+								}, -- [2]
+								{
+									35009.861, -- [1]
+									35021.027, -- [2]
+								}, -- [3]
+								{
+									35034.447, -- [1]
+									35051.909, -- [2]
+								}, -- [4]
+							},
+							["amountUp"] = 0,
+						},
+						[201405] = {
+							["enabled"] = false,
+							["appliedAt"] = 35050.526,
+							["spellId"] = 201405,
+							["data"] = {
+								{
+									34987.046, -- [1]
+									35002.046, -- [2]
+								}, -- [1]
+								{
+									35050.526, -- [1]
+									35051.928, -- [2]
+								}, -- [2]
+							},
+							["amountUp"] = 0,
+						},
+						[199854] = {
+							["enabled"] = false,
+							["appliedAt"] = 35045.743,
+							["spellId"] = 199854,
+							["data"] = {
+								{
+									34970.661, -- [1]
+									34972.668, -- [2]
+								}, -- [1]
+								{
+									34989.06, -- [1]
+									34990.477, -- [2]
+								}, -- [2]
+								{
+									34995.544, -- [1]
+									34997.544, -- [2]
+								}, -- [3]
+								{
+									35016.76, -- [1]
+									35018.16, -- [2]
+								}, -- [4]
+								{
+									35034.41, -- [1]
+									35035.934, -- [2]
+								}, -- [5]
+								{
+									35041.243, -- [1]
+									35044.059, -- [2]
+								}, -- [6]
+								{
+									35045.743, -- [1]
+									35048.944, -- [2]
+								}, -- [7]
+							},
+							["amountUp"] = 0,
+						},
+					},
+					["Player-214-07FC4C5D"] = {
+						[117828] = {
+							["enabled"] = false,
+							["appliedAt"] = 35041.743,
+							["spellId"] = 117828,
+							["data"] = {
+								{
+									34981.144, -- [1]
+									34984.977, -- [2]
+								}, -- [1]
+								{
+									34989.477, -- [1]
+									34992.46, -- [2]
+								}, -- [2]
+								{
+									34994.277, -- [1]
+									34999.561, -- [2]
+								}, -- [3]
+								{
+									35006.81, -- [1]
+									35009.443, -- [2]
+								}, -- [4]
+								{
+									35021.027, -- [1]
+									35023.677, -- [2]
+								}, -- [5]
+								{
+									35030.026, -- [1]
+									35032.673, -- [2]
+								}, -- [6]
+								{
+									35041.743, -- [1]
+									35044.393, -- [2]
+								}, -- [7]
+							},
+							["amountUp"] = 0,
+						},
+						[157736] = {
+							["enabled"] = false,
+							["appliedAt"] = 35036.293,
+							["spellId"] = 157736,
+							["data"] = {
+								{
+									34981.144, -- [1]
+									34999.144, -- [2]
+								}, -- [1]
+								{
+									35036.293, -- [1]
+									35049.311, -- [2]
+								}, -- [2]
+							},
+							["amountUp"] = 0,
+						},
+						[108366] = {
+							["enabled"] = false,
+							["appliedAt"] = 35021.35,
+							["spellId"] = 108366,
+							["data"] = {
+								{
+									34976.144, -- [1]
+									34977.511, -- [2]
+								}, -- [1]
+								{
+									34978.144, -- [1]
+									34991.977, -- [2]
+								}, -- [2]
+								{
+									34992.211, -- [1]
+									34996.511, -- [2]
+								}, -- [3]
+								{
+									34997.244, -- [1]
+									35005.11, -- [2]
+								}, -- [4]
+								{
+									35005.277, -- [1]
+									35021.317, -- [2]
+								}, -- [5]
+								{
+									35021.35, -- [1]
+									35051.928, -- [2]
+								}, -- [6]
+							},
+							["amountUp"] = 0,
+						},
+					},
+					["Player-214-09483ED4"] = {
+						[53390] = {
+							["enabled"] = false,
+							["appliedAt"] = 35042.676,
+							["spellId"] = 53390,
+							["data"] = {
+								{
+									34968.284, -- [1]
+									34972.448, -- [2]
+								}, -- [1]
+								{
+									34999.094, -- [1]
+									35009.827, -- [2]
+								}, -- [2]
+								{
+									35013.96, -- [1]
+									35016.727, -- [2]
+								}, -- [3]
+								{
+									35042.676, -- [1]
+									35049.459, -- [2]
+								}, -- [4]
+							},
+							["amountUp"] = 0,
+						},
+						[61295] = {
+							["enabled"] = false,
+							["appliedAt"] = 35042.676,
+							["spellId"] = 61295,
+							["data"] = {
+								{
+									34968.301, -- [1]
+									34986.311, -- [2]
+								}, -- [1]
+								{
+									35005.627, -- [1]
+									35037.365, -- [2]
+								}, -- [2]
+								{
+									35042.676, -- [1]
+									35051.928, -- [2]
+								}, -- [3]
+							},
+							["amountUp"] = 0,
+						},
+						[79206] = {
+							["enabled"] = false,
+							["appliedAt"] = 34993.994,
+							["spellId"] = 79206,
+							["data"] = {
+								{
+									34993.994, -- [1]
+									35008.994, -- [2]
+								}, -- [1]
+							},
+							["amountUp"] = 0,
+						},
+						[188389] = {
+							["enabled"] = false,
+							["appliedAt"] = 35039.926,
+							["spellId"] = 188389,
+							["data"] = {
+								{
+									35039.926, -- [1]
+									35051.909, -- [2]
+								}, -- [1]
+							},
+							["amountUp"] = 0,
+						},
+						[280615] = {
+							["enabled"] = false,
+							["appliedAt"] = 35049.459,
+							["spellId"] = 280615,
+							["data"] = {
+								{
+									34972.448, -- [1]
+									34973.661, -- [2]
+								}, -- [1]
+								{
+									35005.277, -- [1]
+									35008.177, -- [2]
+								}, -- [2]
+								{
+									35008.177, -- [1]
+									35009.827, -- [2]
+								}, -- [3]
+								{
+									35009.827, -- [1]
+									35012.177, -- [2]
+								}, -- [4]
+								{
+									35016.727, -- [1]
+									35018.593, -- [2]
+								}, -- [5]
+								{
+									35049.459, -- [1]
+									35051.193, -- [2]
+								}, -- [6]
+							},
+							["amountUp"] = 0,
+						},
+						[77762] = {
+							["enabled"] = false,
+							["appliedAt"] = 35050.976,
+							["spellId"] = 77762,
+							["data"] = {
+								{
+									35043.609, -- [1]
+									35046.493, -- [2]
+								}, -- [1]
+								{
+									35050.976, -- [1]
+									35051.928, -- [2]
+								}, -- [2]
+							},
+							["amountUp"] = 0,
+						},
+						[974] = {
+							["enabled"] = false,
+							["appliedAt"] = 35012.577,
+							["spellId"] = 974,
+							["data"] = {
+								{
+									35012.577, -- [1]
+									35051.928, -- [2]
+								}, -- [1]
+							},
+							["amountUp"] = 0,
+						},
+					},
+				},
+				["__call"] = {
+				},
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+							["해피뼈전사"] = 3141.008864,
+							["군신잔트라-데스윙"] = 841.002301,
+							["덩치큰토템-데스윙"] = 65425.008067,
+							["법따리"] = 3022.002679,
+							["판타지곤-데스윙"] = 3896.001904,
+						}, -- [1]
+					},
+					["damage_section"] = {
+					},
+					["damage"] = {
+						{
+							["해피뼈전사"] = 46240.007528,
+							["군신잔트라-데스윙"] = 28934.005385,
+							["덩치큰토템-데스윙"] = 2148.001422,
+							["법따리"] = 46343.001653,
+							["판타지곤-데스윙"] = 38229.001118,
+						}, -- [1]
+					},
+				},
+				["end_time"] = 35051.928,
+				["combat_id"] = 494,
+				["cleu_events"] = {
+					["n"] = 1,
+				},
+				["tempo_start"] = 1605428638,
+				["player_last_events"] = {
+				},
+				["spells_cast_timeline"] = {
+					["Player-214-093AAE58"] = {
+					},
+					["Player-205-06251940"] = {
+					},
+					["Player-214-07FC4C5D"] = {
+					},
+					["Player-214-09483ED4"] = {
+					},
+				},
+				["is_boss"] = {
+					["diff_string"] = "일반",
+					["index"] = 1,
+					["zone"] = "자유지대",
+					["encounter"] = "선장의 의회",
+					["mapid"] = 1754,
+					["try_number"] = 1,
+					["name"] = "선장의 의회",
+					["diff"] = 1,
+					["id"] = 2094,
+					["ej_instance_id"] = 1001,
+					["killed"] = true,
+				},
+				["data_inicio"] = "17:23:58",
+				["CombatSkillCache"] = {
+				},
+				["frags"] = {
+					["선장 졸리"] = 1,
+					["선장 유도라"] = 1,
+				},
+				["start_time"] = 34963.061,
+				["TimeData"] = {
+				},
+				["contra"] = "선장 유도라",
+			}, -- [3]
+			{
+				{
+					["combatId"] = 487,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 2632,
+							["totalabsorbed"] = 1811.005315,
+							["friendlyfire"] = {
+							},
+							["damage_from"] = {
+								["해피뼈전사"] = true,
+								["군신잔트라-데스윙"] = true,
+								["덩치큰토템-데스윙"] = true,
+								["법따리"] = true,
+								["판타지곤-데스윙"] = true,
+								["제프구프 <판타지곤-데스윙>"] = true,
+							},
+							["targets"] = {
+								["해피뼈전사"] = 8003,
+								["판타지곤-데스윙"] = 1811,
+								["군신잔트라-데스윙"] = 18309,
+								["덩치큰토템-데스윙"] = 3521,
+							},
+							["end_time"] = 1605428308,
+							["pets"] = {
+							},
+							["boss_fight_component"] = true,
+							["aID"] = "126832",
+							["raid_targets"] = {
+								[2] = 18309,
+							},
+							["total_without_pet"] = 31644.005315,
+							["monster"] = true,
+							["dps_started"] = false,
+							["total"] = 31644.005315,
+							["on_hold"] = false,
+							["friendlyfire_total"] = 0,
+							["nome"] = "하늘선장 크라그",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 0,
+										["b_amt"] = 6,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 963,
+										["targets"] = {
+											["군신잔트라-데스윙"] = 15757,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 15757,
+										["MISS"] = 1,
+										["DODGE"] = 1,
+										["n_min"] = 430,
+										["g_dmg"] = 0,
+										["counter"] = 28,
+										["a_amt"] = 0,
+										["total"] = 15757,
+										["c_max"] = 0,
+										["spellschool"] = 1,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["PARRY"] = 2,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 3324,
+										["n_amt"] = 24,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									}, -- [1]
+									[256106] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 1808,
+										["targets"] = {
+											["해피뼈전사"] = 7094,
+											["군신잔트라-데스윙"] = 1658,
+											["덩치큰토템-데스윙"] = 1735,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 10487,
+										["n_min"] = 1658,
+										["g_dmg"] = 0,
+										["counter"] = 6,
+										["total"] = 10487,
+										["c_max"] = 0,
+										["id"] = 256106,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 4,
+										["b_dmg"] = 0,
+										["n_amt"] = 6,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									},
+									[255952] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 0,
+										["targets"] = {
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 0,
+										["n_min"] = 0,
+										["g_dmg"] = 0,
+										["counter"] = 0,
+										["total"] = 0,
+										["c_max"] = 0,
+										["id"] = 255952,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 2,
+										["b_dmg"] = 0,
+										["n_amt"] = 0,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									},
+									[263274] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 0,
+										["targets"] = {
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 0,
+										["n_min"] = 0,
+										["g_dmg"] = 0,
+										["counter"] = 0,
+										["total"] = 0,
+										["c_max"] = 0,
+										["id"] = 263274,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 2,
+										["b_dmg"] = 0,
+										["n_amt"] = 0,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									},
+									[256060] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 0,
+										["targets"] = {
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 0,
+										["n_min"] = 0,
+										["g_dmg"] = 0,
+										["counter"] = 0,
+										["total"] = 0,
+										["c_max"] = 0,
+										["id"] = 256060,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 2,
+										["b_dmg"] = 0,
+										["n_amt"] = 0,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									},
+									[255966] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 913,
+										["targets"] = {
+											["해피뼈전사"] = 909,
+											["판타지곤-데스윙"] = 1811,
+											["군신잔트라-데스윙"] = 894,
+											["덩치큰토템-데스윙"] = 1786,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 5400,
+										["n_min"] = 886,
+										["g_dmg"] = 0,
+										["counter"] = 6,
+										["total"] = 5400,
+										["c_max"] = 0,
+										["spellschool"] = 4,
+										["id"] = 255966,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 5,
+										["b_dmg"] = 0,
+										["n_amt"] = 6,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									},
+									[258773] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 0,
+										["targets"] = {
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 0,
+										["n_min"] = 0,
+										["g_dmg"] = 0,
+										["counter"] = 0,
+										["total"] = 0,
+										["c_max"] = 0,
+										["id"] = 258773,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 2,
+										["b_dmg"] = 0,
+										["n_amt"] = 0,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									},
+								},
+							},
+							["classe"] = "UNKNOW",
+							["serial"] = "Creature-0-3058-1754-18048-126832-000030E40F",
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["last_event"] = 1605428306,
+							["damage_taken"] = 132567.005315,
+							["start_time"] = 1605428244,
+							["delay"] = 0,
+							["tipo"] = 1,
+						}, -- [1]
+						{
+							["flag_original"] = 1298,
+							["totalabsorbed"] = 0.003695,
+							["pets"] = {
+							},
+							["classe"] = "PALADIN",
+							["total_without_pet"] = 19783.003695,
+							["dps_started"] = false,
+							["total"] = 19783.003695,
+							["spec"] = 66,
+							["colocacao"] = 4,
+							["on_hold"] = false,
+							["isTank"] = true,
+							["serial"] = "Player-214-093AAE58",
+							["damage_from"] = {
+								["하늘선장 크라그"] = true,
+								["[*] 썩은내 범벅"] = true,
+							},
+							["targets"] = {
+								["하늘선장 크라그"] = 19783,
+							},
+							["boss_fight_component"] = true,
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["end_time"] = 1605428308,
+							["avoidance"] = {
+								["[*] 썩은내 범벅"] = {
+									["DODGE"] = 0,
+									["FULL_ABSORB_AMT"] = 0,
+									["BLOCKED_AMT"] = 0,
+									["BLOCKED_HITS"] = 0,
+									["FULL_ABSORBED"] = 0,
+									["ALL"] = 4,
+									["PARTIAL_ABSORBED"] = 3,
+									["PARRY"] = 0,
+									["PARTIAL_ABSORB_AMT"] = 513,
+									["ABSORB"] = 3,
+									["ABSORB_AMT"] = 513,
+									["FULL_HIT"] = 1,
+									["HITS"] = 0,
+									["FULL_HIT_AMT"] = 447,
+								},
+								["하늘선장 크라그"] = {
+									["DODGE"] = 1,
+									["FULL_ABSORB_AMT"] = 0,
+									["BLOCKED_AMT"] = 1177,
+									["BLOCKED_HITS"] = 6,
+									["FULL_ABSORBED"] = 0,
+									["ALL"] = 26,
+									["PARTIAL_ABSORBED"] = 0,
+									["PARRY"] = 2,
+									["PARTIAL_ABSORB_AMT"] = 0,
+									["ABSORB"] = 0,
+									["ABSORB_AMT"] = 0,
+									["FULL_HIT"] = 26,
+									["HITS"] = 24,
+									["FULL_HIT_AMT"] = 18309,
+								},
+								["overall"] = {
+									["DODGE"] = 1,
+									["FULL_ABSORB_AMT"] = 0,
+									["BLOCKED_AMT"] = 1177,
+									["BLOCKED_HITS"] = 6,
+									["FULL_ABSORBED"] = 0,
+									["ALL"] = 30,
+									["PARTIAL_ABSORBED"] = 3,
+									["PARRY"] = 2,
+									["PARTIAL_ABSORB_AMT"] = 513,
+									["ABSORB"] = 3,
+									["ABSORB_AMT"] = 513,
+									["FULL_HIT"] = 27,
+									["HITS"] = 24,
+									["FULL_HIT_AMT"] = 18756,
+								},
+							},
+							["friendlyfire"] = {
+							},
+							["nome"] = "군신잔트라-데스윙",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 6,
+										["b_amt"] = 0,
+										["c_dmg"] = 1918,
+										["g_amt"] = 0,
+										["n_max"] = 163,
+										["targets"] = {
+											["하늘선장 크라그"] = 4686,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 2768,
+										["n_min"] = 131,
+										["g_dmg"] = 0,
+										["counter"] = 26,
+										["total"] = 4686,
+										["c_max"] = 338,
+										["spellschool"] = 1,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 20,
+										["r_amt"] = 0,
+										["c_min"] = 277,
+									}, -- [1]
+									[31935] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 302,
+										["targets"] = {
+											["하늘선장 크라그"] = 1097,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 1097,
+										["n_min"] = 245,
+										["g_dmg"] = 0,
+										["counter"] = 4,
+										["total"] = 1097,
+										["c_max"] = 0,
+										["spellschool"] = 2,
+										["id"] = 31935,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 4,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									},
+									[53600] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 299,
+										["targets"] = {
+											["하늘선장 크라그"] = 1758,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 1758,
+										["n_min"] = 198,
+										["g_dmg"] = 0,
+										["counter"] = 7,
+										["total"] = 1758,
+										["c_max"] = 0,
+										["spellschool"] = 2,
+										["id"] = 53600,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 7,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									},
+									[275779] = {
+										["c_amt"] = 2,
+										["b_amt"] = 0,
+										["c_dmg"] = 2440,
+										["g_amt"] = 0,
+										["n_max"] = 691,
+										["targets"] = {
+											["하늘선장 크라그"] = 9108,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 6668,
+										["n_min"] = 554,
+										["g_dmg"] = 0,
+										["counter"] = 13,
+										["total"] = 9108,
+										["c_max"] = 1332,
+										["spellschool"] = 2,
+										["id"] = 275779,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 11,
+										["r_amt"] = 0,
+										["c_min"] = 1108,
+									},
+									[53595] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 107,
+										["targets"] = {
+											["하늘선장 크라그"] = 832,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 832,
+										["n_min"] = 88,
+										["g_dmg"] = 0,
+										["counter"] = 9,
+										["total"] = 832,
+										["c_max"] = 0,
+										["spellschool"] = 1,
+										["id"] = 53595,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 9,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									},
+									[853] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 0,
+										["targets"] = {
+											["하늘선장 크라그"] = 0,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 0,
+										["n_min"] = 0,
+										["g_dmg"] = 0,
+										["counter"] = 2,
+										["IMMUNE"] = 2,
+										["total"] = 0,
+										["c_max"] = 0,
+										["spellschool"] = 2,
+										["id"] = 853,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 0,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									},
+									[157122] = {
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 115,
+										["g_amt"] = 0,
+										["n_max"] = 56,
+										["targets"] = {
+											["하늘선장 크라그"] = 365,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 250,
+										["n_min"] = 46,
+										["g_dmg"] = 0,
+										["counter"] = 6,
+										["total"] = 365,
+										["c_max"] = 115,
+										["spellschool"] = 2,
+										["id"] = 157122,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 5,
+										["r_amt"] = 0,
+										["c_min"] = 115,
+									},
+									[81297] = {
+										["c_amt"] = 15,
+										["b_amt"] = 0,
+										["c_dmg"] = 768,
+										["g_amt"] = 0,
+										["n_max"] = 29,
+										["targets"] = {
+											["하늘선장 크라그"] = 1937,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 1169,
+										["n_min"] = 23,
+										["g_dmg"] = 0,
+										["counter"] = 64,
+										["total"] = 1937,
+										["c_max"] = 57,
+										["spellschool"] = 2,
+										["id"] = 81297,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 49,
+										["r_amt"] = 0,
+										["c_min"] = 46,
+									},
+									[204242] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 0,
+										["targets"] = {
+											["하늘선장 크라그"] = 0,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 0,
+										["n_min"] = 0,
+										["g_dmg"] = 0,
+										["counter"] = 12,
+										["IMMUNE"] = 12,
+										["total"] = 0,
+										["c_max"] = 0,
+										["spellschool"] = 2,
+										["id"] = 204242,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 0,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									},
+								},
+							},
+							["grupo"] = true,
+							["aID"] = "214-093AAE58",
+							["last_dps"] = 309.6804059829167,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["damage_taken"] = 20316.003695,
+							["start_time"] = 1605428245,
+							["delay"] = 0,
+							["last_event"] = 1605428307,
+						}, -- [2]
+						{
+							["flag_original"] = 1298,
+							["totalabsorbed"] = 0.004703,
+							["damage_from"] = {
+								["하늘선장 크라그"] = true,
+								["[*] 썩은내 범벅"] = true,
+							},
+							["targets"] = {
+								["하늘선장 크라그"] = 2790,
+							},
+							["spec"] = 264,
+							["pets"] = {
+							},
+							["friendlyfire"] = {
+							},
+							["boss_fight_component"] = true,
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 2790.004703,
+							["end_time"] = 1605428308,
+							["colocacao"] = 5,
+							["dps_started"] = false,
+							["total"] = 2790.004703,
+							["classe"] = "SHAMAN",
+							["aID"] = "214-09483ED4",
+							["nome"] = "덩치큰토템-데스윙",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									[188389] = {
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 222,
+										["g_amt"] = 0,
+										["n_max"] = 68,
+										["targets"] = {
+											["하늘선장 크라그"] = 879,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 657,
+										["n_min"] = 53,
+										["g_dmg"] = 0,
+										["counter"] = 11,
+										["total"] = 879,
+										["c_max"] = 222,
+										["spellschool"] = 4,
+										["id"] = 188389,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 10,
+										["r_amt"] = 0,
+										["c_min"] = 222,
+									},
+									[285452] = {
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 1274,
+										["g_amt"] = 0,
+										["n_max"] = 637,
+										["targets"] = {
+											["하늘선장 크라그"] = 1911,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 637,
+										["n_min"] = 637,
+										["g_dmg"] = 0,
+										["counter"] = 2,
+										["total"] = 1911,
+										["c_max"] = 1274,
+										["spellschool"] = 4,
+										["id"] = 285452,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 1,
+										["r_amt"] = 0,
+										["c_min"] = 1274,
+									},
+								},
+							},
+							["grupo"] = true,
+							["on_hold"] = false,
+							["serial"] = "Player-214-09483ED4",
+							["last_dps"] = 43.67434806361881,
+							["custom"] = 0,
+							["last_event"] = 1605428263,
+							["damage_taken"] = 4129.004703000001,
+							["start_time"] = 1605428289,
+							["delay"] = 1605428263,
+							["tipo"] = 1,
+						}, -- [3]
+						{
+							["flag_original"] = 1298,
+							["totalabsorbed"] = 0.003375,
+							["damage_from"] = {
+								["하늘선장 크라그"] = true,
+							},
+							["targets"] = {
+								["하늘선장 크라그"] = 35824,
+							},
+							["spec"] = 267,
+							["pets"] = {
+								"제프구프 <판타지곤-데스윙>", -- [1]
+							},
+							["friendlyfire"] = {
+							},
+							["boss_fight_component"] = true,
+							["aID"] = "214-07FC4C5D",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 30485.003375,
+							["end_time"] = 1605428308,
+							["colocacao"] = 2,
+							["dps_started"] = false,
+							["total"] = 35824.003375,
+							["friendlyfire_total"] = 0,
+							["classe"] = "WARLOCK",
+							["nome"] = "판타지곤-데스윙",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									[17962] = {
+										["c_amt"] = 2,
+										["b_amt"] = 0,
+										["c_dmg"] = 2460,
+										["g_amt"] = 0,
+										["n_max"] = 619,
+										["targets"] = {
+											["하늘선장 크라그"] = 4885,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 2425,
+										["n_min"] = 597,
+										["g_dmg"] = 0,
+										["counter"] = 6,
+										["total"] = 4885,
+										["c_max"] = 1235,
+										["spellschool"] = 4,
+										["id"] = 17962,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 4,
+										["r_amt"] = 0,
+										["c_min"] = 1225,
+									},
+									[6353] = {
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 5474,
+										["g_amt"] = 0,
+										["n_max"] = 2430,
+										["targets"] = {
+											["하늘선장 크라그"] = 7904,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 2430,
+										["n_min"] = 2430,
+										["g_dmg"] = 0,
+										["counter"] = 2,
+										["total"] = 7904,
+										["c_max"] = 5474,
+										["spellschool"] = 4,
+										["id"] = 6353,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 1,
+										["r_amt"] = 0,
+										["c_min"] = 5474,
+									},
+									[157736] = {
+										["c_amt"] = 2,
+										["b_amt"] = 0,
+										["c_dmg"] = 643,
+										["g_amt"] = 0,
+										["n_max"] = 156,
+										["targets"] = {
+											["하늘선장 크라그"] = 1650,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 1007,
+										["n_min"] = 95,
+										["g_dmg"] = 0,
+										["counter"] = 9,
+										["total"] = 1650,
+										["c_max"] = 324,
+										["spellschool"] = 4,
+										["id"] = 157736,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 7,
+										["r_amt"] = 0,
+										["c_min"] = 319,
+									},
+									[266136] = {
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 337,
+										["g_amt"] = 0,
+										["n_max"] = 0,
+										["targets"] = {
+											["하늘선장 크라그"] = 337,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 0,
+										["n_min"] = 0,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 337,
+										["c_max"] = 337,
+										["spellschool"] = 4,
+										["id"] = 266136,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 0,
+										["r_amt"] = 0,
+										["c_min"] = 337,
+									},
+									[116858] = {
+										["c_amt"] = 4,
+										["b_amt"] = 0,
+										["c_dmg"] = 6961,
+										["g_amt"] = 0,
+										["n_max"] = 0,
+										["targets"] = {
+											["하늘선장 크라그"] = 6961,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 0,
+										["n_min"] = 0,
+										["g_dmg"] = 0,
+										["counter"] = 4,
+										["total"] = 6961,
+										["c_max"] = 1794,
+										["spellschool"] = 124,
+										["id"] = 116858,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 0,
+										["r_amt"] = 0,
+										["c_min"] = 1718,
+									},
+									[29722] = {
+										["c_amt"] = 3,
+										["b_amt"] = 0,
+										["c_dmg"] = 2439,
+										["g_amt"] = 0,
+										["n_max"] = 428,
+										["targets"] = {
+											["하늘선장 크라그"] = 8748,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 6309,
+										["n_min"] = 371,
+										["g_dmg"] = 0,
+										["counter"] = 19,
+										["total"] = 8748,
+										["c_max"] = 845,
+										["spellschool"] = 4,
+										["id"] = 29722,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 16,
+										["r_amt"] = 0,
+										["c_min"] = 781,
+									},
+								},
+							},
+							["grupo"] = true,
+							["on_hold"] = false,
+							["serial"] = "Player-214-07FC4C5D",
+							["last_dps"] = 560.7839982311331,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["damage_taken"] = 1811.003375,
+							["start_time"] = 1605428250,
+							["delay"] = 0,
+							["last_event"] = 1605428307,
+						}, -- [4]
+						{
+							["flag_original"] = 1298,
+							["totalabsorbed"] = 0.005684,
+							["damage_from"] = {
+								["하늘선장 크라그"] = true,
+								["[*] 썩은내 범벅"] = true,
+							},
+							["targets"] = {
+								["하늘선장 크라그"] = 38545,
+							},
+							["spec"] = 71,
+							["pets"] = {
+							},
+							["friendlyfire"] = {
+							},
+							["boss_fight_component"] = true,
+							["aID"] = "205-06251940",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 38545.005684,
+							["end_time"] = 1605428308,
+							["colocacao"] = 1,
+							["dps_started"] = false,
+							["total"] = 38545.005684,
+							["friendlyfire_total"] = 0,
+							["classe"] = "WARRIOR",
+							["nome"] = "해피뼈전사",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 641,
+										["g_amt"] = 0,
+										["n_max"] = 414,
+										["targets"] = {
+											["하늘선장 크라그"] = 5408,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 4767,
+										["n_min"] = 237,
+										["g_dmg"] = 0,
+										["counter"] = 16,
+										["total"] = 5408,
+										["c_max"] = 641,
+										["spellschool"] = 1,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 15,
+										["r_amt"] = 0,
+										["c_min"] = 641,
+									}, -- [1]
+									[1464] = {
+										["c_amt"] = 2,
+										["b_amt"] = 0,
+										["c_dmg"] = 1399,
+										["g_amt"] = 0,
+										["n_max"] = 386,
+										["targets"] = {
+											["하늘선장 크라그"] = 2161,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 762,
+										["n_min"] = 376,
+										["g_dmg"] = 0,
+										["counter"] = 4,
+										["total"] = 2161,
+										["c_max"] = 738,
+										["spellschool"] = 1,
+										["id"] = 1464,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 2,
+										["r_amt"] = 0,
+										["c_min"] = 661,
+									},
+									[127802] = {
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 330,
+										["g_amt"] = 0,
+										["n_max"] = 166,
+										["targets"] = {
+											["하늘선장 크라그"] = 496,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 166,
+										["n_min"] = 166,
+										["g_dmg"] = 0,
+										["counter"] = 2,
+										["total"] = 496,
+										["c_max"] = 330,
+										["spellschool"] = 32,
+										["id"] = 127802,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 1,
+										["r_amt"] = 0,
+										["c_min"] = 330,
+									},
+									[126664] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 64,
+										["targets"] = {
+											["하늘선장 크라그"] = 121,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 121,
+										["n_min"] = 57,
+										["g_dmg"] = 0,
+										["counter"] = 2,
+										["total"] = 121,
+										["c_max"] = 0,
+										["spellschool"] = 1,
+										["id"] = 126664,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 2,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									},
+									[260798] = {
+										["c_amt"] = 2,
+										["b_amt"] = 0,
+										["c_dmg"] = 6964,
+										["g_amt"] = 0,
+										["n_max"] = 1985,
+										["targets"] = {
+											["하늘선장 크라그"] = 13569,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 6605,
+										["n_min"] = 1206,
+										["g_dmg"] = 0,
+										["counter"] = 6,
+										["total"] = 13569,
+										["c_max"] = 3998,
+										["spellschool"] = 1,
+										["id"] = 260798,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 4,
+										["r_amt"] = 0,
+										["c_min"] = 2966,
+									},
+									[105771] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 0,
+										["targets"] = {
+											["하늘선장 크라그"] = 0,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 0,
+										["n_min"] = 0,
+										["g_dmg"] = 0,
+										["counter"] = 2,
+										["IMMUNE"] = 2,
+										["total"] = 0,
+										["c_max"] = 0,
+										["spellschool"] = 1,
+										["id"] = 105771,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 0,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									},
+									[167105] = {
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 2024,
+										["g_amt"] = 0,
+										["n_max"] = 0,
+										["targets"] = {
+											["하늘선장 크라그"] = 2024,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 0,
+										["n_min"] = 0,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 2024,
+										["c_max"] = 2024,
+										["spellschool"] = 1,
+										["id"] = 167105,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 0,
+										["r_amt"] = 0,
+										["c_min"] = 2024,
+									},
+									[12294] = {
+										["c_amt"] = 2,
+										["b_amt"] = 0,
+										["c_dmg"] = 2881,
+										["g_amt"] = 0,
+										["n_max"] = 714,
+										["targets"] = {
+											["하늘선장 크라그"] = 5638,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 2757,
+										["n_min"] = 666,
+										["g_dmg"] = 0,
+										["counter"] = 6,
+										["total"] = 5638,
+										["c_max"] = 1634,
+										["spellschool"] = 1,
+										["id"] = 12294,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 4,
+										["r_amt"] = 0,
+										["c_min"] = 1247,
+									},
+									[274575] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 334,
+										["targets"] = {
+											["하늘선장 크라그"] = 334,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 334,
+										["n_min"] = 334,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 334,
+										["c_max"] = 0,
+										["spellschool"] = 8,
+										["id"] = 274575,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 1,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									},
+									[262115] = {
+										["c_amt"] = 5,
+										["b_amt"] = 0,
+										["c_dmg"] = 1248,
+										["g_amt"] = 0,
+										["n_max"] = 159,
+										["targets"] = {
+											["하늘선장 크라그"] = 3113,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 1865,
+										["n_min"] = 109,
+										["g_dmg"] = 0,
+										["counter"] = 20,
+										["total"] = 3113,
+										["c_max"] = 319,
+										["spellschool"] = 1,
+										["id"] = 262115,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 15,
+										["r_amt"] = 0,
+										["c_min"] = 219,
+									},
+									[7384] = {
+										["c_amt"] = 3,
+										["b_amt"] = 0,
+										["c_dmg"] = 2858,
+										["g_amt"] = 0,
+										["n_max"] = 663,
+										["targets"] = {
+											["하늘선장 크라그"] = 5681,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 2823,
+										["n_min"] = 465,
+										["g_dmg"] = 0,
+										["counter"] = 8,
+										["total"] = 5681,
+										["c_max"] = 1036,
+										["spellschool"] = 1,
+										["id"] = 7384,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 5,
+										["r_amt"] = 0,
+										["c_min"] = 787,
+									},
+								},
+							},
+							["grupo"] = true,
+							["on_hold"] = false,
+							["serial"] = "Player-205-06251940",
+							["last_dps"] = 603.3781923546749,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["damage_taken"] = 9205.005684,
+							["start_time"] = 1605428249,
+							["delay"] = 0,
+							["last_event"] = 1605428308,
+						}, -- [5]
+						{
+							["flag_original"] = 1297,
+							["totalabsorbed"] = 0.004485,
+							["damage_from"] = {
+								["[*] 썩은내 범벅"] = true,
+							},
+							["targets"] = {
+								["하늘선장 크라그"] = 35625,
+							},
+							["spec"] = 62,
+							["pets"] = {
+							},
+							["friendlyfire"] = {
+							},
+							["boss_fight_component"] = true,
+							["aID"] = "205-0713A4FD",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 35625.004485,
+							["end_time"] = 1605428308,
+							["colocacao"] = 3,
+							["dps_started"] = false,
+							["total"] = 35625.004485,
+							["friendlyfire_total"] = 0,
+							["classe"] = "MAGE",
+							["nome"] = "법따리",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									[7268] = {
+										["c_amt"] = 4,
+										["b_amt"] = 0,
+										["c_dmg"] = 2232,
+										["g_amt"] = 0,
+										["n_max"] = 316,
+										["targets"] = {
+											["하늘선장 크라그"] = 6514,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 4282,
+										["n_min"] = 222,
+										["g_dmg"] = 0,
+										["counter"] = 20,
+										["total"] = 6514,
+										["c_max"] = 680,
+										["spellschool"] = 64,
+										["id"] = 7268,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 16,
+										["r_amt"] = 0,
+										["c_min"] = 485,
+									},
+									[30451] = {
+										["c_amt"] = 2,
+										["b_amt"] = 0,
+										["c_dmg"] = 4064,
+										["g_amt"] = 0,
+										["n_max"] = 1540,
+										["targets"] = {
+											["하늘선장 크라그"] = 25779,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 21715,
+										["n_min"] = 517,
+										["g_dmg"] = 0,
+										["counter"] = 21,
+										["total"] = 25779,
+										["c_max"] = 2359,
+										["spellschool"] = 64,
+										["id"] = 30451,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 19,
+										["r_amt"] = 0,
+										["c_min"] = 1705,
+									},
+									[153640] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 615,
+										["targets"] = {
+											["하늘선장 크라그"] = 1228,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 1228,
+										["n_min"] = 613,
+										["g_dmg"] = 0,
+										["counter"] = 2,
+										["total"] = 1228,
+										["c_max"] = 0,
+										["spellschool"] = 64,
+										["id"] = 153640,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 2,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									},
+									[269889] = {
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 311,
+										["g_amt"] = 0,
+										["n_max"] = 155,
+										["targets"] = {
+											["하늘선장 크라그"] = 776,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 465,
+										["n_min"] = 155,
+										["g_dmg"] = 0,
+										["counter"] = 4,
+										["total"] = 776,
+										["c_max"] = 311,
+										["spellschool"] = 8,
+										["id"] = 269889,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 3,
+										["r_amt"] = 0,
+										["c_min"] = 311,
+									},
+									[271468] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 637,
+										["targets"] = {
+											["하늘선장 크라그"] = 637,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 637,
+										["n_min"] = 637,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 637,
+										["c_max"] = 0,
+										["spellschool"] = 32,
+										["id"] = 271468,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 1,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									},
+									[271465] = {
+										["c_amt"] = 2,
+										["b_amt"] = 0,
+										["c_dmg"] = 285,
+										["g_amt"] = 0,
+										["n_max"] = 71,
+										["targets"] = {
+											["하늘선장 크라그"] = 691,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 406,
+										["n_min"] = 53,
+										["g_dmg"] = 0,
+										["counter"] = 8,
+										["total"] = 691,
+										["c_max"] = 143,
+										["spellschool"] = 32,
+										["id"] = 271465,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 6,
+										["r_amt"] = 0,
+										["c_min"] = 142,
+									},
+								},
+							},
+							["grupo"] = true,
+							["on_hold"] = false,
+							["serial"] = "Player-205-0713A4FD",
+							["last_dps"] = 557.6688971071856,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["damage_taken"] = 5558.004485,
+							["start_time"] = 1605428249,
+							["delay"] = 0,
+							["last_event"] = 1605428306,
+						}, -- [6]
+						{
+							["flag_original"] = 4370,
+							["totalabsorbed"] = 0.005187,
+							["classe"] = "PET",
+							["on_hold"] = false,
+							["damage_from"] = {
+							},
+							["targets"] = {
+								["하늘선장 크라그"] = 5339,
+							},
+							["pets"] = {
+							},
+							["boss_fight_component"] = true,
+							["end_time"] = 1605428308,
+							["aID"] = "Pet-0-3058-1754-18048-416-01019C2D49",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 5339.005187,
+							["serial"] = "Pet-0-3058-1754-18048-416-01019C2D49",
+							["dps_started"] = false,
+							["total"] = 5339.005187,
+							["friendlyfire_total"] = 0,
+							["ownerName"] = "판타지곤-데스윙",
+							["nome"] = "제프구프 <판타지곤-데스윙>",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									[3110] = {
+										["c_amt"] = 3,
+										["b_amt"] = 0,
+										["c_dmg"] = 1533,
+										["g_amt"] = 0,
+										["n_max"] = 260,
+										["targets"] = {
+											["하늘선장 크라그"] = 5339,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 3806,
+										["n_min"] = 248,
+										["g_dmg"] = 0,
+										["counter"] = 18,
+										["total"] = 5339,
+										["c_max"] = 512,
+										["spellschool"] = 4,
+										["id"] = 3110,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 15,
+										["r_amt"] = 0,
+										["c_min"] = 510,
+									},
+								},
+							},
+							["friendlyfire"] = {
+							},
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["last_event"] = 1605428307,
+							["damage_taken"] = 0.005187,
+							["start_time"] = 1605428250,
+							["delay"] = 0,
+							["tipo"] = 1,
+						}, -- [7]
+						{
+							["flag_original"] = 2632,
+							["totalabsorbed"] = 0.004825,
+							["damage_from"] = {
+							},
+							["targets"] = {
+							},
+							["serial"] = "Vehicle-0-3058-1754-18048-126841-000030E424",
+							["pets"] = {
+							},
+							["on_hold"] = false,
+							["aID"] = "",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 0.004825,
+							["boss_fight_component"] = true,
+							["end_time"] = 1605428308,
+							["dps_started"] = false,
+							["total"] = 0.004825,
+							["monster"] = true,
+							["friendlyfire_total"] = 0,
+							["nome"] = "상어밥",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									[256005] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 0,
+										["targets"] = {
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 0,
+										["n_min"] = 0,
+										["g_dmg"] = 0,
+										["counter"] = 0,
+										["total"] = 0,
+										["c_max"] = 0,
+										["id"] = 256005,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 6,
+										["b_dmg"] = 0,
+										["n_amt"] = 0,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									},
+								},
+							},
+							["classe"] = "UNKNOW",
+							["friendlyfire"] = {
+							},
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["last_event"] = 0,
+							["damage_taken"] = 0.004825,
+							["start_time"] = 1605428308,
+							["delay"] = 0,
+							["tipo"] = 1,
+						}, -- [8]
+						{
+							["flag_original"] = 2632,
+							["totalabsorbed"] = 2657.004758,
+							["damage_from"] = {
+							},
+							["targets"] = {
+								["해피뼈전사"] = 1202,
+								["법따리"] = 5558,
+								["군신잔트라-데스윙"] = 2007,
+								["덩치큰토템-데스윙"] = 608,
+							},
+							["spellicon"] = 1500941,
+							["serial"] = "",
+							["pets"] = {
+							},
+							["classe"] = "UNKNOW",
+							["raid_targets"] = {
+								[2] = 2007,
+							},
+							["total_without_pet"] = 9375.004758,
+							["boss_fight_component"] = true,
+							["end_time"] = 1605428308,
+							["dps_started"] = false,
+							["total"] = 9375.004758,
+							["aID"] = "",
+							["monster"] = true,
+							["nome"] = "[*] 썩은내 범벅",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									[256016] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 608,
+										["targets"] = {
+											["해피뼈전사"] = 1202,
+											["법따리"] = 5558,
+											["군신잔트라-데스윙"] = 2007,
+											["덩치큰토템-데스윙"] = 608,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 9375,
+										["n_min"] = 446,
+										["g_dmg"] = 0,
+										["counter"] = 17,
+										["total"] = 9375,
+										["c_max"] = 0,
+										["spellschool"] = 8,
+										["id"] = 256016,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 2649,
+										["m_crit"] = 0,
+										["a_amt"] = 5,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 17,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									},
+								},
+							},
+							["friendlyfire_total"] = 0,
+							["on_hold"] = false,
+							["friendlyfire"] = {
+							},
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["damage_taken"] = 0.004758,
+							["start_time"] = 1605428270,
+							["delay"] = 0,
+							["last_event"] = 1605428303,
+						}, -- [9]
+					},
+				}, -- [1]
+				{
+					["combatId"] = 487,
+					["tipo"] = 3,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1298,
+							["targets_overheal"] = {
+								["해피뼈전사"] = 796,
+								["군신잔트라-데스윙"] = 440,
+								["덩치큰토템-데스윙"] = 3169,
+								["제프구프 <판타지곤-데스윙>"] = 295,
+								["판타지곤-데스윙"] = 229,
+							},
+							["pets"] = {
+							},
+							["iniciar_hps"] = false,
+							["aID"] = "214-09483ED4",
+							["totalover"] = 4929.007696000001,
+							["total_without_pet"] = 25426.007696,
+							["total"] = 25426.007696,
+							["targets_absorbs"] = {
+							},
+							["heal_enemy"] = {
+							},
+							["on_hold"] = false,
+							["serial"] = "Player-214-09483ED4",
+							["totalabsorb"] = 0.007696,
+							["last_hps"] = 0,
+							["targets"] = {
+								["해피뼈전사"] = 3329,
+								["판타지곤-데스윙"] = 242,
+								["군신잔트라-데스윙"] = 19180,
+								["덩치큰토템-데스윙"] = 2675,
+							},
+							["totalover_without_pet"] = 0.007696,
+							["healing_taken"] = 2675.007696,
+							["boss_fight_component"] = true,
+							["end_time"] = 1605428308,
+							["healing_from"] = {
+								["덩치큰토템-데스윙"] = true,
+							},
+							["heal_enemy_amt"] = 0,
+							["nome"] = "덩치큰토템-데스윙",
+							["spells"] = {
+								["tipo"] = 3,
+								["_ActorTable"] = {
+									[61295] = {
+										["c_amt"] = 4,
+										["totalabsorb"] = 0,
+										["targets_overheal"] = {
+											["해피뼈전사"] = 712,
+										},
+										["n_max"] = 111,
+										["targets"] = {
+											["해피뼈전사"] = 2408,
+										},
+										["n_min"] = 56,
+										["counter"] = 8,
+										["overheal"] = 712,
+										["total"] = 2408,
+										["c_max"] = 1801,
+										["id"] = 61295,
+										["targets_absorbs"] = {
+										},
+										["c_curado"] = 2241,
+										["m_crit"] = 0,
+										["c_min"] = 220,
+										["m_amt"] = 0,
+										["n_curado"] = 167,
+										["n_amt"] = 4,
+										["totaldenied"] = 0,
+										["m_healed"] = 0,
+										["absorbed"] = 0,
+									},
+									[1064] = {
+										["c_amt"] = 1,
+										["totalabsorb"] = 0,
+										["targets_overheal"] = {
+											["해피뼈전사"] = 84,
+											["제프구프 <판타지곤-데스윙>"] = 295,
+											["군신잔트라-데스윙"] = 13,
+											["판타지곤-데스윙"] = 229,
+										},
+										["n_max"] = 921,
+										["targets"] = {
+											["해피뼈전사"] = 921,
+											["제프구프 <판타지곤-데스윙>"] = 0,
+											["군신잔트라-데스윙"] = 1646,
+											["판타지곤-데스윙"] = 242,
+										},
+										["n_min"] = 242,
+										["counter"] = 4,
+										["overheal"] = 621,
+										["total"] = 2809,
+										["c_max"] = 1646,
+										["id"] = 1064,
+										["targets_absorbs"] = {
+										},
+										["c_curado"] = 1646,
+										["m_crit"] = 0,
+										["c_min"] = 1646,
+										["m_amt"] = 0,
+										["n_curado"] = 1163,
+										["n_amt"] = 3,
+										["totaldenied"] = 0,
+										["m_healed"] = 0,
+										["absorbed"] = 0,
+									},
+									[8004] = {
+										["c_amt"] = 2,
+										["totalabsorb"] = 0,
+										["targets_overheal"] = {
+											["군신잔트라-데스윙"] = 427,
+											["덩치큰토템-데스윙"] = 3169,
+										},
+										["n_max"] = 1488,
+										["targets"] = {
+											["군신잔트라-데스윙"] = 13998,
+											["덩치큰토템-데스윙"] = 2675,
+										},
+										["n_min"] = 946,
+										["counter"] = 13,
+										["overheal"] = 3596,
+										["total"] = 16673,
+										["c_max"] = 989,
+										["id"] = 8004,
+										["targets_absorbs"] = {
+										},
+										["c_curado"] = 1669,
+										["m_crit"] = 0,
+										["c_min"] = 680,
+										["m_amt"] = 0,
+										["n_curado"] = 15004,
+										["n_amt"] = 11,
+										["totaldenied"] = 0,
+										["m_healed"] = 0,
+										["absorbed"] = 0,
+									},
+									[379] = {
+										["c_amt"] = 4,
+										["totalabsorb"] = 0,
+										["targets_overheal"] = {
+										},
+										["n_max"] = 217,
+										["targets"] = {
+											["군신잔트라-데스윙"] = 3536,
+										},
+										["n_min"] = 198,
+										["counter"] = 13,
+										["overheal"] = 0,
+										["total"] = 3536,
+										["c_max"] = 426,
+										["id"] = 379,
+										["targets_absorbs"] = {
+										},
+										["c_curado"] = 1660,
+										["m_crit"] = 0,
+										["c_min"] = 399,
+										["m_amt"] = 0,
+										["n_curado"] = 1876,
+										["n_amt"] = 9,
+										["totaldenied"] = 0,
+										["m_healed"] = 0,
+										["absorbed"] = 0,
+									},
+								},
+							},
+							["grupo"] = true,
+							["start_time"] = 1605428247,
+							["spec"] = 264,
+							["custom"] = 0,
+							["tipo"] = 2,
+							["classe"] = "SHAMAN",
+							["totaldenied"] = 0.007696,
+							["delay"] = 0,
+							["last_event"] = 1605428307,
+						}, -- [1]
+						{
+							["flag_original"] = 1298,
+							["targets_overheal"] = {
+							},
+							["pets"] = {
+							},
+							["iniciar_hps"] = false,
+							["aID"] = "214-093AAE58",
+							["totalover"] = 0.007182,
+							["total_without_pet"] = 370.007182,
+							["total"] = 370.007182,
+							["targets_absorbs"] = {
+								["군신잔트라-데스윙"] = 370,
+							},
+							["heal_enemy"] = {
+							},
+							["on_hold"] = false,
+							["isTank"] = true,
+							["serial"] = "Player-214-093AAE58",
+							["totalabsorb"] = 370.007182,
+							["last_hps"] = 0,
+							["targets"] = {
+								["군신잔트라-데스윙"] = 370,
+							},
+							["totalover_without_pet"] = 0.007182,
+							["healing_taken"] = 19550.007182,
+							["boss_fight_component"] = true,
+							["end_time"] = 1605428308,
+							["healing_from"] = {
+								["군신잔트라-데스윙"] = true,
+								["덩치큰토템-데스윙"] = true,
+							},
+							["heal_enemy_amt"] = 0,
+							["nome"] = "군신잔트라-데스윙",
+							["spells"] = {
+								["tipo"] = 3,
+								["_ActorTable"] = {
+									[152261] = {
+										["c_amt"] = 0,
+										["totalabsorb"] = 370,
+										["targets_overheal"] = {
+										},
+										["n_max"] = 132,
+										["targets"] = {
+											["군신잔트라-데스윙"] = 370,
+										},
+										["n_min"] = 106,
+										["counter"] = 3,
+										["overheal"] = 0,
+										["total"] = 370,
+										["c_max"] = 0,
+										["id"] = 152261,
+										["targets_absorbs"] = {
+											["군신잔트라-데스윙"] = 370,
+										},
+										["m_healed"] = 0,
+										["c_curado"] = 0,
+										["m_crit"] = 0,
+										["c_min"] = 0,
+										["m_amt"] = 0,
+										["n_curado"] = 370,
+										["n_amt"] = 3,
+										["totaldenied"] = 0,
+										["is_shield"] = true,
+										["absorbed"] = 0,
+									},
+								},
+							},
+							["grupo"] = true,
+							["start_time"] = 1605428299,
+							["spec"] = 66,
+							["custom"] = 0,
+							["tipo"] = 2,
+							["classe"] = "PALADIN",
+							["totaldenied"] = 0.007182,
+							["delay"] = 1605428284,
+							["last_event"] = 1605428301,
+						}, -- [2]
+						{
+							["flag_original"] = 1298,
+							["targets_overheal"] = {
+							},
+							["pets"] = {
+								"제프구프 <판타지곤-데스윙>", -- [1]
+							},
+							["iniciar_hps"] = false,
+							["aID"] = "214-07FC4C5D",
+							["totalover"] = 0.005506,
+							["total_without_pet"] = 1305.005506,
+							["total"] = 1305.005506,
+							["targets_absorbs"] = {
+								["판타지곤-데스윙"] = 1305,
+							},
+							["heal_enemy"] = {
+							},
+							["on_hold"] = false,
+							["serial"] = "Player-214-07FC4C5D",
+							["totalabsorb"] = 1305.005506,
+							["last_hps"] = 0,
+							["targets"] = {
+								["판타지곤-데스윙"] = 1305,
+							},
+							["totalover_without_pet"] = 0.005506,
+							["healing_taken"] = 1547.005506,
+							["boss_fight_component"] = true,
+							["end_time"] = 1605428308,
+							["healing_from"] = {
+								["덩치큰토템-데스윙"] = true,
+								["판타지곤-데스윙"] = true,
+							},
+							["heal_enemy_amt"] = 0,
+							["nome"] = "판타지곤-데스윙",
+							["spells"] = {
+								["tipo"] = 3,
+								["_ActorTable"] = {
+									[77220] = {
+										["c_amt"] = 0,
+										["totalabsorb"] = 71,
+										["targets_overheal"] = {
+										},
+										["n_max"] = 41,
+										["targets"] = {
+											["판타지곤-데스윙"] = 71,
+										},
+										["n_min"] = 30,
+										["counter"] = 2,
+										["overheal"] = 0,
+										["total"] = 71,
+										["c_max"] = 0,
+										["id"] = 77220,
+										["targets_absorbs"] = {
+											["판타지곤-데스윙"] = 71,
+										},
+										["m_healed"] = 0,
+										["c_curado"] = 0,
+										["m_crit"] = 0,
+										["c_min"] = 0,
+										["m_amt"] = 0,
+										["n_curado"] = 71,
+										["n_amt"] = 2,
+										["totaldenied"] = 0,
+										["is_shield"] = true,
+										["absorbed"] = 0,
+									},
+									[108366] = {
+										["c_amt"] = 0,
+										["totalabsorb"] = 1234,
+										["targets_overheal"] = {
+										},
+										["n_max"] = 617,
+										["targets"] = {
+											["판타지곤-데스윙"] = 1234,
+										},
+										["n_min"] = 617,
+										["counter"] = 2,
+										["overheal"] = 0,
+										["total"] = 1234,
+										["c_max"] = 0,
+										["id"] = 108366,
+										["targets_absorbs"] = {
+											["판타지곤-데스윙"] = 1234,
+										},
+										["m_healed"] = 0,
+										["c_curado"] = 0,
+										["m_crit"] = 0,
+										["c_min"] = 0,
+										["m_amt"] = 0,
+										["n_curado"] = 1234,
+										["n_amt"] = 2,
+										["totaldenied"] = 0,
+										["is_shield"] = true,
+										["absorbed"] = 0,
+									},
+								},
+							},
+							["grupo"] = true,
+							["start_time"] = 1605428299,
+							["spec"] = 267,
+							["custom"] = 0,
+							["tipo"] = 2,
+							["classe"] = "WARLOCK",
+							["totaldenied"] = 0.005506,
+							["delay"] = 1605428256,
+							["last_event"] = 1605428256,
+						}, -- [3]
+						{
+							["flag_original"] = 4370,
+							["targets_overheal"] = {
+							},
+							["pets"] = {
+							},
+							["iniciar_hps"] = false,
+							["heal_enemy_amt"] = 0,
+							["totalover"] = 0.007616,
+							["total_without_pet"] = 0.007616,
+							["total"] = 0.007616,
+							["targets_absorbs"] = {
+							},
+							["heal_enemy"] = {
+							},
+							["on_hold"] = false,
+							["serial"] = "Pet-0-3058-1754-18048-416-01019C2D49",
+							["totalabsorb"] = 0.007616,
+							["last_hps"] = 0,
+							["targets"] = {
+							},
+							["totalover_without_pet"] = 0.007616,
+							["healing_taken"] = 0.007616,
+							["boss_fight_component"] = true,
+							["end_time"] = 1605428308,
+							["healing_from"] = {
+							},
+							["ownerName"] = "판타지곤-데스윙",
+							["nome"] = "제프구프 <판타지곤-데스윙>",
+							["spells"] = {
+								["tipo"] = 3,
+								["_ActorTable"] = {
+								},
+							},
+							["start_time"] = 1605428308,
+							["classe"] = "PET",
+							["custom"] = 0,
+							["tipo"] = 2,
+							["aID"] = "Pet-0-3058-1754-18048-416-01019C2D49",
+							["totaldenied"] = 0.007616,
+							["delay"] = 0,
+							["last_event"] = 0,
+						}, -- [4]
+						{
+							["flag_original"] = 1298,
+							["targets_overheal"] = {
+								["해피뼈전사"] = 561,
+							},
+							["pets"] = {
+							},
+							["iniciar_hps"] = false,
+							["aID"] = "205-06251940",
+							["totalover"] = 561.001223,
+							["total_without_pet"] = 1603.001223,
+							["total"] = 1603.001223,
+							["targets_absorbs"] = {
+							},
+							["heal_enemy"] = {
+							},
+							["on_hold"] = false,
+							["serial"] = "Player-205-06251940",
+							["totalabsorb"] = 0.001223,
+							["last_hps"] = 0,
+							["targets"] = {
+								["해피뼈전사"] = 1603,
+							},
+							["totalover_without_pet"] = 0.001223,
+							["healing_taken"] = 4932.001223,
+							["boss_fight_component"] = true,
+							["end_time"] = 1605428308,
+							["healing_from"] = {
+								["해피뼈전사"] = true,
+								["덩치큰토템-데스윙"] = true,
+							},
+							["heal_enemy_amt"] = 0,
+							["nome"] = "해피뼈전사",
+							["spells"] = {
+								["tipo"] = 3,
+								["_ActorTable"] = {
+									[127802] = {
+										["c_amt"] = 0,
+										["totalabsorb"] = 0,
+										["targets_overheal"] = {
+											["해피뼈전사"] = 391,
+										},
+										["n_max"] = 195,
+										["targets"] = {
+											["해피뼈전사"] = 195,
+										},
+										["n_min"] = 195,
+										["counter"] = 2,
+										["overheal"] = 391,
+										["total"] = 195,
+										["c_max"] = 0,
+										["id"] = 127802,
+										["targets_absorbs"] = {
+										},
+										["c_curado"] = 0,
+										["m_crit"] = 0,
+										["c_min"] = 0,
+										["m_amt"] = 0,
+										["n_curado"] = 195,
+										["n_amt"] = 2,
+										["totaldenied"] = 0,
+										["m_healed"] = 0,
+										["absorbed"] = 0,
+									},
+									[202147] = {
+										["c_amt"] = 0,
+										["totalabsorb"] = 0,
+										["targets_overheal"] = {
+											["해피뼈전사"] = 170,
+										},
+										["n_max"] = 316,
+										["targets"] = {
+											["해피뼈전사"] = 1408,
+										},
+										["n_min"] = 145,
+										["counter"] = 5,
+										["overheal"] = 170,
+										["total"] = 1408,
+										["c_max"] = 0,
+										["id"] = 202147,
+										["targets_absorbs"] = {
+										},
+										["c_curado"] = 0,
+										["m_crit"] = 0,
+										["c_min"] = 0,
+										["m_amt"] = 0,
+										["n_curado"] = 1408,
+										["n_amt"] = 5,
+										["totaldenied"] = 0,
+										["m_healed"] = 0,
+										["absorbed"] = 0,
+									},
+								},
+							},
+							["grupo"] = true,
+							["start_time"] = 1605428289,
+							["spec"] = 71,
+							["custom"] = 0,
+							["tipo"] = 2,
+							["classe"] = "WARRIOR",
+							["totaldenied"] = 0.001223,
+							["delay"] = 1605428266,
+							["last_event"] = 1605428300,
+						}, -- [5]
+						{
+							["flag_original"] = 1297,
+							["targets_overheal"] = {
+								["법따리"] = 3,
+							},
+							["pets"] = {
+							},
+							["iniciar_hps"] = false,
+							["aID"] = "205-0713A4FD",
+							["totalover"] = 3.008073,
+							["total_without_pet"] = 3861.008073,
+							["total"] = 3861.008073,
+							["targets_absorbs"] = {
+								["법따리"] = 3642,
+							},
+							["heal_enemy"] = {
+							},
+							["on_hold"] = false,
+							["serial"] = "Player-205-0713A4FD",
+							["totalabsorb"] = 3642.008073,
+							["last_hps"] = 0,
+							["targets"] = {
+								["법따리"] = 3861,
+							},
+							["totalover_without_pet"] = 0.008073,
+							["healing_taken"] = 3861.008073,
+							["boss_fight_component"] = true,
+							["end_time"] = 1605428308,
+							["healing_from"] = {
+								["법따리"] = true,
+							},
+							["heal_enemy_amt"] = 0,
+							["nome"] = "법따리",
+							["spells"] = {
+								["tipo"] = 3,
+								["_ActorTable"] = {
+									[235450] = {
+										["c_amt"] = 0,
+										["totalabsorb"] = 1843,
+										["targets_overheal"] = {
+										},
+										["n_max"] = 483,
+										["targets"] = {
+											["법따리"] = 1843,
+										},
+										["n_min"] = 394,
+										["counter"] = 4,
+										["overheal"] = 0,
+										["total"] = 1843,
+										["c_max"] = 0,
+										["id"] = 235450,
+										["targets_absorbs"] = {
+											["법따리"] = 1843,
+										},
+										["m_healed"] = 0,
+										["c_curado"] = 0,
+										["m_crit"] = 0,
+										["c_min"] = 0,
+										["m_amt"] = 0,
+										["n_curado"] = 1843,
+										["n_amt"] = 4,
+										["totaldenied"] = 0,
+										["is_shield"] = true,
+										["absorbed"] = 0,
+									},
+									[269279] = {
+										["c_amt"] = 0,
+										["totalabsorb"] = 1799,
+										["targets_overheal"] = {
+										},
+										["n_max"] = 604,
+										["targets"] = {
+											["법따리"] = 1799,
+										},
+										["n_min"] = 591,
+										["counter"] = 3,
+										["overheal"] = 0,
+										["total"] = 1799,
+										["c_max"] = 0,
+										["id"] = 269279,
+										["targets_absorbs"] = {
+											["법따리"] = 1799,
+										},
+										["m_healed"] = 0,
+										["c_curado"] = 0,
+										["m_crit"] = 0,
+										["c_min"] = 0,
+										["m_amt"] = 0,
+										["n_curado"] = 1799,
+										["n_amt"] = 3,
+										["totaldenied"] = 0,
+										["is_shield"] = true,
+										["absorbed"] = 0,
+									},
+									[143924] = {
+										["c_amt"] = 0,
+										["totalabsorb"] = 0,
+										["targets_overheal"] = {
+											["법따리"] = 3,
+										},
+										["n_max"] = 25,
+										["targets"] = {
+											["법따리"] = 219,
+										},
+										["n_min"] = 1,
+										["counter"] = 19,
+										["overheal"] = 3,
+										["total"] = 219,
+										["c_max"] = 0,
+										["id"] = 143924,
+										["targets_absorbs"] = {
+										},
+										["c_curado"] = 0,
+										["m_crit"] = 0,
+										["c_min"] = 0,
+										["m_amt"] = 0,
+										["n_curado"] = 219,
+										["n_amt"] = 19,
+										["totaldenied"] = 0,
+										["m_healed"] = 0,
+										["absorbed"] = 0,
+									},
+								},
+							},
+							["grupo"] = true,
+							["start_time"] = 1605428276,
+							["spec"] = 62,
+							["custom"] = 0,
+							["tipo"] = 2,
+							["classe"] = "MAGE",
+							["totaldenied"] = 0.008073,
+							["delay"] = 0,
+							["last_event"] = 1605428306,
+						}, -- [6]
+						{
+							["flag_original"] = 68168,
+							["healing_from"] = {
+							},
+							["pets"] = {
+							},
+							["iniciar_hps"] = false,
+							["heal_enemy_amt"] = 3236,
+							["totalover"] = 0.006722,
+							["total_without_pet"] = 0.006722,
+							["monster"] = true,
+							["total"] = 0.006722,
+							["targets_absorbs"] = {
+							},
+							["heal_enemy"] = {
+								[256060] = 3236,
+							},
+							["on_hold"] = false,
+							["serial"] = "Creature-0-3058-1754-18048-126832-000030E40F",
+							["totalabsorb"] = 0.006722,
+							["last_hps"] = 0,
+							["targets"] = {
+							},
+							["totalover_without_pet"] = 0.006722,
+							["healing_taken"] = 0.006722,
+							["end_time"] = 1605428308,
+							["boss_fight_component"] = true,
+							["nome"] = "하늘선장 크라그",
+							["spells"] = {
+								["tipo"] = 3,
+								["_ActorTable"] = {
+								},
+							},
+							["targets_overheal"] = {
+							},
+							["aID"] = "126832",
+							["start_time"] = 1605428308,
+							["custom"] = 0,
+							["last_event"] = 1605428307,
+							["classe"] = "UNKNOW",
+							["totaldenied"] = 0.006722,
+							["delay"] = 0,
+							["tipo"] = 2,
+						}, -- [7]
+					},
+				}, -- [2]
+				{
+					["combatId"] = 487,
+					["tipo"] = 7,
+					["_ActorTable"] = {
+						{
+							["received"] = 0.003989,
+							["resource"] = 25.003989,
+							["targets"] = {
+							},
+							["pets"] = {
+							},
+							["powertype"] = 0,
+							["aID"] = "214-093AAE58",
+							["passiveover"] = 0.003989,
+							["boss_fight_component"] = true,
+							["total"] = 0.003989,
+							["resource_type"] = 9,
+							["tipo"] = 3,
+							["nome"] = "군신잔트라-데스윙",
+							["spells"] = {
+								["tipo"] = 7,
+								["_ActorTable"] = {
+								},
+							},
+							["grupo"] = true,
+							["spec"] = 66,
+							["flag_original"] = 1298,
+							["alternatepower"] = 0.003989,
+							["last_event"] = 1605428342,
+							["classe"] = "PALADIN",
+							["isTank"] = true,
+							["serial"] = "Player-214-093AAE58",
+							["totalover"] = 0.003989,
+						}, -- [1]
+						{
+							["received"] = 0.003983,
+							["resource"] = 2.003983,
+							["targets"] = {
+							},
+							["pets"] = {
+							},
+							["powertype"] = 0,
+							["aID"] = "205-0713A4FD",
+							["passiveover"] = 0.003983,
+							["total"] = 0.003983,
+							["boss_fight_component"] = true,
+							["resource_type"] = 16,
+							["nome"] = "법따리",
+							["spells"] = {
+								["tipo"] = 7,
+								["_ActorTable"] = {
+								},
+							},
+							["grupo"] = true,
+							["spec"] = 62,
+							["flag_original"] = 1297,
+							["alternatepower"] = 0.003983,
+							["last_event"] = 1605428306,
+							["classe"] = "MAGE",
+							["tipo"] = 3,
+							["serial"] = "Player-205-0713A4FD",
+							["totalover"] = 0.003983,
+						}, -- [2]
+						{
+							["received"] = 139.004111,
+							["resource"] = 0.004111,
+							["targets"] = {
+								["덩치큰토템-데스윙"] = 139,
+							},
+							["pets"] = {
+							},
+							["powertype"] = 0,
+							["aID"] = "214-09483ED4",
+							["passiveover"] = 0.004111,
+							["total"] = 139.004111,
+							["boss_fight_component"] = true,
+							["nome"] = "덩치큰토템-데스윙",
+							["spells"] = {
+								["tipo"] = 7,
+								["_ActorTable"] = {
+									[101033] = {
+										["total"] = 139,
+										["id"] = 101033,
+										["totalover"] = 0,
+										["targets"] = {
+											["덩치큰토템-데스윙"] = 139,
+										},
+										["counter"] = 4,
+									},
+								},
+							},
+							["grupo"] = true,
+							["spec"] = 264,
+							["flag_original"] = 1298,
+							["alternatepower"] = 0.004111,
+							["last_event"] = 1605428276,
+							["classe"] = "SHAMAN",
+							["tipo"] = 3,
+							["serial"] = "Player-214-09483ED4",
+							["totalover"] = 0.004111,
+						}, -- [3]
+						{
+							["received"] = 50.001155,
+							["resource"] = 0.001155,
+							["targets"] = {
+								["해피뼈전사"] = 50,
+							},
+							["pets"] = {
+							},
+							["powertype"] = 1,
+							["aID"] = "205-06251940",
+							["passiveover"] = 0.001155,
+							["total"] = 50.001155,
+							["boss_fight_component"] = true,
+							["nome"] = "해피뼈전사",
+							["spells"] = {
+								["tipo"] = 7,
+								["_ActorTable"] = {
+									[100] = {
+										["total"] = 40,
+										["id"] = 100,
+										["totalover"] = 0,
+										["targets"] = {
+											["해피뼈전사"] = 40,
+										},
+										["counter"] = 2,
+									},
+									[262232] = {
+										["total"] = 10,
+										["id"] = 262232,
+										["totalover"] = 0,
+										["targets"] = {
+											["해피뼈전사"] = 10,
+										},
+										["counter"] = 1,
+									},
+								},
+							},
+							["grupo"] = true,
+							["spec"] = 71,
+							["flag_original"] = 1298,
+							["alternatepower"] = 0.001155,
+							["last_event"] = 1605428308,
+							["classe"] = "WARRIOR",
+							["tipo"] = 3,
+							["serial"] = "Player-205-06251940",
+							["totalover"] = 0.001155,
+						}, -- [4]
+					},
+				}, -- [3]
+				{
+					["combatId"] = 487,
+					["tipo"] = 9,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1047,
+							["debuff_uptime_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[188389] = {
+										["activedamt"] = 0,
+										["id"] = 188389,
+										["targets"] = {
+										},
+										["uptime"] = 18,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+								},
+							},
+							["cooldowns_defensive"] = 1.002902,
+							["buff_uptime"] = 220,
+							["classe"] = "SHAMAN",
+							["cooldowns_defensive_targets"] = {
+								["[*] 공격대 단위 생존기"] = 1,
+							},
+							["buff_uptime_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[53390] = {
+										["activedamt"] = 2,
+										["id"] = 53390,
+										["targets"] = {
+										},
+										["uptime"] = 11,
+										["appliedamt"] = 2,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[326396] = {
+										["activedamt"] = 1,
+										["id"] = 326396,
+										["targets"] = {
+										},
+										["uptime"] = 64,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[320763] = {
+										["activedamt"] = 1,
+										["id"] = 320763,
+										["targets"] = {
+										},
+										["uptime"] = 8,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[280615] = {
+										["activedamt"] = 2,
+										["id"] = 280615,
+										["targets"] = {
+										},
+										["uptime"] = 6,
+										["appliedamt"] = 2,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[72221] = {
+										["activedamt"] = 1,
+										["id"] = 72221,
+										["targets"] = {
+										},
+										["uptime"] = 64,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[77762] = {
+										["activedamt"] = 2,
+										["id"] = 77762,
+										["targets"] = {
+										},
+										["uptime"] = 3,
+										["appliedamt"] = 2,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[93825] = {
+										["activedamt"] = 1,
+										["id"] = 93825,
+										["targets"] = {
+										},
+										["uptime"] = 64,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+								},
+							},
+							["debuff_uptime"] = 18,
+							["boss_fight_component"] = true,
+							["cooldowns_defensive_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[16191] = {
+										["id"] = 16191,
+										["targets"] = {
+											["[*] 공격대 단위 생존기"] = 1,
+										},
+										["counter"] = 1,
+									},
+								},
+							},
+							["nome"] = "덩치큰토템-데스윙",
+							["spec"] = 264,
+							["grupo"] = true,
+							["spell_cast"] = {
+								[51505] = 2,
+								[61295] = 1,
+								[188389] = 1,
+								[8004] = 13,
+								[1064] = 1,
+								[16191] = 1,
+								[974] = 2,
+							},
+							["debuff_uptime_targets"] = {
+							},
+							["buff_uptime_targets"] = {
+							},
+							["last_event"] = 1605428308,
+							["pets"] = {
+								"마나 해일 토템 <덩치큰토템-데스윙>", -- [1]
+							},
+							["aID"] = "214-09483ED4",
+							["serial"] = "Player-214-09483ED4",
+							["tipo"] = 4,
+						}, -- [1]
+						{
+							["flag_original"] = 1047,
+							["debuff_uptime_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[62124] = {
+										["activedamt"] = 0,
+										["id"] = 62124,
+										["targets"] = {
+										},
+										["uptime"] = 15,
+										["appliedamt"] = 5,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[197277] = {
+										["activedamt"] = 0,
+										["id"] = 197277,
+										["targets"] = {
+										},
+										["uptime"] = 37,
+										["appliedamt"] = 7,
+										["refreshamt"] = 6,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+								},
+							},
+							["cooldowns_defensive"] = 1.005896,
+							["buff_uptime"] = 451,
+							["last_cooldown"] = {
+								1605428295.28, -- [1]
+								31850, -- [2]
+							},
+							["classe"] = "PALADIN",
+							["cooldowns_defensive_targets"] = {
+								["군신잔트라-데스윙"] = 1,
+							},
+							["buff_uptime_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[132403] = {
+										["activedamt"] = 7,
+										["id"] = 132403,
+										["targets"] = {
+										},
+										["uptime"] = 40,
+										["appliedamt"] = 7,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[188370] = {
+										["activedamt"] = 11,
+										["id"] = 188370,
+										["targets"] = {
+										},
+										["uptime"] = 57,
+										["appliedamt"] = 11,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[223819] = {
+										["activedamt"] = 1,
+										["id"] = 223819,
+										["targets"] = {
+										},
+										["uptime"] = 2,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[31884] = {
+										["activedamt"] = 1,
+										["id"] = 31884,
+										["targets"] = {
+										},
+										["uptime"] = 20,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[93830] = {
+										["activedamt"] = 1,
+										["id"] = 93830,
+										["targets"] = {
+										},
+										["uptime"] = 64,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[465] = {
+										["activedamt"] = 1,
+										["id"] = 465,
+										["targets"] = {
+										},
+										["uptime"] = 64,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[292463] = {
+										["activedamt"] = 1,
+										["id"] = 292463,
+										["targets"] = {
+										},
+										["uptime"] = 4,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[31850] = {
+										["activedamt"] = 1,
+										["id"] = 31850,
+										["targets"] = {
+										},
+										["uptime"] = 8,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[292361] = {
+										["activedamt"] = 1,
+										["id"] = 292361,
+										["targets"] = {
+										},
+										["uptime"] = 64,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[72221] = {
+										["activedamt"] = 1,
+										["id"] = 72221,
+										["targets"] = {
+										},
+										["uptime"] = 64,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[326396] = {
+										["activedamt"] = 1,
+										["id"] = 326396,
+										["targets"] = {
+										},
+										["uptime"] = 64,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+								},
+							},
+							["boss_fight_component"] = true,
+							["debuff_uptime"] = 52,
+							["cooldowns_defensive_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[31850] = {
+										["id"] = 31850,
+										["targets"] = {
+											["군신잔트라-데스윙"] = 1,
+										},
+										["counter"] = 1,
+									},
+								},
+							},
+							["debuff_uptime_targets"] = {
+							},
+							["nome"] = "군신잔트라-데스윙",
+							["spec"] = 66,
+							["grupo"] = true,
+							["spell_cast"] = {
+								[31935] = 4,
+								[53595] = 9,
+								[26573] = 11,
+								[62124] = 5,
+								[275779] = 13,
+								[31884] = 1,
+								[853] = 2,
+								[53600] = 9,
+								[31850] = 1,
+							},
+							["buff_uptime_targets"] = {
+							},
+							["pets"] = {
+							},
+							["last_event"] = 1605428308,
+							["aID"] = "214-093AAE58",
+							["isTank"] = true,
+							["serial"] = "Player-214-093AAE58",
+							["tipo"] = 4,
+						}, -- [2]
+						{
+							["flag_original"] = 1047,
+							["debuff_uptime_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[157736] = {
+										["activedamt"] = 0,
+										["id"] = 157736,
+										["targets"] = {
+										},
+										["uptime"] = 26,
+										["appliedamt"] = 2,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+								},
+							},
+							["buff_uptime"] = 273,
+							["classe"] = "WARLOCK",
+							["buff_uptime_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[72968] = {
+										["activedamt"] = 1,
+										["id"] = 72968,
+										["targets"] = {
+										},
+										["uptime"] = 64,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[326396] = {
+										["activedamt"] = 1,
+										["id"] = 326396,
+										["targets"] = {
+										},
+										["uptime"] = 64,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[72221] = {
+										["activedamt"] = 1,
+										["id"] = 72221,
+										["targets"] = {
+										},
+										["uptime"] = 64,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[108366] = {
+										["activedamt"] = 1,
+										["id"] = 108366,
+										["targets"] = {
+										},
+										["uptime"] = 64,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[117828] = {
+										["activedamt"] = 6,
+										["id"] = 117828,
+										["targets"] = {
+										},
+										["uptime"] = 17,
+										["appliedamt"] = 6,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+								},
+							},
+							["debuff_uptime"] = 26,
+							["boss_fight_component"] = true,
+							["nome"] = "판타지곤-데스윙",
+							["spec"] = 267,
+							["grupo"] = true,
+							["spell_cast"] = {
+								[116858] = 4,
+								[6353] = 2,
+								[17962] = 6,
+								[29722] = 20,
+							},
+							["debuff_uptime_targets"] = {
+							},
+							["buff_uptime_targets"] = {
+							},
+							["last_event"] = 1605428308,
+							["pets"] = {
+								"제프구프 <판타지곤-데스윙>", -- [1]
+							},
+							["aID"] = "214-07FC4C5D",
+							["serial"] = "Player-214-07FC4C5D",
+							["tipo"] = 4,
+						}, -- [3]
+						{
+							["flag_original"] = 1047,
+							["debuff_uptime_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[115804] = {
+										["activedamt"] = 0,
+										["id"] = 115804,
+										["targets"] = {
+										},
+										["uptime"] = 48,
+										["appliedamt"] = 2,
+										["refreshamt"] = 4,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[262115] = {
+										["activedamt"] = 0,
+										["id"] = 262115,
+										["targets"] = {
+										},
+										["uptime"] = 58,
+										["appliedamt"] = 1,
+										["refreshamt"] = 6,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[208086] = {
+										["activedamt"] = 0,
+										["id"] = 208086,
+										["targets"] = {
+										},
+										["uptime"] = 10,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+								},
+							},
+							["buff_uptime"] = 288,
+							["classe"] = "WARRIOR",
+							["buff_uptime_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[93825] = {
+										["activedamt"] = 1,
+										["id"] = 93825,
+										["targets"] = {
+										},
+										["uptime"] = 64,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[262232] = {
+										["activedamt"] = 1,
+										["id"] = 262232,
+										["targets"] = {
+										},
+										["uptime"] = 1,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[7384] = {
+										["activedamt"] = 6,
+										["id"] = 7384,
+										["targets"] = {
+										},
+										["uptime"] = 35,
+										["appliedamt"] = 6,
+										["refreshamt"] = 3,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[260708] = {
+										["activedamt"] = 1,
+										["id"] = 260708,
+										["targets"] = {
+										},
+										["uptime"] = 12,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[199854] = {
+										["activedamt"] = 8,
+										["id"] = 199854,
+										["targets"] = {
+										},
+										["actived_at"] = 1605428307,
+										["uptime"] = 14,
+										["appliedamt"] = 8,
+										["refreshamt"] = 1,
+										["actived"] = true,
+										["counter"] = 0,
+									},
+									[72221] = {
+										["activedamt"] = 1,
+										["id"] = 72221,
+										["targets"] = {
+										},
+										["uptime"] = 64,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[201405] = {
+										["activedamt"] = 2,
+										["id"] = 201405,
+										["targets"] = {
+										},
+										["uptime"] = 34,
+										["appliedamt"] = 2,
+										["refreshamt"] = 1,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[326396] = {
+										["activedamt"] = 1,
+										["id"] = 326396,
+										["targets"] = {
+										},
+										["uptime"] = 64,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+								},
+							},
+							["debuff_uptime"] = 116,
+							["boss_fight_component"] = true,
+							["nome"] = "해피뼈전사",
+							["spec"] = 71,
+							["grupo"] = true,
+							["spell_cast"] = {
+								[12294] = 6,
+								[167105] = 1,
+								[7384] = 8,
+								[281000] = 6,
+								[100] = 2,
+								[260708] = 1,
+								[126664] = 2,
+								[1464] = 4,
+							},
+							["debuff_uptime_targets"] = {
+							},
+							["buff_uptime_targets"] = {
+							},
+							["last_event"] = 1605428308,
+							["pets"] = {
+							},
+							["aID"] = "205-06251940",
+							["serial"] = "Player-205-06251940",
+							["tipo"] = 4,
+						}, -- [4]
+						{
+							["flag_original"] = 1047,
+							["debuff_uptime_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[271465] = {
+										["activedamt"] = 0,
+										["id"] = 271465,
+										["targets"] = {
+										},
+										["uptime"] = 6,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+								},
+							},
+							["pets"] = {
+							},
+							["classe"] = "MAGE",
+							["interrupt_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[2139] = {
+										["id"] = 2139,
+										["interrompeu_oque"] = {
+											[256060] = 1,
+										},
+										["targets"] = {
+											["하늘선장 크라그"] = 1,
+										},
+										["counter"] = 1,
+									},
+								},
+							},
+							["buff_uptime_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[167152] = {
+										["activedamt"] = 1,
+										["id"] = 167152,
+										["targets"] = {
+										},
+										["actived_at"] = 1605428244,
+										["uptime"] = 0,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = true,
+										["counter"] = 0,
+									},
+									[269279] = {
+										["activedamt"] = 2,
+										["id"] = 269279,
+										["targets"] = {
+										},
+										["uptime"] = 36,
+										["appliedamt"] = 2,
+										["refreshamt"] = 2,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[186403] = {
+										["activedamt"] = 1,
+										["id"] = 186403,
+										["targets"] = {
+										},
+										["uptime"] = 64,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[12042] = {
+										["activedamt"] = 1,
+										["id"] = 12042,
+										["targets"] = {
+										},
+										["uptime"] = 10,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[116014] = {
+										["activedamt"] = 2,
+										["id"] = 116014,
+										["targets"] = {
+										},
+										["uptime"] = 25,
+										["appliedamt"] = 2,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[235450] = {
+										["activedamt"] = 1,
+										["id"] = 235450,
+										["targets"] = {
+										},
+										["uptime"] = 12,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[270670] = {
+										["activedamt"] = 4,
+										["id"] = 270670,
+										["targets"] = {
+										},
+										["uptime"] = 6,
+										["appliedamt"] = 4,
+										["refreshamt"] = 14,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[264774] = {
+										["activedamt"] = 1,
+										["id"] = 264774,
+										["targets"] = {
+										},
+										["uptime"] = 1,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[212653] = {
+										["activedamt"] = 1,
+										["id"] = 212653,
+										["targets"] = {
+										},
+										["uptime"] = 1,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[263725] = {
+										["activedamt"] = 2,
+										["id"] = 263725,
+										["targets"] = {
+										},
+										["uptime"] = 39,
+										["appliedamt"] = 2,
+										["refreshamt"] = 2,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[205025] = {
+										["activedamt"] = 1,
+										["id"] = 205025,
+										["targets"] = {
+										},
+										["uptime"] = 2,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[72221] = {
+										["activedamt"] = 1,
+										["id"] = 72221,
+										["targets"] = {
+										},
+										["uptime"] = 64,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+								},
+							},
+							["interrompeu_oque"] = {
+								[256060] = 1,
+							},
+							["boss_fight_component"] = true,
+							["debuff_uptime"] = 6,
+							["debuff_uptime_targets"] = {
+							},
+							["interrupt_targets"] = {
+								["하늘선장 크라그"] = 1,
+							},
+							["nome"] = "법따리",
+							["spec"] = 62,
+							["grupo"] = true,
+							["spell_cast"] = {
+								[2139] = 1,
+								[153626] = 2,
+								[212653] = 1,
+								[116011] = 1,
+								[30451] = 21,
+								[12042] = 1,
+								[116014] = 2,
+								[235450] = 1,
+								[5143] = 4,
+								[44425] = 1,
+								[205025] = 1,
+								[271462] = 1,
+							},
+							["interrupt"] = 1.006455,
+							["buff_uptime_targets"] = {
+							},
+							["tipo"] = 4,
+							["buff_uptime"] = 260,
+							["aID"] = "205-0713A4FD",
+							["serial"] = "Player-205-0713A4FD",
+							["last_event"] = 1605428308,
+						}, -- [5]
+						{
+							["flag_original"] = 68168,
+							["tipo"] = 4,
+							["nome"] = "하늘선장 크라그",
+							["boss_fight_component"] = true,
+							["pets"] = {
+							},
+							["spell_cast"] = {
+								[256106] = 4,
+								[255952] = 2,
+								[263274] = 2,
+								[256060] = 2,
+								[255966] = 5,
+								[258773] = 2,
+							},
+							["monster"] = true,
+							["last_event"] = 0,
+							["classe"] = "UNKNOW",
+							["serial"] = "Creature-0-3058-1754-18048-126832-000030E40F",
+							["aID"] = "126832",
+						}, -- [6]
+						{
+							["flag_original"] = 4370,
+							["ownerName"] = "판타지곤-데스윙",
+							["nome"] = "제프구프 <판타지곤-데스윙>",
+							["aID"] = "Pet-0-3058-1754-18048-416-01019C2D49",
+							["pets"] = {
+							},
+							["boss_fight_component"] = true,
+							["spell_cast"] = {
+								[3110] = 18,
+							},
+							["tipo"] = 4,
+							["classe"] = "PET",
+							["serial"] = "Pet-0-3058-1754-18048-416-01019C2D49",
+							["last_event"] = 0,
+						}, -- [7]
+						{
+							["flag_original"] = 2632,
+							["aID"] = "",
+							["nome"] = "상어밥",
+							["boss_fight_component"] = true,
+							["pets"] = {
+							},
+							["spell_cast"] = {
+								[256005] = 6,
+							},
+							["monster"] = true,
+							["tipo"] = 4,
+							["classe"] = "UNKNOW",
+							["serial"] = "Vehicle-0-3058-1754-18048-126841-000030E424",
+							["last_event"] = 0,
+						}, -- [8]
+						{
+							["flag_original"] = 2632,
+							["debuff_uptime_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+								},
+							},
+							["pets"] = {
+							},
+							["aID"] = "",
+							["boss_debuff"] = true,
+							["monster"] = true,
+							["debuff_uptime"] = 21,
+							["spellschool"] = 8,
+							["nome"] = "썩은내 범벅",
+							["boss_fight_component"] = true,
+							["debuff_uptime_targets"] = {
+								["해피뼈전사"] = {
+									["uptime"] = 3,
+									["appliedamt"] = 0,
+									["activedamt"] = 0,
+									["actived"] = false,
+									["refreshamt"] = 0,
+								},
+								["법따리"] = {
+									["uptime"] = 12,
+									["appliedamt"] = 0,
+									["activedamt"] = 0,
+									["actived"] = false,
+									["refreshamt"] = 0,
+								},
+								["군신잔트라-데스윙"] = {
+									["uptime"] = 4,
+									["appliedamt"] = 0,
+									["activedamt"] = 0,
+									["actived"] = false,
+									["refreshamt"] = 0,
+								},
+								["덩치큰토템-데스윙"] = {
+									["uptime"] = 2,
+									["appliedamt"] = 0,
+									["activedamt"] = 0,
+									["actived"] = false,
+									["refreshamt"] = 0,
+								},
+							},
+							["damage_spellid"] = 256016,
+							["last_event"] = 1605428303,
+							["damage_twin"] = "[*] 썩은내 범벅",
+							["classe"] = "UNKNOW",
+							["serial"] = "",
+							["tipo"] = 4,
+						}, -- [9]
+						{
+							["flag_original"] = 8466,
+							["ownerName"] = "덩치큰토템-데스윙",
+							["nome"] = "마나 해일 토템 <덩치큰토템-데스윙>",
+							["tipo"] = 4,
+							["pets"] = {
+							},
+							["boss_fight_component"] = true,
+							["spell_cast"] = {
+								[320763] = 2,
+							},
+							["last_event"] = 0,
+							["classe"] = "PET",
+							["serial"] = "Creature-0-3058-1754-18048-10467-000030E435",
+							["aID"] = "10467",
+						}, -- [10]
+					},
+				}, -- [4]
+				{
+					["combatId"] = 487,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+					},
+				}, -- [5]
+				["raid_roster"] = {
+					["해피뼈전사"] = true,
+					["군신잔트라-데스윙"] = true,
+					["덩치큰토템-데스윙"] = true,
+					["판타지곤-데스윙"] = true,
+					["법따리"] = true,
+				},
+				["CombatStartedAt"] = 34571.885,
+				["overall_added"] = true,
+				["last_events_tables"] = {
+				},
+				["alternate_power"] = {
+				},
+				["combat_counter"] = 548,
+				["totals"] = {
+					173586, -- [1]
+					32565, -- [2]
+					{
+						50, -- [1]
+						[0] = 139,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 2,
+						["interrupt"] = 1,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+					["frags_total"] = 0,
+					["voidzone_damage"] = 0,
+				},
+				["totals_grupo"] = {
+					127228, -- [1]
+					32565, -- [2]
+					{
+						50, -- [1]
+						[0] = 139,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 2,
+						["interrupt"] = 1,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+				},
+				["frags_need_refresh"] = false,
+				["instance_type"] = "party",
+				["data_fim"] = "17:18:28",
+				["cleu_timeline"] = {
+				},
+				["enemy"] = "하늘선장 크라그",
+				["TotalElapsedCombatTime"] = 62.31599999999889,
+				["CombatEndedAt"] = 34634.201,
+				["aura_timeline"] = {
+					["Player-214-093AAE58"] = {
+						[62124] = {
+							["enabled"] = false,
+							["appliedAt"] = 34625.151,
+							["spellId"] = 62124,
+							["data"] = {
+								{
+									34572.852, -- [1]
+									34575.852, -- [2]
+								}, -- [1]
+								{
+									34581.285, -- [1]
+									34584.285, -- [2]
+								}, -- [2]
+								{
+									34597.518, -- [1]
+									34600.551, -- [2]
+								}, -- [3]
+								{
+									34606.784, -- [1]
+									34609.801, -- [2]
+								}, -- [4]
+								{
+									34625.151, -- [1]
+									34628.167, -- [2]
+								}, -- [5]
+							},
+							["amountUp"] = 0,
+						},
+						[197277] = {
+							["enabled"] = false,
+							["appliedAt"] = 34629.201,
+							["spellId"] = 197277,
+							["data"] = {
+								{
+									34573.918, -- [1]
+									34577.035, -- [2]
+								}, -- [1]
+								{
+									34581.685, -- [1]
+									34596.534, -- [2]
+								}, -- [2]
+								{
+									34599.351, -- [1]
+									34600.334, -- [2]
+								}, -- [3]
+								{
+									34603.518, -- [1]
+									34605.918, -- [2]
+								}, -- [4]
+								{
+									34610.418, -- [1]
+									34618.734, -- [2]
+								}, -- [5]
+								{
+									34621.351, -- [1]
+									34624.151, -- [2]
+								}, -- [6]
+								{
+									34629.201, -- [1]
+									34633.017, -- [2]
+								}, -- [7]
+							},
+							["amountUp"] = 0,
+						},
+						[292463] = {
+							["enabled"] = false,
+							["appliedAt"] = 34629.217,
+							["spellId"] = 292463,
+							["data"] = {
+								{
+									34629.217, -- [1]
+									34633.051, -- [2]
+								}, -- [1]
+							},
+							["amountUp"] = 0,
+						},
+						[132403] = {
+							["enabled"] = false,
+							["appliedAt"] = 34624.151,
+							["spellId"] = 132403,
+							["data"] = {
+								{
+									34572.018, -- [1]
+									34576.518, -- [2]
+								}, -- [1]
+								{
+									34577.018, -- [1]
+									34581.518, -- [2]
+								}, -- [2]
+								{
+									34586.818, -- [1]
+									34595.818, -- [2]
+								}, -- [3]
+								{
+									34596.518, -- [1]
+									34605.518, -- [2]
+								}, -- [4]
+								{
+									34605.901, -- [1]
+									34610.418, -- [2]
+								}, -- [5]
+								{
+									34618.717, -- [1]
+									34623.234, -- [2]
+								}, -- [6]
+								{
+									34624.151, -- [1]
+									34628.651, -- [2]
+								}, -- [7]
+							},
+							["amountUp"] = 0,
+						},
+						[31850] = {
+							["enabled"] = false,
+							["appliedAt"] = 34620.851,
+							["spellId"] = 31850,
+							["data"] = {
+								{
+									34620.851, -- [1]
+									34628.867, -- [2]
+								}, -- [1]
+							},
+							["amountUp"] = 0,
+						},
+						[188370] = {
+							["enabled"] = false,
+							["appliedAt"] = 34625.717,
+							["spellId"] = 188370,
+							["data"] = {
+								{
+									34570.368, -- [1]
+									34575.168, -- [2]
+								}, -- [1]
+								{
+									34575.218, -- [1]
+									34579.885, -- [2]
+								}, -- [2]
+								{
+									34579.968, -- [1]
+									34584.368, -- [2]
+								}, -- [3]
+								{
+									34584.401, -- [1]
+									34588.385, -- [2]
+								}, -- [4]
+								{
+									34593.468, -- [1]
+									34597.901, -- [2]
+								}, -- [5]
+								{
+									34597.918, -- [1]
+									34602.068, -- [2]
+								}, -- [6]
+								{
+									34602.151, -- [1]
+									34607.834, -- [2]
+								}, -- [7]
+								{
+									34607.918, -- [1]
+									34615.851, -- [2]
+								}, -- [8]
+								{
+									34615.934, -- [1]
+									34619.917, -- [2]
+								}, -- [9]
+								{
+									34619.934, -- [1]
+									34625.667, -- [2]
+								}, -- [10]
+								{
+									34625.717, -- [1]
+									34633.051, -- [2]
+								}, -- [11]
+							},
+							["amountUp"] = 0,
+						},
+						[31884] = {
+							["enabled"] = false,
+							["appliedAt"] = 34579.268,
+							["spellId"] = 31884,
+							["data"] = {
+								{
+									34579.268, -- [1]
+									34599.268, -- [2]
+								}, -- [1]
+							},
+							["amountUp"] = 0,
+						},
+						[223819] = {
+							["enabled"] = false,
+							["appliedAt"] = 34586.835,
+							["spellId"] = 223819,
+							["data"] = {
+								{
+									34586.835, -- [1]
+									34588.885, -- [2]
+								}, -- [1]
+							},
+							["amountUp"] = 0,
+						},
+					},
+					["Player-205-06251940"] = {
+						[115804] = {
+							["enabled"] = false,
+							["appliedAt"] = 34614.084,
+							["spellId"] = 115804,
+							["data"] = {
+								{
+									34575.419, -- [1]
+									34613.934, -- [2]
+								}, -- [1]
+								{
+									34614.084, -- [1]
+									34624.101, -- [2]
+								}, -- [2]
+							},
+							["amountUp"] = 0,
+						},
+						[199854] = {
+							["enabled"] = false,
+							["appliedAt"] = 34632.717,
+							["spellId"] = 199854,
+							["data"] = {
+								{
+									34575.419, -- [1]
+									34577.435, -- [2]
+								}, -- [1]
+								{
+									34590.918, -- [1]
+									34592.468, -- [2]
+								}, -- [2]
+								{
+									34597.101, -- [1]
+									34598.601, -- [2]
+								}, -- [3]
+								{
+									34600.834, -- [1]
+									34602.318, -- [2]
+								}, -- [4]
+								{
+									34614.084, -- [1]
+									34615.484, -- [2]
+								}, -- [5]
+								{
+									34619.284, -- [1]
+									34623.034, -- [2]
+								}, -- [6]
+								{
+									34629.901, -- [1]
+									34631.317, -- [2]
+								}, -- [7]
+								{
+									34632.717, -- [1]
+									34633.051, -- [2]
+								}, -- [8]
+							},
+							["amountUp"] = 0,
+						},
+						[208086] = {
+							["enabled"] = false,
+							["appliedAt"] = 34622.851,
+							["spellId"] = 208086,
+							["data"] = {
+								{
+									34622.851, -- [1]
+									34632.867, -- [2]
+								}, -- [1]
+							},
+							["amountUp"] = 0,
+						},
+						[260708] = {
+							["enabled"] = false,
+							["appliedAt"] = 34584.751,
+							["spellId"] = 260708,
+							["data"] = {
+								{
+									34584.751, -- [1]
+									34596.751, -- [2]
+								}, -- [1]
+							},
+							["amountUp"] = 0,
+						},
+						[262115] = {
+							["enabled"] = false,
+							["appliedAt"] = 34575.468,
+							["spellId"] = 262115,
+							["data"] = {
+								{
+									34575.468, -- [1]
+									34633.017, -- [2]
+								}, -- [1]
+							},
+							["amountUp"] = 0,
+						},
+						[201405] = {
+							["enabled"] = false,
+							["appliedAt"] = 34613.801,
+							["spellId"] = 201405,
+							["data"] = {
+								{
+									34587.485, -- [1]
+									34602.501, -- [2]
+								}, -- [1]
+								{
+									34613.801, -- [1]
+									34632.917, -- [2]
+								}, -- [2]
+							},
+							["amountUp"] = 0,
+						},
+						[7384] = {
+							["enabled"] = false,
+							["appliedAt"] = 34615.484,
+							["spellId"] = 7384,
+							["data"] = {
+								{
+									34574.035, -- [1]
+									34575.435, -- [2]
+								}, -- [1]
+								{
+									34580.801, -- [1]
+									34582.268, -- [2]
+								}, -- [2]
+								{
+									34592.468, -- [1]
+									34597.118, -- [2]
+								}, -- [3]
+								{
+									34598.601, -- [1]
+									34603.934, -- [2]
+								}, -- [4]
+								{
+									34615.484, -- [1]
+									34633.051, -- [2]
+								}, -- [5]
+							},
+							["amountUp"] = 0,
+						},
+					},
+					["Player-214-07FC4C5D"] = {
+						[117828] = {
+							["enabled"] = false,
+							["appliedAt"] = 34625.651,
+							["spellId"] = 117828,
+							["data"] = {
+								{
+									34575.868, -- [1]
+									34579.318, -- [2]
+								}, -- [1]
+								{
+									34582.935, -- [1]
+									34585.568, -- [2]
+								}, -- [2]
+								{
+									34590.985, -- [1]
+									34593.618, -- [2]
+								}, -- [3]
+								{
+									34602.652, -- [1]
+									34605.901, -- [2]
+								}, -- [4]
+								{
+									34613.101, -- [1]
+									34615.718, -- [2]
+								}, -- [5]
+								{
+									34625.651, -- [1]
+									34628.267, -- [2]
+								}, -- [6]
+							},
+							["amountUp"] = 0,
+						},
+						[157736] = {
+							["enabled"] = false,
+							["appliedAt"] = 34625.667,
+							["spellId"] = 157736,
+							["data"] = {
+								{
+									34575.868, -- [1]
+									34593.868, -- [2]
+								}, -- [1]
+								{
+									34625.667, -- [1]
+									34633.017, -- [2]
+								}, -- [2]
+							},
+							["amountUp"] = 0,
+						},
+					},
+					["Player-214-09483ED4"] = {
+						[53390] = {
+							["enabled"] = false,
+							["appliedAt"] = 34598.368,
+							["spellId"] = 53390,
+							["data"] = {
+								{
+									34582.501, -- [1]
+									34590.936, -- [2]
+								}, -- [1]
+								{
+									34598.368, -- [1]
+									34601.134, -- [2]
+								}, -- [2]
+							},
+							["amountUp"] = 0,
+						},
+						[61295] = {
+							["enabled"] = false,
+							["appliedAt"] = 34598.368,
+							["spellId"] = 61295,
+							["data"] = {
+								{
+									34598.368, -- [1]
+									34616.384, -- [2]
+								}, -- [1]
+							},
+							["amountUp"] = 0,
+						},
+						[188389] = {
+							["enabled"] = false,
+							["appliedAt"] = 34569.968,
+							["spellId"] = 188389,
+							["data"] = {
+								{
+									34569.968, -- [1]
+									34587.968, -- [2]
+								}, -- [1]
+							},
+							["amountUp"] = 0,
+						},
+						[280615] = {
+							["enabled"] = false,
+							["appliedAt"] = 34601.134,
+							["spellId"] = 280615,
+							["data"] = {
+								{
+									34590.936, -- [1]
+									34595.151, -- [2]
+								}, -- [1]
+								{
+									34601.134, -- [1]
+									34602.251, -- [2]
+								}, -- [2]
+							},
+							["amountUp"] = 0,
+						},
+						[77762] = {
+							["enabled"] = false,
+							["appliedAt"] = 34586.535,
+							["spellId"] = 77762,
+							["data"] = {
+								{
+									34577.335, -- [1]
+									34578.518, -- [2]
+								}, -- [1]
+								{
+									34586.535, -- [1]
+									34588.001, -- [2]
+								}, -- [2]
+							},
+							["amountUp"] = 0,
+						},
+					},
+				},
+				["__call"] = {
+				},
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+							["해피뼈전사"] = 1603.001223,
+							["군신잔트라-데스윙"] = 370.007182,
+							["덩치큰토템-데스윙"] = 25426.007696,
+							["판타지곤-데스윙"] = 1305.005506,
+							["법따리"] = 3861.008073,
+						}, -- [1]
+					},
+					["damage_section"] = {
+					},
+					["damage"] = {
+						{
+							["해피뼈전사"] = 38545.005684,
+							["군신잔트라-데스윙"] = 19783.003695,
+							["덩치큰토템-데스윙"] = 2790.004703,
+							["판타지곤-데스윙"] = 35824.003375,
+							["법따리"] = 35625.004485,
+						}, -- [1]
+					},
+				},
+				["end_time"] = 34633.051,
+				["combat_id"] = 487,
+				["cleu_events"] = {
+					["n"] = 1,
+				},
+				["tempo_start"] = 1605428244,
+				["player_last_events"] = {
+				},
+				["spells_cast_timeline"] = {
+					["Player-214-093AAE58"] = {
+					},
+					["Player-205-06251940"] = {
+					},
+					["Player-214-07FC4C5D"] = {
+					},
+					["Player-214-09483ED4"] = {
+					},
+				},
+				["is_boss"] = {
+					["diff_string"] = "일반",
+					["index"] = 1,
+					["zone"] = "자유지대",
+					["encounter"] = "하늘선장 크라그",
+					["mapid"] = 1754,
+					["try_number"] = 1,
+					["name"] = "하늘선장 크라그",
+					["diff"] = 1,
+					["id"] = 2093,
+					["ej_instance_id"] = 1001,
+					["killed"] = true,
+				},
+				["data_inicio"] = "17:17:24",
+				["CombatSkillCache"] = {
+				},
+				["frags"] = {
+				},
+				["start_time"] = 34569.068,
+				["TimeData"] = {
+				},
+				["contra"] = "하늘선장 크라그",
+			}, -- [4]
+		},
+	},
+	["last_version"] = "v9.0.1.7950",
+	["character_data"] = {
+		["logons"] = 17,
+	},
+	["tabela_instancias"] = {
+	},
+	["coach"] = {
+		["enabled"] = false,
+	},
+	["local_instances_config"] = {
+		{
+			["modo"] = 2,
+			["sub_attribute"] = 1,
+			["horizontalSnap"] = false,
+			["verticalSnap"] = false,
+			["isLocked"] = true,
+			["is_open"] = true,
+			["sub_atributo_last"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+				1, -- [5]
+			},
+			["snap"] = {
+			},
+			["segment"] = 0,
+			["mode"] = 2,
+			["attribute"] = 1,
+			["pos"] = {
+				["normal"] = {
+					["y"] = -400.5000305175781,
+					["x"] = 859,
+					["w"] = 202.0002136230469,
+					["h"] = 278.9998168945313,
+				},
+				["solo"] = {
+					["y"] = 2,
+					["x"] = 1,
+					["w"] = 300,
+					["h"] = 200,
+				},
+			},
+		}, -- [1]
+		{
+			["modo"] = 2,
+			["sub_attribute"] = 1,
+			["horizontalSnap"] = false,
+			["verticalSnap"] = false,
+			["isLocked"] = true,
+			["is_open"] = false,
+			["sub_atributo_last"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+				1, -- [5]
+			},
+			["snap"] = {
+			},
+			["segment"] = 0,
+			["mode"] = 2,
+			["attribute"] = 1,
+			["pos"] = {
+				["normal"] = {
+					["y"] = -400.5000305175781,
+					["x"] = 656.499755859375,
+					["w"] = 203.0002136230469,
+					["h"] = 278.9998168945313,
+				},
+				["solo"] = {
+					["y"] = 2,
+					["x"] = 1,
+					["w"] = 300,
+					["h"] = 200,
+				},
+			},
+		}, -- [2]
+	},
+	["cached_talents"] = {
+		["Player-205-0713A4FD"] = {
+			22461, -- [1]
+			22443, -- [2]
+			22447, -- [3]
+			22453, -- [4]
+			22448, -- [5]
+			22449, -- [6]
+		},
+		["Player-214-09483ED4"] = {
+			19262, -- [1]
+			23461, -- [2]
+			19275, -- [3]
+			22323, -- [4]
+			22144, -- [5]
+			19265, -- [6]
+		},
+		["Player-205-06251940"] = {
+			22624, -- [1]
+			19676, -- [2]
+			22380, -- [3]
+			15757, -- [4]
+		},
+		["Player-214-07FC4C5D"] = {
+			22040, -- [1]
+			21695, -- [2]
+			19280, -- [3]
+			22480, -- [4]
+			22047, -- [5]
+		},
+		["Player-214-093AAE58"] = {
+			22428, -- [1]
+			22604, -- [2]
+			22179, -- [3]
+			22433, -- [4]
+			17597, -- [5]
+		},
+	},
+	["last_instance_id"] = 1754,
+	["announce_interrupts"] = {
+		["enabled"] = false,
+		["whisper"] = "",
+		["channel"] = "SAY",
+		["custom"] = "",
+		["next"] = "",
+	},
+	["last_instance_time"] = 1605427852,
+	["active_profile"] = "윈드라이드-아즈샤라",
+	["last_realversion"] = 144,
+	["ignore_nicktag"] = false,
+	["plugin_database"] = {
+		["DETAILS_PLUGIN_DAMAGE_RANK"] = {
+			["lasttry"] = {
+			},
+			["annouce"] = true,
+			["dpshistory"] = {
+			},
+			["dps"] = 0,
+			["author"] = "Details! Team",
+			["level"] = 1,
+			["enabled"] = true,
+		},
+		["DETAILS_PLUGIN_DEATH_GRAPHICS"] = {
+			["last_boss"] = false,
+			["v1"] = true,
+			["captures"] = {
+				false, -- [1]
+				true, -- [2]
+				true, -- [3]
+				true, -- [4]
+			},
+			["first_run"] = true,
+			["endurance_threshold"] = 3,
+			["max_deaths_for_timeline"] = 5,
+			["deaths_threshold"] = 10,
+			["show_icon"] = 1,
+			["max_segments_for_current"] = 2,
+			["max_deaths_for_current"] = 20,
+			["last_player"] = false,
+			["author"] = "Details! Team",
+			["last_encounter_hash"] = false,
+			["enabled"] = true,
+			["timeline_cutoff_time"] = 3,
+			["last_segment"] = false,
+			["last_combat_id"] = 504,
+			["timeline_cutoff_delete_time"] = 3,
+			["showing_type"] = 4,
+			["InstalledAt"] = 1605339073,
+		},
+		["DETAILS_PLUGIN_ENCOUNTER_DETAILS"] = {
+			["enabled"] = true,
+			["encounter_timers_bw"] = {
+			},
+			["max_emote_segments"] = 3,
+			["author"] = "Details! Team",
+			["window_scale"] = 1,
+			["hide_on_combat"] = false,
+			["show_icon"] = 5,
+			["opened"] = 0,
+			["encounter_timers_dbm"] = {
+			},
+		},
+		["DETAILS_PLUGIN_CAST_HISTORY"] = {
+			["enabled"] = true,
+			["author"] = "Terciob",
+			["merged_spells"] = {
+			},
+			["ignored_spells"] = {
+				[184367] = 201363,
+				[185313] = 185422,
+				[316531] = 3411,
+				[228597] = true,
+				[148187] = 116847,
+				[184709] = 201363,
+				[201453] = 191427,
+				[33076] = 41635,
+				[126664] = 100,
+				[324988] = true,
+				[52174] = 6544,
+				[7268] = 5143,
+				[146739] = 172,
+				[324183] = true,
+				[196711] = true,
+				[227847] = 50622,
+				[75] = true,
+				[317488] = 317485,
+				[199672] = 1943,
+				[227518] = true,
+				[190411] = 44949,
+				[85739] = 44949,
+				[222031] = 199547,
+				[201428] = true,
+				[147833] = 3411,
+				[199667] = 44949,
+			},
+		},
+		["DETAILS_PLUGIN_TIME_ATTACK"] = {
+			["enabled"] = true,
+			["realm_last_shown"] = 40,
+			["saved_as_anonymous"] = true,
+			["recently_as_anonymous"] = true,
+			["dps"] = 0,
+			["disable_sharing"] = false,
+			["history"] = {
+			},
+			["time"] = 40,
+			["history_lastindex"] = 0,
+			["realm_lastamt"] = 0,
+			["realm_history"] = {
+			},
+			["author"] = "Details! Team",
+		},
+		["DETAILS_PLUGIN_STREAM_OVERLAY"] = {
+			["font_color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
+			["is_first_run"] = false,
+			["arrow_color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				0.5, -- [4]
+			},
+			["main_frame_size"] = {
+				300, -- [1]
+				500.000030517578, -- [2]
+			},
+			["minimap"] = {
+				["minimapPos"] = 153.103676241888,
+				["radius"] = 160,
+				["hide"] = true,
+			},
+			["arrow_anchor_x"] = 0,
+			["row_texture"] = "Details Serenity",
+			["scale"] = 1,
+			["row_height"] = 20,
+			["point"] = "CENTER",
+			["enabled"] = false,
+			["arrow_size"] = 10,
+			["author"] = "Details! Team",
+			["row_spacement"] = 21,
+			["main_frame_color"] = {
+				0, -- [1]
+				0, -- [2]
+				0, -- [3]
+				0.2, -- [4]
+			},
+			["row_color"] = {
+				0.1, -- [1]
+				0.1, -- [2]
+				0.1, -- [3]
+				0.4, -- [4]
+			},
+			["arrow_texture"] = "Interface\\CHATFRAME\\ChatFrameExpandArrow",
+			["y"] = 4.57763671875e-05,
+			["per_second"] = {
+				["enabled"] = false,
+				["point"] = "CENTER",
+				["scale"] = 1,
+				["font_shadow"] = true,
+				["y"] = 3.0517578125e-05,
+				["x"] = 3.0517578125e-05,
+				["size"] = 32,
+				["update_speed"] = 0.05,
+				["attribute_type"] = 1,
+			},
+			["x"] = 0,
+			["font_face"] = "Friz Quadrata TT",
+			["use_spark"] = true,
+			["font_size"] = 10,
+			["main_frame_strata"] = "LOW",
+			["main_frame_locked"] = false,
+			["arrow_anchor_y"] = 0,
+		},
+		["DETAILS_PLUGIN_TINY_THREAT"] = {
+			["updatespeed"] = 1,
+			["animate"] = false,
+			["showamount"] = false,
+			["useplayercolor"] = false,
+			["useclasscolors"] = false,
+			["author"] = "Details! Team",
+			["playercolor"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+			},
+			["enabled"] = true,
+		},
+		["DETAILS_PLUGIN_TIME_LINE"] = {
+			["enabled"] = true,
+			["author"] = "Details! Team",
+		},
+		["DETAILS_PLUGIN_DPS_TUNING"] = {
+			["enabled"] = true,
+			["author"] = "Details! Team",
+			["SpellBarsShowType"] = 1,
+		},
+		["DETAILS_PLUGIN_VANGUARD"] = {
+			["enabled"] = true,
+			["tank_block_texture"] = "Details Serenity",
+			["tank_block_color"] = {
+				0.24705882, -- [1]
+				0.0039215, -- [2]
+				0, -- [3]
+				0.8, -- [4]
+			},
+			["show_inc_bars"] = false,
+			["author"] = "Details! Team",
+			["first_run"] = false,
+			["tank_block_size"] = 150,
+		},
+		["DETAILS_PLUGIN_RAID_POWER_BARS"] = {
+			["enabled"] = true,
+			["author"] = "Details! Team",
+		},
+		["DETAILS_PLUGIN_CHART_VIEWER"] = {
+			["enabled"] = true,
+			["author"] = "Details! Team",
+			["tabs"] = {
+				{
+					["name"] = "Your Damage",
+					["segment_type"] = 2,
+					["version"] = "v2.0",
+					["data"] = "Player Damage Done",
+					["texture"] = "line",
+				}, -- [1]
+				{
+					["name"] = "Class Damage",
+					["iType"] = "raid-DAMAGER",
+					["segment_type"] = 1,
+					["version"] = "v2.0",
+					["data"] = "PRESET_DAMAGE_SAME_CLASS",
+					["texture"] = "line",
+				}, -- [2]
+				{
+					["name"] = "Raid Damage",
+					["segment_type"] = 2,
+					["version"] = "v2.0",
+					["data"] = "Raid Damage Done",
+					["texture"] = "line",
+				}, -- [3]
+				["last_selected"] = 1,
+			},
+			["options"] = {
+				["show_method"] = 4,
+				["auto_create"] = true,
+				["window_scale"] = 1,
+			},
+		},
+		["DETAILS_PLUGIN_TARGET_CALLER"] = {
+			["enabled"] = true,
+			["author"] = "Details! Team",
+		},
+		["DETAILS_PLUGIN_RAIDCHECK"] = {
+			["enabled"] = true,
+			["food_tier1"] = true,
+			["mythic_1_4"] = true,
+			["food_tier2"] = true,
+			["author"] = "Details! Team",
+			["use_report_panel"] = true,
+			["pre_pot_healers"] = false,
+			["pre_pot_tanks"] = false,
+			["food_tier3"] = true,
+		},
+	},
+	["nick_tag_cache"] = {
+		["nextreset"] = 1606635061,
+		["last_version"] = 12,
+	},
+	["on_death_menu"] = true,
+	["benchmark_db"] = {
+		["frame"] = {
+		},
+	},
+	["last_day"] = "15",
+	["combat_counter"] = 566,
+	["combat_id"] = 505,
+	["savedStyles"] = {
+	},
+	["announce_prepots"] = {
+		["enabled"] = true,
+		["channel"] = "SELF",
+		["reverse"] = false,
+	},
+	["mythic_dungeon_currentsaved"] = {
+		["dungeon_name"] = "",
+		["started"] = false,
+		["segment_id"] = 0,
+		["ej_id"] = 0,
+		["started_at"] = 0,
+		["run_id"] = 0,
+		["level"] = 0,
+		["dungeon_zone_id"] = 0,
+		["previous_boss_killed_at"] = 0,
+	},
+	["announce_deaths"] = {
+		["enabled"] = false,
+		["last_hits"] = 1,
+		["only_first"] = 5,
+		["where"] = 1,
+	},
+	["tabela_overall"] = {
+		{
+			["tipo"] = 2,
+			["_ActorTable"] = {
+				{
+					["flag_original"] = 1298,
+					["totalabsorbed"] = 0.117127,
+					["spells"] = {
+						["tipo"] = 2,
+						["_ActorTable"] = {
+							{
+								["c_amt"] = 69,
+								["b_amt"] = 0,
+								["c_dmg"] = 20213,
+								["g_amt"] = 0,
+								["n_max"] = 283,
+								["targets"] = {
+									["검은이빨 싸움꾼"] = 846,
+									["할란 스위트"] = 7278,
+									["무쇠파도 분쇄자"] = 3638,
+									["트로삭"] = 4087,
+									["무쇠파도 약탈자"] = 1131,
+									["무쇠파도 해골톱날"] = 1287,
+									["무쇠파도 해적단원"] = 1679,
+									["선장 졸리"] = 2731,
+									["항만의 시궁쥐단 선원"] = 284,
+									["항만의 시궁쥐단 해적단원"] = 1714,
+									["무쇠파도 폭풍소환사"] = 1184,
+									["루드비히 폰 토르톨란"] = 1955,
+									["바다가름 결투사"] = 554,
+									["무쇠파도 장교"] = 1263,
+									["바다가름 작살사수"] = 1831,
+									["무쇠파도 해적"] = 1784,
+									["검은이빨 주먹잡이"] = 2459,
+									["무쇠파도 파수견"] = 2708,
+									["검은이빨 투사"] = 1269,
+									["항만의 시궁쥐단 소금비늘"] = 905,
+									["바다가름 칼부림꾼"] = 2521,
+									["무쇠파도 집행자"] = 5838,
+									["무쇠파도 명사수"] = 1608,
+									["무쇠파도 노꾼"] = 1285,
+									["자유지대 선박원"] = 137,
+									["야생 덫사냥꾼"] = 2841,
+									["항만의 시궁쥐단 평발여우"] = 969,
+									["하늘선장 크라그"] = 4686,
+									["선장 유도라"] = 3161,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 43420,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 371,
+								["total"] = 63633,
+								["c_max"] = 348,
+								["id"] = 1,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 302,
+								["r_amt"] = 0,
+								["c_min"] = 0,
+							}, -- [1]
+							[81297] = {
+								["c_amt"] = 411,
+								["b_amt"] = 0,
+								["c_dmg"] = 20410,
+								["g_amt"] = 0,
+								["n_max"] = 48,
+								["targets"] = {
+									["검은이빨 싸움꾼"] = 2038,
+									["무쇠파도 폭탄병"] = 23,
+									["할란 스위트"] = 3334,
+									["무쇠파도 분쇄자"] = 1522,
+									["축축한 배쥐"] = 1645,
+									["무쇠파도 해적단원"] = 1962,
+									["트로삭"] = 1998,
+									["무쇠파도 약탈자"] = 915,
+									["무쇠파도 해골톱날"] = 2668,
+									["무쇠파도 폭풍소환사"] = 955,
+									["선장 졸리"] = 2266,
+									["항만의 시궁쥐단 선원"] = 562,
+									["항만의 시궁쥐단 해적단원"] = 2202,
+									["루드비히 폰 토르톨란"] = 1053,
+									["배쥐"] = 50,
+									["바다가름 결투사"] = 1777,
+									["무쇠파도 장교"] = 772,
+									["바다가름 작살사수"] = 4122,
+									["무쇠파도 해적"] = 7033,
+									["검은이빨 주먹잡이"] = 1464,
+									["무쇠파도 파수견"] = 6211,
+									["검은이빨 투사"] = 3826,
+									["항만의 시궁쥐단 소금비늘"] = 489,
+									["바다가름 칼부림꾼"] = 3627,
+									["무쇠파도 집행자"] = 5270,
+									["무쇠파도 명사수"] = 1541,
+									["무쇠파도 노꾼"] = 2111,
+									["자유지대 선박원"] = 213,
+									["항만의 시궁쥐단 평발여우"] = 749,
+									["야생 덫사냥꾼"] = 1286,
+									["하늘선장 크라그"] = 1937,
+									["선장 유도라"] = 1416,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 46627,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 2370,
+								["total"] = 67037,
+								["c_max"] = 94,
+								["id"] = 81297,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 1959,
+								["r_amt"] = 0,
+								["c_min"] = 0,
+							},
+							[31935] = {
+								["c_amt"] = 25,
+								["b_amt"] = 0,
+								["c_dmg"] = 13273,
+								["g_amt"] = 0,
+								["n_max"] = 308,
+								["targets"] = {
+									["검은이빨 싸움꾼"] = 796,
+									["할란 스위트"] = 3069,
+									["검은이빨 투사"] = 1165,
+									["축축한 배쥐"] = 1518,
+									["무쇠파도 해적단원"] = 1761,
+									["트로삭"] = 1894,
+									["무쇠파도 약탈자"] = 1512,
+									["무쇠파도 해골톱날"] = 970,
+									["무쇠파도 폭풍소환사"] = 1005,
+									["선장 졸리"] = 1011,
+									["항만의 시궁쥐단 선원"] = 256,
+									["항만의 시궁쥐단 해적단원"] = 2024,
+									["루드비히 폰 토르톨란"] = 758,
+									["무쇠파도 분쇄자"] = 1498,
+									["바다가름 결투사"] = 1244,
+									["무쇠파도 장교"] = 506,
+									["바다가름 작살사수"] = 3002,
+									["무쇠파도 해적"] = 4497,
+									["검은이빨 주먹잡이"] = 2848,
+									["무쇠파도 파수견"] = 2532,
+									["항만의 시궁쥐단 소금비늘"] = 1003,
+									["훈련용 허수아비"] = 757,
+									["바다가름 칼부림꾼"] = 3751,
+									["무쇠파도 집행자"] = 5473,
+									["무쇠파도 명사수"] = 1465,
+									["항만의 시궁쥐단 평발여우"] = 758,
+									["자유지대 선박원"] = 495,
+									["무쇠파도 노꾼"] = 2002,
+									["야생 덫사냥꾼"] = 1510,
+									["하늘선장 크라그"] = 1097,
+									["선장 유도라"] = 1587,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 40491,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 184,
+								["total"] = 53764,
+								["c_max"] = 1031,
+								["id"] = 31935,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 159,
+								["r_amt"] = 0,
+								["c_min"] = 0,
+							},
+							[53595] = {
+								["c_amt"] = 13,
+								["b_amt"] = 0,
+								["c_dmg"] = 2416,
+								["g_amt"] = 0,
+								["n_max"] = 182,
+								["targets"] = {
+									["검은이빨 싸움꾼"] = 181,
+									["할란 스위트"] = 1487,
+									["트로삭"] = 1163,
+									["루드비히 폰 토르톨란"] = 451,
+									["무쇠파도 해골톱날"] = 467,
+									["무쇠파도 약탈자"] = 91,
+									["선장 졸리"] = 184,
+									["항만의 시궁쥐단 선원"] = 91,
+									["항만의 시궁쥐단 해적단원"] = 366,
+									["무쇠파도 해적단원"] = 361,
+									["무쇠파도 폭풍소환사"] = 292,
+									["바다가름 결투사"] = 184,
+									["무쇠파도 장교"] = 367,
+									["바다가름 작살사수"] = 458,
+									["무쇠파도 해적"] = 269,
+									["검은이빨 주먹잡이"] = 335,
+									["무쇠파도 파수견"] = 439,
+									["바다가름 칼부림꾼"] = 181,
+									["항만의 시궁쥐단 소금비늘"] = 288,
+									["무쇠파도 분쇄자"] = 628,
+									["무쇠파도 집행자"] = 1044,
+									["무쇠파도 명사수"] = 260,
+									["항만의 시궁쥐단 평발여우"] = 92,
+									["무쇠파도 노꾼"] = 276,
+									["검은이빨 투사"] = 361,
+									["야생 덫사냥꾼"] = 641,
+									["하늘선장 크라그"] = 832,
+									["선장 유도라"] = 379,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 9752,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 117,
+								["total"] = 12168,
+								["c_max"] = 223,
+								["id"] = 53595,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 104,
+								["r_amt"] = 0,
+								["c_min"] = 0,
+							},
+							[204242] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 0,
+								["targets"] = {
+									["무쇠파도 집행자"] = 0,
+									["할란 스위트"] = 0,
+									["선장 졸리"] = 0,
+									["루드비히 폰 토르톨란"] = 0,
+									["무쇠파도 장교"] = 0,
+									["트로삭"] = 0,
+									["하늘선장 크라그"] = 0,
+									["선장 유도라"] = 0,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 0,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 104,
+								["total"] = 0,
+								["c_max"] = 0,
+								["IMMUNE"] = 104,
+								["id"] = 204242,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 0,
+								["r_amt"] = 0,
+								["c_min"] = 0,
+							},
+							[275779] = {
+								["c_amt"] = 28,
+								["b_amt"] = 0,
+								["c_dmg"] = 33777,
+								["g_amt"] = 0,
+								["n_max"] = 1166,
+								["targets"] = {
+									["검은이빨 싸움꾼"] = 2392,
+									["할란 스위트"] = 12622,
+									["무쇠파도 분쇄자"] = 9153,
+									["트로삭"] = 8663,
+									["무쇠파도 약탈자"] = 1710,
+									["무쇠파도 해골톱날"] = 4988,
+									["무쇠파도 해적단원"] = 3984,
+									["선장 졸리"] = 4068,
+									["항만의 시궁쥐단 선원"] = 581,
+									["항만의 시궁쥐단 해적단원"] = 6311,
+									["무쇠파도 폭풍소환사"] = 2282,
+									["루드비히 폰 토르톨란"] = 5152,
+									["바다가름 결투사"] = 1143,
+									["무쇠파도 장교"] = 1722,
+									["바다가름 작살사수"] = 4024,
+									["무쇠파도 해적"] = 3328,
+									["검은이빨 주먹잡이"] = 3340,
+									["무쇠파도 파수견"] = 5557,
+									["검은이빨 투사"] = 1707,
+									["항만의 시궁쥐단 소금비늘"] = 2309,
+									["바다가름 칼부림꾼"] = 7435,
+									["무쇠파도 집행자"] = 9883,
+									["무쇠파도 명사수"] = 4433,
+									["무쇠파도 노꾼"] = 2277,
+									["자유지대 선박원"] = 582,
+									["항만의 시궁쥐단 평발여우"] = 4621,
+									["야생 덫사냥꾼"] = 5174,
+									["하늘선장 크라그"] = 9108,
+									["선장 유도라"] = 7462,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 102234,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 202,
+								["total"] = 136011,
+								["c_max"] = 1406,
+								["id"] = 275779,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 174,
+								["r_amt"] = 0,
+								["c_min"] = 0,
+							},
+							[157122] = {
+								["c_amt"] = 58,
+								["b_amt"] = 0,
+								["c_dmg"] = 5838,
+								["g_amt"] = 0,
+								["n_max"] = 96,
+								["targets"] = {
+									["검은이빨 싸움꾼"] = 688,
+									["할란 스위트"] = 1882,
+									["축축한 배쥐"] = 188,
+									["무쇠파도 분쇄자"] = 280,
+									["트로삭"] = 660,
+									["무쇠파도 해적단원"] = 1028,
+									["무쇠파도 해골톱날"] = 504,
+									["무쇠파도 약탈자"] = 285,
+									["선장 졸리"] = 261,
+									["항만의 시궁쥐단 선원"] = 235,
+									["항만의 시궁쥐단 해적단원"] = 654,
+									["무쇠파도 폭풍소환사"] = 92,
+									["루드비히 폰 토르톨란"] = 279,
+									["바다가름 결투사"] = 94,
+									["무쇠파도 장교"] = 92,
+									["바다가름 작살사수"] = 1127,
+									["무쇠파도 해적"] = 1964,
+									["검은이빨 주먹잡이"] = 524,
+									["무쇠파도 파수견"] = 1413,
+									["무쇠파도 노꾼"] = 279,
+									["항만의 시궁쥐단 소금비늘"] = 280,
+									["바다가름 칼부림꾼"] = 1211,
+									["무쇠파도 집행자"] = 930,
+									["무쇠파도 명사수"] = 381,
+									["검은이빨 투사"] = 1178,
+									["자유지대 선박원"] = 93,
+									["항만의 시궁쥐단 평발여우"] = 375,
+									["야생 덫사냥꾼"] = 278,
+									["하늘선장 크라그"] = 365,
+									["선장 유도라"] = 297,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 12079,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 307,
+								["total"] = 17917,
+								["c_max"] = 189,
+								["id"] = 157122,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 249,
+								["r_amt"] = 0,
+								["c_min"] = 0,
+							},
+							[53600] = {
+								["c_amt"] = 37,
+								["b_amt"] = 0,
+								["c_dmg"] = 17087,
+								["g_amt"] = 0,
+								["n_max"] = 515,
+								["targets"] = {
+									["검은이빨 싸움꾼"] = 1188,
+									["할란 스위트"] = 3427,
+									["축축한 배쥐"] = 2464,
+									["바다가름 칼부림꾼"] = 2550,
+									["트로삭"] = 2131,
+									["무쇠파도 해적단원"] = 2907,
+									["무쇠파도 해골톱날"] = 1483,
+									["무쇠파도 약탈자"] = 1191,
+									["선장 졸리"] = 2327,
+									["항만의 시궁쥐단 선원"] = 818,
+									["항만의 시궁쥐단 해적단원"] = 3441,
+									["무쇠파도 폭풍소환사"] = 708,
+									["루드비히 폰 토르톨란"] = 1515,
+									["바다가름 결투사"] = 1124,
+									["무쇠파도 장교"] = 916,
+									["바다가름 작살사수"] = 4877,
+									["무쇠파도 해적"] = 1666,
+									["검은이빨 주먹잡이"] = 1394,
+									["무쇠파도 노꾼"] = 2670,
+									["무쇠파도 분쇄자"] = 2327,
+									["항만의 시궁쥐단 소금비늘"] = 1201,
+									["무쇠파도 파수견"] = 3102,
+									["무쇠파도 집행자"] = 3504,
+									["무쇠파도 명사수"] = 1276,
+									["검은이빨 투사"] = 2955,
+									["자유지대 선박원"] = 252,
+									["항만의 시궁쥐단 평발여우"] = 1009,
+									["야생 덫사냥꾼"] = 1765,
+									["하늘선장 크라그"] = 1758,
+									["선장 유도라"] = 1652,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 42511,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 219,
+								["total"] = 59598,
+								["c_max"] = 622,
+								["id"] = 53600,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 182,
+								["r_amt"] = 0,
+								["c_min"] = 0,
+							},
+							[853] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 0,
+								["targets"] = {
+									["무쇠파도 집행자"] = 0,
+									["무쇠파도 분쇄자"] = 0,
+									["루드비히 폰 토르톨란"] = 0,
+									["할란 스위트"] = 0,
+									["트로삭"] = 0,
+									["하늘선장 크라그"] = 0,
+									["선장 유도라"] = 0,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 0,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 13,
+								["total"] = 0,
+								["c_max"] = 0,
+								["IMMUNE"] = 13,
+								["id"] = 853,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 0,
+								["r_amt"] = 0,
+								["c_min"] = 0,
+							},
+							[88263] = {
+								["c_amt"] = 17,
+								["b_amt"] = 0,
+								["c_dmg"] = 1425,
+								["g_amt"] = 0,
+								["n_max"] = 51,
+								["targets"] = {
+									["검은이빨 싸움꾼"] = 243,
+									["축축한 배쥐"] = 166,
+									["무쇠파도 해골톱날"] = 120,
+									["선장 졸리"] = 132,
+									["항만의 시궁쥐단 선원"] = 41,
+									["항만의 시궁쥐단 해적단원"] = 207,
+									["바다가름 결투사"] = 208,
+									["무쇠파도 장교"] = 41,
+									["바다가름 작살사수"] = 585,
+									["바다가름 칼부림꾼"] = 377,
+									["검은이빨 주먹잡이"] = 99,
+									["무쇠파도 파수견"] = 560,
+									["무쇠파도 폭탄병"] = 40,
+									["항만의 시궁쥐단 소금비늘"] = 41,
+									["무쇠파도 폭풍소환사"] = 42,
+									["무쇠파도 집행자"] = 398,
+									["무쇠파도 명사수"] = 40,
+									["무쇠파도 해적단원"] = 247,
+									["자유지대 선박원"] = 40,
+									["무쇠파도 약탈자"] = 41,
+									["무쇠파도 노꾼"] = 209,
+									["무쇠파도 해적"] = 562,
+									["검은이빨 투사"] = 488,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 3502,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 101,
+								["total"] = 4927,
+								["c_max"] = 102,
+								["id"] = 88263,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 84,
+								["r_amt"] = 0,
+								["c_min"] = 0,
+							},
+						},
+					},
+					["damage_from"] = {
+						["축축한 배쥐"] = true,
+						["무쇠파도 해골톱날"] = true,
+						["선장 졸리"] = true,
+						["무쇠파도 장교"] = true,
+						["무쇠파도 해적"] = true,
+						["무쇠파도 노꾼"] = true,
+						["[*] 칼날의 회오리"] = true,
+						["무쇠파도 집행자"] = true,
+						["무쇠파도 명사수"] = true,
+						["자유지대 선박원"] = true,
+						["하늘선장 크라그"] = true,
+						["[*] 쥐덫"] = true,
+						["검은이빨 싸움꾼"] = true,
+						["환경피해 (낙하 충격)"] = true,
+						["트로삭"] = true,
+						["[*] 썩은내 범벅"] = true,
+						["무쇠파도 분쇄자"] = true,
+						["항만의 시궁쥐단 선원"] = true,
+						["항만의 시궁쥐단 해적단원"] = true,
+						["야생 덫사냥꾼"] = true,
+						["돌개바람 사브르"] = true,
+						["바다가름 작살사수"] = true,
+						["바다가름 칼부림꾼"] = true,
+						["검은이빨 주먹잡이"] = true,
+						["무쇠파도 파수견"] = true,
+						["할란 스위트"] = true,
+						["항만의 시궁쥐단 소금비늘"] = true,
+						["무쇠파도 해적단원"] = true,
+						["무쇠파도 약탈자"] = true,
+						["무쇠파도 폭풍소환사"] = true,
+						["[*] 썩은 웅덩이"] = true,
+						["루드비히 폰 토르톨란"] = true,
+						["바다가름 결투사"] = true,
+						["검은이빨 투사"] = true,
+						["항만의 시궁쥐단 평발여우"] = true,
+						["선장 유도라"] = true,
+					},
+					["targets"] = {
+						["축축한 배쥐"] = 5981,
+						["무쇠파도 해골톱날"] = 12487,
+						["선장 졸리"] = 12980,
+						["배쥐"] = 50,
+						["무쇠파도 장교"] = 5679,
+						["무쇠파도 폭탄병"] = 63,
+						["무쇠파도 해적"] = 21103,
+						["무쇠파도 노꾼"] = 11109,
+						["무쇠파도 집행자"] = 32340,
+						["무쇠파도 명사수"] = 11004,
+						["자유지대 선박원"] = 1812,
+						["하늘선장 크라그"] = 19783,
+						["검은이빨 싸움꾼"] = 8372,
+						["트로삭"] = 20596,
+						["무쇠파도 분쇄자"] = 19046,
+						["항만의 시궁쥐단 선원"] = 2868,
+						["항만의 시궁쥐단 해적단원"] = 16919,
+						["야생 덫사냥꾼"] = 13495,
+						["바다가름 작살사수"] = 20026,
+						["바다가름 칼부림꾼"] = 21653,
+						["검은이빨 주먹잡이"] = 12463,
+						["검은이빨 투사"] = 12949,
+						["할란 스위트"] = 33099,
+						["훈련용 허수아비"] = 757,
+						["무쇠파도 파수견"] = 22522,
+						["무쇠파도 해적단원"] = 13929,
+						["무쇠파도 약탈자"] = 6876,
+						["무쇠파도 폭풍소환사"] = 6560,
+						["루드비히 폰 토르톨란"] = 11163,
+						["바다가름 결투사"] = 6328,
+						["항만의 시궁쥐단 소금비늘"] = 6516,
+						["항만의 시궁쥐단 평발여우"] = 8573,
+						["선장 유도라"] = 15954,
+					},
+					["avoidance"] = {
+						["overall"] = {
+							["DODGE"] = 0,
+							["FULL_ABSORB_AMT"] = 0,
+							["BLOCKED_AMT"] = 0,
+							["BLOCKED_HITS"] = 0,
+							["FULL_ABSORBED"] = 0,
+							["ALL"] = 0,
+							["PARTIAL_ABSORBED"] = 0,
+							["PARRY"] = 0,
+							["PARTIAL_ABSORB_AMT"] = 0,
+							["ABSORB"] = 0,
+							["ABSORB_AMT"] = 0,
+							["FULL_HIT"] = 0,
+							["HITS"] = 0,
+							["FULL_HIT_AMT"] = 0,
+						},
+					},
+					["pets"] = {
+					},
+					["boss_fight_component"] = true,
+					["end_time"] = 1605427918,
+					["classe"] = "PALADIN",
+					["raid_targets"] = {
+						[128] = 15954,
+					},
+					["total_without_pet"] = 415055.117127,
+					["friendlyfire"] = {
+					},
+					["aID"] = "214-093AAE58",
+					["dps_started"] = false,
+					["total"] = 415055.117127,
+					["last_event"] = 0,
+					["friendlyfire_total"] = 0,
+					["nome"] = "군신잔트라-데스윙",
+					["spec"] = 66,
+					["grupo"] = true,
+					["isTank"] = true,
+					["on_hold"] = false,
+					["serial"] = "Player-214-093AAE58",
+					["custom"] = 0,
+					["tipo"] = 1,
+					["last_dps"] = 0,
+					["start_time"] = 1605426858,
+					["delay"] = 0,
+					["damage_taken"] = 461568.117127,
+				}, -- [1]
+				{
+					["flag_original"] = 2632,
+					["totalabsorbed"] = 1068.02172,
+					["on_hold"] = false,
+					["damage_from"] = {
+						["해피뼈전사"] = true,
+						["군신잔트라-데스윙"] = true,
+						["판타지곤-데스윙"] = true,
+						["법따리"] = true,
+						["지옥불정령 <판타지곤-데스윙>"] = true,
+						["제프구프 <판타지곤-데스윙>"] = true,
+					},
+					["targets"] = {
+						["판타지곤-데스윙"] = 1068,
+						["군신잔트라-데스윙"] = 9973,
+						["덩치큰토템-데스윙"] = 1366,
+					},
+					["pets"] = {
+					},
+					["end_time"] = 1605427918,
+					["classe"] = "UNKNOW",
+					["friendlyfire_total"] = 0,
+					["raid_targets"] = {
+						[2] = 6424,
+					},
+					["total_without_pet"] = 12407.02172,
+					["fight_component"] = true,
+					["dps_started"] = false,
+					["total"] = 12407.02172,
+					["aID"] = "126918",
+					["monster"] = true,
+					["nome"] = "무쇠파도 명사수",
+					["spells"] = {
+						["tipo"] = 2,
+						["_ActorTable"] = {
+							{
+								["c_amt"] = 0,
+								["b_amt"] = 2,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 422,
+								["targets"] = {
+									["군신잔트라-데스윙"] = 1091,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 1091,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 4,
+								["total"] = 1091,
+								["c_max"] = 0,
+								["id"] = 1,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 436,
+								["n_amt"] = 4,
+								["r_amt"] = 0,
+								["c_min"] = 0,
+							}, -- [1]
+							[258673] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 1068,
+								["targets"] = {
+									["군신잔트라-데스윙"] = 1895,
+									["판타지곤-데스윙"] = 1068,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 2963,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 3,
+								["total"] = 2963,
+								["c_max"] = 0,
+								["id"] = 258673,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 3,
+								["r_amt"] = 0,
+								["c_min"] = 0,
+							},
+							[258672] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 0,
+								["targets"] = {
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 0,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 0,
+								["total"] = 0,
+								["c_max"] = 0,
+								["id"] = 258672,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 5,
+								["b_dmg"] = 0,
+								["n_amt"] = 0,
+								["r_amt"] = 0,
+								["c_min"] = 0,
+							},
+							[268440] = {
+								["c_amt"] = 0,
+								["b_amt"] = 6,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 499,
+								["targets"] = {
+									["군신잔트라-데스윙"] = 6987,
+									["덩치큰토템-데스윙"] = 1366,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 8353,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 28,
+								["MISS"] = 1,
+								["total"] = 8353,
+								["c_max"] = 0,
+								["DODGE"] = 1,
+								["id"] = 268440,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 29,
+								["b_dmg"] = 1411,
+								["n_amt"] = 26,
+								["r_amt"] = 0,
+								["c_min"] = 0,
+							},
+						},
+					},
+					["last_event"] = 0,
+					["friendlyfire"] = {
+					},
+					["serial"] = "Creature-0-3058-1754-18048-126918-000230E279",
+					["custom"] = 0,
+					["tipo"] = 1,
+					["last_dps"] = 0,
+					["start_time"] = 1605427828,
+					["delay"] = 0,
+					["damage_taken"] = 36031.02172,
+				}, -- [2]
+				{
+					["flag_original"] = 2632,
+					["totalabsorbed"] = 1560.022149,
+					["on_hold"] = false,
+					["damage_from"] = {
+						["해피뼈전사"] = true,
+						["군신잔트라-데스윙"] = true,
+						["지옥불정령 <판타지곤-데스윙>"] = true,
+						["법따리"] = true,
+						["판타지곤-데스윙"] = true,
+						["제프구프 <판타지곤-데스윙>"] = true,
+					},
+					["targets"] = {
+						["군신잔트라-데스윙"] = 41806,
+						["덩치큰토템-데스윙"] = 3455,
+						["법따리"] = 6591,
+						["판타지곤-데스윙"] = 14555,
+						["제프구프 <판타지곤-데스윙>"] = 735,
+					},
+					["end_time"] = 1605427918,
+					["pets"] = {
+					},
+					["classe"] = "UNKNOW",
+					["friendlyfire_total"] = 0,
+					["raid_targets"] = {
+						[2] = 23198,
+					},
+					["total_without_pet"] = 67142.022149,
+					["fight_component"] = true,
+					["dps_started"] = false,
+					["total"] = 67142.022149,
+					["aID"] = "126928",
+					["monster"] = true,
+					["nome"] = "무쇠파도 해적",
+					["spells"] = {
+						["tipo"] = 2,
+						["_ActorTable"] = {
+							{
+								["c_amt"] = 3,
+								["b_amt"] = 29,
+								["c_dmg"] = 2229,
+								["g_amt"] = 0,
+								["n_max"] = 474,
+								["targets"] = {
+									["해피뼈전사"] = 0,
+									["군신잔트라-데스윙"] = 37767,
+									["제프구프"] = 0,
+									["덩치큰토템-데스윙"] = 2943,
+									["판타지곤-데스윙"] = 13774,
+									["법따리"] = 6450,
+									["제프구프 <판타지곤-데스윙>"] = 735,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 59440,
+								["a_amt"] = 35,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 259,
+								["MISS"] = 15,
+								["total"] = 61669,
+								["c_max"] = 817,
+								["DODGE"] = 3,
+								["id"] = 1,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 14141,
+								["m_crit"] = 0,
+								["PARRY"] = 7,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 4615,
+								["n_amt"] = 231,
+								["r_amt"] = 0,
+								["c_min"] = 0,
+							}, -- [1]
+							[257436] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 0,
+								["targets"] = {
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 0,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 0,
+								["total"] = 0,
+								["c_max"] = 0,
+								["id"] = 257436,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 37,
+								["b_dmg"] = 0,
+								["n_amt"] = 0,
+								["r_amt"] = 0,
+								["c_min"] = 0,
+							},
+							[257437] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 259,
+								["targets"] = {
+									["법따리"] = 141,
+									["판타지곤-데스윙"] = 781,
+									["군신잔트라-데스윙"] = 4039,
+									["덩치큰토템-데스윙"] = 512,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 5473,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 38,
+								["total"] = 5473,
+								["c_max"] = 0,
+								["id"] = 257437,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 1556,
+								["m_crit"] = 0,
+								["a_amt"] = 11,
+								["m_amt"] = 0,
+								["successful_casted"] = 13,
+								["b_dmg"] = 0,
+								["n_amt"] = 38,
+								["r_amt"] = 0,
+								["c_min"] = 0,
+							},
+						},
+					},
+					["last_event"] = 0,
+					["friendlyfire"] = {
+					},
+					["serial"] = "Creature-0-3058-1754-18048-126928-000530E279",
+					["custom"] = 0,
+					["tipo"] = 1,
+					["last_dps"] = 0,
+					["start_time"] = 1605427721,
+					["delay"] = 0,
+					["damage_taken"] = 141270.022149,
+				}, -- [3]
+				{
+					["flag_original"] = 2632,
+					["totalabsorbed"] = 2131.034631,
+					["on_hold"] = false,
+					["damage_from"] = {
+						["해피뼈전사"] = true,
+						["군신잔트라-데스윙"] = true,
+						["판타지곤-데스윙"] = true,
+						["제프구프 <판타지곤-데스윙>"] = true,
+						["법따리"] = true,
+					},
+					["targets"] = {
+						["해피뼈전사"] = 17660,
+						["군신잔트라-데스윙"] = 45195,
+						["덩치큰토템-데스윙"] = 2807,
+						["판타지곤-데스윙"] = 8367,
+						["법따리"] = 6663,
+					},
+					["end_time"] = 1605427918,
+					["pets"] = {
+					},
+					["classe"] = "UNKNOW",
+					["friendlyfire_total"] = 0,
+					["raid_targets"] = {
+						[2] = 35746,
+					},
+					["total_without_pet"] = 80692.03463099999,
+					["fight_component"] = true,
+					["dps_started"] = false,
+					["total"] = 80692.03463099999,
+					["aID"] = "129602",
+					["monster"] = true,
+					["nome"] = "무쇠파도 집행자",
+					["spells"] = {
+						["tipo"] = 2,
+						["_ActorTable"] = {
+							{
+								["c_amt"] = 0,
+								["b_amt"] = 17,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 1435,
+								["targets"] = {
+									["해피뼈전사"] = 6533,
+									["군신잔트라-데스윙"] = 44221,
+									["덩치큰토템-데스윙"] = 2807,
+									["판타지곤-데스윙"] = 8367,
+									["법따리"] = 4718,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 66646,
+								["MISS"] = 1,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 99,
+								["a_amt"] = 6,
+								["total"] = 66646,
+								["c_max"] = 0,
+								["DODGE"] = 3,
+								["id"] = 1,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 7249,
+								["m_crit"] = 0,
+								["PARRY"] = 9,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 8868,
+								["n_amt"] = 86,
+								["r_amt"] = 0,
+								["c_min"] = 0,
+							}, -- [1]
+							[257426] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 1945,
+								["targets"] = {
+									["법따리"] = 1945,
+									["군신잔트라-데스윙"] = 974,
+									["해피뼈전사"] = 11127,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 14046,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 9,
+								["total"] = 14046,
+								["c_max"] = 0,
+								["id"] = 257426,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 9,
+								["b_dmg"] = 0,
+								["n_amt"] = 9,
+								["r_amt"] = 0,
+								["c_min"] = 0,
+							},
+						},
+					},
+					["last_event"] = 0,
+					["friendlyfire"] = {
+					},
+					["serial"] = "Creature-0-3058-1754-18048-129602-000330E278",
+					["custom"] = 0,
+					["tipo"] = 1,
+					["last_dps"] = 0,
+					["start_time"] = 1605427726,
+					["delay"] = 0,
+					["damage_taken"] = 172064.034631,
+				}, -- [4]
+				{
+					["flag_original"] = 2632,
+					["totalabsorbed"] = 5808.014161,
+					["on_hold"] = false,
+					["damage_from"] = {
+						["해피뼈전사"] = true,
+						["군신잔트라-데스윙"] = true,
+						["법따리"] = true,
+						["판타지곤-데스윙"] = true,
+						["제프구프 <판타지곤-데스윙>"] = true,
+					},
+					["targets"] = {
+						["해피뼈전사"] = 5349,
+						["군신잔트라-데스윙"] = 39730,
+						["덩치큰토템-데스윙"] = 3258,
+						["판타지곤-데스윙"] = 12685,
+						["법따리"] = 15218,
+					},
+					["pets"] = {
+					},
+					["end_time"] = 1605427918,
+					["classe"] = "UNKNOW",
+					["friendlyfire_total"] = 0,
+					["raid_targets"] = {
+						[2] = 28315,
+					},
+					["total_without_pet"] = 76240.014161,
+					["fight_component"] = true,
+					["dps_started"] = false,
+					["total"] = 76240.014161,
+					["aID"] = "128551",
+					["monster"] = true,
+					["nome"] = "무쇠파도 파수견",
+					["spells"] = {
+						["tipo"] = 2,
+						["_ActorTable"] = {
+							{
+								["c_amt"] = 1,
+								["b_amt"] = 26,
+								["c_dmg"] = 1071,
+								["g_amt"] = 0,
+								["n_max"] = 999,
+								["targets"] = {
+									["해피뼈전사"] = 3234,
+									["군신잔트라-데스윙"] = 36310,
+									["덩치큰토템-데스윙"] = 2730,
+									["판타지곤-데스윙"] = 11360,
+									["법따리"] = 13878,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 66441,
+								["DODGE"] = 6,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 174,
+								["a_amt"] = 15,
+								["total"] = 67512,
+								["c_max"] = 1071,
+								["MISS"] = 4,
+								["id"] = 1,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 10516,
+								["m_crit"] = 0,
+								["PARRY"] = 11,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 7711,
+								["n_amt"] = 152,
+								["r_amt"] = 0,
+								["c_min"] = 0,
+							}, -- [1]
+							[257478] = {
+								["c_amt"] = 0,
+								["b_amt"] = 2,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 674,
+								["targets"] = {
+									["해피뼈전사"] = 2115,
+									["군신잔트라-데스윙"] = 3420,
+									["덩치큰토템-데스윙"] = 528,
+									["판타지곤-데스윙"] = 1325,
+									["법따리"] = 1340,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 8728,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 19,
+								["MISS"] = 1,
+								["total"] = 8728,
+								["c_max"] = 0,
+								["DODGE"] = 1,
+								["id"] = 257478,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 1325,
+								["m_crit"] = 0,
+								["a_amt"] = 2,
+								["m_amt"] = 0,
+								["successful_casted"] = 21,
+								["b_dmg"] = 651,
+								["n_amt"] = 17,
+								["r_amt"] = 0,
+								["c_min"] = 0,
+							},
+							[257476] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 0,
+								["targets"] = {
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 0,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 0,
+								["total"] = 0,
+								["c_max"] = 0,
+								["id"] = 257476,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 5,
+								["b_dmg"] = 0,
+								["n_amt"] = 0,
+								["r_amt"] = 0,
+								["c_min"] = 0,
+							},
+						},
+					},
+					["last_event"] = 0,
+					["friendlyfire"] = {
+					},
+					["serial"] = "Creature-0-3058-1754-18048-128551-000230E278",
+					["custom"] = 0,
+					["tipo"] = 1,
+					["last_dps"] = 0,
+					["start_time"] = 1605427758,
+					["delay"] = 0,
+					["damage_taken"] = 108916.014161,
+				}, -- [5]
+				{
+					["flag_original"] = 66833,
+					["totalabsorbed"] = 0.131782,
+					["on_hold"] = false,
+					["damage_from"] = {
+						["[*] 껍질 튕기기"] = true,
+						["무쇠파도 해골톱날"] = true,
+						["[*] 썩은내 범벅"] = true,
+						["무쇠파도 분쇄자"] = true,
+						["항만의 시궁쥐단 해적단원"] = true,
+						["바다가름 결투사"] = true,
+						["바다가름 작살사수"] = true,
+						["무쇠파도 해적"] = true,
+						["돌개바람 사브르"] = true,
+						["검은이빨 투사"] = true,
+						["[*] 불꽃 파편"] = true,
+						["항만의 시궁쥐단 소금비늘"] = true,
+						["할란 스위트"] = true,
+						["무쇠파도 집행자"] = true,
+						["무쇠파도 폭풍소환사"] = true,
+						["[*] 썩은 웅덩이"] = true,
+						["바다가름 칼부림꾼"] = true,
+						["무쇠파도 노꾼"] = true,
+						["선장 유도라"] = true,
+						["무쇠파도 파수견"] = true,
+						["[*] 쥐덫"] = true,
+					},
+					["targets"] = {
+						["검은이빨 싸움꾼"] = 16861,
+						["할란 스위트"] = 52077,
+						["무쇠파도 분쇄자"] = 28877,
+						["축축한 배쥐"] = 2785,
+						["무쇠파도 해적단원"] = 12646,
+						["트로삭"] = 49471,
+						["무쇠파도 약탈자"] = 3834,
+						["무쇠파도 해골톱날"] = 18945,
+						["무쇠파도 폭풍소환사"] = 12407,
+						["선장 졸리"] = 9502,
+						["항만의 시궁쥐단 선원"] = 8505,
+						["항만의 시궁쥐단 해적단원"] = 12981,
+						["루드비히 폰 토르톨란"] = 20603,
+						["배쥐"] = 2093,
+						["바다가름 결투사"] = 9788,
+						["무쇠파도 장교"] = 15843,
+						["바다가름 작살사수"] = 16650,
+						["무쇠파도 해적"] = 39276,
+						["검은이빨 주먹잡이"] = 12643,
+						["검은이빨 투사"] = 22143,
+						["야생 덫사냥꾼"] = 6071,
+						["훈련용 허수아비"] = 1143,
+						["바다가름 칼부림꾼"] = 20583,
+						["무쇠파도 집행자"] = 46029,
+						["무쇠파도 명사수"] = 13002,
+						["항만의 시궁쥐단 소금비늘"] = 25278,
+						["무쇠파도 파수견"] = 37789,
+						["무쇠파도 노꾼"] = 30396,
+						["항만의 시궁쥐단 평발여우"] = 619,
+						["하늘선장 크라그"] = 35625,
+						["선장 유도라"] = 36841,
+					},
+					["pets"] = {
+						"법따리 <법따리>", -- [1]
+					},
+					["aID"] = "205-0713A4FD",
+					["boss_fight_component"] = true,
+					["friendlyfire_total"] = 0,
+					["raid_targets"] = {
+						[128] = 36841,
+					},
+					["total_without_pet"] = 621088.131782,
+					["end_time"] = 1605427918,
+					["friendlyfire"] = {
+					},
+					["dps_started"] = false,
+					["total"] = 621306.131782,
+					["classe"] = "MAGE",
+					["last_event"] = 0,
+					["nome"] = "법따리",
+					["spells"] = {
+						["tipo"] = 2,
+						["_ActorTable"] = {
+							[271465] = {
+								["c_amt"] = 2,
+								["b_amt"] = 0,
+								["c_dmg"] = 285,
+								["g_amt"] = 0,
+								["n_max"] = 71,
+								["targets"] = {
+									["하늘선장 크라그"] = 691,
+									["선장 졸리"] = 70,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 476,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 9,
+								["total"] = 761,
+								["c_max"] = 143,
+								["id"] = 271465,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 7,
+								["r_amt"] = 0,
+								["c_min"] = 0,
+							},
+							[1449] = {
+								["c_amt"] = 43,
+								["b_amt"] = 0,
+								["c_dmg"] = 27762,
+								["g_amt"] = 0,
+								["n_max"] = 608,
+								["targets"] = {
+									["검은이빨 싸움꾼"] = 9813,
+									["축축한 배쥐"] = 2785,
+									["무쇠파도 해골톱날"] = 7448,
+									["항만의 시궁쥐단 해적단원"] = 311,
+									["바다가름 결투사"] = 2190,
+									["바다가름 작살사수"] = 931,
+									["무쇠파도 해적"] = 18973,
+									["검은이빨 주먹잡이"] = 1613,
+									["무쇠파도 노꾼"] = 4660,
+									["무쇠파도 집행자"] = 14575,
+									["무쇠파도 명사수"] = 939,
+									["무쇠파도 약탈자"] = 1546,
+									["검은이빨 투사"] = 11782,
+									["무쇠파도 해적단원"] = 1871,
+									["무쇠파도 폭풍소환사"] = 1546,
+									["야생 덫사냥꾼"] = 622,
+									["무쇠파도 파수견"] = 19875,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 73718,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 263,
+								["total"] = 101480,
+								["c_max"] = 1152,
+								["id"] = 1449,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 220,
+								["r_amt"] = 0,
+								["c_min"] = 0,
+							},
+							[30451] = {
+								["c_amt"] = 41,
+								["b_amt"] = 0,
+								["c_dmg"] = 74749,
+								["g_amt"] = 0,
+								["n_max"] = 2495,
+								["targets"] = {
+									["트로삭"] = 29085,
+									["무쇠파도 해골톱날"] = 4143,
+									["선장 졸리"] = 5632,
+									["항만의 시궁쥐단 선원"] = 7501,
+									["항만의 시궁쥐단 해적단원"] = 5304,
+									["할란 스위트"] = 32902,
+									["무쇠파도 해적단원"] = 2169,
+									["바다가름 결투사"] = 4721,
+									["무쇠파도 장교"] = 7847,
+									["바다가름 작살사수"] = 4984,
+									["바다가름 칼부림꾼"] = 9196,
+									["검은이빨 주먹잡이"] = 6848,
+									["검은이빨 투사"] = 596,
+									["무쇠파도 폭풍소환사"] = 6826,
+									["항만의 시궁쥐단 소금비늘"] = 11845,
+									["루드비히 폰 토르톨란"] = 11696,
+									["무쇠파도 집행자"] = 17566,
+									["무쇠파도 명사수"] = 9877,
+									["무쇠파도 분쇄자"] = 16748,
+									["야생 덫사냥꾼"] = 4982,
+									["무쇠파도 해적"] = 3565,
+									["무쇠파도 노꾼"] = 17287,
+									["하늘선장 크라그"] = 25779,
+									["선장 유도라"] = 26633,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 198983,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 252,
+								["total"] = 273732,
+								["c_max"] = 3552,
+								["id"] = 30451,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 211,
+								["r_amt"] = 0,
+								["c_min"] = 0,
+							},
+							[44425] = {
+								["c_amt"] = 10,
+								["b_amt"] = 0,
+								["c_dmg"] = 16749,
+								["g_amt"] = 0,
+								["n_max"] = 1237,
+								["targets"] = {
+									["검은이빨 싸움꾼"] = 3202,
+									["트로삭"] = 1942,
+									["무쇠파도 해골톱날"] = 1209,
+									["선장 졸리"] = 1794,
+									["바다가름 결투사"] = 957,
+									["무쇠파도 장교"] = 1110,
+									["바다가름 칼부림꾼"] = 864,
+									["할란 스위트"] = 1963,
+									["무쇠파도 노꾼"] = 2443,
+									["무쇠파도 해적단원"] = 433,
+									["항만의 시궁쥐단 소금비늘"] = 1949,
+									["무쇠파도 약탈자"] = 443,
+									["무쇠파도 집행자"] = 979,
+									["무쇠파도 명사수"] = 938,
+									["무쇠파도 폭풍소환사"] = 1094,
+									["무쇠파도 해적"] = 969,
+									["검은이빨 투사"] = 1550,
+									["무쇠파도 분쇄자"] = 2137,
+									["무쇠파도 파수견"] = 3887,
+									["선장 유도라"] = 1109,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 14223,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 29,
+								["total"] = 30972,
+								["c_max"] = 2670,
+								["id"] = 44425,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 19,
+								["r_amt"] = 0,
+								["c_min"] = 0,
+							},
+							[210833] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 2813,
+								["targets"] = {
+									["검은이빨 싸움꾼"] = 1046,
+									["트로삭"] = 2813,
+									["무쇠파도 해골톱날"] = 1335,
+									["항만의 시궁쥐단 해적단원"] = 2985,
+									["바다가름 결투사"] = 543,
+									["무쇠파도 장교"] = 1649,
+									["바다가름 작살사수"] = 3827,
+									["바다가름 칼부림꾼"] = 656,
+									["검은이빨 주먹잡이"] = 1803,
+									["무쇠파도 노꾼"] = 941,
+									["항만의 시궁쥐단 소금비늘"] = 1313,
+									["무쇠파도 집행자"] = 3301,
+									["할란 스위트"] = 2511,
+									["무쇠파도 해적"] = 2203,
+									["검은이빨 투사"] = 1587,
+									["무쇠파도 해적단원"] = 1166,
+									["무쇠파도 파수견"] = 2753,
+									["선장 유도라"] = 1291,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 33723,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 42,
+								["total"] = 33723,
+								["c_max"] = 0,
+								["id"] = 210833,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 42,
+								["r_amt"] = 0,
+								["c_min"] = 0,
+							},
+							[153640] = {
+								["c_amt"] = 12,
+								["b_amt"] = 0,
+								["c_dmg"] = 16389,
+								["g_amt"] = 0,
+								["n_max"] = 1145,
+								["targets"] = {
+									["검은이빨 싸움꾼"] = 2800,
+									["할란 스위트"] = 3284,
+									["트로삭"] = 4367,
+									["항만의 시궁쥐단 소금비늘"] = 2162,
+									["무쇠파도 해골톱날"] = 4344,
+									["무쇠파도 해적단원"] = 4406,
+									["선장 졸리"] = 1524,
+									["루드비히 폰 토르톨란"] = 852,
+									["항만의 시궁쥐단 해적단원"] = 2095,
+									["무쇠파도 약탈자"] = 1845,
+									["무쇠파도 폭풍소환사"] = 1200,
+									["바다가름 결투사"] = 1222,
+									["무쇠파도 장교"] = 845,
+									["바다가름 작살사수"] = 4519,
+									["무쇠파도 해적"] = 8782,
+									["검은이빨 주먹잡이"] = 2223,
+									["검은이빨 투사"] = 4083,
+									["바다가름 칼부림꾼"] = 2760,
+									["훈련용 허수아비"] = 1143,
+									["배쥐"] = 2093,
+									["무쇠파도 집행자"] = 6139,
+									["무쇠파도 명사수"] = 625,
+									["무쇠파도 분쇄자"] = 1869,
+									["무쇠파도 노꾼"] = 1822,
+									["무쇠파도 파수견"] = 7496,
+									["항만의 시궁쥐단 평발여우"] = 619,
+									["하늘선장 크라그"] = 1228,
+									["선장 유도라"] = 1492,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 61450,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 100,
+								["total"] = 77839,
+								["c_max"] = 2281,
+								["id"] = 153640,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 88,
+								["r_amt"] = 0,
+								["c_min"] = 0,
+							},
+							[269889] = {
+								["c_amt"] = 11,
+								["b_amt"] = 0,
+								["c_dmg"] = 3427,
+								["g_amt"] = 0,
+								["n_max"] = 171,
+								["targets"] = {
+									["트로삭"] = 932,
+									["무쇠파도 해골톱날"] = 466,
+									["선장 졸리"] = 482,
+									["루드비히 폰 토르톨란"] = 156,
+									["항만의 시궁쥐단 해적단원"] = 311,
+									["할란 스위트"] = 622,
+									["바다가름 결투사"] = 155,
+									["무쇠파도 장교"] = 155,
+									["바다가름 작살사수"] = 310,
+									["무쇠파도 해적"] = 467,
+									["검은이빨 주먹잡이"] = 156,
+									["무쇠파도 파수견"] = 155,
+									["무쇠파도 해적단원"] = 155,
+									["무쇠파도 폭풍소환사"] = 155,
+									["바다가름 칼부림꾼"] = 778,
+									["무쇠파도 집행자"] = 622,
+									["무쇠파도 명사수"] = 623,
+									["무쇠파도 분쇄자"] = 312,
+									["검은이빨 투사"] = 467,
+									["무쇠파도 노꾼"] = 311,
+									["야생 덫사냥꾼"] = 467,
+									["하늘선장 크라그"] = 776,
+									["선장 유도라"] = 777,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 6383,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 52,
+								["total"] = 9810,
+								["c_max"] = 312,
+								["id"] = 269889,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 41,
+								["r_amt"] = 0,
+								["c_min"] = 0,
+							},
+							[271468] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 637,
+								["targets"] = {
+									["하늘선장 크라그"] = 637,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 637,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 1,
+								["total"] = 637,
+								["c_max"] = 0,
+								["id"] = 271468,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 1,
+								["r_amt"] = 0,
+								["c_min"] = 0,
+							},
+							[7268] = {
+								["c_amt"] = 49,
+								["b_amt"] = 0,
+								["c_dmg"] = 29188,
+								["g_amt"] = 0,
+								["n_max"] = 424,
+								["targets"] = {
+									["트로삭"] = 10332,
+									["무쇠파도 분쇄자"] = 7811,
+									["항만의 시궁쥐단 선원"] = 1004,
+									["항만의 시궁쥐단 해적단원"] = 1975,
+									["무쇠파도 장교"] = 4237,
+									["바다가름 작살사수"] = 2079,
+									["바다가름 칼부림꾼"] = 6329,
+									["무쇠파도 파수견"] = 3623,
+									["할란 스위트"] = 10577,
+									["항만의 시궁쥐단 소금비늘"] = 8009,
+									["무쇠파도 해적단원"] = 2446,
+									["무쇠파도 집행자"] = 2847,
+									["무쇠파도 폭풍소환사"] = 1586,
+									["무쇠파도 해적"] = 4317,
+									["무쇠파도 노꾼"] = 2932,
+									["루드비히 폰 토르톨란"] = 7899,
+									["검은이빨 투사"] = 2078,
+									["하늘선장 크라그"] = 6514,
+									["선장 유도라"] = 5539,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 62946,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 266,
+								["total"] = 92134,
+								["c_max"] = 847,
+								["id"] = 7268,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 217,
+								["r_amt"] = 0,
+								["c_min"] = 0,
+							},
+						},
+					},
+					["grupo"] = true,
+					["spec"] = 62,
+					["serial"] = "Player-205-0713A4FD",
+					["custom"] = 0,
+					["tipo"] = 1,
+					["last_dps"] = 0,
+					["start_time"] = 1605427036,
+					["delay"] = 0,
+					["damage_taken"] = 82956.131782,
+				}, -- [6]
+				{
+					["flag_original"] = 2632,
+					["totalabsorbed"] = 534.024258,
+					["on_hold"] = false,
+					["damage_from"] = {
+						["해피뼈전사"] = true,
+						["군신잔트라-데스윙"] = true,
+						["제프구프 <판타지곤-데스윙>"] = true,
+						["판타지곤-데스윙"] = true,
+						["지옥불정령 <판타지곤-데스윙>"] = true,
+						["법따리"] = true,
+					},
+					["targets"] = {
+						["해피뼈전사"] = 1025,
+						["법따리"] = 3491,
+						["군신잔트라-데스윙"] = 11113,
+						["판타지곤-데스윙"] = 2704,
+					},
+					["end_time"] = 1605427918,
+					["pets"] = {
+					},
+					["classe"] = "UNKNOW",
+					["friendlyfire_total"] = 0,
+					["raid_targets"] = {
+						[2] = 9958,
+					},
+					["total_without_pet"] = 18333.024258,
+					["fight_component"] = true,
+					["dps_started"] = false,
+					["total"] = 18333.024258,
+					["aID"] = "129788",
+					["monster"] = true,
+					["nome"] = "무쇠파도 해골톱날",
+					["spells"] = {
+						["tipo"] = 2,
+						["_ActorTable"] = {
+							{
+								["c_amt"] = 0,
+								["b_amt"] = 7,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 637,
+								["targets"] = {
+									["해피뼈전사"] = 0,
+									["법따리"] = 2356,
+									["군신잔트라-데스윙"] = 8903,
+									["판타지곤-데스윙"] = 2704,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 13963,
+								["MISS"] = 2,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 45,
+								["a_amt"] = 5,
+								["total"] = 13963,
+								["c_max"] = 0,
+								["DODGE"] = 1,
+								["id"] = 1,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 2704,
+								["m_crit"] = 0,
+								["PARRY"] = 5,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 1682,
+								["n_amt"] = 37,
+								["r_amt"] = 0,
+								["c_min"] = 0,
+							}, -- [1]
+							[258321] = {
+								["c_amt"] = 0,
+								["b_amt"] = 1,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 582,
+								["targets"] = {
+									["법따리"] = 1135,
+									["군신잔트라-데스윙"] = 2210,
+									["해피뼈전사"] = 1025,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 4370,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 11,
+								["total"] = 4370,
+								["c_max"] = 0,
+								["id"] = 258321,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 12,
+								["b_dmg"] = 168,
+								["n_amt"] = 11,
+								["r_amt"] = 0,
+								["c_min"] = 0,
+							},
+							[257397] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 0,
+								["targets"] = {
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 0,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 0,
+								["total"] = 0,
+								["c_max"] = 0,
+								["id"] = 257397,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 2,
+								["b_dmg"] = 0,
+								["n_amt"] = 0,
+								["r_amt"] = 0,
+								["c_min"] = 0,
+							},
+						},
+					},
+					["last_event"] = 0,
+					["friendlyfire"] = {
+					},
+					["serial"] = "Creature-0-3058-1754-18048-129788-0002B0E278",
+					["custom"] = 0,
+					["tipo"] = 1,
+					["last_dps"] = 0,
+					["start_time"] = 1605427814,
+					["delay"] = 0,
+					["damage_taken"] = 66928.024258,
+				}, -- [7]
+				{
+					["flag_original"] = 1298,
+					["totalabsorbed"] = 0.125515,
+					["on_hold"] = false,
+					["damage_from"] = {
+						["검은이빨 싸움꾼"] = true,
+						["환경피해 (낙하 충격)"] = true,
+						["[*] 껍질 튕기기"] = true,
+						["무쇠파도 해골톱날"] = true,
+						["선장 졸리"] = true,
+						["할란 스위트"] = true,
+						["항만의 시궁쥐단 해적단원"] = true,
+						["[*] 불꽃 파편"] = true,
+						["돌개바람 사브르"] = true,
+						["바다가름 결투사"] = true,
+						["무쇠파도 폭풍소환사"] = true,
+						["바다가름 작살사수"] = true,
+						["바다가름 칼부림꾼"] = true,
+						["무쇠파도 노꾼"] = true,
+						["무쇠파도 파수견"] = true,
+						["망치상어"] = true,
+						["항만의 시궁쥐단 소금비늘"] = true,
+						["무쇠파도 분쇄자"] = true,
+						["무쇠파도 집행자"] = true,
+						["무쇠파도 명사수"] = true,
+						["[*] 썩은 웅덩이"] = true,
+						["무쇠파도 해적"] = true,
+						["검은이빨 투사"] = true,
+						["선장 유도라"] = true,
+						["하늘선장 크라그"] = true,
+						["[*] 쥐덫"] = true,
+					},
+					["targets"] = {
+						["검은이빨 싸움꾼"] = 4259,
+						["축축한 배쥐"] = 2118,
+						["트로삭"] = 26941,
+						["할란 스위트"] = 45804,
+						["무쇠파도 해골톱날"] = 8958,
+						["무쇠파도 해적단원"] = 17027,
+						["선장 졸리"] = 38229,
+						["항만의 시궁쥐단 선원"] = 4173,
+						["항만의 시궁쥐단 해적단원"] = 14160,
+						["무쇠파도 약탈자"] = 9380,
+						["무쇠파도 폭풍소환사"] = 7631,
+						["바다가름 결투사"] = 7935,
+						["루드비히 폰 토르톨란"] = 16064,
+						["바다가름 작살사수"] = 25994,
+						["무쇠파도 해적"] = 42436,
+						["검은이빨 주먹잡이"] = 6928,
+						["무쇠파도 파수견"] = 31271,
+						["무쇠파도 분쇄자"] = 7361,
+						["항만의 시궁쥐단 소금비늘"] = 6751,
+						["바다가름 칼부림꾼"] = 16603,
+						["무쇠파도 집행자"] = 21440,
+						["무쇠파도 명사수"] = 6252,
+						["무쇠파도 노꾼"] = 14237,
+						["자유지대 선박원"] = 1643,
+						["검은이빨 투사"] = 6988,
+						["항만의 시궁쥐단 평발여우"] = 7705,
+						["하늘선장 크라그"] = 35824,
+						["야생 덫사냥꾼"] = 15304,
+					},
+					["pets"] = {
+						"제프구프 <판타지곤-데스윙>", -- [1]
+						"지옥불정령 <판타지곤-데스윙>", -- [2]
+					},
+					["aID"] = "214-07FC4C5D",
+					["boss_fight_component"] = true,
+					["friendlyfire_total"] = 0,
+					["raid_targets"] = {
+					},
+					["total_without_pet"] = 348422.1255150001,
+					["end_time"] = 1605427918,
+					["friendlyfire"] = {
+					},
+					["dps_started"] = false,
+					["total"] = 449416.125515,
+					["classe"] = "WARLOCK",
+					["last_event"] = 0,
+					["nome"] = "판타지곤-데스윙",
+					["spells"] = {
+						["tipo"] = 2,
+						["_ActorTable"] = {
+							[157736] = {
+								["c_amt"] = 21,
+								["b_amt"] = 0,
+								["c_dmg"] = 6792,
+								["g_amt"] = 0,
+								["n_max"] = 309,
+								["targets"] = {
+									["바다가름 작살사수"] = 872,
+									["무쇠파도 해적"] = 1101,
+									["할란 스위트"] = 3530,
+									["무쇠파도 파수견"] = 629,
+									["무쇠파도 해적단원"] = 481,
+									["항만의 시궁쥐단 소금비늘"] = 798,
+									["무쇠파도 약탈자"] = 635,
+									["무쇠파도 집행자"] = 1829,
+									["트로삭"] = 1116,
+									["선장 졸리"] = 2239,
+									["루드비히 폰 토르톨란"] = 450,
+									["무쇠파도 분쇄자"] = 1348,
+									["바다가름 결투사"] = 157,
+									["하늘선장 크라그"] = 1650,
+									["야생 덫사냥꾼"] = 1402,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 11445,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 95,
+								["total"] = 18237,
+								["c_max"] = 596,
+								["id"] = 157736,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 74,
+								["r_amt"] = 0,
+								["c_min"] = 0,
+							},
+							[22703] = {
+								["c_amt"] = 5,
+								["b_amt"] = 0,
+								["c_dmg"] = 3083,
+								["g_amt"] = 0,
+								["n_max"] = 320,
+								["targets"] = {
+									["바다가름 작살사수"] = 616,
+									["무쇠파도 해적"] = 320,
+									["무쇠파도 폭풍소환사"] = 311,
+									["무쇠파도 해골톱날"] = 945,
+									["무쇠파도 명사수"] = 315,
+									["항만의 시궁쥐단 해적단원"] = 615,
+									["무쇠파도 노꾼"] = 615,
+									["무쇠파도 해적단원"] = 603,
+									["무쇠파도 약탈자"] = 624,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 1881,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 11,
+								["total"] = 4964,
+								["c_max"] = 626,
+								["id"] = 22703,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 6,
+								["r_amt"] = 0,
+								["c_min"] = 0,
+							},
+							[6353] = {
+								["c_amt"] = 1,
+								["b_amt"] = 0,
+								["c_dmg"] = 5474,
+								["g_amt"] = 0,
+								["n_max"] = 2795,
+								["targets"] = {
+									["바다가름 작살사수"] = 2593,
+									["무쇠파도 해적"] = 2795,
+									["무쇠파도 파수견"] = 2786,
+									["할란 스위트"] = 5362,
+									["항만의 시궁쥐단 소금비늘"] = 2562,
+									["무쇠파도 해적단원"] = 2662,
+									["무쇠파도 집행자"] = 5217,
+									["무쇠파도 약탈자"] = 2529,
+									["선장 졸리"] = 5342,
+									["루드비히 폰 토르톨란"] = 2487,
+									["트로삭"] = 2578,
+									["무쇠파도 분쇄자"] = 2666,
+									["하늘선장 크라그"] = 7904,
+									["야생 덫사냥꾼"] = 5224,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 47233,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 19,
+								["total"] = 52707,
+								["c_max"] = 5474,
+								["id"] = 6353,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 18,
+								["r_amt"] = 0,
+								["c_min"] = 0,
+							},
+							[348] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 245,
+								["targets"] = {
+									["할란 스위트"] = 240,
+									["바다가름 결투사"] = 245,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 485,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 2,
+								["total"] = 485,
+								["c_max"] = 0,
+								["id"] = 348,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 2,
+								["r_amt"] = 0,
+								["c_min"] = 0,
+							},
+							[29722] = {
+								["c_amt"] = 46,
+								["b_amt"] = 0,
+								["c_dmg"] = 37183,
+								["g_amt"] = 0,
+								["n_max"] = 842,
+								["targets"] = {
+									["검은이빨 싸움꾼"] = 2007,
+									["트로삭"] = 6555,
+									["선장 졸리"] = 11272,
+									["항만의 시궁쥐단 선원"] = 2800,
+									["항만의 시궁쥐단 해적단원"] = 1974,
+									["할란 스위트"] = 11300,
+									["무쇠파도 해적단원"] = 6481,
+									["바다가름 결투사"] = 2782,
+									["무쇠파도 약탈자"] = 2072,
+									["바다가름 작살사수"] = 6033,
+									["바다가름 칼부림꾼"] = 5672,
+									["검은이빨 주먹잡이"] = 3116,
+									["무쇠파도 파수견"] = 11376,
+									["무쇠파도 폭풍소환사"] = 1249,
+									["항만의 시궁쥐단 소금비늘"] = 376,
+									["루드비히 폰 토르톨란"] = 4072,
+									["무쇠파도 집행자"] = 3600,
+									["무쇠파도 명사수"] = 794,
+									["검은이빨 투사"] = 779,
+									["무쇠파도 해적"] = 12368,
+									["무쇠파도 노꾼"] = 2337,
+									["항만의 시궁쥐단 평발여우"] = 4758,
+									["하늘선장 크라그"] = 8748,
+									["야생 덫사냥꾼"] = 3504,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 78842,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 239,
+								["total"] = 116025,
+								["c_max"] = 858,
+								["id"] = 29722,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 193,
+								["r_amt"] = 0,
+								["c_min"] = 0,
+							},
+							[116858] = {
+								["c_amt"] = 20,
+								["b_amt"] = 0,
+								["c_dmg"] = 37216,
+								["g_amt"] = 0,
+								["n_max"] = 0,
+								["targets"] = {
+									["할란 스위트"] = 10705,
+									["바다가름 작살사수"] = 1775,
+									["선장 졸리"] = 5429,
+									["루드비히 폰 토르톨란"] = 3473,
+									["트로삭"] = 7123,
+									["하늘선장 크라그"] = 6961,
+									["바다가름 칼부림꾼"] = 1750,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 0,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 20,
+								["total"] = 37216,
+								["c_max"] = 3638,
+								["id"] = 116858,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 0,
+								["r_amt"] = 0,
+								["c_min"] = 0,
+							},
+							[266136] = {
+								["c_amt"] = 4,
+								["b_amt"] = 0,
+								["c_dmg"] = 1213,
+								["g_amt"] = 0,
+								["n_max"] = 185,
+								["targets"] = {
+									["할란 스위트"] = 393,
+									["바다가름 작살사수"] = 180,
+									["선장 졸리"] = 181,
+									["루드비히 폰 토르톨란"] = 508,
+									["하늘선장 크라그"] = 337,
+									["트로삭"] = 228,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 614,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 9,
+								["total"] = 1827,
+								["c_max"] = 368,
+								["id"] = 266136,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 5,
+								["r_amt"] = 0,
+								["c_min"] = 0,
+							},
+							[42223] = {
+								["c_amt"] = 60,
+								["b_amt"] = 0,
+								["c_dmg"] = 12355,
+								["g_amt"] = 0,
+								["n_max"] = 111,
+								["targets"] = {
+									["검은이빨 싸움꾼"] = 391,
+									["축축한 배쥐"] = 2118,
+									["무쇠파도 해골톱날"] = 4263,
+									["선장 졸리"] = 1022,
+									["항만의 시궁쥐단 해적단원"] = 2030,
+									["바다가름 결투사"] = 1383,
+									["바다가름 작살사수"] = 2830,
+									["무쇠파도 해적"] = 6400,
+									["무쇠파도 약탈자"] = 811,
+									["무쇠파도 파수견"] = 4489,
+									["무쇠파도 해적단원"] = 1131,
+									["항만의 시궁쥐단 소금비늘"] = 319,
+									["무쇠파도 폭풍소환사"] = 1014,
+									["무쇠파도 집행자"] = 4364,
+									["무쇠파도 명사수"] = 921,
+									["바다가름 칼부림꾼"] = 1108,
+									["자유지대 선박원"] = 408,
+									["무쇠파도 노꾼"] = 2687,
+									["검은이빨 투사"] = 2801,
+									["항만의 시궁쥐단 평발여우"] = 1090,
+									["야생 덫사냥꾼"] = 1814,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 31039,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 364,
+								["total"] = 43394,
+								["c_max"] = 220,
+								["id"] = 42223,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 304,
+								["r_amt"] = 0,
+								["c_min"] = 0,
+							},
+							[17962] = {
+								["c_amt"] = 18,
+								["b_amt"] = 0,
+								["c_dmg"] = 22329,
+								["g_amt"] = 0,
+								["n_max"] = 1234,
+								["targets"] = {
+									["검은이빨 싸움꾼"] = 598,
+									["트로삭"] = 4944,
+									["할란 스위트"] = 6309,
+									["무쇠파도 해적단원"] = 1844,
+									["선장 졸리"] = 6243,
+									["항만의 시궁쥐단 선원"] = 605,
+									["항만의 시궁쥐단 해적단원"] = 4921,
+									["무쇠파도 약탈자"] = 644,
+									["무쇠파도 폭풍소환사"] = 1815,
+									["바다가름 결투사"] = 1855,
+									["루드비히 폰 토르톨란"] = 2489,
+									["바다가름 작살사수"] = 3732,
+									["무쇠파도 해적"] = 7215,
+									["검은이빨 주먹잡이"] = 1761,
+									["무쇠파도 파수견"] = 5715,
+									["무쇠파도 분쇄자"] = 1278,
+									["항만의 시궁쥐단 소금비늘"] = 1922,
+									["바다가름 칼부림꾼"] = 3177,
+									["무쇠파도 집행자"] = 3223,
+									["무쇠파도 명사수"] = 649,
+									["검은이빨 투사"] = 603,
+									["자유지대 선박원"] = 1235,
+									["무쇠파도 노꾼"] = 1891,
+									["항만의 시궁쥐단 평발여우"] = 1857,
+									["하늘선장 크라그"] = 4885,
+									["야생 덫사냥꾼"] = 1841,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 50922,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 98,
+								["total"] = 73251,
+								["c_max"] = 1328,
+								["id"] = 17962,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 80,
+								["r_amt"] = 0,
+								["c_min"] = 0,
+							},
+							[234153] = {
+								["c_amt"] = 1,
+								["b_amt"] = 0,
+								["c_dmg"] = 159,
+								["g_amt"] = 0,
+								["n_max"] = 79,
+								["targets"] = {
+									["무쇠파도 집행자"] = 316,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 157,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 3,
+								["total"] = 316,
+								["c_max"] = 159,
+								["id"] = 234153,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 2,
+								["r_amt"] = 0,
+								["c_min"] = 0,
+							},
+						},
+					},
+					["grupo"] = true,
+					["spec"] = 267,
+					["serial"] = "Player-214-07FC4C5D",
+					["custom"] = 0,
+					["tipo"] = 1,
+					["last_dps"] = 0,
+					["start_time"] = 1605426988,
+					["delay"] = 0,
+					["damage_taken"] = 89547.125515,
+				}, -- [8]
+				{
+					["flag_original"] = 4370,
+					["totalabsorbed"] = 0.14119,
+					["friendlyfire"] = {
+					},
+					["damage_from"] = {
+						["무쇠파도 해적"] = true,
+						["선장 졸리"] = true,
+						["선장 유도라"] = true,
+					},
+					["targets"] = {
+						["검은이빨 싸움꾼"] = 1263,
+						["트로삭"] = 4397,
+						["무쇠파도 해골톱날"] = 2397,
+						["선장 졸리"] = 6501,
+						["항만의 시궁쥐단 선원"] = 768,
+						["항만의 시궁쥐단 해적단원"] = 2565,
+						["할란 스위트"] = 7965,
+						["바다가름 결투사"] = 1513,
+						["무쇠파도 약탈자"] = 1042,
+						["바다가름 작살사수"] = 3899,
+						["무쇠파도 해적"] = 9871,
+						["검은이빨 주먹잡이"] = 2051,
+						["무쇠파도 파수견"] = 6276,
+						["무쇠파도 폭풍소환사"] = 1546,
+						["항만의 시궁쥐단 소금비늘"] = 515,
+						["루드비히 폰 토르톨란"] = 2585,
+						["무쇠파도 집행자"] = 2891,
+						["무쇠파도 명사수"] = 537,
+						["무쇠파도 분쇄자"] = 2069,
+						["바다가름 칼부림꾼"] = 4379,
+						["검은이빨 투사"] = 2805,
+						["무쇠파도 노꾼"] = 3610,
+						["하늘선장 크라그"] = 5339,
+						["야생 덫사냥꾼"] = 1519,
+					},
+					["total"] = 78303.14118999998,
+					["pets"] = {
+					},
+					["on_hold"] = false,
+					["classe"] = "PET",
+					["friendlyfire_total"] = 0,
+					["raid_targets"] = {
+					},
+					["total_without_pet"] = 78303.14118999998,
+					["boss_fight_component"] = true,
+					["dps_started"] = false,
+					["end_time"] = 1605427918,
+					["aID"] = "Pet-0-3057-1-819-416-03019C2D49",
+					["ownerName"] = "판타지곤-데스윙",
+					["nome"] = "제프구프 <판타지곤-데스윙>",
+					["last_event"] = 0,
+					["spells"] = {
+						["tipo"] = 2,
+						["_ActorTable"] = {
+							[3110] = {
+								["c_amt"] = 41,
+								["b_amt"] = 0,
+								["c_dmg"] = 21807,
+								["g_amt"] = 0,
+								["n_max"] = 521,
+								["targets"] = {
+									["검은이빨 싸움꾼"] = 1263,
+									["트로삭"] = 4397,
+									["무쇠파도 해골톱날"] = 2397,
+									["선장 졸리"] = 6501,
+									["항만의 시궁쥐단 선원"] = 768,
+									["항만의 시궁쥐단 해적단원"] = 2565,
+									["할란 스위트"] = 7965,
+									["바다가름 결투사"] = 1513,
+									["무쇠파도 약탈자"] = 1042,
+									["바다가름 작살사수"] = 3899,
+									["무쇠파도 해적"] = 9871,
+									["검은이빨 주먹잡이"] = 2051,
+									["무쇠파도 파수견"] = 6276,
+									["무쇠파도 폭풍소환사"] = 1546,
+									["항만의 시궁쥐단 소금비늘"] = 515,
+									["루드비히 폰 토르톨란"] = 2585,
+									["무쇠파도 집행자"] = 2891,
+									["무쇠파도 명사수"] = 537,
+									["무쇠파도 분쇄자"] = 2069,
+									["바다가름 칼부림꾼"] = 4379,
+									["검은이빨 투사"] = 2805,
+									["무쇠파도 노꾼"] = 3610,
+									["하늘선장 크라그"] = 5339,
+									["야생 덫사냥꾼"] = 1519,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 56496,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 257,
+								["total"] = 78303,
+								["c_max"] = 1020,
+								["id"] = 3110,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 216,
+								["r_amt"] = 0,
+								["c_min"] = 0,
+							},
+						},
+					},
+					["serial"] = "Pet-0-3057-1-819-416-03019C2D49",
+					["custom"] = 0,
+					["tipo"] = 1,
+					["last_dps"] = 0,
+					["start_time"] = 1605427130,
+					["delay"] = 0,
+					["damage_taken"] = 1040.14119,
+				}, -- [9]
+				{
+					["flag_original"] = 2632,
+					["totalabsorbed"] = 0.043236,
+					["damage_from"] = {
+					},
+					["targets"] = {
+					},
+					["total"] = 0.043236,
+					["pets"] = {
+					},
+					["on_hold"] = false,
+					["aID"] = "",
+					["raid_targets"] = {
+					},
+					["total_without_pet"] = 0.043236,
+					["last_event"] = 0,
+					["boss_fight_component"] = true,
+					["monster"] = true,
+					["end_time"] = 1605427918,
+					["dps_started"] = false,
+					["friendlyfire_total"] = 0,
+					["nome"] = "상어밥",
+					["spells"] = {
+						["tipo"] = 2,
+						["_ActorTable"] = {
+							[257272] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 0,
+								["targets"] = {
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 0,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 0,
+								["total"] = 0,
+								["c_max"] = 0,
+								["id"] = 257272,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 17,
+								["b_dmg"] = 0,
+								["n_amt"] = 0,
+								["r_amt"] = 0,
+								["c_min"] = 0,
+							},
+							[256005] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 0,
+								["targets"] = {
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 0,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 0,
+								["total"] = 0,
+								["c_max"] = 0,
+								["id"] = 256005,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 6,
+								["b_dmg"] = 0,
+								["n_amt"] = 0,
+								["r_amt"] = 0,
+								["c_min"] = 0,
+							},
+						},
+					},
+					["classe"] = "UNKNOW",
+					["friendlyfire"] = {
+					},
+					["serial"] = "Vehicle-0-3058-1754-18048-129743-000030E278",
+					["custom"] = 0,
+					["tipo"] = 1,
+					["last_dps"] = 0,
+					["start_time"] = 1605427915,
+					["delay"] = 0,
+					["damage_taken"] = 0.043236,
+				}, -- [10]
+				{
+					["flag_original"] = 2632,
+					["totalabsorbed"] = 4850.032486,
+					["damage_from"] = {
+					},
+					["targets"] = {
+						["해피뼈전사"] = 4462,
+						["군신잔트라-데스윙"] = 2871,
+						["덩치큰토템-데스윙"] = 694,
+						["법따리"] = 3598,
+						["판타지곤-데스윙"] = 2428,
+					},
+					["last_event"] = 0,
+					["pets"] = {
+					},
+					["fight_component"] = true,
+					["friendlyfire_total"] = 0,
+					["raid_targets"] = {
+						[2] = 2871,
+					},
+					["total_without_pet"] = 14053.032486,
+					["dps_started"] = false,
+					["on_hold"] = false,
+					["monster"] = true,
+					["total"] = 14053.032486,
+					["end_time"] = 1605427918,
+					["classe"] = "UNKNOW",
+					["nome"] = "[*] 썩은 웅덩이",
+					["spells"] = {
+						["tipo"] = 2,
+						["_ActorTable"] = {
+							[257274] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 348,
+								["targets"] = {
+									["해피뼈전사"] = 4462,
+									["군신잔트라-데스윙"] = 2871,
+									["덩치큰토템-데스윙"] = 694,
+									["법따리"] = 3598,
+									["판타지곤-데스윙"] = 2428,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 14053,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 43,
+								["total"] = 14053,
+								["c_max"] = 0,
+								["id"] = 257274,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 2633,
+								["m_crit"] = 0,
+								["a_amt"] = 8,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 43,
+								["r_amt"] = 0,
+								["c_min"] = 0,
+							},
+						},
+					},
+					["aID"] = "",
+					["friendlyfire"] = {
+					},
+					["serial"] = "",
+					["custom"] = 0,
+					["tipo"] = 1,
+					["damage_taken"] = 0.032486,
+					["start_time"] = 1605427854,
+					["delay"] = 0,
+					["last_dps"] = 0,
+				}, -- [11]
+				{
+					["flag_original"] = 1298,
+					["totalabsorbed"] = 0.076818,
+					["damage_from"] = {
+						["검은이빨 싸움꾼"] = true,
+						["환경피해 (낙하 충격)"] = true,
+						["트로삭"] = true,
+						["[*] 썩은내 범벅"] = true,
+						["선장 졸리"] = true,
+						["돌개바람 사브르"] = true,
+						["항만의 시궁쥐단 해적단원"] = true,
+						["[*] 불꽃 파편"] = true,
+						["무쇠파도 대포"] = true,
+						["바다가름 결투사"] = true,
+						["할란 스위트"] = true,
+						["바다가름 작살사수"] = true,
+						["바다가름 칼부림꾼"] = true,
+						["무쇠파도 노꾼"] = true,
+						["무쇠파도 파수견"] = true,
+						["무쇠파도 분쇄자"] = true,
+						["항만의 시궁쥐단 소금비늘"] = true,
+						["톱니 상어"] = true,
+						["무쇠파도 집행자"] = true,
+						["무쇠파도 명사수"] = true,
+						["[*] 썩은 웅덩이"] = true,
+						["무쇠파도 해적"] = true,
+						["검은이빨 투사"] = true,
+						["선장 유도라"] = true,
+						["하늘선장 크라그"] = true,
+						["[*] 쥐덫"] = true,
+					},
+					["targets"] = {
+						["할란 스위트"] = 6287,
+						["바다가름 칼부림꾼"] = 1042,
+						["루드비히 폰 토르톨란"] = 3889,
+						["트로삭"] = 4229,
+						["하늘선장 크라그"] = 2790,
+						["선장 졸리"] = 2148,
+					},
+					["pets"] = {
+						"축전 토템 <덩치큰토템-데스윙>", -- [1]
+						"정신의 고리 토템 <덩치큰토템-데스윙>", -- [2]
+					},
+					["on_hold"] = false,
+					["friendlyfire"] = {
+					},
+					["friendlyfire_total"] = 0,
+					["raid_targets"] = {
+					},
+					["total_without_pet"] = 20385.076818,
+					["boss_fight_component"] = true,
+					["end_time"] = 1605427918,
+					["dps_started"] = false,
+					["total"] = 20385.076818,
+					["classe"] = "SHAMAN",
+					["aID"] = "214-09483ED4",
+					["nome"] = "덩치큰토템-데스윙",
+					["spells"] = {
+						["tipo"] = 2,
+						["_ActorTable"] = {
+							[188389] = {
+								["c_amt"] = 15,
+								["b_amt"] = 0,
+								["c_dmg"] = 2572,
+								["g_amt"] = 0,
+								["n_max"] = 134,
+								["targets"] = {
+									["할란 스위트"] = 2093,
+									["바다가름 칼부림꾼"] = 249,
+									["루드비히 폰 토르톨란"] = 1079,
+									["트로삭"] = 1185,
+									["하늘선장 크라그"] = 879,
+									["선장 졸리"] = 649,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 3562,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 61,
+								["total"] = 6134,
+								["c_max"] = 458,
+								["id"] = 188389,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 46,
+								["r_amt"] = 0,
+								["c_min"] = 0,
+							},
+							[285452] = {
+								["c_amt"] = 6,
+								["b_amt"] = 0,
+								["c_dmg"] = 7539,
+								["g_amt"] = 0,
+								["n_max"] = 637,
+								["targets"] = {
+									["할란 스위트"] = 1860,
+									["선장 졸리"] = 1245,
+									["루드비히 폰 토르톨란"] = 1258,
+									["하늘선장 크라그"] = 1911,
+									["트로삭"] = 2521,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 1256,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 8,
+								["total"] = 8795,
+								["c_max"] = 1274,
+								["id"] = 285452,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 2,
+								["r_amt"] = 0,
+								["c_min"] = 0,
+							},
+							[196840] = {
+								["c_amt"] = 6,
+								["b_amt"] = 0,
+								["c_dmg"] = 3644,
+								["g_amt"] = 0,
+								["n_max"] = 265,
+								["targets"] = {
+									["할란 스위트"] = 2334,
+									["선장 졸리"] = 254,
+									["루드비히 폰 토르톨란"] = 1552,
+									["트로삭"] = 523,
+									["바다가름 칼부림꾼"] = 793,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 1812,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 13,
+								["total"] = 5456,
+								["c_max"] = 1034,
+								["id"] = 196840,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 7,
+								["r_amt"] = 0,
+								["c_min"] = 0,
+							},
+						},
+					},
+					["grupo"] = true,
+					["last_event"] = 0,
+					["spec"] = 264,
+					["serial"] = "Player-214-09483ED4",
+					["custom"] = 0,
+					["tipo"] = 1,
+					["last_dps"] = 0,
+					["start_time"] = 1605427799,
+					["delay"] = 0,
+					["damage_taken"] = 52193.07681799999,
+				}, -- [12]
+				{
+					["flag_original"] = 1298,
+					["totalabsorbed"] = 0.122443,
+					["on_hold"] = false,
+					["damage_from"] = {
+						["환경피해 (낙하 충격)"] = true,
+						["[*] 껍질 튕기기"] = true,
+						["트로삭"] = true,
+						["무쇠파도 해골톱날"] = true,
+						["[*] 썩은내 범벅"] = true,
+						["항만의 시궁쥐단 해적단원"] = true,
+						["돌개바람 사브르"] = true,
+						["바다가름 결투사"] = true,
+						["무쇠파도 대포"] = true,
+						["바다가름 작살사수"] = true,
+						["바다가름 칼부림꾼"] = true,
+						["할란 스위트"] = true,
+						["무쇠파도 파수견"] = true,
+						["무쇠파도 폭풍소환사"] = true,
+						["항만의 시궁쥐단 소금비늘"] = true,
+						["[*] 칼날의 회오리"] = true,
+						["무쇠파도 집행자"] = true,
+						["무쇠파도 노꾼"] = true,
+						["[*] 썩은 웅덩이"] = true,
+						["톱니 상어"] = true,
+						["선장 유도라"] = true,
+						["검은이빨 투사"] = true,
+						["하늘선장 크라그"] = true,
+						["[*] 쥐덫"] = true,
+					},
+					["targets"] = {
+						["검은이빨 싸움꾼"] = 12534,
+						["할란 스위트"] = 48043,
+						["축축한 배쥐"] = 4545,
+						["무쇠파도 파수견"] = 17334,
+						["트로삭"] = 31878,
+						["무쇠파도 해적단원"] = 14077,
+						["무쇠파도 해골톱날"] = 26538,
+						["무쇠파도 약탈자"] = 17558,
+						["선장 졸리"] = 17715,
+						["항만의 시궁쥐단 선원"] = 2955,
+						["항만의 시궁쥐단 해적단원"] = 33680,
+						["무쇠파도 폭풍소환사"] = 4790,
+						["루드비히 폰 토르톨란"] = 22228,
+						["바다가름 결투사"] = 13422,
+						["무쇠파도 장교"] = 8483,
+						["바다가름 작살사수"] = 34679,
+						["무쇠파도 해적"] = 38455,
+						["검은이빨 주먹잡이"] = 13726,
+						["검은이빨 투사"] = 14373,
+						["무쇠파도 분쇄자"] = 19303,
+						["항만의 시궁쥐단 소금비늘"] = 9529,
+						["바다가름 칼부림꾼"] = 25401,
+						["무쇠파도 집행자"] = 72255,
+						["무쇠파도 명사수"] = 5773,
+						["무쇠파도 노꾼"] = 34569,
+						["자유지대 선박원"] = 646,
+						["항만의 시궁쥐단 평발여우"] = 1793,
+						["야생 덫사냥꾼"] = 24817,
+						["하늘선장 크라그"] = 38545,
+						["선장 유도라"] = 28525,
+					},
+					["pets"] = {
+					},
+					["aID"] = "205-06251940",
+					["boss_fight_component"] = true,
+					["friendlyfire_total"] = 0,
+					["raid_targets"] = {
+						[128] = 28525,
+					},
+					["total_without_pet"] = 638169.1224429999,
+					["end_time"] = 1605427981,
+					["friendlyfire"] = {
+					},
+					["dps_started"] = false,
+					["total"] = 638169.1224429999,
+					["classe"] = "WARRIOR",
+					["last_event"] = 0,
+					["nome"] = "해피뼈전사",
+					["spells"] = {
+						["tipo"] = 2,
+						["_ActorTable"] = {
+							{
+								["c_amt"] = 56,
+								["b_amt"] = 0,
+								["c_dmg"] = 35254,
+								["g_amt"] = 0,
+								["n_max"] = 498,
+								["targets"] = {
+									["검은이빨 싸움꾼"] = 1453,
+									["할란 스위트"] = 8551,
+									["트로삭"] = 4239,
+									["루드비히 폰 토르톨란"] = 4120,
+									["무쇠파도 해골톱날"] = 4070,
+									["무쇠파도 해적단원"] = 1294,
+									["선장 졸리"] = 1943,
+									["항만의 시궁쥐단 선원"] = 568,
+									["항만의 시궁쥐단 해적단원"] = 5070,
+									["무쇠파도 약탈자"] = 3535,
+									["무쇠파도 폭풍소환사"] = 314,
+									["바다가름 결투사"] = 1785,
+									["무쇠파도 장교"] = 1387,
+									["바다가름 작살사수"] = 5280,
+									["무쇠파도 해적"] = 5896,
+									["검은이빨 주먹잡이"] = 2479,
+									["무쇠파도 노꾼"] = 5754,
+									["무쇠파도 분쇄자"] = 4418,
+									["항만의 시궁쥐단 소금비늘"] = 1511,
+									["야생 덫사냥꾼"] = 4229,
+									["무쇠파도 집행자"] = 9992,
+									["무쇠파도 명사수"] = 286,
+									["바다가름 칼부림꾼"] = 5257,
+									["검은이빨 투사"] = 1088,
+									["무쇠파도 파수견"] = 788,
+									["항만의 시궁쥐단 평발여우"] = 281,
+									["하늘선장 크라그"] = 5408,
+									["선장 유도라"] = 3826,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 59568,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 251,
+								["total"] = 94822,
+								["c_max"] = 1006,
+								["id"] = 1,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 195,
+								["r_amt"] = 0,
+								["c_min"] = 0,
+							}, -- [1]
+							[7384] = {
+								["c_amt"] = 38,
+								["b_amt"] = 0,
+								["c_dmg"] = 37894,
+								["g_amt"] = 0,
+								["n_max"] = 805,
+								["targets"] = {
+									["검은이빨 싸움꾼"] = 2050,
+									["트로삭"] = 5236,
+									["할란 스위트"] = 8490,
+									["무쇠파도 해골톱날"] = 2234,
+									["무쇠파도 폭풍소환사"] = 486,
+									["선장 졸리"] = 2228,
+									["항만의 시궁쥐단 선원"] = 464,
+									["항만의 시궁쥐단 해적단원"] = 5475,
+									["무쇠파도 해적단원"] = 2185,
+									["무쇠파도 약탈자"] = 3082,
+									["바다가름 결투사"] = 2235,
+									["무쇠파도 장교"] = 1828,
+									["바다가름 작살사수"] = 3936,
+									["바다가름 칼부림꾼"] = 2364,
+									["검은이빨 주먹잡이"] = 3567,
+									["무쇠파도 노꾼"] = 6049,
+									["루드비히 폰 토르톨란"] = 2965,
+									["항만의 시궁쥐단 소금비늘"] = 855,
+									["무쇠파도 분쇄자"] = 2472,
+									["무쇠파도 집행자"] = 12043,
+									["무쇠파도 명사수"] = 297,
+									["무쇠파도 파수견"] = 968,
+									["야생 덫사냥꾼"] = 3793,
+									["무쇠파도 해적"] = 4917,
+									["검은이빨 투사"] = 1428,
+									["하늘선장 크라그"] = 5681,
+									["선장 유도라"] = 4332,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 53766,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 150,
+								["total"] = 91660,
+								["c_max"] = 1651,
+								["id"] = 7384,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 112,
+								["r_amt"] = 0,
+								["c_min"] = 0,
+							},
+							[274575] = {
+								["c_amt"] = 6,
+								["b_amt"] = 0,
+								["c_dmg"] = 2562,
+								["g_amt"] = 0,
+								["n_max"] = 334,
+								["targets"] = {
+									["검은이빨 싸움꾼"] = 277,
+									["트로삭"] = 334,
+									["무쇠파도 해골톱날"] = 47,
+									["항만의 시궁쥐단 선원"] = 334,
+									["항만의 시궁쥐단 해적단원"] = 84,
+									["바다가름 결투사"] = 334,
+									["바다가름 작살사수"] = 167,
+									["바다가름 칼부림꾼"] = 84,
+									["무쇠파도 노꾼"] = 168,
+									["항만의 시궁쥐단 소금비늘"] = 167,
+									["할란 스위트"] = 668,
+									["무쇠파도 집행자"] = 94,
+									["무쇠파도 폭풍소환사"] = 334,
+									["무쇠파도 해적"] = 95,
+									["무쇠파도 파수견"] = 764,
+									["검은이빨 투사"] = 501,
+									["항만의 시궁쥐단 평발여우"] = 167,
+									["하늘선장 크라그"] = 334,
+									["선장 유도라"] = 1003,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 3394,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 29,
+								["total"] = 5956,
+								["c_max"] = 669,
+								["id"] = 274575,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 23,
+								["r_amt"] = 0,
+								["c_min"] = 0,
+							},
+							[1464] = {
+								["c_amt"] = 5,
+								["b_amt"] = 0,
+								["c_dmg"] = 3541,
+								["g_amt"] = 0,
+								["n_max"] = 492,
+								["targets"] = {
+									["할란 스위트"] = 492,
+									["루드비히 폰 토르톨란"] = 449,
+									["무쇠파도 약탈자"] = 702,
+									["트로삭"] = 1371,
+									["하늘선장 크라그"] = 2161,
+									["선장 유도라"] = 1141,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 2775,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 12,
+								["total"] = 6316,
+								["c_max"] = 763,
+								["id"] = 1464,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 7,
+								["r_amt"] = 0,
+								["c_min"] = 0,
+							},
+							[126664] = {
+								["c_amt"] = 11,
+								["b_amt"] = 0,
+								["c_dmg"] = 1412,
+								["g_amt"] = 0,
+								["n_max"] = 78,
+								["targets"] = {
+									["트로삭"] = 109,
+									["무쇠파도 해골톱날"] = 285,
+									["선장 졸리"] = 170,
+									["루드비히 폰 토르톨란"] = 192,
+									["항만의 시궁쥐단 해적단원"] = 224,
+									["야생 덫사냥꾼"] = 109,
+									["바다가름 작살사수"] = 78,
+									["바다가름 칼부림꾼"] = 115,
+									["무쇠파도 노꾼"] = 102,
+									["항만의 시궁쥐단 소금비늘"] = 110,
+									["무쇠파도 집행자"] = 763,
+									["할란 스위트"] = 414,
+									["무쇠파도 해적단원"] = 104,
+									["무쇠파도 약탈자"] = 110,
+									["무쇠파도 해적"] = 257,
+									["무쇠파도 분쇄자"] = 65,
+									["하늘선장 크라그"] = 121,
+									["선장 유도라"] = 202,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 2118,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 49,
+								["total"] = 3530,
+								["c_max"] = 166,
+								["id"] = 126664,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 38,
+								["r_amt"] = 0,
+								["c_min"] = 0,
+							},
+							[260798] = {
+								["c_amt"] = 32,
+								["b_amt"] = 0,
+								["c_dmg"] = 97484,
+								["g_amt"] = 0,
+								["n_max"] = 2400,
+								["targets"] = {
+									["검은이빨 싸움꾼"] = 5972,
+									["트로삭"] = 12634,
+									["할란 스위트"] = 18697,
+									["무쇠파도 해골톱날"] = 7706,
+									["무쇠파도 폭풍소환사"] = 2919,
+									["선장 졸리"] = 10323,
+									["항만의 시궁쥐단 선원"] = 1390,
+									["항만의 시궁쥐단 해적단원"] = 8809,
+									["무쇠파도 해적단원"] = 7863,
+									["무쇠파도 약탈자"] = 4953,
+									["바다가름 결투사"] = 4281,
+									["무쇠파도 장교"] = 2779,
+									["바다가름 작살사수"] = 12147,
+									["바다가름 칼부림꾼"] = 8393,
+									["검은이빨 주먹잡이"] = 2440,
+									["무쇠파도 노꾼"] = 8424,
+									["루드비히 폰 토르톨란"] = 7819,
+									["항만의 시궁쥐단 소금비늘"] = 4004,
+									["무쇠파도 분쇄자"] = 7115,
+									["무쇠파도 집행자"] = 24447,
+									["무쇠파도 명사수"] = 3141,
+									["무쇠파도 파수견"] = 4762,
+									["야생 덫사냥꾼"] = 8416,
+									["무쇠파도 해적"] = 15242,
+									["검은이빨 투사"] = 5471,
+									["하늘선장 크라그"] = 13569,
+									["선장 유도라"] = 10344,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 126576,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 118,
+								["total"] = 224060,
+								["c_max"] = 4819,
+								["id"] = 260798,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 86,
+								["r_amt"] = 0,
+								["c_min"] = 0,
+							},
+							[105771] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 0,
+								["targets"] = {
+									["무쇠파도 집행자"] = 0,
+									["할란 스위트"] = 0,
+									["선장 졸리"] = 0,
+									["루드비히 폰 토르톨란"] = 0,
+									["트로삭"] = 0,
+									["무쇠파도 분쇄자"] = 0,
+									["하늘선장 크라그"] = 0,
+									["선장 유도라"] = 0,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 0,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 27,
+								["total"] = 0,
+								["c_max"] = 0,
+								["IMMUNE"] = 27,
+								["id"] = 105771,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 0,
+								["r_amt"] = 0,
+								["c_min"] = 0,
+							},
+							[34428] = {
+								["c_amt"] = 11,
+								["b_amt"] = 0,
+								["c_dmg"] = 4410,
+								["g_amt"] = 0,
+								["n_max"] = 300,
+								["targets"] = {
+									["검은이빨 싸움꾼"] = 205,
+									["축축한 배쥐"] = 275,
+									["무쇠파도 해골톱날"] = 414,
+									["무쇠파도 분쇄자"] = 412,
+									["항만의 시궁쥐단 선원"] = 199,
+									["항만의 시궁쥐단 해적단원"] = 473,
+									["무쇠파도 약탈자"] = 364,
+									["바다가름 결투사"] = 204,
+									["무쇠파도 장교"] = 362,
+									["바다가름 작살사수"] = 655,
+									["무쇠파도 해적"] = 772,
+									["검은이빨 주먹잡이"] = 179,
+									["무쇠파도 노꾼"] = 730,
+									["무쇠파도 해적단원"] = 313,
+									["항만의 시궁쥐단 소금비늘"] = 413,
+									["무쇠파도 폭풍소환사"] = 216,
+									["무쇠파도 집행자"] = 948,
+									["무쇠파도 명사수"] = 234,
+									["바다가름 칼부림꾼"] = 408,
+									["야생 덫사냥꾼"] = 619,
+									["검은이빨 투사"] = 415,
+									["무쇠파도 파수견"] = 180,
+									["항만의 시궁쥐단 평발여우"] = 132,
+									["선장 유도라"] = 178,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 4890,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 36,
+								["total"] = 9300,
+								["c_max"] = 552,
+								["id"] = 34428,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 25,
+								["r_amt"] = 0,
+								["c_min"] = 0,
+							},
+							[262115] = {
+								["c_amt"] = 67,
+								["b_amt"] = 0,
+								["c_dmg"] = 16544,
+								["g_amt"] = 0,
+								["n_max"] = 162,
+								["targets"] = {
+									["검은이빨 싸움꾼"] = 345,
+									["트로삭"] = 2478,
+									["무쇠파도 해골톱날"] = 2049,
+									["선장 졸리"] = 825,
+									["루드비히 폰 토르톨란"] = 1812,
+									["항만의 시궁쥐단 해적단원"] = 1803,
+									["할란 스위트"] = 2929,
+									["무쇠파도 해적단원"] = 111,
+									["야생 덫사냥꾼"] = 1358,
+									["무쇠파도 장교"] = 555,
+									["바다가름 작살사수"] = 1653,
+									["바다가름 칼부림꾼"] = 1409,
+									["검은이빨 주먹잡이"] = 995,
+									["검은이빨 투사"] = 747,
+									["무쇠파도 약탈자"] = 615,
+									["항만의 시궁쥐단 소금비늘"] = 332,
+									["무쇠파도 분쇄자"] = 1591,
+									["무쇠파도 집행자"] = 5629,
+									["무쇠파도 명사수"] = 245,
+									["무쇠파도 파수견"] = 1832,
+									["무쇠파도 해적"] = 1097,
+									["무쇠파도 노꾼"] = 1647,
+									["바다가름 결투사"] = 963,
+									["하늘선장 크라그"] = 3113,
+									["선장 유도라"] = 2460,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 22049,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 254,
+								["total"] = 38593,
+								["c_max"] = 324,
+								["id"] = 262115,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 187,
+								["r_amt"] = 0,
+								["c_min"] = 0,
+							},
+							[12294] = {
+								["c_amt"] = 20,
+								["b_amt"] = 0,
+								["c_dmg"] = 28223,
+								["g_amt"] = 0,
+								["n_max"] = 1136,
+								["targets"] = {
+									["검은이빨 싸움꾼"] = 654,
+									["축축한 배쥐"] = 488,
+									["트로삭"] = 3892,
+									["무쇠파도 해골톱날"] = 4754,
+									["선장 졸리"] = 2076,
+									["루드비히 폰 토르톨란"] = 3743,
+									["항만의 시궁쥐단 해적단원"] = 4307,
+									["할란 스위트"] = 5795,
+									["무쇠파도 해적단원"] = 650,
+									["야생 덫사냥꾼"] = 2011,
+									["무쇠파도 장교"] = 651,
+									["바다가름 작살사수"] = 2948,
+									["바다가름 칼부림꾼"] = 4329,
+									["검은이빨 주먹잡이"] = 1155,
+									["무쇠파도 노꾼"] = 5306,
+									["무쇠파도 약탈자"] = 2389,
+									["항만의 시궁쥐단 소금비늘"] = 688,
+									["무쇠파도 분쇄자"] = 2247,
+									["무쇠파도 집행자"] = 8470,
+									["무쇠파도 명사수"] = 698,
+									["무쇠파도 파수견"] = 2610,
+									["바다가름 결투사"] = 1209,
+									["무쇠파도 해적"] = 3928,
+									["검은이빨 투사"] = 731,
+									["하늘선장 크라그"] = 5638,
+									["선장 유도라"] = 2950,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 46094,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 85,
+								["total"] = 74317,
+								["c_max"] = 2178,
+								["id"] = 12294,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 65,
+								["r_amt"] = 0,
+								["c_min"] = 0,
+							},
+							[127802] = {
+								["c_amt"] = 15,
+								["b_amt"] = 0,
+								["c_dmg"] = 4732,
+								["g_amt"] = 0,
+								["n_max"] = 168,
+								["targets"] = {
+									["검은이빨 싸움꾼"] = 150,
+									["트로삭"] = 636,
+									["무쇠파도 해골톱날"] = 628,
+									["선장 졸리"] = 150,
+									["루드비히 폰 토르톨란"] = 318,
+									["항만의 시궁쥐단 해적단원"] = 488,
+									["할란 스위트"] = 956,
+									["바다가름 결투사"] = 316,
+									["무쇠파도 장교"] = 600,
+									["바다가름 작살사수"] = 300,
+									["바다가름 칼부림꾼"] = 336,
+									["검은이빨 주먹잡이"] = 300,
+									["무쇠파도 파수견"] = 313,
+									["무쇠파도 약탈자"] = 318,
+									["항만의 시궁쥐단 소금비늘"] = 168,
+									["무쇠파도 분쇄자"] = 317,
+									["무쇠파도 집행자"] = 1221,
+									["검은이빨 투사"] = 337,
+									["무쇠파도 해적"] = 626,
+									["무쇠파도 노꾼"] = 447,
+									["야생 덫사냥꾼"] = 468,
+									["항만의 시궁쥐단 평발여우"] = 150,
+									["하늘선장 크라그"] = 496,
+									["선장 유도라"] = 467,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 5774,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 52,
+								["total"] = 10506,
+								["c_max"] = 338,
+								["id"] = 127802,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 37,
+								["r_amt"] = 0,
+								["c_min"] = 0,
+							},
+							[167105] = {
+								["c_amt"] = 5,
+								["b_amt"] = 0,
+								["c_dmg"] = 8152,
+								["g_amt"] = 0,
+								["n_max"] = 1062,
+								["targets"] = {
+									["바다가름 작살사수"] = 1630,
+									["할란 스위트"] = 1051,
+									["검은이빨 투사"] = 603,
+									["무쇠파도 약탈자"] = 836,
+									["트로삭"] = 949,
+									["무쇠파도 노꾼"] = 2018,
+									["무쇠파도 해골톱날"] = 991,
+									["선장 유도라"] = 1622,
+									["무쇠파도 집행자"] = 2988,
+									["루드비히 폰 토르톨란"] = 810,
+									["항만의 시궁쥐단 해적단원"] = 3172,
+									["무쇠파도 파수견"] = 764,
+									["하늘선장 크라그"] = 2024,
+									["야생 덫사냥꾼"] = 1062,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 12368,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 19,
+								["total"] = 20520,
+								["c_max"] = 2130,
+								["id"] = 167105,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 14,
+								["r_amt"] = 0,
+								["c_min"] = 0,
+							},
+							[199658] = {
+								["c_amt"] = 124,
+								["b_amt"] = 0,
+								["c_dmg"] = 22301,
+								["g_amt"] = 0,
+								["n_max"] = 139,
+								["targets"] = {
+									["검은이빨 싸움꾼"] = 1428,
+									["축축한 배쥐"] = 3782,
+									["무쇠파도 해골톱날"] = 3360,
+									["무쇠파도 분쇄자"] = 666,
+									["항만의 시궁쥐단 해적단원"] = 3775,
+									["무쇠파도 약탈자"] = 654,
+									["바다가름 결투사"] = 2095,
+									["무쇠파도 장교"] = 321,
+									["바다가름 작살사수"] = 5885,
+									["바다가름 칼부림꾼"] = 2706,
+									["검은이빨 주먹잡이"] = 2611,
+									["무쇠파도 파수견"] = 4353,
+									["무쇠파도 해적단원"] = 1557,
+									["항만의 시궁쥐단 소금비늘"] = 1281,
+									["무쇠파도 폭풍소환사"] = 521,
+									["무쇠파도 집행자"] = 5660,
+									["무쇠파도 명사수"] = 872,
+									["무쇠파도 해적"] = 5625,
+									["자유지대 선박원"] = 646,
+									["검은이빨 투사"] = 3052,
+									["무쇠파도 노꾼"] = 3924,
+									["항만의 시궁쥐단 평발여우"] = 1063,
+									["야생 덫사냥꾼"] = 2752,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 36288,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 533,
+								["total"] = 58589,
+								["c_max"] = 274,
+								["id"] = 199658,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 409,
+								["r_amt"] = 0,
+								["c_min"] = 0,
+							},
+						},
+					},
+					["grupo"] = true,
+					["spec"] = 71,
+					["serial"] = "Player-205-06251940",
+					["custom"] = 0,
+					["tipo"] = 1,
+					["last_dps"] = 0,
+					["start_time"] = 1605427030,
+					["delay"] = 0,
+					["damage_taken"] = 93705.12244299999,
+				}, -- [13]
+				{
+					["flag_original"] = 8466,
+					["totalabsorbed"] = 0.024021,
+					["total"] = 22691.024021,
+					["damage_from"] = {
+						["항만의 시궁쥐단 해적단원"] = true,
+						["무쇠파도 해적단원"] = true,
+					},
+					["targets"] = {
+						["바다가름 작살사수"] = 3464,
+						["바다가름 칼부림꾼"] = 517,
+						["무쇠파도 폭풍소환사"] = 1696,
+						["항만의 시궁쥐단 소금비늘"] = 259,
+						["무쇠파도 해골톱날"] = 1353,
+						["무쇠파도 명사수"] = 3036,
+						["무쇠파도 해적"] = 2366,
+						["항만의 시궁쥐단 해적단원"] = 2055,
+						["무쇠파도 해적단원"] = 3825,
+						["무쇠파도 노꾼"] = 3097,
+						["무쇠파도 약탈자"] = 1023,
+					},
+					["pets"] = {
+					},
+					["on_hold"] = false,
+					["last_event"] = 0,
+					["aID"] = "89",
+					["raid_targets"] = {
+					},
+					["total_without_pet"] = 22691.024021,
+					["serial"] = "Creature-0-3058-1754-18048-89-000030E375",
+					["dps_started"] = false,
+					["end_time"] = 1605428106,
+					["classe"] = "PET",
+					["ownerName"] = "판타지곤-데스윙",
+					["nome"] = "지옥불정령 <판타지곤-데스윙>",
+					["friendlyfire_total"] = 0,
+					["spells"] = {
+						["tipo"] = 2,
+						["_ActorTable"] = {
+							{
+								["c_amt"] = 4,
+								["b_amt"] = 0,
+								["c_dmg"] = 988,
+								["g_amt"] = 0,
+								["n_max"] = 130,
+								["targets"] = {
+									["바다가름 작살사수"] = 856,
+									["무쇠파도 해적"] = 753,
+									["항만의 시궁쥐단 해적단원"] = 246,
+									["무쇠파도 해적단원"] = 977,
+									["무쇠파도 폭풍소환사"] = 650,
+									["무쇠파도 명사수"] = 375,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 2869,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 27,
+								["total"] = 3857,
+								["c_max"] = 252,
+								["id"] = 1,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 23,
+								["r_amt"] = 0,
+								["c_min"] = 0,
+							}, -- [1]
+							[20153] = {
+								["c_amt"] = 9,
+								["b_amt"] = 0,
+								["c_dmg"] = 4740,
+								["g_amt"] = 0,
+								["n_max"] = 274,
+								["targets"] = {
+									["바다가름 작살사수"] = 2608,
+									["바다가름 칼부림꾼"] = 517,
+									["무쇠파도 폭풍소환사"] = 1046,
+									["항만의 시궁쥐단 소금비늘"] = 259,
+									["무쇠파도 해골톱날"] = 1353,
+									["무쇠파도 명사수"] = 2661,
+									["무쇠파도 해적"] = 1613,
+									["항만의 시궁쥐단 해적단원"] = 1809,
+									["무쇠파도 해적단원"] = 2848,
+									["무쇠파도 노꾼"] = 3097,
+									["무쇠파도 약탈자"] = 1023,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 14094,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 63,
+								["total"] = 18834,
+								["c_max"] = 545,
+								["id"] = 20153,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 54,
+								["r_amt"] = 0,
+								["c_min"] = 0,
+							},
+						},
+					},
+					["friendlyfire"] = {
+					},
+					["custom"] = 0,
+					["tipo"] = 1,
+					["damage_taken"] = 321.0240210000001,
+					["start_time"] = 1605428051,
+					["delay"] = 0,
+					["last_dps"] = 0,
+				}, -- [14]
+				{
+					["flag_original"] = 2632,
+					["totalabsorbed"] = 1811.013691,
+					["damage_from"] = {
+						["해피뼈전사"] = true,
+						["군신잔트라-데스윙"] = true,
+						["덩치큰토템-데스윙"] = true,
+						["법따리"] = true,
+						["제프구프 <판타지곤-데스윙>"] = true,
+						["판타지곤-데스윙"] = true,
+					},
+					["targets"] = {
+						["판타지곤-데스윙"] = 1811,
+						["해피뼈전사"] = 8003,
+						["군신잔트라-데스윙"] = 18309,
+						["덩치큰토템-데스윙"] = 3521,
+					},
+					["on_hold"] = false,
+					["pets"] = {
+					},
+					["monster"] = true,
+					["friendlyfire_total"] = 0,
+					["raid_targets"] = {
+						[2] = 18309,
+					},
+					["total_without_pet"] = 31644.013691,
+					["classe"] = "UNKNOW",
+					["end_time"] = 1605428308,
+					["dps_started"] = false,
+					["total"] = 31644.013691,
+					["boss_fight_component"] = true,
+					["aID"] = "126832",
+					["nome"] = "하늘선장 크라그",
+					["spells"] = {
+						["tipo"] = 2,
+						["_ActorTable"] = {
+							{
+								["c_amt"] = 0,
+								["b_amt"] = 6,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 963,
+								["targets"] = {
+									["군신잔트라-데스윙"] = 15757,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 15757,
+								["a_amt"] = 0,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 28,
+								["DODGE"] = 1,
+								["total"] = 15757,
+								["c_max"] = 0,
+								["MISS"] = 1,
+								["id"] = 1,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["PARRY"] = 2,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 3324,
+								["n_amt"] = 24,
+								["r_amt"] = 0,
+								["c_min"] = 0,
+							}, -- [1]
+							[256106] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 1808,
+								["targets"] = {
+									["해피뼈전사"] = 7094,
+									["군신잔트라-데스윙"] = 1658,
+									["덩치큰토템-데스윙"] = 1735,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 10487,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 6,
+								["total"] = 10487,
+								["c_max"] = 0,
+								["id"] = 256106,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 4,
+								["b_dmg"] = 0,
+								["n_amt"] = 6,
+								["r_amt"] = 0,
+								["c_min"] = 0,
+							},
+							[258773] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 0,
+								["targets"] = {
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 0,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 0,
+								["total"] = 0,
+								["c_max"] = 0,
+								["id"] = 258773,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 2,
+								["b_dmg"] = 0,
+								["n_amt"] = 0,
+								["r_amt"] = 0,
+								["c_min"] = 0,
+							},
+							[263274] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 0,
+								["targets"] = {
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 0,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 0,
+								["total"] = 0,
+								["c_max"] = 0,
+								["id"] = 263274,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 2,
+								["b_dmg"] = 0,
+								["n_amt"] = 0,
+								["r_amt"] = 0,
+								["c_min"] = 0,
+							},
+							[256060] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 0,
+								["targets"] = {
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 0,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 0,
+								["total"] = 0,
+								["c_max"] = 0,
+								["id"] = 256060,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 2,
+								["b_dmg"] = 0,
+								["n_amt"] = 0,
+								["r_amt"] = 0,
+								["c_min"] = 0,
+							},
+							[255966] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 913,
+								["targets"] = {
+									["판타지곤-데스윙"] = 1811,
+									["해피뼈전사"] = 909,
+									["군신잔트라-데스윙"] = 894,
+									["덩치큰토템-데스윙"] = 1786,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 5400,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 6,
+								["total"] = 5400,
+								["c_max"] = 0,
+								["id"] = 255966,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 5,
+								["b_dmg"] = 0,
+								["n_amt"] = 6,
+								["r_amt"] = 0,
+								["c_min"] = 0,
+							},
+							[255952] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 0,
+								["targets"] = {
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 0,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 0,
+								["total"] = 0,
+								["c_max"] = 0,
+								["id"] = 255952,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 2,
+								["b_dmg"] = 0,
+								["n_amt"] = 0,
+								["r_amt"] = 0,
+								["c_min"] = 0,
+							},
+						},
+					},
+					["last_event"] = 0,
+					["friendlyfire"] = {
+					},
+					["serial"] = "Creature-0-3058-1754-18048-126832-000030E40F",
+					["custom"] = 0,
+					["tipo"] = 1,
+					["last_dps"] = 0,
+					["start_time"] = 1605428241,
+					["delay"] = 0,
+					["damage_taken"] = 132567.013691,
+				}, -- [15]
+				{
+					["flag_original"] = 2632,
+					["totalabsorbed"] = 2657.010957,
+					["damage_from"] = {
+					},
+					["targets"] = {
+						["법따리"] = 5558,
+						["해피뼈전사"] = 1202,
+						["군신잔트라-데스윙"] = 2007,
+						["덩치큰토템-데스윙"] = 608,
+					},
+					["dps_started"] = false,
+					["pets"] = {
+					},
+					["last_event"] = 0,
+					["classe"] = "UNKNOW",
+					["raid_targets"] = {
+						[2] = 2007,
+					},
+					["total_without_pet"] = 9375.010956999999,
+					["on_hold"] = false,
+					["end_time"] = 1605428308,
+					["monster"] = true,
+					["total"] = 9375.010956999999,
+					["boss_fight_component"] = true,
+					["aID"] = "",
+					["nome"] = "[*] 썩은내 범벅",
+					["spells"] = {
+						["tipo"] = 2,
+						["_ActorTable"] = {
+							[256016] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 608,
+								["targets"] = {
+									["법따리"] = 5558,
+									["해피뼈전사"] = 1202,
+									["군신잔트라-데스윙"] = 2007,
+									["덩치큰토템-데스윙"] = 608,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 9375,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 17,
+								["total"] = 9375,
+								["c_max"] = 0,
+								["id"] = 256016,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 2649,
+								["m_crit"] = 0,
+								["a_amt"] = 5,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 17,
+								["r_amt"] = 0,
+								["c_min"] = 0,
+							},
+						},
+					},
+					["friendlyfire"] = {
+					},
+					["friendlyfire_total"] = 0,
+					["serial"] = "",
+					["custom"] = 0,
+					["tipo"] = 1,
+					["last_dps"] = 0,
+					["start_time"] = 1605428267,
+					["delay"] = 0,
+					["damage_taken"] = 0.010957,
+				}, -- [16]
+				{
+					["flag_original"] = 2600,
+					["totalabsorbed"] = 0.008121,
+					["friendlyfire"] = {
+					},
+					["damage_from"] = {
+						["판타지곤-데스윙"] = true,
+						["군신잔트라-데스윙"] = true,
+						["해피뼈전사"] = true,
+					},
+					["targets"] = {
+						["군신잔트라-데스윙"] = 424,
+					},
+					["pets"] = {
+					},
+					["fight_component"] = true,
+					["aID"] = "130522",
+					["raid_targets"] = {
+						[2] = 424,
+					},
+					["total_without_pet"] = 424.008121,
+					["last_event"] = 0,
+					["dps_started"] = false,
+					["end_time"] = 1605428420,
+					["on_hold"] = false,
+					["friendlyfire_total"] = 0,
+					["nome"] = "자유지대 선박원",
+					["spells"] = {
+						["tipo"] = 2,
+						["_ActorTable"] = {
+							{
+								["c_amt"] = 0,
+								["b_amt"] = 2,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 190,
+								["targets"] = {
+									["군신잔트라-데스윙"] = 424,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 424,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 4,
+								["total"] = 424,
+								["c_max"] = 0,
+								["MISS"] = 1,
+								["id"] = 1,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 234,
+								["n_amt"] = 3,
+								["r_amt"] = 0,
+								["c_min"] = 0,
+							}, -- [1]
+						},
+					},
+					["classe"] = "UNKNOW",
+					["total"] = 424.008121,
+					["serial"] = "Creature-0-3058-1754-18048-130522-0001B0E279",
+					["custom"] = 0,
+					["tipo"] = 1,
+					["damage_taken"] = 4101.008121,
+					["start_time"] = 1605428410,
+					["delay"] = 0,
+					["last_dps"] = 0,
+				}, -- [17]
+				{
+					["flag_original"] = 2632,
+					["totalabsorbed"] = 2767.01923,
+					["on_hold"] = false,
+					["damage_from"] = {
+						["해피뼈전사"] = true,
+						["군신잔트라-데스윙"] = true,
+						["판타지곤-데스윙"] = true,
+						["법따리"] = true,
+						["제프구프 <판타지곤-데스윙>"] = true,
+					},
+					["targets"] = {
+						["해피뼈전사"] = 2223,
+						["군신잔트라-데스윙"] = 9087,
+						["덩치큰토템-데스윙"] = 1440,
+						["판타지곤-데스윙"] = 1853,
+						["법따리"] = 914,
+					},
+					["pets"] = {
+					},
+					["end_time"] = 1605428420,
+					["classe"] = "UNKNOW",
+					["friendlyfire_total"] = 0,
+					["raid_targets"] = {
+						[2] = 9087,
+					},
+					["total_without_pet"] = 15517.01923,
+					["fight_component"] = true,
+					["dps_started"] = false,
+					["total"] = 15517.01923,
+					["aID"] = "129559",
+					["monster"] = true,
+					["nome"] = "바다가름 결투사",
+					["spells"] = {
+						["tipo"] = 2,
+						["_ActorTable"] = {
+							{
+								["c_amt"] = 0,
+								["b_amt"] = 2,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 586,
+								["targets"] = {
+									["군신잔트라-데스윙"] = 7205,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 7205,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 21,
+								["total"] = 7205,
+								["c_max"] = 0,
+								["a_amt"] = 0,
+								["id"] = 1,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["PARRY"] = 2,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 567,
+								["n_amt"] = 19,
+								["r_amt"] = 0,
+								["c_min"] = 0,
+							}, -- [1]
+							[274400] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 930,
+								["targets"] = {
+									["해피뼈전사"] = 2223,
+									["군신잔트라-데스윙"] = 1882,
+									["덩치큰토템-데스윙"] = 1440,
+									["판타지곤-데스윙"] = 1853,
+									["법따리"] = 914,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 8312,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 12,
+								["total"] = 8312,
+								["c_max"] = 0,
+								["id"] = 274400,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 6,
+								["b_dmg"] = 0,
+								["n_amt"] = 12,
+								["r_amt"] = 0,
+								["c_min"] = 0,
+							},
+						},
+					},
+					["last_event"] = 0,
+					["friendlyfire"] = {
+					},
+					["serial"] = "Creature-0-3058-1754-18048-129559-000030E27A",
+					["custom"] = 0,
+					["tipo"] = 1,
+					["last_dps"] = 0,
+					["start_time"] = 1605428352,
+					["delay"] = 0,
+					["damage_taken"] = 37473.01923000001,
+				}, -- [18]
+				{
+					["flag_original"] = 2632,
+					["totalabsorbed"] = 0.017638,
+					["on_hold"] = false,
+					["damage_from"] = {
+						["해피뼈전사"] = true,
+						["군신잔트라-데스윙"] = true,
+						["지옥불정령 <판타지곤-데스윙>"] = true,
+						["판타지곤-데스윙"] = true,
+						["제프구프 <판타지곤-데스윙>"] = true,
+						["법따리"] = true,
+					},
+					["targets"] = {
+						["해피뼈전사"] = 5434,
+						["군신잔트라-데스윙"] = 14572,
+						["덩치큰토템-데스윙"] = 1720,
+						["법따리"] = 3688,
+						["판타지곤-데스윙"] = 3612,
+					},
+					["end_time"] = 1605428420,
+					["pets"] = {
+					},
+					["classe"] = "UNKNOW",
+					["friendlyfire_total"] = 0,
+					["raid_targets"] = {
+						[2] = 14572,
+					},
+					["total_without_pet"] = 29026.017638,
+					["fight_component"] = true,
+					["dps_started"] = false,
+					["total"] = 29026.017638,
+					["aID"] = "127111",
+					["monster"] = true,
+					["nome"] = "무쇠파도 노꾼",
+					["spells"] = {
+						["tipo"] = 2,
+						["_ActorTable"] = {
+							{
+								["c_amt"] = 0,
+								["b_amt"] = 5,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 1317,
+								["targets"] = {
+									["군신잔트라-데스윙"] = 11177,
+									["법따리"] = 3688,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 14865,
+								["DODGE"] = 1,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 28,
+								["a_amt"] = 1,
+								["total"] = 14865,
+								["c_max"] = 0,
+								["MISS"] = 1,
+								["id"] = 1,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 1264,
+								["m_crit"] = 0,
+								["PARRY"] = 4,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 2328,
+								["n_amt"] = 22,
+								["r_amt"] = 0,
+								["c_min"] = 0,
+							}, -- [1]
+							[258777] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 0,
+								["targets"] = {
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 0,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 0,
+								["total"] = 0,
+								["c_max"] = 0,
+								["id"] = 258777,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 1,
+								["b_dmg"] = 0,
+								["n_amt"] = 0,
+								["r_amt"] = 0,
+								["c_min"] = 0,
+							},
+							[258779] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 1830,
+								["targets"] = {
+									["판타지곤-데스윙"] = 3612,
+									["해피뼈전사"] = 5434,
+									["군신잔트라-데스윙"] = 3395,
+									["덩치큰토템-데스윙"] = 1720,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 14161,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 8,
+								["total"] = 14161,
+								["c_max"] = 0,
+								["id"] = 258779,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 3612,
+								["m_crit"] = 0,
+								["a_amt"] = 2,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 8,
+								["r_amt"] = 0,
+								["c_min"] = 0,
+							},
+						},
+					},
+					["last_event"] = 0,
+					["friendlyfire"] = {
+					},
+					["serial"] = "Creature-0-3058-1754-18048-127111-0000B0E279",
+					["custom"] = 0,
+					["tipo"] = 1,
+					["last_dps"] = 0,
+					["start_time"] = 1605428353,
+					["delay"] = 0,
+					["damage_taken"] = 90311.017638,
+				}, -- [19]
+				{
+					["flag_original"] = 2632,
+					["totalabsorbed"] = 1537.016386,
+					["on_hold"] = false,
+					["damage_from"] = {
+						["해피뼈전사"] = true,
+						["군신잔트라-데스윙"] = true,
+						["판타지곤-데스윙"] = true,
+						["제프구프 <판타지곤-데스윙>"] = true,
+						["법따리"] = true,
+					},
+					["targets"] = {
+						["해피뼈전사"] = 3328,
+						["군신잔트라-데스윙"] = 22377,
+						["덩치큰토템-데스윙"] = 906,
+						["판타지곤-데스윙"] = 1541,
+						["법따리"] = 306,
+					},
+					["pets"] = {
+					},
+					["end_time"] = 1605428420,
+					["classe"] = "UNKNOW",
+					["friendlyfire_total"] = 0,
+					["raid_targets"] = {
+						[2] = 22377,
+					},
+					["total_without_pet"] = 28458.016386,
+					["fight_component"] = true,
+					["dps_started"] = false,
+					["total"] = 28458.016386,
+					["aID"] = "129548",
+					["monster"] = true,
+					["nome"] = "검은이빨 투사",
+					["spells"] = {
+						["tipo"] = 2,
+						["_ActorTable"] = {
+							{
+								["c_amt"] = 0,
+								["b_amt"] = 14,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 748,
+								["targets"] = {
+									["군신잔트라-데스윙"] = 17018,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 17018,
+								["MISS"] = 2,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 50,
+								["a_amt"] = 0,
+								["total"] = 17018,
+								["c_max"] = 0,
+								["DODGE"] = 3,
+								["id"] = 1,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["PARRY"] = 5,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 4864,
+								["n_amt"] = 40,
+								["r_amt"] = 0,
+								["c_min"] = 0,
+							}, -- [1]
+							[257747] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 313,
+								["targets"] = {
+									["해피뼈전사"] = 3328,
+									["군신잔트라-데스윙"] = 5359,
+									["덩치큰토템-데스윙"] = 906,
+									["법따리"] = 306,
+									["판타지곤-데스윙"] = 1541,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 11440,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 42,
+								["total"] = 11440,
+								["c_max"] = 0,
+								["MISS"] = 3,
+								["id"] = 257747,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 1437,
+								["m_crit"] = 0,
+								["a_amt"] = 5,
+								["m_amt"] = 0,
+								["successful_casted"] = 19,
+								["b_dmg"] = 0,
+								["n_amt"] = 39,
+								["r_amt"] = 0,
+								["c_min"] = 0,
+							},
+						},
+					},
+					["last_event"] = 0,
+					["friendlyfire"] = {
+					},
+					["serial"] = "Creature-0-3058-1754-18048-129548-0000B0E278",
+					["custom"] = 0,
+					["tipo"] = 1,
+					["last_dps"] = 0,
+					["start_time"] = 1605428342,
+					["delay"] = 0,
+					["damage_taken"] = 56453.016386,
+				}, -- [20]
+				{
+					["flag_original"] = 2632,
+					["totalabsorbed"] = 0.014994,
+					["damage_from"] = {
+						["판타지곤-데스윙"] = true,
+						["해피뼈전사"] = true,
+						["군신잔트라-데스윙"] = true,
+						["법따리"] = true,
+					},
+					["targets"] = {
+						["군신잔트라-데스윙"] = 2705,
+					},
+					["on_hold"] = false,
+					["pets"] = {
+					},
+					["monster"] = true,
+					["friendlyfire_total"] = 0,
+					["raid_targets"] = {
+						[2] = 2705,
+					},
+					["total_without_pet"] = 2705.014994,
+					["classe"] = "UNKNOW",
+					["end_time"] = 1605428543,
+					["dps_started"] = false,
+					["total"] = 2705.014994,
+					["fight_component"] = true,
+					["aID"] = "129550",
+					["nome"] = "항만의 시궁쥐단 평발여우",
+					["spells"] = {
+						["tipo"] = 2,
+						["_ActorTable"] = {
+							{
+								["c_amt"] = 0,
+								["b_amt"] = 7,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 345,
+								["targets"] = {
+									["군신잔트라-데스윙"] = 2705,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 2705,
+								["a_amt"] = 0,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 16,
+								["MISS"] = 3,
+								["total"] = 2705,
+								["c_max"] = 0,
+								["DODGE"] = 1,
+								["id"] = 1,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["PARRY"] = 1,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 1643,
+								["n_amt"] = 11,
+								["r_amt"] = 0,
+								["c_min"] = 0,
+							}, -- [1]
+							[257774] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 0,
+								["targets"] = {
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 0,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 0,
+								["total"] = 0,
+								["c_max"] = 0,
+								["id"] = 257774,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 1,
+								["b_dmg"] = 0,
+								["n_amt"] = 0,
+								["r_amt"] = 0,
+								["c_min"] = 0,
+							},
+						},
+					},
+					["last_event"] = 0,
+					["friendlyfire"] = {
+					},
+					["serial"] = "Creature-0-3058-1754-18048-129550-000030E27A",
+					["custom"] = 0,
+					["tipo"] = 1,
+					["last_dps"] = 0,
+					["start_time"] = 1605428527,
+					["delay"] = 0,
+					["damage_taken"] = 18690.014994,
+				}, -- [21]
+				{
+					["flag_original"] = 2632,
+					["totalabsorbed"] = 0.013077,
+					["on_hold"] = false,
+					["damage_from"] = {
+						["해피뼈전사"] = true,
+						["군신잔트라-데스윙"] = true,
+						["판타지곤-데스윙"] = true,
+						["제프구프 <판타지곤-데스윙>"] = true,
+						["법따리"] = true,
+					},
+					["targets"] = {
+						["군신잔트라-데스윙"] = 10431,
+					},
+					["pets"] = {
+					},
+					["end_time"] = 1605428543,
+					["classe"] = "UNKNOW",
+					["friendlyfire_total"] = 0,
+					["raid_targets"] = {
+						[2] = 10431,
+					},
+					["total_without_pet"] = 10431.013077,
+					["fight_component"] = true,
+					["dps_started"] = false,
+					["total"] = 10431.013077,
+					["aID"] = "130404",
+					["monster"] = true,
+					["nome"] = "야생 덫사냥꾼",
+					["spells"] = {
+						["tipo"] = 2,
+						["_ActorTable"] = {
+							{
+								["c_amt"] = 0,
+								["b_amt"] = 6,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 1024,
+								["targets"] = {
+									["군신잔트라-데스윙"] = 10431,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 10431,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 19,
+								["a_amt"] = 0,
+								["total"] = 10431,
+								["c_max"] = 0,
+								["MISS"] = 1,
+								["id"] = 1,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["PARRY"] = 1,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 3163,
+								["n_amt"] = 17,
+								["r_amt"] = 0,
+								["c_min"] = 0,
+							}, -- [1]
+							[274383] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 0,
+								["targets"] = {
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 0,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 0,
+								["total"] = 0,
+								["c_max"] = 0,
+								["id"] = 274383,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 3,
+								["b_dmg"] = 0,
+								["n_amt"] = 0,
+								["r_amt"] = 0,
+								["c_min"] = 0,
+							},
+						},
+					},
+					["last_event"] = 0,
+					["friendlyfire"] = {
+					},
+					["serial"] = "Creature-0-3058-1754-18048-130404-0000B0E278",
+					["custom"] = 0,
+					["tipo"] = 1,
+					["last_dps"] = 0,
+					["start_time"] = 1605428495,
+					["delay"] = 0,
+					["damage_taken"] = 59687.013077,
+				}, -- [22]
+				{
+					["flag_original"] = 2632,
+					["totalabsorbed"] = 0.023687,
+					["on_hold"] = false,
+					["damage_from"] = {
+						["판타지곤-데스윙"] = true,
+						["해피뼈전사"] = true,
+						["군신잔트라-데스윙"] = true,
+						["법따리"] = true,
+					},
+					["targets"] = {
+						["군신잔트라-데스윙"] = 1432,
+					},
+					["pets"] = {
+					},
+					["end_time"] = 1605428543,
+					["classe"] = "UNKNOW",
+					["friendlyfire_total"] = 0,
+					["raid_targets"] = {
+						[2] = 1432,
+					},
+					["total_without_pet"] = 1432.023687,
+					["fight_component"] = true,
+					["dps_started"] = false,
+					["total"] = 1432.023687,
+					["aID"] = "130024",
+					["monster"] = true,
+					["nome"] = "축축한 배쥐",
+					["spells"] = {
+						["tipo"] = 2,
+						["_ActorTable"] = {
+							{
+								["c_amt"] = 0,
+								["b_amt"] = 4,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 93,
+								["targets"] = {
+									["군신잔트라-데스윙"] = 1432,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 1432,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 27,
+								["MISS"] = 4,
+								["total"] = 1432,
+								["c_max"] = 0,
+								["a_amt"] = 0,
+								["id"] = 1,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["PARRY"] = 3,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 233,
+								["n_amt"] = 20,
+								["r_amt"] = 0,
+								["c_min"] = 0,
+							}, -- [1]
+							[274555] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 0,
+								["targets"] = {
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 0,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 0,
+								["total"] = 0,
+								["c_max"] = 0,
+								["id"] = 274555,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 8,
+								["b_dmg"] = 0,
+								["n_amt"] = 0,
+								["r_amt"] = 0,
+								["c_min"] = 0,
+							},
+							[257476] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 0,
+								["targets"] = {
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 0,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 0,
+								["total"] = 0,
+								["c_max"] = 0,
+								["id"] = 257476,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 7,
+								["b_dmg"] = 0,
+								["n_amt"] = 0,
+								["r_amt"] = 0,
+								["c_min"] = 0,
+							},
+						},
+					},
+					["last_event"] = 0,
+					["friendlyfire"] = {
+					},
+					["serial"] = "Creature-0-3058-1754-18048-130024-000330E278",
+					["custom"] = 0,
+					["tipo"] = 1,
+					["last_dps"] = 0,
+					["start_time"] = 1605428525,
+					["delay"] = 0,
+					["damage_taken"] = 15429.023687,
+				}, -- [23]
+				{
+					["flag_original"] = 2632,
+					["totalabsorbed"] = 3266.015957,
+					["dps_started"] = false,
+					["damage_from"] = {
+					},
+					["targets"] = {
+						["해피뼈전사"] = 5298,
+						["군신잔트라-데스윙"] = 3125,
+						["덩치큰토템-데스윙"] = 4782,
+						["법따리"] = 2700,
+						["판타지곤-데스윙"] = 6010,
+					},
+					["pets"] = {
+					},
+					["end_time"] = 1605428543,
+					["on_hold"] = false,
+					["classe"] = "UNKNOW",
+					["raid_targets"] = {
+						[2] = 3125,
+					},
+					["total_without_pet"] = 21915.015957,
+					["fight_component"] = true,
+					["monster"] = true,
+					["total"] = 21915.015957,
+					["aID"] = "",
+					["last_event"] = 0,
+					["nome"] = "[*] 쥐덫",
+					["spells"] = {
+						["tipo"] = 2,
+						["_ActorTable"] = {
+							[274389] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 547,
+								["targets"] = {
+									["해피뼈전사"] = 5298,
+									["군신잔트라-데스윙"] = 3125,
+									["덩치큰토템-데스윙"] = 4782,
+									["법따리"] = 2700,
+									["판타지곤-데스윙"] = 6010,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 21915,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 50,
+								["total"] = 21915,
+								["c_max"] = 0,
+								["id"] = 274389,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 4364,
+								["m_crit"] = 0,
+								["a_amt"] = 8,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 50,
+								["r_amt"] = 0,
+								["c_min"] = 0,
+							},
+						},
+					},
+					["friendlyfire"] = {
+					},
+					["friendlyfire_total"] = 0,
+					["serial"] = "",
+					["custom"] = 0,
+					["tipo"] = 1,
+					["last_dps"] = 0,
+					["start_time"] = 1605428526,
+					["delay"] = 0,
+					["damage_taken"] = 0.015957,
+				}, -- [24]
+				{
+					["flag_original"] = 2632,
+					["totalabsorbed"] = 0.012296,
+					["damage_from"] = {
+						["해피뼈전사"] = true,
+						["군신잔트라-데스윙"] = true,
+						["법따리"] = true,
+						["판타지곤-데스윙"] = true,
+						["제프구프 <판타지곤-데스윙>"] = true,
+					},
+					["targets"] = {
+						["군신잔트라-데스윙"] = 4240,
+					},
+					["on_hold"] = false,
+					["pets"] = {
+					},
+					["monster"] = true,
+					["friendlyfire_total"] = 0,
+					["raid_targets"] = {
+						[2] = 4240,
+					},
+					["total_without_pet"] = 4240.012296000001,
+					["classe"] = "UNKNOW",
+					["end_time"] = 1605428543,
+					["dps_started"] = false,
+					["total"] = 4240.012296000001,
+					["fight_component"] = true,
+					["aID"] = "129547",
+					["nome"] = "검은이빨 주먹잡이",
+					["spells"] = {
+						["tipo"] = 2,
+						["_ActorTable"] = {
+							{
+								["c_amt"] = 0,
+								["b_amt"] = 9,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 333,
+								["targets"] = {
+									["군신잔트라-데스윙"] = 4240,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 4240,
+								["a_amt"] = 0,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 46,
+								["MISS"] = 16,
+								["total"] = 4240,
+								["c_max"] = 0,
+								["DODGE"] = 1,
+								["id"] = 1,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["PARRY"] = 4,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 1236,
+								["n_amt"] = 25,
+								["r_amt"] = 0,
+								["c_min"] = 0,
+							}, -- [1]
+						},
+					},
+					["last_event"] = 0,
+					["friendlyfire"] = {
+					},
+					["serial"] = "Creature-0-3058-1754-18048-129547-0001B0E278",
+					["custom"] = 0,
+					["tipo"] = 1,
+					["last_dps"] = 0,
+					["start_time"] = 1605428517,
+					["delay"] = 0,
+					["damage_taken"] = 45760.01229599999,
+				}, -- [25]
+				{
+					["flag_original"] = 2600,
+					["totalabsorbed"] = 0.014424,
+					["damage_from"] = {
+						["군신잔트라-데스윙"] = true,
+						["법따리"] = true,
+					},
+					["targets"] = {
+					},
+					["pets"] = {
+					},
+					["classe"] = "UNKNOW",
+					["raid_targets"] = {
+					},
+					["total_without_pet"] = 0.014424,
+					["last_event"] = 0,
+					["friendlyfire"] = {
+					},
+					["dps_started"] = false,
+					["total"] = 0.014424,
+					["fight_component"] = true,
+					["aID"] = "127019",
+					["nome"] = "훈련용 허수아비",
+					["spells"] = {
+						["tipo"] = 2,
+						["_ActorTable"] = {
+						},
+					},
+					["on_hold"] = false,
+					["end_time"] = 1605428543,
+					["friendlyfire_total"] = 0,
+					["serial"] = "Creature-0-3058-1754-18048-127019-000130E278",
+					["custom"] = 0,
+					["tipo"] = 1,
+					["last_dps"] = 0,
+					["start_time"] = 1605428540,
+					["delay"] = 0,
+					["damage_taken"] = 1900.014424,
+				}, -- [26]
+				{
+					["flag_original"] = 2632,
+					["totalabsorbed"] = 1133.009072,
+					["damage_from"] = {
+						["해피뼈전사"] = true,
+						["군신잔트라-데스윙"] = true,
+						["법따리"] = true,
+						["판타지곤-데스윙"] = true,
+						["제프구프 <판타지곤-데스윙>"] = true,
+					},
+					["targets"] = {
+						["판타지곤-데스윙"] = 2998,
+						["군신잔트라-데스윙"] = 3912,
+						["덩치큰토템-데스윙"] = 2368,
+					},
+					["on_hold"] = false,
+					["pets"] = {
+					},
+					["monster"] = true,
+					["friendlyfire_total"] = 0,
+					["raid_targets"] = {
+						[2] = 3912,
+					},
+					["total_without_pet"] = 9278.009071999999,
+					["classe"] = "UNKNOW",
+					["end_time"] = 1605428543,
+					["dps_started"] = false,
+					["total"] = 9278.009071999999,
+					["fight_component"] = true,
+					["aID"] = "129529",
+					["nome"] = "검은이빨 싸움꾼",
+					["spells"] = {
+						["tipo"] = 2,
+						["_ActorTable"] = {
+							{
+								["c_amt"] = 2,
+								["b_amt"] = 11,
+								["c_dmg"] = 1486,
+								["g_amt"] = 0,
+								["n_max"] = 610,
+								["targets"] = {
+									["판타지곤-데스윙"] = 2998,
+									["군신잔트라-데스윙"] = 3912,
+									["덩치큰토템-데스윙"] = 2368,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 7792,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 60,
+								["a_amt"] = 4,
+								["total"] = 9278,
+								["c_max"] = 1001,
+								["MISS"] = 14,
+								["id"] = 1,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 1865,
+								["m_crit"] = 0,
+								["PARRY"] = 8,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 1260,
+								["n_amt"] = 36,
+								["r_amt"] = 0,
+								["c_min"] = 0,
+							}, -- [1]
+							[257739] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 0,
+								["targets"] = {
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 0,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 0,
+								["total"] = 0,
+								["c_max"] = 0,
+								["id"] = 257739,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 2,
+								["b_dmg"] = 0,
+								["n_amt"] = 0,
+								["r_amt"] = 0,
+								["c_min"] = 0,
+							},
+						},
+					},
+					["last_event"] = 0,
+					["friendlyfire"] = {
+					},
+					["serial"] = "Creature-0-3058-1754-18048-129529-0000B0E509",
+					["custom"] = 0,
+					["tipo"] = 1,
+					["last_dps"] = 0,
+					["start_time"] = 1605428499,
+					["delay"] = 0,
+					["damage_taken"] = 42026.00907199999,
+				}, -- [27]
+				{
+					["flag_original"] = 2632,
+					["totalabsorbed"] = 4664.028536,
+					["on_hold"] = false,
+					["damage_from"] = {
+						["해피뼈전사"] = true,
+						["군신잔트라-데스윙"] = true,
+						["법따리"] = true,
+						["제프구프 <판타지곤-데스윙>"] = true,
+						["지옥불정령 <판타지곤-데스윙>"] = true,
+						["판타지곤-데스윙"] = true,
+					},
+					["targets"] = {
+						["해피뼈전사"] = 11716,
+						["군신잔트라-데스윙"] = 14465,
+						["덩치큰토템-데스윙"] = 462,
+						["법따리"] = 5233,
+						["판타지곤-데스윙"] = 1077,
+						["지옥불정령 <판타지곤-데스윙>"] = 47,
+					},
+					["end_time"] = 1605428605,
+					["pets"] = {
+					},
+					["classe"] = "UNKNOW",
+					["friendlyfire_total"] = 0,
+					["raid_targets"] = {
+						[2] = 14465,
+					},
+					["total_without_pet"] = 33000.02853600001,
+					["fight_component"] = true,
+					["dps_started"] = false,
+					["total"] = 33000.02853600001,
+					["aID"] = "129527",
+					["monster"] = true,
+					["nome"] = "항만의 시궁쥐단 해적단원",
+					["spells"] = {
+						["tipo"] = 2,
+						["_ActorTable"] = {
+							{
+								["c_amt"] = 0,
+								["b_amt"] = 10,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 490,
+								["targets"] = {
+									["군신잔트라-데스윙"] = 7452,
+									["판타지곤-데스윙"] = 490,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 7942,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 28,
+								["total"] = 7942,
+								["c_max"] = 0,
+								["a_amt"] = 1,
+								["id"] = 1,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 490,
+								["m_crit"] = 0,
+								["PARRY"] = 1,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 2315,
+								["n_amt"] = 27,
+								["r_amt"] = 0,
+								["c_min"] = 0,
+							}, -- [1]
+							[257756] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 0,
+								["targets"] = {
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 0,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 0,
+								["total"] = 0,
+								["c_max"] = 0,
+								["id"] = 257756,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 5,
+								["b_dmg"] = 0,
+								["n_amt"] = 0,
+								["r_amt"] = 0,
+								["c_min"] = 0,
+							},
+							[257757] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 590,
+								["targets"] = {
+									["해피뼈전사"] = 11716,
+									["군신잔트라-데스윙"] = 7013,
+									["덩치큰토템-데스윙"] = 462,
+									["법따리"] = 5233,
+									["판타지곤-데스윙"] = 587,
+									["지옥불정령 <판타지곤-데스윙>"] = 47,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 25058,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 64,
+								["total"] = 25058,
+								["c_max"] = 0,
+								["MISS"] = 2,
+								["id"] = 257757,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 1156,
+								["m_crit"] = 0,
+								["a_amt"] = 2,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 62,
+								["r_amt"] = 0,
+								["c_min"] = 0,
+							},
+						},
+					},
+					["last_event"] = 0,
+					["friendlyfire"] = {
+					},
+					["serial"] = "Creature-0-3058-1754-18048-129527-000030E27A",
+					["custom"] = 0,
+					["tipo"] = 1,
+					["last_dps"] = 0,
+					["start_time"] = 1605428515,
+					["delay"] = 0,
+					["damage_taken"] = 77740.028536,
+				}, -- [28]
+				{
+					["flag_original"] = 68168,
+					["totalabsorbed"] = 0.004196,
+					["damage_from"] = {
+						["해피뼈전사"] = true,
+						["군신잔트라-데스윙"] = true,
+						["판타지곤-데스윙"] = true,
+						["법따리"] = true,
+						["제프구프 <판타지곤-데스윙>"] = true,
+					},
+					["targets"] = {
+						["군신잔트라-데스윙"] = 1936,
+					},
+					["on_hold"] = false,
+					["pets"] = {
+					},
+					["monster"] = true,
+					["friendlyfire_total"] = 0,
+					["raid_targets"] = {
+						[2] = 1936,
+					},
+					["total_without_pet"] = 1936.004196,
+					["classe"] = "UNKNOW",
+					["end_time"] = 1605428605,
+					["dps_started"] = false,
+					["total"] = 1936.004196,
+					["fight_component"] = true,
+					["aID"] = "129526",
+					["nome"] = "항만의 시궁쥐단 선원",
+					["spells"] = {
+						["tipo"] = 2,
+						["_ActorTable"] = {
+							{
+								["c_amt"] = 0,
+								["b_amt"] = 4,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 398,
+								["targets"] = {
+									["군신잔트라-데스윙"] = 1936,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 1936,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 6,
+								["total"] = 1936,
+								["c_max"] = 0,
+								["id"] = 1,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 1184,
+								["n_amt"] = 6,
+								["r_amt"] = 0,
+								["c_min"] = 0,
+							}, -- [1]
+							[274507] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 0,
+								["targets"] = {
+									["군신잔트라-데스윙"] = 0,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 0,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 1,
+								["total"] = 0,
+								["c_max"] = 0,
+								["MISS"] = 1,
+								["id"] = 274507,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 1,
+								["b_dmg"] = 0,
+								["n_amt"] = 0,
+								["r_amt"] = 0,
+								["c_min"] = 0,
+							},
+						},
+					},
+					["last_event"] = 0,
+					["friendlyfire"] = {
+					},
+					["serial"] = "Creature-0-3058-1754-18048-129526-0000B0E27A",
+					["custom"] = 0,
+					["tipo"] = 1,
+					["last_dps"] = 0,
+					["start_time"] = 1605428585,
+					["delay"] = 0,
+					["damage_taken"] = 18501.004196,
+				}, -- [29]
+				{
+					["flag_original"] = 2632,
+					["totalabsorbed"] = 2091.023398,
+					["on_hold"] = false,
+					["damage_from"] = {
+						["해피뼈전사"] = true,
+						["군신잔트라-데스윙"] = true,
+						["덩치큰토템-데스윙"] = true,
+						["지옥불정령 <판타지곤-데스윙>"] = true,
+						["판타지곤-데스윙"] = true,
+						["제프구프 <판타지곤-데스윙>"] = true,
+						["법따리"] = true,
+					},
+					["targets"] = {
+						["해피뼈전사"] = 2135,
+						["군신잔트라-데스윙"] = 11860,
+						["덩치큰토템-데스윙"] = 780,
+						["판타지곤-데스윙"] = 1685,
+						["법따리"] = 1038,
+					},
+					["pets"] = {
+					},
+					["end_time"] = 1605428628,
+					["classe"] = "UNKNOW",
+					["friendlyfire_total"] = 0,
+					["raid_targets"] = {
+						[2] = 11860,
+					},
+					["total_without_pet"] = 17498.023398,
+					["fight_component"] = true,
+					["dps_started"] = false,
+					["total"] = 17498.023398,
+					["aID"] = "129599",
+					["monster"] = true,
+					["nome"] = "바다가름 칼부림꾼",
+					["spells"] = {
+						["tipo"] = 2,
+						["_ActorTable"] = {
+							{
+								["c_amt"] = 0,
+								["b_amt"] = 24,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 342,
+								["targets"] = {
+									["군신잔트라-데스윙"] = 11439,
+									["해피뼈전사"] = 1127,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 12566,
+								["DODGE"] = 3,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 134,
+								["a_amt"] = 0,
+								["total"] = 12566,
+								["c_max"] = 0,
+								["MISS"] = 31,
+								["id"] = 1,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["PARRY"] = 10,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 2324,
+								["n_amt"] = 90,
+								["r_amt"] = 0,
+								["c_min"] = 0,
+							}, -- [1]
+							[272402] = {
+								["c_amt"] = 0,
+								["b_amt"] = 1,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 213,
+								["targets"] = {
+									["해피뼈전사"] = 1008,
+									["군신잔트라-데스윙"] = 421,
+									["덩치큰토템-데스윙"] = 780,
+									["법따리"] = 1038,
+									["판타지곤-데스윙"] = 1685,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 4932,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 29,
+								["MISS"] = 1,
+								["total"] = 4932,
+								["c_max"] = 0,
+								["DODGE"] = 1,
+								["id"] = 272402,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 632,
+								["m_crit"] = 0,
+								["a_amt"] = 3,
+								["m_amt"] = 0,
+								["successful_casted"] = 14,
+								["b_dmg"] = 108,
+								["n_amt"] = 27,
+								["r_amt"] = 0,
+								["c_min"] = 0,
+							},
+						},
+					},
+					["last_event"] = 0,
+					["friendlyfire"] = {
+					},
+					["serial"] = "Creature-0-3058-1754-18048-129599-000130E279",
+					["custom"] = 0,
+					["tipo"] = 1,
+					["last_dps"] = 0,
+					["start_time"] = 1605428523,
+					["delay"] = 0,
+					["damage_taken"] = 85282.023398,
+				}, -- [30]
+				{
+					["flag_original"] = 2632,
+					["totalabsorbed"] = 1644.019774,
+					["on_hold"] = false,
+					["damage_from"] = {
+						["해피뼈전사"] = true,
+						["군신잔트라-데스윙"] = true,
+						["지옥불정령 <판타지곤-데스윙>"] = true,
+						["판타지곤-데스윙"] = true,
+						["법따리"] = true,
+						["제프구프 <판타지곤-데스윙>"] = true,
+					},
+					["targets"] = {
+						["해피뼈전사"] = 2042,
+						["군신잔트라-데스윙"] = 4228,
+						["덩치큰토템-데스윙"] = 1004,
+						["법따리"] = 1163,
+						["판타지곤-데스윙"] = 2485,
+					},
+					["pets"] = {
+					},
+					["end_time"] = 1605428628,
+					["classe"] = "UNKNOW",
+					["friendlyfire_total"] = 0,
+					["raid_targets"] = {
+						[2] = 4228,
+					},
+					["total_without_pet"] = 10922.019774,
+					["fight_component"] = true,
+					["dps_started"] = false,
+					["total"] = 10922.019774,
+					["aID"] = "129600",
+					["monster"] = true,
+					["nome"] = "항만의 시궁쥐단 소금비늘",
+					["spells"] = {
+						["tipo"] = 2,
+						["_ActorTable"] = {
+							{
+								["c_amt"] = 0,
+								["b_amt"] = 3,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 788,
+								["targets"] = {
+									["군신잔트라-데스윙"] = 1027,
+									["법따리"] = 788,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 1815,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 5,
+								["total"] = 1815,
+								["c_max"] = 0,
+								["id"] = 1,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 679,
+								["n_amt"] = 5,
+								["r_amt"] = 0,
+								["c_min"] = 0,
+							}, -- [1]
+							[281420] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 481,
+								["targets"] = {
+									["법따리"] = 375,
+									["군신잔트라-데스윙"] = 2273,
+									["판타지곤-데스윙"] = 1442,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 4090,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 12,
+								["total"] = 4090,
+								["c_max"] = 0,
+								["MISS"] = 3,
+								["id"] = 281420,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 1915,
+								["m_crit"] = 0,
+								["a_amt"] = 4,
+								["m_amt"] = 0,
+								["successful_casted"] = 12,
+								["b_dmg"] = 0,
+								["n_amt"] = 9,
+								["r_amt"] = 0,
+								["c_min"] = 0,
+							},
+							[257784] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 1043,
+								["targets"] = {
+									["해피뼈전사"] = 2042,
+									["판타지곤-데스윙"] = 1043,
+									["군신잔트라-데스윙"] = 928,
+									["덩치큰토템-데스윙"] = 1004,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 5017,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 5,
+								["total"] = 5017,
+								["c_max"] = 0,
+								["id"] = 257784,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 1971,
+								["m_crit"] = 0,
+								["a_amt"] = 2,
+								["m_amt"] = 0,
+								["successful_casted"] = 2,
+								["b_dmg"] = 0,
+								["n_amt"] = 5,
+								["r_amt"] = 0,
+								["c_min"] = 0,
+							},
+						},
+					},
+					["last_event"] = 0,
+					["friendlyfire"] = {
+					},
+					["serial"] = "Creature-0-3058-1754-18048-129600-000030E27A",
+					["custom"] = 0,
+					["tipo"] = 1,
+					["last_dps"] = 0,
+					["start_time"] = 1605428584,
+					["delay"] = 0,
+					["damage_taken"] = 48074.019774,
+				}, -- [31]
+				{
+					["flag_original"] = 2632,
+					["totalabsorbed"] = 232.009344,
+					["damage_from"] = {
+						["해피뼈전사"] = true,
+						["군신잔트라-데스윙"] = true,
+						["법따리"] = true,
+					},
+					["targets"] = {
+						["선장 라울"] = 4899,
+						["군신잔트라-데스윙"] = 20243,
+						["덩치큰토템-데스윙"] = 3055,
+						["법따리"] = 10872,
+						["제프구프 <판타지곤-데스윙>"] = 232,
+						["판타지곤-데스윙"] = 6283,
+						["해피뼈전사"] = 4337,
+					},
+					["on_hold"] = false,
+					["pets"] = {
+					},
+					["monster"] = true,
+					["friendlyfire_total"] = 0,
+					["raid_targets"] = {
+						[2] = 20243,
+					},
+					["total_without_pet"] = 49921.00934400001,
+					["classe"] = "UNKNOW",
+					["end_time"] = 1605428727,
+					["dps_started"] = false,
+					["total"] = 49921.00934400001,
+					["boss_fight_component"] = true,
+					["aID"] = "126848",
+					["nome"] = "선장 유도라",
+					["spells"] = {
+						["tipo"] = 2,
+						["_ActorTable"] = {
+							{
+								["c_amt"] = 0,
+								["b_amt"] = 1,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 1736,
+								["targets"] = {
+									["군신잔트라-데스윙"] = 10177,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 10177,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 7,
+								["total"] = 10177,
+								["c_max"] = 0,
+								["id"] = 1,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 1319,
+								["n_amt"] = 7,
+								["r_amt"] = 0,
+								["c_min"] = 0,
+							}, -- [1]
+							[258352] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 1639,
+								["targets"] = {
+									["선장 라울"] = 4899,
+									["군신잔트라-데스윙"] = 7614,
+									["덩치큰토템-데스윙"] = 3055,
+									["법따리"] = 4546,
+									["제프구프 <판타지곤-데스윙>"] = 232,
+									["판타지곤-데스윙"] = 3049,
+									["해피뼈전사"] = 3058,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 26453,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 20,
+								["total"] = 26453,
+								["c_max"] = 0,
+								["id"] = 258352,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 9035,
+								["m_crit"] = 0,
+								["a_amt"] = 6,
+								["m_amt"] = 0,
+								["successful_casted"] = 14,
+								["b_dmg"] = 0,
+								["n_amt"] = 20,
+								["r_amt"] = 0,
+								["c_min"] = 0,
+							},
+							[258381] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 0,
+								["targets"] = {
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 0,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 0,
+								["total"] = 0,
+								["c_max"] = 0,
+								["id"] = 258381,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 2,
+								["b_dmg"] = 0,
+								["n_amt"] = 0,
+								["r_amt"] = 0,
+								["c_min"] = 0,
+							},
+							[256979] = {
+								["c_amt"] = 0,
+								["b_amt"] = 2,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 1628,
+								["targets"] = {
+									["해피뼈전사"] = 1279,
+									["판타지곤-데스윙"] = 3234,
+									["군신잔트라-데스윙"] = 2452,
+									["법따리"] = 6326,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 13291,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 10,
+								["total"] = 13291,
+								["c_max"] = 0,
+								["id"] = 256979,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 4820,
+								["m_crit"] = 0,
+								["a_amt"] = 3,
+								["m_amt"] = 0,
+								["successful_casted"] = 10,
+								["b_dmg"] = 1361,
+								["n_amt"] = 10,
+								["r_amt"] = 0,
+								["c_min"] = 0,
+							},
+						},
+					},
+					["last_event"] = 0,
+					["friendlyfire"] = {
+					},
+					["serial"] = "Creature-0-3058-1754-18048-126848-000030E278",
+					["custom"] = 0,
+					["tipo"] = 1,
+					["last_dps"] = 0,
+					["start_time"] = 1605428667,
+					["delay"] = 0,
+					["damage_taken"] = 81320.009344,
+				}, -- [32]
+				{
+					["flag_original"] = 2632,
+					["totalabsorbed"] = 73.010721,
+					["damage_from"] = {
+						["선장 라울"] = true,
+						["군신잔트라-데스윙"] = true,
+						["덩치큰토템-데스윙"] = true,
+						["제프구프 <판타지곤-데스윙>"] = true,
+						["판타지곤-데스윙"] = true,
+						["법따리"] = true,
+						["해피뼈전사"] = true,
+					},
+					["targets"] = {
+						["제프구프 <판타지곤-데스윙>"] = 73,
+						["판타지곤-데스윙"] = 2948,
+						["군신잔트라-데스윙"] = 26371,
+						["덩치큰토템-데스윙"] = 1463,
+					},
+					["on_hold"] = false,
+					["pets"] = {
+					},
+					["monster"] = true,
+					["friendlyfire_total"] = 0,
+					["raid_targets"] = {
+						[2] = 26371,
+					},
+					["total_without_pet"] = 30855.010721,
+					["classe"] = "UNKNOW",
+					["end_time"] = 1605428727,
+					["dps_started"] = false,
+					["total"] = 30855.010721,
+					["boss_fight_component"] = true,
+					["aID"] = "126845",
+					["nome"] = "선장 졸리",
+					["spells"] = {
+						["tipo"] = 2,
+						["_ActorTable"] = {
+							{
+								["c_amt"] = 0,
+								["b_amt"] = 4,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 1490,
+								["targets"] = {
+									["군신잔트라-데스윙"] = 26371,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 26371,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 30,
+								["total"] = 26371,
+								["c_max"] = 0,
+								["a_amt"] = 0,
+								["id"] = 1,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["PARRY"] = 3,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 2835,
+								["n_amt"] = 27,
+								["r_amt"] = 0,
+								["c_min"] = 0,
+							}, -- [1]
+							[272374] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 1476,
+								["targets"] = {
+									["제프구프 <판타지곤-데스윙>"] = 73,
+									["판타지곤-데스윙"] = 2948,
+									["덩치큰토템-데스윙"] = 1463,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 4484,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 4,
+								["total"] = 4484,
+								["c_max"] = 0,
+								["id"] = 272374,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 2948,
+								["m_crit"] = 0,
+								["a_amt"] = 2,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 4,
+								["r_amt"] = 0,
+								["c_min"] = 0,
+							},
+							[267533] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 0,
+								["targets"] = {
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 0,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 0,
+								["total"] = 0,
+								["c_max"] = 0,
+								["id"] = 267533,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 4,
+								["b_dmg"] = 0,
+								["n_amt"] = 0,
+								["r_amt"] = 0,
+								["c_min"] = 0,
+							},
+							[267522] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 0,
+								["targets"] = {
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 0,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 0,
+								["total"] = 0,
+								["c_max"] = 0,
+								["id"] = 267522,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 3,
+								["b_dmg"] = 0,
+								["n_amt"] = 0,
+								["r_amt"] = 0,
+								["c_min"] = 0,
+							},
+							[267523] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 0,
+								["targets"] = {
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 0,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 0,
+								["total"] = 0,
+								["c_max"] = 0,
+								["id"] = 267523,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 3,
+								["b_dmg"] = 0,
+								["n_amt"] = 0,
+								["r_amt"] = 0,
+								["c_min"] = 0,
+							},
+						},
+					},
+					["last_event"] = 0,
+					["friendlyfire"] = {
+					},
+					["serial"] = "Creature-0-3058-1754-18048-126845-000030E278",
+					["custom"] = 0,
+					["tipo"] = 1,
+					["last_dps"] = 0,
+					["start_time"] = 1605428650,
+					["delay"] = 0,
+					["damage_taken"] = 81522.010721,
+				}, -- [33]
+				{
+					["flag_original"] = 2584,
+					["totalabsorbed"] = 0.00877,
+					["classe"] = "UNKNOW",
+					["damage_from"] = {
+						["선장 유도라"] = true,
+					},
+					["targets"] = {
+						["선장 졸리"] = 948,
+					},
+					["pets"] = {
+					},
+					["boss_fight_component"] = true,
+					["aID"] = "",
+					["raid_targets"] = {
+					},
+					["total_without_pet"] = 948.00877,
+					["last_event"] = 0,
+					["dps_started"] = false,
+					["end_time"] = 1605428727,
+					["friendlyfire"] = {
+					},
+					["friendlyfire_total"] = 0,
+					["nome"] = "선장 라울",
+					["spells"] = {
+						["tipo"] = 2,
+						["_ActorTable"] = {
+							{
+								["c_amt"] = 4,
+								["b_amt"] = 0,
+								["c_dmg"] = 217,
+								["g_amt"] = 0,
+								["n_max"] = 32,
+								["targets"] = {
+									["선장 졸리"] = 948,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 731,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 35,
+								["DODGE"] = 2,
+								["total"] = 948,
+								["c_max"] = 61,
+								["MISS"] = 2,
+								["id"] = 1,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 27,
+								["r_amt"] = 0,
+								["c_min"] = 0,
+							}, -- [1]
+						},
+					},
+					["on_hold"] = false,
+					["total"] = 948.00877,
+					["serial"] = "Vehicle-0-3058-1754-18048-126847-000030E278",
+					["custom"] = 0,
+					["tipo"] = 1,
+					["damage_taken"] = 4899.00877,
+					["start_time"] = 1605428639,
+					["delay"] = 0,
+					["last_dps"] = 0,
+				}, -- [34]
+				{
+					["flag_original"] = 2632,
+					["totalabsorbed"] = 0.012961,
+					["damage_from"] = {
+					},
+					["targets"] = {
+						["군신잔트라-데스윙"] = 4047,
+						["해피뼈전사"] = 2184,
+					},
+					["dps_started"] = false,
+					["pets"] = {
+					},
+					["last_event"] = 0,
+					["classe"] = "UNKNOW",
+					["raid_targets"] = {
+						[2] = 4047,
+					},
+					["total_without_pet"] = 6231.012960999999,
+					["on_hold"] = false,
+					["end_time"] = 1605428727,
+					["monster"] = true,
+					["total"] = 6231.012960999999,
+					["boss_fight_component"] = true,
+					["aID"] = "",
+					["nome"] = "[*] 칼날의 회오리",
+					["spells"] = {
+						["tipo"] = 2,
+						["_ActorTable"] = {
+							[272397] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 2184,
+								["targets"] = {
+									["군신잔트라-데스윙"] = 4047,
+									["해피뼈전사"] = 2184,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 6231,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 3,
+								["total"] = 6231,
+								["c_max"] = 0,
+								["id"] = 272397,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 3,
+								["r_amt"] = 0,
+								["c_min"] = 0,
+							},
+						},
+					},
+					["friendlyfire"] = {
+					},
+					["friendlyfire_total"] = 0,
+					["serial"] = "",
+					["custom"] = 0,
+					["tipo"] = 1,
+					["last_dps"] = 0,
+					["start_time"] = 1605428723,
+					["delay"] = 0,
+					["damage_taken"] = 0.012961,
+				}, -- [35]
+				{
+					["flag_original"] = 2632,
+					["totalabsorbed"] = 3265.01035,
+					["on_hold"] = false,
+					["damage_from"] = {
+						["지옥불정령 <판타지곤-데스윙>"] = true,
+						["군신잔트라-데스윙"] = true,
+						["판타지곤-데스윙"] = true,
+						["법따리"] = true,
+						["제프구프 <판타지곤-데스윙>"] = true,
+						["해피뼈전사"] = true,
+					},
+					["targets"] = {
+						["해피뼈전사"] = 479,
+						["군신잔트라-데스윙"] = 19021,
+						["덩치큰토템-데스윙"] = 1037,
+						["법따리"] = 4876,
+						["판타지곤-데스윙"] = 5391,
+					},
+					["pets"] = {
+					},
+					["end_time"] = 1605428825,
+					["classe"] = "UNKNOW",
+					["friendlyfire_total"] = 0,
+					["raid_targets"] = {
+						[2] = 19021,
+					},
+					["total_without_pet"] = 30804.01035,
+					["fight_component"] = true,
+					["dps_started"] = false,
+					["total"] = 30804.01035,
+					["aID"] = "129601",
+					["monster"] = true,
+					["nome"] = "바다가름 작살사수",
+					["spells"] = {
+						["tipo"] = 2,
+						["_ActorTable"] = {
+							{
+								["c_amt"] = 0,
+								["b_amt"] = 17,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 834,
+								["targets"] = {
+									["판타지곤-데스윙"] = 2786,
+									["해피뼈전사"] = 479,
+									["군신잔트라-데스윙"] = 18094,
+									["법따리"] = 3571,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 24930,
+								["a_amt"] = 4,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 65,
+								["DODGE"] = 3,
+								["total"] = 24930,
+								["c_max"] = 0,
+								["MISS"] = 2,
+								["id"] = 1,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 2786,
+								["m_crit"] = 0,
+								["PARRY"] = 2,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 4696,
+								["n_amt"] = 58,
+								["r_amt"] = 0,
+								["c_min"] = 0,
+							}, -- [1]
+							[272412] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 0,
+								["targets"] = {
+									["법따리"] = 0,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 0,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 1,
+								["total"] = 0,
+								["c_max"] = 0,
+								["MISS"] = 1,
+								["id"] = 272412,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 11,
+								["b_dmg"] = 0,
+								["n_amt"] = 0,
+								["r_amt"] = 0,
+								["c_min"] = 0,
+							},
+							[272413] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 665,
+								["targets"] = {
+									["법따리"] = 1305,
+									["판타지곤-데스윙"] = 2605,
+									["군신잔트라-데스윙"] = 927,
+									["덩치큰토템-데스윙"] = 1037,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 5874,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 10,
+								["total"] = 5874,
+								["c_max"] = 0,
+								["id"] = 272413,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 645,
+								["m_crit"] = 0,
+								["a_amt"] = 1,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 10,
+								["r_amt"] = 0,
+								["c_min"] = 0,
+							},
+						},
+					},
+					["last_event"] = 0,
+					["friendlyfire"] = {
+					},
+					["serial"] = "Creature-0-3058-1754-18048-129601-000030E279",
+					["custom"] = 0,
+					["tipo"] = 1,
+					["last_dps"] = 0,
+					["start_time"] = 1605428725,
+					["delay"] = 0,
+					["damage_taken"] = 97349.01035,
+				}, -- [36]
+				{
+					["flag_original"] = 2600,
+					["totalabsorbed"] = 0.020856,
+					["damage_from"] = {
+						["군신잔트라-데스윙"] = true,
+						["법따리"] = true,
+					},
+					["targets"] = {
+					},
+					["pets"] = {
+					},
+					["classe"] = "UNKNOW",
+					["raid_targets"] = {
+					},
+					["total_without_pet"] = 0.020856,
+					["last_event"] = 0,
+					["friendlyfire"] = {
+					},
+					["dps_started"] = false,
+					["total"] = 0.020856,
+					["fight_component"] = true,
+					["aID"] = "126497",
+					["nome"] = "배쥐",
+					["spells"] = {
+						["tipo"] = 2,
+						["_ActorTable"] = {
+							{
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 0,
+								["targets"] = {
+									["군신잔트라-데스윙"] = 0,
+									["법따리"] = 0,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 0,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 2,
+								["total"] = 0,
+								["c_max"] = 0,
+								["MISS"] = 2,
+								["id"] = 1,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 0,
+								["r_amt"] = 0,
+								["c_min"] = 0,
+							}, -- [1]
+						},
+					},
+					["on_hold"] = false,
+					["end_time"] = 1605428825,
+					["friendlyfire_total"] = 0,
+					["serial"] = "Creature-0-3058-1754-18048-126497-000330E27D",
+					["custom"] = 0,
+					["tipo"] = 1,
+					["last_dps"] = 0,
+					["start_time"] = 1605428822,
+					["delay"] = 0,
+					["damage_taken"] = 2143.020856,
+				}, -- [37]
+				{
+					["flag_original"] = 2632,
+					["totalabsorbed"] = 0.014081,
+					["on_hold"] = false,
+					["damage_from"] = {
+						["해피뼈전사"] = true,
+						["군신잔트라-데스윙"] = true,
+						["법따리"] = true,
+						["판타지곤-데스윙"] = true,
+						["제프구프 <판타지곤-데스윙>"] = true,
+					},
+					["targets"] = {
+						["법따리"] = 4667,
+						["판타지곤-데스윙"] = 1843,
+						["군신잔트라-데스윙"] = 19116,
+						["덩치큰토템-데스윙"] = 3401,
+					},
+					["pets"] = {
+					},
+					["end_time"] = 1605428825,
+					["classe"] = "UNKNOW",
+					["friendlyfire_total"] = 0,
+					["raid_targets"] = {
+						[2] = 19116,
+					},
+					["total_without_pet"] = 29027.014081,
+					["fight_component"] = true,
+					["dps_started"] = false,
+					["total"] = 29027.014081,
+					["aID"] = "130400",
+					["monster"] = true,
+					["nome"] = "무쇠파도 분쇄자",
+					["spells"] = {
+						["tipo"] = 2,
+						["_ActorTable"] = {
+							{
+								["c_amt"] = 0,
+								["b_amt"] = 5,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 1480,
+								["targets"] = {
+									["군신잔트라-데스윙"] = 16173,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 16173,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 19,
+								["DODGE"] = 1,
+								["total"] = 16173,
+								["c_max"] = 0,
+								["a_amt"] = 0,
+								["id"] = 1,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["PARRY"] = 1,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 3361,
+								["n_amt"] = 17,
+								["r_amt"] = 0,
+								["c_min"] = 0,
+							}, -- [1]
+							[276061] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 2334,
+								["targets"] = {
+									["덩치큰토템-데스윙"] = 1924,
+									["법따리"] = 4667,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 6591,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 3,
+								["total"] = 6591,
+								["c_max"] = 0,
+								["id"] = 276061,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 2333,
+								["m_crit"] = 0,
+								["a_amt"] = 1,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 3,
+								["r_amt"] = 0,
+								["c_min"] = 0,
+							},
+							[258199] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 1843,
+								["targets"] = {
+									["판타지곤-데스윙"] = 1843,
+									["군신잔트라-데스윙"] = 2943,
+									["덩치큰토템-데스윙"] = 1477,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 6263,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 5,
+								["total"] = 6263,
+								["c_max"] = 0,
+								["id"] = 258199,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 1843,
+								["m_crit"] = 0,
+								["a_amt"] = 1,
+								["m_amt"] = 0,
+								["successful_casted"] = 3,
+								["b_dmg"] = 0,
+								["n_amt"] = 5,
+								["r_amt"] = 0,
+								["c_min"] = 0,
+							},
+							[258181] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 0,
+								["targets"] = {
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 0,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 0,
+								["total"] = 0,
+								["c_max"] = 0,
+								["id"] = 258181,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 4,
+								["b_dmg"] = 0,
+								["n_amt"] = 0,
+								["r_amt"] = 0,
+								["c_min"] = 0,
+							},
+						},
+					},
+					["last_event"] = 0,
+					["friendlyfire"] = {
+					},
+					["serial"] = "Creature-0-3058-1754-18048-130400-0000B0E279",
+					["custom"] = 0,
+					["tipo"] = 1,
+					["last_dps"] = 0,
+					["start_time"] = 1605428763,
+					["delay"] = 0,
+					["damage_taken"] = 74587.014081,
+				}, -- [38]
+				{
+					["flag_original"] = 8466,
+					["totalabsorbed"] = 0.006388,
+					["serial"] = "Creature-0-3058-1754-18048-61245-000030E620",
+					["damage_from"] = {
+					},
+					["targets"] = {
+					},
+					["end_time"] = 1605428825,
+					["pets"] = {
+					},
+					["friendlyfire_total"] = 0,
+					["classe"] = "PET",
+					["raid_targets"] = {
+					},
+					["total_without_pet"] = 0.006388,
+					["last_event"] = 0,
+					["dps_started"] = false,
+					["total"] = 0.006388,
+					["aID"] = "61245",
+					["ownerName"] = "덩치큰토템-데스윙",
+					["nome"] = "축전 토템 <덩치큰토템-데스윙>",
+					["spells"] = {
+						["tipo"] = 2,
+						["_ActorTable"] = {
+							[118905] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 0,
+								["targets"] = {
+									["무쇠파도 분쇄자"] = 0,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 0,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 1,
+								["total"] = 0,
+								["c_max"] = 0,
+								["IMMUNE"] = 1,
+								["id"] = 118905,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 0,
+								["r_amt"] = 0,
+								["c_min"] = 0,
+							},
+						},
+					},
+					["on_hold"] = false,
+					["friendlyfire"] = {
+					},
+					["custom"] = 0,
+					["tipo"] = 1,
+					["last_dps"] = 0,
+					["start_time"] = 1605428822,
+					["delay"] = 0,
+					["damage_taken"] = 0.006388,
+				}, -- [39]
+				{
+					["flag_original"] = 68168,
+					["totalabsorbed"] = 0.008213,
+					["damage_from"] = {
+						["해피뼈전사"] = true,
+						["군신잔트라-데스윙"] = true,
+						["덩치큰토템-데스윙"] = true,
+						["법따리"] = true,
+						["판타지곤-데스윙"] = true,
+						["제프구프 <판타지곤-데스윙>"] = true,
+					},
+					["targets"] = {
+						["군신잔트라-데스윙"] = 15897,
+					},
+					["on_hold"] = false,
+					["pets"] = {
+					},
+					["monster"] = true,
+					["friendlyfire_total"] = 0,
+					["raid_targets"] = {
+						[2] = 15897,
+					},
+					["total_without_pet"] = 15897.008213,
+					["classe"] = "UNKNOW",
+					["end_time"] = 1605429053,
+					["dps_started"] = false,
+					["total"] = 15897.008213,
+					["fight_component"] = true,
+					["aID"] = "129699",
+					["nome"] = "루드비히 폰 토르톨란",
+					["spells"] = {
+						["tipo"] = 2,
+						["_ActorTable"] = {
+							{
+								["c_amt"] = 0,
+								["b_amt"] = 7,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 1702,
+								["targets"] = {
+									["군신잔트라-데스윙"] = 15897,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 15897,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 23,
+								["MISS"] = 2,
+								["total"] = 15897,
+								["c_max"] = 0,
+								["DODGE"] = 1,
+								["id"] = 1,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 5944,
+								["n_amt"] = 20,
+								["r_amt"] = 0,
+								["c_min"] = 0,
+							}, -- [1]
+							[257904] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 0,
+								["targets"] = {
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 0,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 0,
+								["total"] = 0,
+								["c_max"] = 0,
+								["id"] = 257904,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 4,
+								["b_dmg"] = 0,
+								["n_amt"] = 0,
+								["r_amt"] = 0,
+								["c_min"] = 0,
+							},
+						},
+					},
+					["last_event"] = 0,
+					["friendlyfire"] = {
+					},
+					["serial"] = "Creature-0-3058-1754-18048-129699-000030E278",
+					["custom"] = 0,
+					["tipo"] = 1,
+					["last_dps"] = 0,
+					["start_time"] = 1605429017,
+					["delay"] = 0,
+					["damage_taken"] = 73947.008213,
+				}, -- [40]
+				{
+					["flag_original"] = 2632,
+					["totalabsorbed"] = 0.009328,
+					["damage_from"] = {
+					},
+					["targets"] = {
+						["해피뼈전사"] = 4508,
+						["판타지곤-데스윙"] = 1540,
+						["법따리"] = 1527,
+					},
+					["dps_started"] = false,
+					["pets"] = {
+					},
+					["last_event"] = 0,
+					["classe"] = "UNKNOW",
+					["raid_targets"] = {
+					},
+					["total_without_pet"] = 7575.009328,
+					["on_hold"] = false,
+					["end_time"] = 1605429053,
+					["monster"] = true,
+					["total"] = 7575.009328,
+					["fight_component"] = true,
+					["aID"] = "",
+					["nome"] = "[*] 껍질 튕기기",
+					["spells"] = {
+						["tipo"] = 2,
+						["_ActorTable"] = {
+							[257902] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 1540,
+								["targets"] = {
+									["해피뼈전사"] = 4508,
+									["판타지곤-데스윙"] = 1540,
+									["법따리"] = 1527,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 7575,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 5,
+								["total"] = 7575,
+								["c_max"] = 0,
+								["id"] = 257902,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 3067,
+								["m_crit"] = 0,
+								["a_amt"] = 2,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 5,
+								["r_amt"] = 0,
+								["c_min"] = 0,
+							},
+						},
+					},
+					["friendlyfire"] = {
+					},
+					["friendlyfire_total"] = 0,
+					["serial"] = "",
+					["custom"] = 0,
+					["tipo"] = 1,
+					["last_dps"] = 0,
+					["start_time"] = 1605429036,
+					["delay"] = 0,
+					["damage_taken"] = 0.009328,
+				}, -- [41]
+				{
+					["flag_original"] = 68168,
+					["totalabsorbed"] = 0.012925,
+					["damage_from"] = {
+						["해피뼈전사"] = true,
+						["군신잔트라-데스윙"] = true,
+						["덩치큰토템-데스윙"] = true,
+						["법따리"] = true,
+						["판타지곤-데스윙"] = true,
+						["제프구프 <판타지곤-데스윙>"] = true,
+					},
+					["targets"] = {
+						["해피뼈전사"] = 2616,
+						["군신잔트라-데스윙"] = 22193,
+						["덩치큰토템-데스윙"] = 1155,
+					},
+					["dps_started"] = false,
+					["pets"] = {
+					},
+					["last_event"] = 0,
+					["classe"] = "UNKNOW",
+					["raid_targets"] = {
+						[2] = 22193,
+					},
+					["total_without_pet"] = 25964.012925,
+					["on_hold"] = false,
+					["end_time"] = 1605429145,
+					["monster"] = true,
+					["total"] = 25964.012925,
+					["boss_fight_component"] = true,
+					["aID"] = "",
+					["nome"] = "트로삭",
+					["spells"] = {
+						["tipo"] = 2,
+						["_ActorTable"] = {
+							{
+								["c_amt"] = 0,
+								["b_amt"] = 8,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 1277,
+								["targets"] = {
+									["군신잔트라-데스윙"] = 15327,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 15327,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 19,
+								["total"] = 15327,
+								["c_max"] = 0,
+								["DODGE"] = 1,
+								["id"] = 1,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 5866,
+								["n_amt"] = 18,
+								["r_amt"] = 0,
+								["c_min"] = 0,
+							}, -- [1]
+							[256405] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 0,
+								["targets"] = {
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 0,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 0,
+								["total"] = 0,
+								["c_max"] = 0,
+								["id"] = 256405,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 2,
+								["b_dmg"] = 0,
+								["n_amt"] = 0,
+								["r_amt"] = 0,
+								["c_min"] = 0,
+							},
+							[256546] = {
+								["c_amt"] = 0,
+								["b_amt"] = 5,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 643,
+								["targets"] = {
+									["군신잔트라-데스윙"] = 6866,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 6866,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 13,
+								["total"] = 6866,
+								["c_max"] = 0,
+								["DODGE"] = 1,
+								["id"] = 256546,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 2365,
+								["n_amt"] = 12,
+								["r_amt"] = 0,
+								["c_min"] = 0,
+							},
+							[256358] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 0,
+								["targets"] = {
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 0,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 0,
+								["total"] = 0,
+								["c_max"] = 0,
+								["id"] = 256358,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 2,
+								["b_dmg"] = 0,
+								["n_amt"] = 0,
+								["r_amt"] = 0,
+								["c_min"] = 0,
+							},
+							[256363] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 365,
+								["targets"] = {
+									["해피뼈전사"] = 2616,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 2616,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 10,
+								["total"] = 2616,
+								["c_max"] = 0,
+								["id"] = 256363,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 2,
+								["b_dmg"] = 0,
+								["n_amt"] = 10,
+								["r_amt"] = 0,
+								["c_min"] = 0,
+							},
+							[256706] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 1155,
+								["targets"] = {
+									["덩치큰토템-데스윙"] = 1155,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 1155,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 1,
+								["total"] = 1155,
+								["c_max"] = 0,
+								["id"] = 256706,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 1,
+								["r_amt"] = 0,
+								["c_min"] = 0,
+							},
+						},
+					},
+					["friendlyfire"] = {
+					},
+					["friendlyfire_total"] = 0,
+					["serial"] = "Vehicle-0-3058-1754-18048-126969-000030E739",
+					["custom"] = 0,
+					["tipo"] = 1,
+					["last_dps"] = 0,
+					["start_time"] = 1605429085,
+					["delay"] = 0,
+					["damage_taken"] = 133115.012925,
+				}, -- [42]
+				{
+					["flag_original"] = 2632,
+					["totalabsorbed"] = 0.009803,
+					["damage_from"] = {
+					},
+					["targets"] = {
+						["덩치큰토템-데스윙"] = 8511,
+						["해피뼈전사"] = 1758,
+					},
+					["on_hold"] = false,
+					["pets"] = {
+					},
+					["monster"] = true,
+					["friendlyfire_total"] = 0,
+					["raid_targets"] = {
+					},
+					["total_without_pet"] = 10269.009803,
+					["classe"] = "UNKNOW",
+					["end_time"] = 1605429145,
+					["dps_started"] = false,
+					["total"] = 10269.009803,
+					["boss_fight_component"] = true,
+					["aID"] = "129359",
+					["nome"] = "톱니 상어",
+					["spells"] = {
+						["tipo"] = 2,
+						["_ActorTable"] = {
+							[256477] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 747,
+								["targets"] = {
+									["덩치큰토템-데스윙"] = 1489,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 1489,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 2,
+								["total"] = 1489,
+								["c_max"] = 0,
+								["id"] = 256477,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 2,
+								["b_dmg"] = 0,
+								["n_amt"] = 2,
+								["r_amt"] = 0,
+								["c_min"] = 0,
+							},
+							[256551] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 0,
+								["targets"] = {
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 0,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 0,
+								["total"] = 0,
+								["c_max"] = 0,
+								["id"] = 256551,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 14,
+								["b_dmg"] = 0,
+								["n_amt"] = 0,
+								["r_amt"] = 0,
+								["c_min"] = 0,
+							},
+							[256553] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 0,
+								["targets"] = {
+									["톱니 상어"] = 0,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 0,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 15,
+								["total"] = 0,
+								["c_max"] = 0,
+								["IMMUNE"] = 15,
+								["id"] = 256553,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 0,
+								["r_amt"] = 0,
+								["c_min"] = 0,
+							},
+							[256552] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 925,
+								["targets"] = {
+									["덩치큰토템-데스윙"] = 7022,
+									["해피뼈전사"] = 1758,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 8780,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 10,
+								["total"] = 8780,
+								["c_max"] = 0,
+								["id"] = 256552,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 14,
+								["b_dmg"] = 0,
+								["n_amt"] = 10,
+								["r_amt"] = 0,
+								["c_min"] = 0,
+							},
+						},
+					},
+					["last_event"] = 0,
+					["friendlyfire"] = {
+					},
+					["serial"] = "Creature-0-3058-1754-18048-129359-000030E739",
+					["custom"] = 0,
+					["tipo"] = 1,
+					["last_dps"] = 0,
+					["start_time"] = 1605429112,
+					["delay"] = 0,
+					["damage_taken"] = 0.009803,
+				}, -- [43]
+				{
+					["flag_original"] = 2632,
+					["totalabsorbed"] = 793.0115840000001,
+					["damage_from"] = {
+					},
+					["targets"] = {
+						["판타지곤-데스윙"] = 1651,
+					},
+					["on_hold"] = false,
+					["pets"] = {
+					},
+					["monster"] = true,
+					["friendlyfire_total"] = 0,
+					["raid_targets"] = {
+					},
+					["total_without_pet"] = 1651.011584,
+					["classe"] = "UNKNOW",
+					["end_time"] = 1605429145,
+					["dps_started"] = false,
+					["total"] = 1651.011584,
+					["boss_fight_component"] = true,
+					["aID"] = "129448",
+					["nome"] = "망치상어",
+					["spells"] = {
+						["tipo"] = 2,
+						["_ActorTable"] = {
+							[256477] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 793,
+								["targets"] = {
+									["판타지곤-데스윙"] = 793,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 793,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 1,
+								["total"] = 793,
+								["c_max"] = 0,
+								["id"] = 256477,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 1,
+								["b_dmg"] = 0,
+								["n_amt"] = 1,
+								["r_amt"] = 0,
+								["c_min"] = 0,
+							},
+							[256551] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 0,
+								["targets"] = {
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 0,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 0,
+								["total"] = 0,
+								["c_max"] = 0,
+								["id"] = 256551,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 3,
+								["b_dmg"] = 0,
+								["n_amt"] = 0,
+								["r_amt"] = 0,
+								["c_min"] = 0,
+							},
+							[256553] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 0,
+								["targets"] = {
+									["망치상어"] = 0,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 0,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 3,
+								["total"] = 0,
+								["c_max"] = 0,
+								["IMMUNE"] = 3,
+								["id"] = 256553,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 0,
+								["r_amt"] = 0,
+								["c_min"] = 0,
+							},
+							[256552] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 858,
+								["targets"] = {
+									["판타지곤-데스윙"] = 858,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 858,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 1,
+								["total"] = 858,
+								["c_max"] = 0,
+								["id"] = 256552,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 858,
+								["m_crit"] = 0,
+								["a_amt"] = 1,
+								["m_amt"] = 0,
+								["successful_casted"] = 2,
+								["b_dmg"] = 0,
+								["n_amt"] = 1,
+								["r_amt"] = 0,
+								["c_min"] = 0,
+							},
+						},
+					},
+					["last_event"] = 0,
+					["friendlyfire"] = {
+					},
+					["serial"] = "Creature-0-3058-1754-18048-129448-000030E739",
+					["custom"] = 0,
+					["tipo"] = 1,
+					["last_dps"] = 0,
+					["start_time"] = 1605429135,
+					["delay"] = 0,
+					["damage_taken"] = 0.011584,
+				}, -- [44]
+				{
+					["flag_original"] = 2632,
+					["totalabsorbed"] = 1498.012923,
+					["damage_from"] = {
+						["해피뼈전사"] = true,
+						["군신잔트라-데스윙"] = true,
+						["지옥불정령 <판타지곤-데스윙>"] = true,
+						["판타지곤-데스윙"] = true,
+						["법따리"] = true,
+						["제프구프 <판타지곤-데스윙>"] = true,
+					},
+					["targets"] = {
+						["법따리"] = 753,
+						["해피뼈전사"] = 789,
+						["군신잔트라-데스윙"] = 3154,
+						["판타지곤-데스윙"] = 745,
+					},
+					["on_hold"] = false,
+					["pets"] = {
+					},
+					["monster"] = true,
+					["friendlyfire_total"] = 0,
+					["raid_targets"] = {
+						[2] = 3154,
+					},
+					["total_without_pet"] = 5441.012923,
+					["classe"] = "UNKNOW",
+					["end_time"] = 1605429202,
+					["dps_started"] = false,
+					["total"] = 5441.012923,
+					["fight_component"] = true,
+					["aID"] = "126919",
+					["nome"] = "무쇠파도 폭풍소환사",
+					["spells"] = {
+						["tipo"] = 2,
+						["_ActorTable"] = {
+							{
+								["c_amt"] = 0,
+								["b_amt"] = 1,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 524,
+								["targets"] = {
+									["군신잔트라-데스윙"] = 2110,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 2110,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 6,
+								["total"] = 2110,
+								["c_max"] = 0,
+								["MISS"] = 1,
+								["id"] = 1,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 306,
+								["n_amt"] = 5,
+								["r_amt"] = 0,
+								["c_min"] = 0,
+							}, -- [1]
+							[257737] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 789,
+								["targets"] = {
+									["법따리"] = 753,
+									["해피뼈전사"] = 789,
+									["군신잔트라-데스윙"] = 715,
+									["판타지곤-데스윙"] = 745,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 3002,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 4,
+								["total"] = 3002,
+								["c_max"] = 0,
+								["id"] = 257737,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 715,
+								["m_crit"] = 0,
+								["a_amt"] = 1,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 4,
+								["r_amt"] = 0,
+								["c_min"] = 0,
+							},
+							[259092] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 329,
+								["targets"] = {
+									["군신잔트라-데스윙"] = 329,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 329,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 1,
+								["total"] = 329,
+								["c_max"] = 0,
+								["id"] = 259092,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 1,
+								["b_dmg"] = 0,
+								["n_amt"] = 1,
+								["r_amt"] = 0,
+								["c_min"] = 0,
+							},
+							[257736] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 0,
+								["targets"] = {
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 0,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 0,
+								["total"] = 0,
+								["c_max"] = 0,
+								["id"] = 257736,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 2,
+								["b_dmg"] = 0,
+								["n_amt"] = 0,
+								["r_amt"] = 0,
+								["c_min"] = 0,
+							},
+						},
+					},
+					["last_event"] = 0,
+					["friendlyfire"] = {
+					},
+					["serial"] = "Creature-0-3058-1754-18048-126919-0000B0E278",
+					["custom"] = 0,
+					["tipo"] = 1,
+					["last_dps"] = 0,
+					["start_time"] = 1605429178,
+					["delay"] = 0,
+					["damage_taken"] = 31388.012923,
+				}, -- [45]
+				{
+					["flag_original"] = 2632,
+					["totalabsorbed"] = 0.019682,
+					["damage_from"] = {
+						["해피뼈전사"] = true,
+						["군신잔트라-데스윙"] = true,
+						["지옥불정령 <판타지곤-데스윙>"] = true,
+						["판타지곤-데스윙"] = true,
+						["제프구프 <판타지곤-데스윙>"] = true,
+						["법따리"] = true,
+					},
+					["targets"] = {
+						["군신잔트라-데스윙"] = 3544,
+					},
+					["on_hold"] = false,
+					["pets"] = {
+					},
+					["monster"] = true,
+					["friendlyfire_total"] = 0,
+					["raid_targets"] = {
+						[2] = 3544,
+					},
+					["total_without_pet"] = 3544.019682,
+					["classe"] = "UNKNOW",
+					["end_time"] = 1605429202,
+					["dps_started"] = false,
+					["total"] = 3544.019682,
+					["fight_component"] = true,
+					["aID"] = "130012",
+					["nome"] = "무쇠파도 약탈자",
+					["spells"] = {
+						["tipo"] = 2,
+						["_ActorTable"] = {
+							{
+								["c_amt"] = 0,
+								["b_amt"] = 4,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 581,
+								["targets"] = {
+									["군신잔트라-데스윙"] = 3544,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 3544,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 11,
+								["total"] = 3544,
+								["c_max"] = 0,
+								["MISS"] = 2,
+								["id"] = 1,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 1303,
+								["n_amt"] = 9,
+								["r_amt"] = 0,
+								["c_min"] = 0,
+							}, -- [1]
+						},
+					},
+					["last_event"] = 0,
+					["friendlyfire"] = {
+					},
+					["serial"] = "Creature-0-3058-1754-18048-130012-000130E278",
+					["custom"] = 0,
+					["tipo"] = 1,
+					["last_dps"] = 0,
+					["start_time"] = 1605429164,
+					["delay"] = 0,
+					["damage_taken"] = 37648.019682,
+				}, -- [46]
+				{
+					["flag_original"] = 2632,
+					["totalabsorbed"] = 0.016249,
+					["damage_from"] = {
+						["해피뼈전사"] = true,
+						["군신잔트라-데스윙"] = true,
+						["법따리"] = true,
+						["판타지곤-데스윙"] = true,
+						["지옥불정령 <판타지곤-데스윙>"] = true,
+					},
+					["targets"] = {
+						["군신잔트라-데스윙"] = 20221,
+						["지옥불정령 <판타지곤-데스윙>"] = 274,
+					},
+					["on_hold"] = false,
+					["pets"] = {
+					},
+					["monster"] = true,
+					["friendlyfire_total"] = 0,
+					["raid_targets"] = {
+						[2] = 20221,
+					},
+					["total_without_pet"] = 20495.016249,
+					["classe"] = "UNKNOW",
+					["end_time"] = 1605429242,
+					["dps_started"] = false,
+					["total"] = 20495.016249,
+					["fight_component"] = true,
+					["aID"] = "130011",
+					["nome"] = "무쇠파도 해적단원",
+					["spells"] = {
+						["tipo"] = 2,
+						["_ActorTable"] = {
+							{
+								["c_amt"] = 0,
+								["b_amt"] = 19,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 629,
+								["targets"] = {
+									["군신잔트라-데스윙"] = 11921,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 11921,
+								["MISS"] = 2,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 52,
+								["a_amt"] = 0,
+								["total"] = 11921,
+								["c_max"] = 0,
+								["DODGE"] = 2,
+								["id"] = 1,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["PARRY"] = 5,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 4044,
+								["n_amt"] = 43,
+								["r_amt"] = 0,
+								["c_min"] = 0,
+							}, -- [1]
+							[257870] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 0,
+								["targets"] = {
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 0,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 0,
+								["total"] = 0,
+								["c_max"] = 0,
+								["id"] = 257870,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 5,
+								["b_dmg"] = 0,
+								["n_amt"] = 0,
+								["r_amt"] = 0,
+								["c_min"] = 0,
+							},
+							[257871] = {
+								["c_amt"] = 0,
+								["b_amt"] = 15,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 204,
+								["targets"] = {
+									["군신잔트라-데스윙"] = 8300,
+									["지옥불정령 <판타지곤-데스윙>"] = 274,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 8574,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 75,
+								["a_amt"] = 0,
+								["total"] = 8574,
+								["c_max"] = 0,
+								["DODGE"] = 4,
+								["id"] = 257871,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["PARRY"] = 3,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 1975,
+								["n_amt"] = 68,
+								["r_amt"] = 0,
+								["c_min"] = 0,
+							},
+						},
+					},
+					["last_event"] = 0,
+					["friendlyfire"] = {
+					},
+					["serial"] = "Creature-0-3058-1754-18048-130011-000030E278",
+					["custom"] = 0,
+					["tipo"] = 1,
+					["last_dps"] = 0,
+					["start_time"] = 1605429178,
+					["delay"] = 0,
+					["damage_taken"] = 57679.016249,
+				}, -- [47]
+				{
+					["flag_original"] = -2147483648,
+					["totalabsorbed"] = 0.010643,
+					["classe"] = "UNKNOW",
+					["damage_from"] = {
+					},
+					["targets"] = {
+						["판타지곤-데스윙"] = 111,
+						["해피뼈전사"] = 324,
+						["군신잔트라-데스윙"] = 35,
+						["덩치큰토템-데스윙"] = 187,
+					},
+					["pets"] = {
+					},
+					["fight_component"] = true,
+					["aID"] = "",
+					["raid_targets"] = {
+						[2] = 35,
+					},
+					["total_without_pet"] = 657.010643,
+					["last_event"] = 0,
+					["dps_started"] = false,
+					["end_time"] = 1605429242,
+					["friendlyfire"] = {
+					},
+					["friendlyfire_total"] = 0,
+					["nome"] = "환경피해 (낙하 충격)",
+					["spells"] = {
+						["tipo"] = 2,
+						["_ActorTable"] = {
+							[3] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 324,
+								["targets"] = {
+									["판타지곤-데스윙"] = 111,
+									["해피뼈전사"] = 324,
+									["군신잔트라-데스윙"] = 35,
+									["덩치큰토템-데스윙"] = 187,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 657,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 4,
+								["total"] = 657,
+								["c_max"] = 0,
+								["id"] = 3,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 4,
+								["r_amt"] = 0,
+								["c_min"] = 0,
+							},
+						},
+					},
+					["on_hold"] = false,
+					["total"] = 657.010643,
+					["serial"] = "",
+					["custom"] = 0,
+					["tipo"] = 1,
+					["damage_taken"] = 0.010643,
+					["start_time"] = 1605429238,
+					["delay"] = 0,
+					["last_dps"] = 0,
+				}, -- [48]
+				{
+					["flag_original"] = 68168,
+					["totalabsorbed"] = 0.002363,
+					["damage_from"] = {
+						["해피뼈전사"] = true,
+						["군신잔트라-데스윙"] = true,
+						["법따리"] = true,
+					},
+					["targets"] = {
+						["군신잔트라-데스윙"] = 5647,
+					},
+					["on_hold"] = false,
+					["pets"] = {
+					},
+					["monster"] = true,
+					["friendlyfire_total"] = 0,
+					["raid_targets"] = {
+						[2] = 5647,
+					},
+					["total_without_pet"] = 5647.002363,
+					["classe"] = "UNKNOW",
+					["end_time"] = 1605429281,
+					["dps_started"] = false,
+					["total"] = 5647.002363,
+					["fight_component"] = true,
+					["aID"] = "127106",
+					["nome"] = "무쇠파도 장교",
+					["spells"] = {
+						["tipo"] = 2,
+						["_ActorTable"] = {
+							{
+								["c_amt"] = 0,
+								["b_amt"] = 2,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 695,
+								["targets"] = {
+									["군신잔트라-데스윙"] = 4443,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 4443,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 12,
+								["DODGE"] = 3,
+								["total"] = 4443,
+								["c_max"] = 0,
+								["MISS"] = 1,
+								["id"] = 1,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 947,
+								["n_amt"] = 8,
+								["r_amt"] = 0,
+								["c_min"] = 0,
+							}, -- [1]
+							[257908] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 616,
+								["targets"] = {
+									["군신잔트라-데스윙"] = 1204,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 1204,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 2,
+								["total"] = 1204,
+								["c_max"] = 0,
+								["id"] = 257908,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 2,
+								["b_dmg"] = 0,
+								["n_amt"] = 2,
+								["r_amt"] = 0,
+								["c_min"] = 0,
+							},
+						},
+					},
+					["last_event"] = 0,
+					["friendlyfire"] = {
+					},
+					["serial"] = "Creature-0-3058-1754-18048-127106-000030E278",
+					["custom"] = 0,
+					["tipo"] = 1,
+					["last_dps"] = 0,
+					["start_time"] = 1605429249,
+					["delay"] = 0,
+					["damage_taken"] = 30005.002363,
+				}, -- [49]
+				{
+					["flag_original"] = 2632,
+					["totalabsorbed"] = 896.0100010000001,
+					["damage_from"] = {
+						["해피뼈전사"] = true,
+						["군신잔트라-데스윙"] = true,
+						["덩치큰토템-데스윙"] = true,
+						["판타지곤-데스윙"] = true,
+						["제프구프 <판타지곤-데스윙>"] = true,
+						["법따리 <법따리>"] = true,
+						["법따리"] = true,
+					},
+					["targets"] = {
+						["해피뼈전사"] = 634,
+						["군신잔트라-데스윙"] = 22870,
+						["덩치큰토템-데스윙"] = 1280,
+						["법따리"] = 1144,
+						["판타지곤-데스윙"] = 642,
+					},
+					["on_hold"] = false,
+					["pets"] = {
+					},
+					["monster"] = true,
+					["friendlyfire_total"] = 0,
+					["raid_targets"] = {
+						[2] = 22870,
+					},
+					["total_without_pet"] = 26570.010001,
+					["classe"] = "UNKNOW",
+					["end_time"] = 1605429389,
+					["dps_started"] = false,
+					["total"] = 26570.010001,
+					["boss_fight_component"] = true,
+					["aID"] = "126983",
+					["nome"] = "할란 스위트",
+					["spells"] = {
+						["tipo"] = 2,
+						["_ActorTable"] = {
+							{
+								["c_amt"] = 0,
+								["b_amt"] = 26,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 691,
+								["targets"] = {
+									["군신잔트라-데스윙"] = 22870,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 22870,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 75,
+								["a_amt"] = 0,
+								["total"] = 22870,
+								["c_max"] = 0,
+								["DODGE"] = 1,
+								["id"] = 1,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["PARRY"] = 4,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 7106,
+								["n_amt"] = 70,
+								["r_amt"] = 0,
+								["c_min"] = 0,
+							}, -- [1]
+							[257308] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 130,
+								["targets"] = {
+									["법따리"] = 1144,
+									["판타지곤-데스윙"] = 642,
+									["해피뼈전사"] = 634,
+									["덩치큰토템-데스윙"] = 1280,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 3700,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 30,
+								["total"] = 3700,
+								["c_max"] = 0,
+								["IMMUNE"] = 1,
+								["id"] = 257308,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 383,
+								["m_crit"] = 0,
+								["a_amt"] = 3,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 29,
+								["r_amt"] = 0,
+								["c_min"] = 0,
+							},
+							[257316] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 0,
+								["targets"] = {
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 0,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 0,
+								["total"] = 0,
+								["c_max"] = 0,
+								["id"] = 257316,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 2,
+								["b_dmg"] = 0,
+								["n_amt"] = 0,
+								["r_amt"] = 0,
+								["c_min"] = 0,
+							},
+							[257402] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 0,
+								["targets"] = {
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 0,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 0,
+								["total"] = 0,
+								["c_max"] = 0,
+								["id"] = 257402,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 1,
+								["b_dmg"] = 0,
+								["n_amt"] = 0,
+								["r_amt"] = 0,
+								["c_min"] = 0,
+							},
+							[257278] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 0,
+								["targets"] = {
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 0,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 0,
+								["total"] = 0,
+								["c_max"] = 0,
+								["id"] = 257278,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 2,
+								["b_dmg"] = 0,
+								["n_amt"] = 0,
+								["r_amt"] = 0,
+								["c_min"] = 0,
+							},
+							[257458] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 0,
+								["targets"] = {
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 0,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 0,
+								["total"] = 0,
+								["c_max"] = 0,
+								["id"] = 257458,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 1,
+								["b_dmg"] = 0,
+								["n_amt"] = 0,
+								["r_amt"] = 0,
+								["c_min"] = 0,
+							},
+						},
+					},
+					["last_event"] = 0,
+					["friendlyfire"] = {
+					},
+					["serial"] = "Creature-0-3058-1754-18048-126983-000030E278",
+					["custom"] = 0,
+					["tipo"] = 1,
+					["last_dps"] = 0,
+					["start_time"] = 1605429302,
+					["delay"] = 0,
+					["damage_taken"] = 185310.010001,
+				}, -- [50]
+				{
+					["flag_original"] = 2632,
+					["totalabsorbed"] = 2618.006256,
+					["damage_from"] = {
+					},
+					["targets"] = {
+						["해피뼈전사"] = 5180,
+						["군신잔트라-데스윙"] = 3411,
+						["덩치큰토템-데스윙"] = 1325,
+						["판타지곤-데스윙"] = 2618,
+						["법따리"] = 2652,
+					},
+					["on_hold"] = false,
+					["pets"] = {
+					},
+					["monster"] = true,
+					["friendlyfire_total"] = 0,
+					["raid_targets"] = {
+						[2] = 3411,
+					},
+					["total_without_pet"] = 15186.006256,
+					["classe"] = "UNKNOW",
+					["end_time"] = 1605429389,
+					["dps_started"] = false,
+					["total"] = 15186.006256,
+					["boss_fight_component"] = true,
+					["aID"] = "129747",
+					["nome"] = "돌개바람 사브르",
+					["spells"] = {
+						["tipo"] = 2,
+						["_ActorTable"] = {
+							[257293] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 1327,
+								["targets"] = {
+									["해피뼈전사"] = 5180,
+									["군신잔트라-데스윙"] = 3411,
+									["덩치큰토템-데스윙"] = 1325,
+									["판타지곤-데스윙"] = 2618,
+									["법따리"] = 2652,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 15186,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 12,
+								["total"] = 15186,
+								["c_max"] = 0,
+								["id"] = 257293,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 3861,
+								["m_crit"] = 0,
+								["a_amt"] = 3,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 12,
+								["r_amt"] = 0,
+								["c_min"] = 0,
+							},
+						},
+					},
+					["last_event"] = 0,
+					["friendlyfire"] = {
+					},
+					["serial"] = "Creature-0-3058-1754-18048-129747-000130E83E",
+					["custom"] = 0,
+					["tipo"] = 1,
+					["last_dps"] = 0,
+					["start_time"] = 1605429379,
+					["delay"] = 0,
+					["damage_taken"] = 0.006256,
+				}, -- [51]
+				{
+					["flag_original"] = 2632,
+					["totalabsorbed"] = 0.01128,
+					["damage_from"] = {
+					},
+					["targets"] = {
+						["덩치큰토템-데스윙"] = 1007,
+						["해피뼈전사"] = 1019,
+					},
+					["on_hold"] = false,
+					["pets"] = {
+					},
+					["monster"] = true,
+					["friendlyfire_total"] = 0,
+					["raid_targets"] = {
+					},
+					["total_without_pet"] = 2026.01128,
+					["classe"] = "UNKNOW",
+					["end_time"] = 1605429389,
+					["dps_started"] = false,
+					["total"] = 2026.01128,
+					["boss_fight_component"] = true,
+					["aID"] = "130850",
+					["nome"] = "무쇠파도 대포",
+					["spells"] = {
+						["tipo"] = 2,
+						["_ActorTable"] = {
+							[257310] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 1019,
+								["targets"] = {
+									["법따리"] = 0,
+									["해피뼈전사"] = 1019,
+									["덩치큰토템-데스윙"] = 1007,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 2026,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 7,
+								["total"] = 2026,
+								["c_max"] = 0,
+								["IMMUNE"] = 5,
+								["id"] = 257310,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 2,
+								["r_amt"] = 0,
+								["c_min"] = 0,
+							},
+						},
+					},
+					["last_event"] = 0,
+					["friendlyfire"] = {
+					},
+					["serial"] = "Creature-0-3058-1754-18048-130850-000030E278",
+					["custom"] = 0,
+					["tipo"] = 1,
+					["last_dps"] = 0,
+					["start_time"] = 1605429382,
+					["delay"] = 0,
+					["damage_taken"] = 0.01128,
+				}, -- [52]
+				{
+					["flag_original"] = 2632,
+					["totalabsorbed"] = 304.015908,
+					["damage_from"] = {
+					},
+					["targets"] = {
+						["판타지곤-데스윙"] = 896,
+						["법따리"] = 304,
+						["덩치큰토템-데스윙"] = 601,
+					},
+					["dps_started"] = false,
+					["pets"] = {
+					},
+					["last_event"] = 0,
+					["classe"] = "UNKNOW",
+					["raid_targets"] = {
+					},
+					["total_without_pet"] = 1801.015908,
+					["on_hold"] = false,
+					["end_time"] = 1605429389,
+					["monster"] = true,
+					["total"] = 1801.015908,
+					["boss_fight_component"] = true,
+					["aID"] = "",
+					["nome"] = "[*] 불꽃 파편",
+					["spells"] = {
+						["tipo"] = 2,
+						["_ActorTable"] = {
+							[257460] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 307,
+								["targets"] = {
+									["판타지곤-데스윙"] = 896,
+									["법따리"] = 304,
+									["덩치큰토템-데스윙"] = 601,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 1801,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 11,
+								["total"] = 1801,
+								["c_max"] = 0,
+								["IMMUNE"] = 5,
+								["id"] = 257460,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 896,
+								["m_crit"] = 0,
+								["a_amt"] = 3,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 6,
+								["r_amt"] = 0,
+								["c_min"] = 0,
+							},
+						},
+					},
+					["friendlyfire"] = {
+					},
+					["friendlyfire_total"] = 0,
+					["serial"] = "",
+					["custom"] = 0,
+					["tipo"] = 1,
+					["last_dps"] = 0,
+					["start_time"] = 1605429374,
+					["delay"] = 0,
+					["damage_taken"] = 0.015908,
+				}, -- [53]
+				{
+					["flag_original"] = 8466,
+					["totalabsorbed"] = 0.012777,
+					["serial"] = "Creature-0-3058-1754-18048-53006-000030E860",
+					["boss_fight_component"] = true,
+					["damage_from"] = {
+					},
+					["targets"] = {
+					},
+					["pets"] = {
+					},
+					["friendlyfire_total"] = 0,
+					["end_time"] = 1605429389,
+					["classe"] = "PET",
+					["raid_targets"] = {
+					},
+					["total_without_pet"] = 0.012777,
+					["last_event"] = 0,
+					["dps_started"] = false,
+					["total"] = 0.012777,
+					["aID"] = "53006",
+					["ownerName"] = "덩치큰토템-데스윙",
+					["nome"] = "정신의 고리 토템 <덩치큰토템-데스윙>",
+					["spells"] = {
+						["tipo"] = 2,
+						["_ActorTable"] = {
+						},
+					},
+					["on_hold"] = false,
+					["friendlyfire"] = {
+					},
+					["custom"] = 0,
+					["tipo"] = 1,
+					["last_dps"] = 0,
+					["start_time"] = 1605429386,
+					["delay"] = 0,
+					["damage_taken"] = 0.012777,
+				}, -- [54]
+				{
+					["flag_original"] = 8465,
+					["totalabsorbed"] = 0.011084,
+					["serial"] = "Creature-0-3058-1754-18048-31216-000130E881",
+					["boss_fight_component"] = true,
+					["damage_from"] = {
+					},
+					["targets"] = {
+						["할란 스위트"] = 218,
+					},
+					["pets"] = {
+					},
+					["friendlyfire_total"] = 0,
+					["end_time"] = 1605429389,
+					["classe"] = "PET",
+					["raid_targets"] = {
+					},
+					["total_without_pet"] = 218.011084,
+					["last_event"] = 0,
+					["dps_started"] = false,
+					["total"] = 218.011084,
+					["aID"] = "31216",
+					["ownerName"] = "법따리",
+					["nome"] = "법따리 <법따리>",
+					["spells"] = {
+						["tipo"] = 2,
+						["_ActorTable"] = {
+							[59638] = {
+								["c_amt"] = 3,
+								["b_amt"] = 0,
+								["c_dmg"] = 87,
+								["g_amt"] = 0,
+								["n_max"] = 21,
+								["targets"] = {
+									["할란 스위트"] = 218,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 131,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 11,
+								["total"] = 218,
+								["c_max"] = 29,
+								["id"] = 59638,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 8,
+								["r_amt"] = 0,
+								["c_min"] = 0,
+							},
+						},
+					},
+					["on_hold"] = false,
+					["friendlyfire"] = {
+					},
+					["custom"] = 0,
+					["tipo"] = 1,
+					["last_dps"] = 0,
+					["start_time"] = 1605429381,
+					["delay"] = 0,
+					["damage_taken"] = 0.011084,
+				}, -- [55]
+				{
+					["flag_original"] = 2632,
+					["totalabsorbed"] = 0.00865,
+					["damage_from"] = {
+						["군신잔트라-데스윙"] = true,
+					},
+					["targets"] = {
+					},
+					["on_hold"] = false,
+					["pets"] = {
+					},
+					["monster"] = true,
+					["friendlyfire_total"] = 0,
+					["raid_targets"] = {
+					},
+					["total_without_pet"] = 0.00865,
+					["classe"] = "UNKNOW",
+					["end_time"] = 1605429389,
+					["dps_started"] = false,
+					["total"] = 0.00865,
+					["boss_fight_component"] = true,
+					["aID"] = "129758",
+					["nome"] = "무쇠파도 폭탄병",
+					["spells"] = {
+						["tipo"] = 2,
+						["_ActorTable"] = {
+							[257314] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 0,
+								["targets"] = {
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 0,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 0,
+								["total"] = 0,
+								["c_max"] = 0,
+								["id"] = 257314,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 1,
+								["b_dmg"] = 0,
+								["n_amt"] = 0,
+								["r_amt"] = 0,
+								["c_min"] = 0,
+							},
+						},
+					},
+					["last_event"] = 0,
+					["friendlyfire"] = {
+					},
+					["serial"] = "Creature-0-3058-1754-18048-129758-000030E854",
+					["custom"] = 0,
+					["tipo"] = 1,
+					["last_dps"] = 0,
+					["start_time"] = 1605429386,
+					["delay"] = 0,
+					["damage_taken"] = 63.00865,
+				}, -- [56]
+			},
+		}, -- [1]
+		{
+			["tipo"] = 3,
+			["_ActorTable"] = {
+				{
+					["flag_original"] = 66833,
+					["targets_overheal"] = {
+						["법따리"] = 12,
+					},
+					["pets"] = {
+					},
+					["iniciar_hps"] = false,
+					["classe"] = "MAGE",
+					["totalover"] = 12.095358,
+					["total_without_pet"] = 37295.09535800001,
+					["total"] = 37295.09535800001,
+					["targets_absorbs"] = {
+						["법따리"] = 33490,
+					},
+					["heal_enemy"] = {
+					},
+					["on_hold"] = false,
+					["serial"] = "Player-205-0713A4FD",
+					["totalabsorb"] = 33490.09535800001,
+					["last_hps"] = 0,
+					["targets"] = {
+						["법따리"] = 37295,
+					},
+					["totalover_without_pet"] = 0.095358,
+					["boss_fight_component"] = true,
+					["healing_taken"] = 57557.09535800001,
+					["fight_component"] = true,
+					["end_time"] = 1605427918,
+					["start_time"] = 1605427444,
+					["healing_from"] = {
+						["법따리"] = true,
+						["치유의 토템 <덩치큰토템-데스윙>"] = true,
+						["덩치큰토템-데스윙"] = true,
+					},
+					["nome"] = "법따리",
+					["spells"] = {
+						["tipo"] = 3,
+						["_ActorTable"] = {
+							[235450] = {
+								["c_amt"] = 0,
+								["totalabsorb"] = 7895,
+								["targets_overheal"] = {
+								},
+								["n_max"] = 788,
+								["targets"] = {
+									["법따리"] = 7895,
+								},
+								["n_min"] = 0,
+								["counter"] = 18,
+								["overheal"] = 0,
+								["total"] = 7895,
+								["c_max"] = 0,
+								["id"] = 235450,
+								["targets_absorbs"] = {
+									["법따리"] = 7895,
+								},
+								["c_curado"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
+								["m_amt"] = 0,
+								["n_curado"] = 7895,
+								["n_amt"] = 18,
+								["totaldenied"] = 0,
+								["m_healed"] = 0,
+								["absorbed"] = 0,
+							},
+							[269279] = {
+								["c_amt"] = 0,
+								["totalabsorb"] = 25595,
+								["targets_overheal"] = {
+								},
+								["n_max"] = 1195,
+								["targets"] = {
+									["법따리"] = 25595,
+								},
+								["n_min"] = 0,
+								["counter"] = 53,
+								["overheal"] = 0,
+								["total"] = 25595,
+								["c_max"] = 0,
+								["id"] = 269279,
+								["targets_absorbs"] = {
+									["법따리"] = 25595,
+								},
+								["c_curado"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
+								["m_amt"] = 0,
+								["n_curado"] = 25595,
+								["n_amt"] = 53,
+								["totaldenied"] = 0,
+								["m_healed"] = 0,
+								["absorbed"] = 0,
+							},
+							[143924] = {
+								["c_amt"] = 0,
+								["totalabsorb"] = 0,
+								["targets_overheal"] = {
+									["법따리"] = 12,
+								},
+								["n_max"] = 115,
+								["targets"] = {
+									["법따리"] = 3805,
+								},
+								["n_min"] = 0,
+								["counter"] = 199,
+								["overheal"] = 12,
+								["total"] = 3805,
+								["c_max"] = 0,
+								["id"] = 143924,
+								["targets_absorbs"] = {
+								},
+								["c_curado"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
+								["m_amt"] = 0,
+								["n_curado"] = 3805,
+								["n_amt"] = 199,
+								["totaldenied"] = 0,
+								["m_healed"] = 0,
+								["absorbed"] = 0,
+							},
+						},
+					},
+					["grupo"] = true,
+					["heal_enemy_amt"] = 0,
+					["aID"] = "205-0713A4FD",
+					["custom"] = 0,
+					["tipo"] = 2,
+					["spec"] = 62,
+					["totaldenied"] = 0.095358,
+					["delay"] = 0,
+					["last_event"] = 0,
+				}, -- [1]
+				{
+					["flag_original"] = 1298,
+					["targets_overheal"] = {
+						["해피뼈전사"] = 12622,
+						["군신잔트라-데스윙"] = 60623,
+						["덩치큰토템-데스윙"] = 26780,
+						["판타지곤-데스윙"] = 6394,
+						["제프구프 <판타지곤-데스윙>"] = 6866,
+						["법따리"] = 5761,
+						["지옥불정령 <판타지곤-데스윙>"] = 1562,
+					},
+					["pets"] = {
+						"치유의 토템 <덩치큰토템-데스윙>", -- [1]
+						"정신의 고리 토템 <덩치큰토템-데스윙>", -- [2]
+					},
+					["iniciar_hps"] = false,
+					["classe"] = "SHAMAN",
+					["totalover"] = 122367.136973,
+					["total_without_pet"] = 534184.1369730001,
+					["total"] = 546860.1369730001,
+					["targets_absorbs"] = {
+					},
+					["heal_enemy"] = {
+					},
+					["on_hold"] = false,
+					["serial"] = "Player-214-09483ED4",
+					["totalabsorb"] = 0.136973,
+					["last_hps"] = 0,
+					["targets"] = {
+						["해피뼈전사"] = 26493,
+						["군신잔트라-데스윙"] = 437889,
+						["덩치큰토템-데스윙"] = 41174,
+						["지옥불정령 <판타지곤-데스윙>"] = 296,
+						["법따리"] = 20262,
+						["제프구프 <판타지곤-데스윙>"] = 86,
+						["판타지곤-데스윙"] = 20660,
+					},
+					["totalover_without_pet"] = 0.136973,
+					["boss_fight_component"] = true,
+					["healing_taken"] = 41174.13697299999,
+					["fight_component"] = true,
+					["end_time"] = 1605427918,
+					["start_time"] = 1605426879,
+					["healing_from"] = {
+						["치유의 토템 <덩치큰토템-데스윙>"] = true,
+						["덩치큰토템-데스윙"] = true,
+					},
+					["nome"] = "덩치큰토템-데스윙",
+					["spells"] = {
+						["tipo"] = 3,
+						["_ActorTable"] = {
+							[77472] = {
+								["c_amt"] = 0,
+								["totalabsorb"] = 0,
+								["targets_overheal"] = {
+								},
+								["n_max"] = 2144,
+								["targets"] = {
+									["군신잔트라-데스윙"] = 2144,
+								},
+								["n_min"] = 0,
+								["counter"] = 1,
+								["overheal"] = 0,
+								["total"] = 2144,
+								["c_max"] = 0,
+								["id"] = 77472,
+								["targets_absorbs"] = {
+								},
+								["c_curado"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
+								["m_amt"] = 0,
+								["n_curado"] = 2144,
+								["n_amt"] = 1,
+								["totaldenied"] = 0,
+								["m_healed"] = 0,
+								["absorbed"] = 0,
+							},
+							[61295] = {
+								["c_amt"] = 59,
+								["totalabsorb"] = 0,
+								["targets_overheal"] = {
+									["해피뼈전사"] = 712,
+									["군신잔트라-데스윙"] = 10430,
+									["덩치큰토템-데스윙"] = 3413,
+								},
+								["n_max"] = 1392,
+								["targets"] = {
+									["해피뼈전사"] = 2408,
+									["군신잔트라-데스윙"] = 70677,
+									["덩치큰토템-데스윙"] = 2115,
+								},
+								["n_min"] = 0,
+								["counter"] = 255,
+								["overheal"] = 14555,
+								["total"] = 75200,
+								["c_max"] = 2620,
+								["id"] = 61295,
+								["targets_absorbs"] = {
+								},
+								["c_curado"] = 26609,
+								["m_crit"] = 0,
+								["c_min"] = 0,
+								["m_amt"] = 0,
+								["n_curado"] = 48591,
+								["n_amt"] = 196,
+								["totaldenied"] = 0,
+								["m_healed"] = 0,
+								["absorbed"] = 0,
+							},
+							[73921] = {
+								["c_amt"] = 75,
+								["totalabsorb"] = 0,
+								["targets_overheal"] = {
+									["해피뼈전사"] = 5961,
+									["군신잔트라-데스윙"] = 1562,
+									["덩치큰토템-데스윙"] = 4263,
+									["제프구프 <판타지곤-데스윙>"] = 3523,
+									["판타지곤-데스윙"] = 3694,
+									["법따리"] = 4800,
+									["지옥불정령 <판타지곤-데스윙>"] = 1562,
+								},
+								["n_max"] = 189,
+								["targets"] = {
+									["지옥불정령 <판타지곤-데스윙>"] = 296,
+									["군신잔트라-데스윙"] = 9801,
+									["덩치큰토템-데스윙"] = 5624,
+									["판타지곤-데스윙"] = 4369,
+									["제프구프 <판타지곤-데스윙>"] = 0,
+									["법따리"] = 2587,
+									["해피뼈전사"] = 3387,
+								},
+								["n_min"] = 0,
+								["counter"] = 324,
+								["overheal"] = 25365,
+								["total"] = 26064,
+								["c_max"] = 359,
+								["id"] = 73921,
+								["targets_absorbs"] = {
+								},
+								["c_curado"] = 11904,
+								["m_crit"] = 0,
+								["c_min"] = 0,
+								["m_amt"] = 0,
+								["n_curado"] = 14160,
+								["n_amt"] = 249,
+								["totaldenied"] = 0,
+								["m_healed"] = 0,
+								["absorbed"] = 0,
+							},
+							[8004] = {
+								["c_amt"] = 59,
+								["totalabsorb"] = 0,
+								["targets_overheal"] = {
+									["해피뼈전사"] = 1217,
+									["군신잔트라-데스윙"] = 44295,
+									["덩치큰토템-데스윙"] = 15533,
+								},
+								["n_max"] = 1941,
+								["targets"] = {
+									["해피뼈전사"] = 10051,
+									["군신잔트라-데스윙"] = 264507,
+									["덩치큰토템-데스윙"] = 18373,
+									["법따리"] = 11692,
+									["판타지곤-데스윙"] = 6630,
+								},
+								["n_min"] = 0,
+								["counter"] = 192,
+								["overheal"] = 61045,
+								["total"] = 311253,
+								["c_max"] = 4000,
+								["id"] = 8004,
+								["targets_absorbs"] = {
+								},
+								["c_curado"] = 130795,
+								["m_crit"] = 0,
+								["c_min"] = 0,
+								["m_amt"] = 0,
+								["n_curado"] = 180458,
+								["n_amt"] = 133,
+								["totaldenied"] = 0,
+								["m_healed"] = 0,
+								["absorbed"] = 0,
+							},
+							[379] = {
+								["c_amt"] = 48,
+								["totalabsorb"] = 0,
+								["targets_overheal"] = {
+									["군신잔트라-데스윙"] = 983,
+								},
+								["n_max"] = 252,
+								["targets"] = {
+									["군신잔트라-데스윙"] = 55359,
+								},
+								["n_min"] = 0,
+								["counter"] = 229,
+								["overheal"] = 983,
+								["total"] = 55359,
+								["c_max"] = 494,
+								["id"] = 379,
+								["targets_absorbs"] = {
+								},
+								["c_curado"] = 19197,
+								["m_crit"] = 0,
+								["c_min"] = 0,
+								["m_amt"] = 0,
+								["n_curado"] = 36162,
+								["n_amt"] = 181,
+								["totaldenied"] = 0,
+								["m_healed"] = 0,
+								["absorbed"] = 0,
+							},
+							[31616] = {
+								["c_amt"] = 0,
+								["totalabsorb"] = 0,
+								["targets_overheal"] = {
+								},
+								["n_max"] = 1661,
+								["targets"] = {
+									["덩치큰토템-데스윙"] = 3322,
+								},
+								["n_min"] = 0,
+								["counter"] = 2,
+								["overheal"] = 0,
+								["total"] = 3322,
+								["c_max"] = 0,
+								["id"] = 31616,
+								["targets_absorbs"] = {
+								},
+								["c_curado"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
+								["m_amt"] = 0,
+								["n_curado"] = 3322,
+								["n_amt"] = 2,
+								["totaldenied"] = 0,
+								["m_healed"] = 0,
+								["absorbed"] = 0,
+							},
+							[1064] = {
+								["c_amt"] = 22,
+								["totalabsorb"] = 0,
+								["targets_overheal"] = {
+									["해피뼈전사"] = 4732,
+									["군신잔트라-데스윙"] = 3353,
+									["덩치큰토템-데스윙"] = 3571,
+									["제프구프 <판타지곤-데스윙>"] = 3343,
+									["법따리"] = 961,
+									["판타지곤-데스윙"] = 2700,
+								},
+								["n_max"] = 1460,
+								["targets"] = {
+									["해피뼈전사"] = 9514,
+									["군신잔트라-데스윙"] = 30393,
+									["덩치큰토템-데스윙"] = 9000,
+									["제프구프 <판타지곤-데스윙>"] = 86,
+									["법따리"] = 4225,
+									["판타지곤-데스윙"] = 7624,
+								},
+								["n_min"] = 0,
+								["counter"] = 85,
+								["overheal"] = 18660,
+								["total"] = 60842,
+								["c_max"] = 2935,
+								["id"] = 1064,
+								["targets_absorbs"] = {
+								},
+								["c_curado"] = 27338,
+								["m_crit"] = 0,
+								["c_min"] = 0,
+								["m_amt"] = 0,
+								["n_curado"] = 33504,
+								["n_amt"] = 63,
+								["totaldenied"] = 0,
+								["m_healed"] = 0,
+								["absorbed"] = 0,
+							},
+						},
+					},
+					["grupo"] = true,
+					["heal_enemy_amt"] = 0,
+					["aID"] = "214-09483ED4",
+					["custom"] = 0,
+					["tipo"] = 2,
+					["spec"] = 264,
+					["totaldenied"] = 0.136973,
+					["delay"] = 0,
+					["last_event"] = 0,
+				}, -- [2]
+				{
+					["flag_original"] = 1298,
+					["targets_overheal"] = {
+					},
+					["pets"] = {
+					},
+					["iniciar_hps"] = false,
+					["aID"] = "214-093AAE58",
+					["totalover"] = 0.118814,
+					["total_without_pet"] = 7919.118814000001,
+					["total"] = 7919.118814000001,
+					["targets_absorbs"] = {
+						["군신잔트라-데스윙"] = 2772,
+					},
+					["heal_enemy"] = {
+					},
+					["on_hold"] = false,
+					["isTank"] = true,
+					["serial"] = "Player-214-093AAE58",
+					["totalabsorb"] = 2772.118814,
+					["last_hps"] = 0,
+					["targets"] = {
+						["군신잔트라-데스윙"] = 7919,
+					},
+					["totalover_without_pet"] = 0.118814,
+					["boss_fight_component"] = true,
+					["healing_taken"] = 445808.118814,
+					["fight_component"] = true,
+					["end_time"] = 1605427918,
+					["healing_from"] = {
+						["치유의 토템 <덩치큰토템-데스윙>"] = true,
+						["군신잔트라-데스윙"] = true,
+						["덩치큰토템-데스윙"] = true,
+					},
+					["heal_enemy_amt"] = 0,
+					["nome"] = "군신잔트라-데스윙",
+					["spells"] = {
+						["tipo"] = 3,
+						["_ActorTable"] = {
+							[152261] = {
+								["c_amt"] = 0,
+								["totalabsorb"] = 2772,
+								["targets_overheal"] = {
+								},
+								["n_max"] = 291,
+								["targets"] = {
+									["군신잔트라-데스윙"] = 2772,
+								},
+								["n_min"] = 0,
+								["counter"] = 28,
+								["overheal"] = 0,
+								["total"] = 2772,
+								["c_max"] = 0,
+								["id"] = 152261,
+								["targets_absorbs"] = {
+									["군신잔트라-데스윙"] = 2772,
+								},
+								["c_curado"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
+								["m_amt"] = 0,
+								["n_curado"] = 2772,
+								["n_amt"] = 28,
+								["totaldenied"] = 0,
+								["m_healed"] = 0,
+								["absorbed"] = 0,
+							},
+							[19750] = {
+								["c_amt"] = 0,
+								["totalabsorb"] = 0,
+								["targets_overheal"] = {
+								},
+								["n_max"] = 1370,
+								["targets"] = {
+									["군신잔트라-데스윙"] = 5147,
+								},
+								["n_min"] = 0,
+								["counter"] = 4,
+								["overheal"] = 0,
+								["total"] = 5147,
+								["c_max"] = 0,
+								["id"] = 19750,
+								["targets_absorbs"] = {
+								},
+								["c_curado"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
+								["m_amt"] = 0,
+								["n_curado"] = 5147,
+								["n_amt"] = 4,
+								["totaldenied"] = 0,
+								["m_healed"] = 0,
+								["absorbed"] = 0,
+							},
+						},
+					},
+					["grupo"] = true,
+					["start_time"] = 1605427834,
+					["spec"] = 66,
+					["custom"] = 0,
+					["tipo"] = 2,
+					["classe"] = "PALADIN",
+					["totaldenied"] = 0.118814,
+					["delay"] = 0,
+					["last_event"] = 0,
+				}, -- [3]
+				{
+					["flag_original"] = 1298,
+					["targets_overheal"] = {
+						["제프구프 <판타지곤-데스윙>"] = 45,
+						["판타지곤-데스윙"] = 1640,
+					},
+					["pets"] = {
+						"제프구프 <판타지곤-데스윙>", -- [1]
+						"지옥불정령 <판타지곤-데스윙>", -- [2]
+					},
+					["iniciar_hps"] = false,
+					["classe"] = "WARLOCK",
+					["totalover"] = 1685.098497,
+					["total_without_pet"] = 29835.098497,
+					["total"] = 29835.098497,
+					["targets_absorbs"] = {
+						["판타지곤-데스윙"] = 28081,
+						["제프구프 <판타지곤-데스윙>"] = 676,
+					},
+					["heal_enemy"] = {
+					},
+					["on_hold"] = false,
+					["serial"] = "Player-214-07FC4C5D",
+					["totalabsorb"] = 28757.098497,
+					["last_hps"] = 0,
+					["targets"] = {
+						["판타지곤-데스윙"] = 29159,
+						["제프구프 <판타지곤-데스윙>"] = 676,
+					},
+					["totalover_without_pet"] = 0.098497,
+					["healing_taken"] = 49819.098497,
+					["boss_fight_component"] = true,
+					["fight_component"] = true,
+					["end_time"] = 1605427918,
+					["start_time"] = 1605427726,
+					["healing_from"] = {
+						["판타지곤-데스윙"] = true,
+						["치유의 토템 <덩치큰토템-데스윙>"] = true,
+						["덩치큰토템-데스윙"] = true,
+					},
+					["nome"] = "판타지곤-데스윙",
+					["spells"] = {
+						["tipo"] = 3,
+						["_ActorTable"] = {
+							[108366] = {
+								["c_amt"] = 0,
+								["totalabsorb"] = 26169,
+								["targets_overheal"] = {
+									["제프구프 <판타지곤-데스윙>"] = 45,
+									["판타지곤-데스윙"] = 847,
+								},
+								["n_max"] = 953,
+								["targets"] = {
+									["판타지곤-데스윙"] = 25493,
+									["제프구프 <판타지곤-데스윙>"] = 676,
+								},
+								["n_min"] = 0,
+								["counter"] = 131,
+								["overheal"] = 892,
+								["total"] = 26169,
+								["c_max"] = 0,
+								["id"] = 108366,
+								["targets_absorbs"] = {
+									["판타지곤-데스윙"] = 25493,
+									["제프구프 <판타지곤-데스윙>"] = 676,
+								},
+								["c_curado"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
+								["m_amt"] = 0,
+								["n_curado"] = 26169,
+								["n_amt"] = 131,
+								["totaldenied"] = 0,
+								["m_healed"] = 0,
+								["absorbed"] = 0,
+							},
+							[234153] = {
+								["c_amt"] = 0,
+								["totalabsorb"] = 0,
+								["targets_overheal"] = {
+									["판타지곤-데스윙"] = 793,
+								},
+								["n_max"] = 939,
+								["targets"] = {
+									["판타지곤-데스윙"] = 1078,
+								},
+								["n_min"] = 0,
+								["counter"] = 3,
+								["overheal"] = 793,
+								["total"] = 1078,
+								["c_max"] = 0,
+								["id"] = 234153,
+								["targets_absorbs"] = {
+								},
+								["c_curado"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
+								["m_amt"] = 0,
+								["n_curado"] = 1078,
+								["n_amt"] = 3,
+								["totaldenied"] = 0,
+								["m_healed"] = 0,
+								["absorbed"] = 0,
+							},
+							[77220] = {
+								["c_amt"] = 0,
+								["totalabsorb"] = 2588,
+								["targets_overheal"] = {
+								},
+								["n_max"] = 81,
+								["targets"] = {
+									["판타지곤-데스윙"] = 2588,
+								},
+								["n_min"] = 0,
+								["counter"] = 123,
+								["overheal"] = 0,
+								["total"] = 2588,
+								["c_max"] = 0,
+								["id"] = 77220,
+								["targets_absorbs"] = {
+									["판타지곤-데스윙"] = 2588,
+								},
+								["c_curado"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
+								["m_amt"] = 0,
+								["n_curado"] = 2588,
+								["n_amt"] = 123,
+								["totaldenied"] = 0,
+								["m_healed"] = 0,
+								["absorbed"] = 0,
+							},
+						},
+					},
+					["grupo"] = true,
+					["heal_enemy_amt"] = 0,
+					["aID"] = "214-07FC4C5D",
+					["custom"] = 0,
+					["tipo"] = 2,
+					["spec"] = 267,
+					["totaldenied"] = 0.098497,
+					["delay"] = 0,
+					["last_event"] = 0,
+				}, -- [4]
+				{
+					["flag_original"] = 4370,
+					["targets_overheal"] = {
+					},
+					["pets"] = {
+					},
+					["iniciar_hps"] = false,
+					["heal_enemy_amt"] = 0,
+					["totalover"] = 0.05571700000000001,
+					["total_without_pet"] = 0.05571700000000001,
+					["total"] = 0.05571700000000001,
+					["targets_absorbs"] = {
+					},
+					["heal_enemy"] = {
+					},
+					["on_hold"] = false,
+					["serial"] = "Pet-0-3057-1-819-416-03019C2D49",
+					["totalabsorb"] = 0.05571700000000001,
+					["last_hps"] = 0,
+					["targets"] = {
+					},
+					["totalover_without_pet"] = 0.05571700000000001,
+					["healing_from"] = {
+						["덩치큰토템-데스윙"] = true,
+						["판타지곤-데스윙"] = true,
+					},
+					["healing_taken"] = 762.055717,
+					["boss_fight_component"] = true,
+					["fight_component"] = true,
+					["end_time"] = 1605427918,
+					["aID"] = "Pet-0-3057-1-819-416-03019C2D49",
+					["ownerName"] = "판타지곤-데스윙",
+					["nome"] = "제프구프 <판타지곤-데스윙>",
+					["tipo"] = 2,
+					["classe"] = "PET",
+					["custom"] = 0,
+					["last_event"] = 0,
+					["start_time"] = 1605427915,
+					["totaldenied"] = 0.05571700000000001,
+					["delay"] = 0,
+					["spells"] = {
+						["tipo"] = 3,
+						["_ActorTable"] = {
+						},
+					},
+				}, -- [5]
+				{
+					["flag_original"] = 1298,
+					["targets_overheal"] = {
+						["해피뼈전사"] = 56096,
+					},
+					["pets"] = {
+					},
+					["iniciar_hps"] = false,
+					["classe"] = "WARRIOR",
+					["totalover"] = 56096.12925899999,
+					["total_without_pet"] = 35206.129259,
+					["total"] = 35206.129259,
+					["targets_absorbs"] = {
+					},
+					["heal_enemy"] = {
+					},
+					["on_hold"] = false,
+					["serial"] = "Player-205-06251940",
+					["totalabsorb"] = 0.129259,
+					["last_hps"] = 0,
+					["targets"] = {
+						["해피뼈전사"] = 35206,
+					},
+					["totalover_without_pet"] = 0.129259,
+					["boss_fight_component"] = true,
+					["healing_taken"] = 61699.129259,
+					["fight_component"] = true,
+					["end_time"] = 1605427981,
+					["start_time"] = 1605427587,
+					["healing_from"] = {
+						["해피뼈전사"] = true,
+						["치유의 토템 <덩치큰토템-데스윙>"] = true,
+						["덩치큰토템-데스윙"] = true,
+					},
+					["nome"] = "해피뼈전사",
+					["spells"] = {
+						["tipo"] = 3,
+						["_ActorTable"] = {
+							[202147] = {
+								["c_amt"] = 0,
+								["totalabsorb"] = 0,
+								["targets_overheal"] = {
+									["해피뼈전사"] = 3583,
+								},
+								["n_max"] = 320,
+								["targets"] = {
+									["해피뼈전사"] = 16806,
+								},
+								["n_min"] = 0,
+								["counter"] = 64,
+								["overheal"] = 3583,
+								["total"] = 16806,
+								["c_max"] = 0,
+								["id"] = 202147,
+								["targets_absorbs"] = {
+								},
+								["c_curado"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
+								["m_amt"] = 0,
+								["n_curado"] = 16806,
+								["n_amt"] = 64,
+								["totaldenied"] = 0,
+								["m_healed"] = 0,
+								["absorbed"] = 0,
+							},
+							[127802] = {
+								["c_amt"] = 0,
+								["totalabsorb"] = 0,
+								["targets_overheal"] = {
+									["해피뼈전사"] = 8506,
+								},
+								["n_max"] = 386,
+								["targets"] = {
+									["해피뼈전사"] = 3477,
+								},
+								["n_min"] = 0,
+								["counter"] = 52,
+								["overheal"] = 8506,
+								["total"] = 3477,
+								["c_max"] = 0,
+								["id"] = 127802,
+								["targets_absorbs"] = {
+								},
+								["c_curado"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
+								["m_amt"] = 0,
+								["n_curado"] = 3477,
+								["n_amt"] = 52,
+								["totaldenied"] = 0,
+								["m_healed"] = 0,
+								["absorbed"] = 0,
+							},
+							[118779] = {
+								["c_amt"] = 0,
+								["totalabsorb"] = 0,
+								["targets_overheal"] = {
+									["해피뼈전사"] = 44007,
+								},
+								["n_max"] = 1796,
+								["targets"] = {
+									["해피뼈전사"] = 14923,
+								},
+								["n_min"] = 0,
+								["counter"] = 33,
+								["overheal"] = 44007,
+								["total"] = 14923,
+								["c_max"] = 0,
+								["id"] = 118779,
+								["targets_absorbs"] = {
+								},
+								["c_curado"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
+								["m_amt"] = 0,
+								["n_curado"] = 14923,
+								["n_amt"] = 33,
+								["totaldenied"] = 0,
+								["m_healed"] = 0,
+								["absorbed"] = 0,
+							},
+						},
+					},
+					["grupo"] = true,
+					["heal_enemy_amt"] = 0,
+					["aID"] = "205-06251940",
+					["custom"] = 0,
+					["tipo"] = 2,
+					["spec"] = 71,
+					["totaldenied"] = 0.129259,
+					["delay"] = 0,
+					["last_event"] = 0,
+				}, -- [6]
+				{
+					["flag_original"] = 8466,
+					["targets_overheal"] = {
+					},
+					["pets"] = {
+					},
+					["iniciar_hps"] = false,
+					["classe"] = "PET",
+					["totalover"] = 0.018616,
+					["total_without_pet"] = 0.018616,
+					["total"] = 0.018616,
+					["targets_absorbs"] = {
+					},
+					["heal_enemy"] = {
+					},
+					["on_hold"] = false,
+					["serial"] = "Creature-0-3058-1754-18048-89-000030E375",
+					["totalabsorb"] = 0.018616,
+					["last_hps"] = 0,
+					["targets"] = {
+					},
+					["totalover_without_pet"] = 0.018616,
+					["healing_taken"] = 296.018616,
+					["last_event"] = 0,
+					["fight_component"] = true,
+					["end_time"] = 1605428106,
+					["healing_from"] = {
+						["덩치큰토템-데스윙"] = true,
+					},
+					["ownerName"] = "판타지곤-데스윙",
+					["nome"] = "지옥불정령 <판타지곤-데스윙>",
+					["heal_enemy_amt"] = 0,
+					["aID"] = "89",
+					["custom"] = 0,
+					["tipo"] = 2,
+					["start_time"] = 1605428103,
+					["totaldenied"] = 0.018616,
+					["delay"] = 0,
+					["spells"] = {
+						["tipo"] = 3,
+						["_ActorTable"] = {
+						},
+					},
+				}, -- [7]
+				{
+					["flag_original"] = 68168,
+					["targets_overheal"] = {
+					},
+					["pets"] = {
+					},
+					["iniciar_hps"] = false,
+					["aID"] = "126832",
+					["totalover"] = 0.014511,
+					["total_without_pet"] = 0.014511,
+					["monster"] = true,
+					["total"] = 0.014511,
+					["targets_absorbs"] = {
+					},
+					["heal_enemy"] = {
+						[256060] = 3236,
+					},
+					["on_hold"] = false,
+					["serial"] = "Creature-0-3058-1754-18048-126832-000030E40F",
+					["totalabsorb"] = 0.014511,
+					["last_hps"] = 0,
+					["targets"] = {
+					},
+					["totalover_without_pet"] = 0.014511,
+					["healing_taken"] = 0.014511,
+					["end_time"] = 1605428308,
+					["boss_fight_component"] = true,
+					["healing_from"] = {
+					},
+					["nome"] = "하늘선장 크라그",
+					["spells"] = {
+						["tipo"] = 3,
+						["_ActorTable"] = {
+						},
+					},
+					["classe"] = "UNKNOW",
+					["last_event"] = 0,
+					["custom"] = 0,
+					["tipo"] = 2,
+					["heal_enemy_amt"] = 3236,
+					["start_time"] = 1605428305,
+					["delay"] = 0,
+					["totaldenied"] = 0.014511,
+				}, -- [8]
+				{
+					["flag_original"] = 2600,
+					["healing_from"] = {
+					},
+					["pets"] = {
+					},
+					["iniciar_hps"] = false,
+					["heal_enemy_amt"] = 0,
+					["totalover"] = 1759.031347,
+					["total_without_pet"] = 12676.031347,
+					["total"] = 12676.031347,
+					["targets_absorbs"] = {
+					},
+					["heal_enemy"] = {
+					},
+					["on_hold"] = false,
+					["serial"] = "Creature-0-3058-1754-18048-3527-000030E503",
+					["totalabsorb"] = 0.031347,
+					["last_hps"] = 0,
+					["targets"] = {
+						["해피뼈전사"] = 1133,
+						["군신잔트라-데스윙"] = 5008,
+						["덩치큰토템-데스윙"] = 2740,
+						["법따리"] = 1758,
+						["판타지곤-데스윙"] = 2037,
+					},
+					["totalover_without_pet"] = 0.031347,
+					["last_event"] = 0,
+					["healing_taken"] = 0.031347,
+					["boss_fight_component"] = true,
+					["fight_component"] = true,
+					["end_time"] = 1605428543,
+					["targets_overheal"] = {
+						["법따리"] = 350,
+						["판타지곤-데스윙"] = 1080,
+						["군신잔트라-데스윙"] = 88,
+						["덩치큰토템-데스윙"] = 241,
+					},
+					["ownerName"] = "덩치큰토템-데스윙",
+					["nome"] = "치유의 토템 <덩치큰토템-데스윙>",
+					["spells"] = {
+						["tipo"] = 3,
+						["_ActorTable"] = {
+							[52042] = {
+								["c_amt"] = 9,
+								["totalabsorb"] = 0,
+								["targets_overheal"] = {
+									["법따리"] = 350,
+									["판타지곤-데스윙"] = 1080,
+									["군신잔트라-데스윙"] = 88,
+									["덩치큰토템-데스윙"] = 241,
+								},
+								["n_max"] = 279,
+								["targets"] = {
+									["해피뼈전사"] = 1133,
+									["군신잔트라-데스윙"] = 5008,
+									["덩치큰토템-데스윙"] = 2740,
+									["법따리"] = 1758,
+									["판타지곤-데스윙"] = 2037,
+								},
+								["n_min"] = 0,
+								["counter"] = 58,
+								["overheal"] = 1759,
+								["total"] = 12676,
+								["c_max"] = 528,
+								["id"] = 52042,
+								["targets_absorbs"] = {
+								},
+								["c_curado"] = 3394,
+								["m_crit"] = 0,
+								["c_min"] = 0,
+								["m_amt"] = 0,
+								["n_curado"] = 9282,
+								["n_amt"] = 49,
+								["totaldenied"] = 0,
+								["m_healed"] = 0,
+								["absorbed"] = 0,
+							},
+						},
+					},
+					["aID"] = "3527",
+					["classe"] = "UNKNOW",
+					["custom"] = 0,
+					["tipo"] = 2,
+					["start_time"] = 1605428446,
+					["totaldenied"] = 0.031347,
+					["delay"] = 0,
+				}, -- [9]
+				{
+					["flag_original"] = 8466,
+					["targets_overheal"] = {
+					},
+					["pets"] = {
+					},
+					["iniciar_hps"] = false,
+					["aID"] = "53006",
+					["totalover"] = 0.011059,
+					["total_without_pet"] = 0.011059,
+					["total"] = 0.011059,
+					["targets_absorbs"] = {
+					},
+					["heal_enemy"] = {
+					},
+					["on_hold"] = false,
+					["serial"] = "Creature-0-3058-1754-18048-53006-000030E860",
+					["totalabsorb"] = 0.011059,
+					["last_hps"] = 0,
+					["targets"] = {
+					},
+					["totalover_without_pet"] = 0.011059,
+					["healing_taken"] = 0.011059,
+					["last_event"] = 0,
+					["boss_fight_component"] = true,
+					["end_time"] = 1605429389,
+					["healing_from"] = {
+					},
+					["ownerName"] = "덩치큰토템-데스윙",
+					["nome"] = "정신의 고리 토템 <덩치큰토템-데스윙>",
+					["classe"] = "PET",
+					["heal_enemy_amt"] = 0,
+					["custom"] = 0,
+					["tipo"] = 2,
+					["start_time"] = 1605429386,
+					["totaldenied"] = 0.011059,
+					["delay"] = 0,
+					["spells"] = {
+						["tipo"] = 3,
+						["_ActorTable"] = {
+							[98021] = {
+								["c_amt"] = 0,
+								["totalabsorb"] = 0,
+								["targets_overheal"] = {
+								},
+								["n_max"] = 1297,
+								["targets"] = {
+									["군신잔트라-데스윙"] = 2246,
+									["덩치큰토템-데스윙"] = 2567,
+								},
+								["n_min"] = 0,
+								["counter"] = 10,
+								["overheal"] = 0,
+								["total"] = 4813,
+								["c_max"] = 0,
+								["id"] = 98021,
+								["targets_absorbs"] = {
+								},
+								["c_curado"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
+								["m_amt"] = 0,
+								["n_curado"] = 4813,
+								["n_amt"] = 10,
+								["totaldenied"] = 0,
+								["m_healed"] = 0,
+								["absorbed"] = 0,
+							},
+						},
+					},
+				}, -- [10]
+			},
+		}, -- [2]
+		{
+			["tipo"] = 7,
+			["_ActorTable"] = {
+				{
+					["received"] = 4631.124389000001,
+					["resource"] = 68.12438899999998,
+					["boss_fight_component"] = true,
+					["targets"] = {
+						["법따리"] = 4631,
+					},
+					["pets"] = {
+					},
+					["powertype"] = 0,
+					["aID"] = "205-0713A4FD",
+					["passiveover"] = 0.001873,
+					["resource_type"] = 16,
+					["fight_component"] = true,
+					["total"] = 4631.124389000001,
+					["tipo"] = 3,
+					["totalover"] = 0.001873,
+					["nome"] = "법따리",
+					["spells"] = {
+						["tipo"] = 7,
+						["_ActorTable"] = {
+							[5405] = {
+								["total"] = 4631,
+								["id"] = 5405,
+								["totalover"] = 0,
+								["targets"] = {
+									["법따리"] = 4631,
+								},
+								["counter"] = 4,
+							},
+						},
+					},
+					["grupo"] = true,
+					["spec"] = 62,
+					["flag_original"] = 66833,
+					["alternatepower"] = 0.124389,
+					["last_event"] = 0,
+					["classe"] = "MAGE",
+					["serial"] = "Player-205-0713A4FD",
+				}, -- [1]
+				{
+					["received"] = 0.122191,
+					["resource"] = 339.122191,
+					["boss_fight_component"] = true,
+					["targets"] = {
+					},
+					["pets"] = {
+					},
+					["powertype"] = 0,
+					["aID"] = "214-093AAE58",
+					["passiveover"] = 0.002729,
+					["resource_type"] = 9,
+					["fight_component"] = true,
+					["total"] = 0.122191,
+					["totalover"] = 0.002729,
+					["tipo"] = 3,
+					["nome"] = "군신잔트라-데스윙",
+					["spells"] = {
+						["tipo"] = 7,
+						["_ActorTable"] = {
+						},
+					},
+					["grupo"] = true,
+					["spec"] = 66,
+					["flag_original"] = 1298,
+					["alternatepower"] = 0.122191,
+					["last_event"] = 0,
+					["classe"] = "PALADIN",
+					["isTank"] = true,
+					["serial"] = "Player-214-093AAE58",
+				}, -- [2]
+				{
+					["flag_original"] = 1298,
+					["resource"] = 0.111448,
+					["targets"] = {
+						["덩치큰토템-데스윙"] = 3200,
+					},
+					["pets"] = {
+					},
+					["powertype"] = 0,
+					["classe"] = "SHAMAN",
+					["totalover"] = 0.008732,
+					["fight_component"] = true,
+					["alternatepower"] = 0.111448,
+					["boss_fight_component"] = true,
+					["nome"] = "덩치큰토템-데스윙",
+					["spec"] = 264,
+					["grupo"] = true,
+					["received"] = 3200.111448,
+					["aID"] = "214-09483ED4",
+					["passiveover"] = 0.008732,
+					["last_event"] = 0,
+					["total"] = 3200.111448,
+					["tipo"] = 3,
+					["serial"] = "Player-214-09483ED4",
+					["spells"] = {
+						["tipo"] = 7,
+						["_ActorTable"] = {
+							[101033] = {
+								["total"] = 3200,
+								["id"] = 101033,
+								["totalover"] = 0,
+								["targets"] = {
+									["덩치큰토템-데스윙"] = 3200,
+								},
+								["counter"] = 92,
+							},
+						},
+					},
+				}, -- [3]
+				{
+					["flag_original"] = 1298,
+					["resource"] = 0.110698,
+					["targets"] = {
+						["해피뼈전사"] = 1669.899999380112,
+					},
+					["pets"] = {
+					},
+					["powertype"] = 1,
+					["classe"] = "WARRIOR",
+					["totalover"] = 0.003373,
+					["fight_component"] = true,
+					["alternatepower"] = 0.110698,
+					["boss_fight_component"] = true,
+					["nome"] = "해피뼈전사",
+					["spec"] = 71,
+					["grupo"] = true,
+					["received"] = 1670.010697380112,
+					["aID"] = "205-06251940",
+					["passiveover"] = 0.003373,
+					["last_event"] = 0,
+					["total"] = 1670.010697380112,
+					["tipo"] = 3,
+					["serial"] = "Player-205-06251940",
+					["spells"] = {
+						["tipo"] = 7,
+						["_ActorTable"] = {
+							[100] = {
+								["total"] = 878.0999991893768,
+								["id"] = 100,
+								["totalover"] = 0,
+								["targets"] = {
+									["해피뼈전사"] = 878.0999991893768,
+								},
+								["counter"] = 49,
+							},
+							[262232] = {
+								["total"] = 725.8000001907349,
+								["id"] = 262232,
+								["totalover"] = 0,
+								["targets"] = {
+									["해피뼈전사"] = 725.8000001907349,
+								},
+								["counter"] = 73,
+							},
+							[195707] = {
+								["total"] = 66,
+								["id"] = 195707,
+								["totalover"] = 0,
+								["targets"] = {
+									["해피뼈전사"] = 66,
+								},
+								["counter"] = 26,
+							},
+						},
+					},
+				}, -- [4]
+			},
+		}, -- [3]
+		{
+			["tipo"] = 9,
+			["_ActorTable"] = {
+				{
+					["flag_original"] = 1047,
+					["debuff_uptime_spells"] = {
+						["tipo"] = 9,
+						["_ActorTable"] = {
+							[188389] = {
+								["refreshamt"] = 0,
+								["activedamt"] = 0,
+								["appliedamt"] = 8,
+								["id"] = 188389,
+								["uptime"] = 97,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[225080] = {
+								["refreshamt"] = 0,
+								["activedamt"] = 1,
+								["appliedamt"] = 1,
+								["id"] = 225080,
+								["uptime"] = 0,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[196840] = {
+								["refreshamt"] = 1,
+								["activedamt"] = 0,
+								["appliedamt"] = 1,
+								["id"] = 196840,
+								["uptime"] = 3,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+						},
+					},
+					["dispell"] = 3.009705,
+					["cooldowns_defensive"] = 4.029942999999999,
+					["pets"] = {
+						"축전 토템 <덩치큰토템-데스윙>", -- [1]
+						"마나 해일 토템 <덩치큰토템-데스윙>", -- [2]
+						"치유의 토템 <덩치큰토템-데스윙>", -- [3]
+						"정신의 고리 토템 <덩치큰토템-데스윙>", -- [4]
+					},
+					["aID"] = "214-09483ED4",
+					["interrupt_spells"] = {
+						["tipo"] = 9,
+						["_ActorTable"] = {
+							[57994] = {
+								["id"] = 57994,
+								["interrompeu_oque"] = {
+									[258777] = 1,
+								},
+								["targets"] = {
+									["무쇠파도 노꾼"] = 1,
+								},
+								["counter"] = 1,
+							},
+						},
+					},
+					["buff_uptime_spells"] = {
+						["tipo"] = 9,
+						["_ActorTable"] = {
+							[280615] = {
+								["refreshamt"] = 0,
+								["activedamt"] = 66,
+								["appliedamt"] = 66,
+								["id"] = 280615,
+								["uptime"] = 235,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[61447] = {
+								["refreshamt"] = 0,
+								["appliedamt"] = 1,
+								["activedamt"] = 1,
+								["uptime"] = 0,
+								["id"] = 61447,
+								["actived_at"] = 1605427866,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[320763] = {
+								["refreshamt"] = 0,
+								["activedamt"] = 4,
+								["appliedamt"] = 4,
+								["id"] = 320763,
+								["uptime"] = 29,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[93825] = {
+								["refreshamt"] = 0,
+								["appliedamt"] = 25,
+								["activedamt"] = 25,
+								["uptime"] = 1064,
+								["id"] = 93825,
+								["actived_at"] = 1605427866,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[326396] = {
+								["refreshamt"] = 0,
+								["appliedamt"] = 25,
+								["activedamt"] = 25,
+								["uptime"] = 1064,
+								["id"] = 326396,
+								["actived_at"] = 1605427866,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[77762] = {
+								["refreshamt"] = 0,
+								["activedamt"] = 10,
+								["appliedamt"] = 10,
+								["id"] = 77762,
+								["uptime"] = 17,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[267274] = {
+								["refreshamt"] = 0,
+								["appliedamt"] = 2,
+								["activedamt"] = 2,
+								["uptime"] = 0,
+								["id"] = 267274,
+								["actived_at"] = 3210856412,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[325174] = {
+								["refreshamt"] = 0,
+								["activedamt"] = 1,
+								["appliedamt"] = 1,
+								["id"] = 325174,
+								["uptime"] = 6,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[228128] = {
+								["refreshamt"] = 0,
+								["appliedamt"] = 1,
+								["activedamt"] = 1,
+								["uptime"] = 0,
+								["id"] = 228128,
+								["actived_at"] = 1605427866,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[79206] = {
+								["refreshamt"] = 0,
+								["activedamt"] = 3,
+								["appliedamt"] = 3,
+								["id"] = 79206,
+								["uptime"] = 41,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[260881] = {
+								["refreshamt"] = 3,
+								["activedamt"] = 1,
+								["appliedamt"] = 1,
+								["id"] = 260881,
+								["uptime"] = 4,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[2645] = {
+								["refreshamt"] = 0,
+								["activedamt"] = 1,
+								["appliedamt"] = 1,
+								["id"] = 2645,
+								["uptime"] = 5,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[53390] = {
+								["refreshamt"] = 9,
+								["activedamt"] = 55,
+								["appliedamt"] = 55,
+								["id"] = 53390,
+								["uptime"] = 369,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[73920] = {
+								["actived_at"] = 1605429245,
+								["refreshamt"] = 0,
+								["activedamt"] = 1,
+								["appliedamt"] = 1,
+								["id"] = 73920,
+								["uptime"] = 0,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[72221] = {
+								["refreshamt"] = 0,
+								["appliedamt"] = 25,
+								["activedamt"] = 25,
+								["uptime"] = 1014,
+								["id"] = 72221,
+								["actived_at"] = 3210855980,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[61295] = {
+								["refreshamt"] = 0,
+								["activedamt"] = 2,
+								["appliedamt"] = 2,
+								["id"] = 61295,
+								["uptime"] = 36,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+						},
+					},
+					["interrompeu_oque"] = {
+						[258777] = 1,
+					},
+					["debuff_uptime"] = 100,
+					["buff_uptime_targets"] = {
+					},
+					["spec"] = 264,
+					["cc_done_targets"] = {
+						["검은이빨 싸움꾼"] = 2,
+						["바다가름 작살사수"] = 2,
+						["무쇠파도 해적"] = 2,
+						["검은이빨 주먹잡이"] = 2,
+						["무쇠파도 해적단원"] = 1,
+						["무쇠파도 명사수"] = 1,
+						["무쇠파도 폭풍소환사"] = 1,
+						["무쇠파도 노꾼"] = 1,
+						["검은이빨 투사"] = 2,
+						["무쇠파도 약탈자"] = 1,
+					},
+					["serial"] = "Player-214-09483ED4",
+					["buff_uptime"] = 3884,
+					["cc_done_spells"] = {
+						["tipo"] = 9,
+						["_ActorTable"] = {
+							[118905] = {
+								["id"] = 118905,
+								["targets"] = {
+									["검은이빨 싸움꾼"] = 2,
+									["바다가름 작살사수"] = 2,
+									["무쇠파도 해적"] = 2,
+									["검은이빨 주먹잡이"] = 2,
+									["무쇠파도 해적단원"] = 1,
+									["무쇠파도 명사수"] = 1,
+									["무쇠파도 폭풍소환사"] = 1,
+									["무쇠파도 노꾼"] = 1,
+									["검은이빨 투사"] = 2,
+									["무쇠파도 약탈자"] = 1,
+								},
+								["counter"] = 15,
+							},
+						},
+					},
+					["interrupt_targets"] = {
+						["무쇠파도 노꾼"] = 1,
+					},
+					["cooldowns_defensive_targets"] = {
+						["[*] 공격대 단위 생존기"] = 4,
+					},
+					["dispell_oque"] = {
+						[257784] = 1,
+						[257908] = 2,
+					},
+					["dispell_spells"] = {
+						["tipo"] = 9,
+						["_ActorTable"] = {
+							[77130] = {
+								["dispell"] = 3,
+								["id"] = 77130,
+								["dispell_oque"] = {
+									[257784] = 1,
+									[257908] = 2,
+								},
+								["targets"] = {
+									["군신잔트라-데스윙"] = 3,
+								},
+								["counter"] = 0,
+							},
+						},
+					},
+					["fight_component"] = true,
+					["dispell_targets"] = {
+						["군신잔트라-데스윙"] = 3,
+					},
+					["cc_done"] = 15.033872,
+					["nome"] = "덩치큰토템-데스윙",
+					["grupo"] = true,
+					["spell_cast"] = {
+						[79206] = 3,
+						[188389] = 8,
+						[974] = 38,
+						[57994] = 2,
+						[98008] = 1,
+						[5394] = 6,
+						[2645] = 1,
+						[77130] = 4,
+						[16191] = 3,
+						[1064] = 23,
+						[61295] = 43,
+						[73920] = 12,
+						[192058] = 4,
+						[8004] = 192,
+						[196840] = 13,
+						[77472] = 1,
+						[51505] = 8,
+					},
+					["debuff_uptime_targets"] = {
+					},
+					["interrupt"] = 1.008861,
+					["last_event"] = 0,
+					["classe"] = "SHAMAN",
+					["boss_fight_component"] = true,
+					["cooldowns_defensive_spells"] = {
+						["tipo"] = 9,
+						["_ActorTable"] = {
+							[16191] = {
+								["id"] = 16191,
+								["targets"] = {
+									["[*] 공격대 단위 생존기"] = 3,
+								},
+								["counter"] = 3,
+							},
+							[98008] = {
+								["id"] = 98008,
+								["targets"] = {
+									["[*] 공격대 단위 생존기"] = 1,
+								},
+								["counter"] = 1,
+							},
+						},
+					},
+					["tipo"] = 4,
+				}, -- [1]
+				{
+					["flag_original"] = 1047,
+					["debuff_uptime_spells"] = {
+						["tipo"] = 9,
+						["_ActorTable"] = {
+							[62124] = {
+								["refreshamt"] = 0,
+								["activedamt"] = 0,
+								["appliedamt"] = 42,
+								["id"] = 62124,
+								["uptime"] = 115,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[204242] = {
+								["refreshamt"] = 8,
+								["activedamt"] = 1,
+								["appliedamt"] = 308,
+								["id"] = 204242,
+								["uptime"] = 574,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[853] = {
+								["refreshamt"] = 0,
+								["activedamt"] = 0,
+								["appliedamt"] = 9,
+								["id"] = 853,
+								["uptime"] = 44,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[31935] = {
+								["refreshamt"] = 1,
+								["activedamt"] = 0,
+								["appliedamt"] = 36,
+								["id"] = 31935,
+								["uptime"] = 98,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[197277] = {
+								["refreshamt"] = 70,
+								["activedamt"] = 0,
+								["appliedamt"] = 127,
+								["id"] = 197277,
+								["uptime"] = 536,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+						},
+					},
+					["interrupt"] = 2.005806,
+					["boss_fight_component"] = true,
+					["cooldowns_defensive"] = 13.068727,
+					["buff_uptime"] = 7204,
+					["debuff_uptime_targets"] = {
+					},
+					["cc_done_spells"] = {
+						["tipo"] = 9,
+						["_ActorTable"] = {
+							[853] = {
+								["id"] = 853,
+								["targets"] = {
+									["바다가름 작살사수"] = 1,
+									["검은이빨 주먹잡이"] = 1,
+									["무쇠파도 노꾼"] = 1,
+									["무쇠파도 약탈자"] = 1,
+									["항만의 시궁쥐단 선원"] = 1,
+									["항만의 시궁쥐단 해적단원"] = 1,
+									["무쇠파도 파수견"] = 1,
+									["항만의 시궁쥐단 평발여우"] = 1,
+									["야생 덫사냥꾼"] = 1,
+								},
+								["counter"] = 9,
+							},
+						},
+					},
+					["classe"] = "PALADIN",
+					["cooldowns_defensive_targets"] = {
+						["군신잔트라-데스윙"] = 13,
+					},
+					["buff_uptime_spells"] = {
+						["tipo"] = 9,
+						["_ActorTable"] = {
+							[132403] = {
+								["refreshamt"] = 0,
+								["activedamt"] = 92,
+								["appliedamt"] = 92,
+								["id"] = 132403,
+								["uptime"] = 535,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[292361] = {
+								["refreshamt"] = 0,
+								["appliedamt"] = 26,
+								["activedamt"] = 26,
+								["uptime"] = 1060,
+								["id"] = 292361,
+								["actived_at"] = 1605427908,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[72286] = {
+								["refreshamt"] = 0,
+								["appliedamt"] = 1,
+								["activedamt"] = 1,
+								["uptime"] = 0,
+								["id"] = 72286,
+								["actived_at"] = 1605428070,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[31850] = {
+								["refreshamt"] = 0,
+								["activedamt"] = 14,
+								["appliedamt"] = 14,
+								["id"] = 31850,
+								["uptime"] = 101,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[31884] = {
+								["refreshamt"] = 0,
+								["activedamt"] = 6,
+								["appliedamt"] = 6,
+								["id"] = 31884,
+								["uptime"] = 112,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[93830] = {
+								["refreshamt"] = 0,
+								["appliedamt"] = 25,
+								["activedamt"] = 25,
+								["uptime"] = 1064,
+								["id"] = 93830,
+								["actived_at"] = 1605427866,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[223819] = {
+								["refreshamt"] = 0,
+								["activedamt"] = 14,
+								["appliedamt"] = 14,
+								["id"] = 223819,
+								["uptime"] = 53,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[465] = {
+								["refreshamt"] = 0,
+								["appliedamt"] = 25,
+								["activedamt"] = 25,
+								["uptime"] = 1064,
+								["id"] = 465,
+								["actived_at"] = 1605427866,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[188370] = {
+								["refreshamt"] = 0,
+								["activedamt"] = 178,
+								["appliedamt"] = 178,
+								["id"] = 188370,
+								["uptime"] = 899,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[292463] = {
+								["refreshamt"] = 5,
+								["activedamt"] = 16,
+								["appliedamt"] = 16,
+								["id"] = 292463,
+								["uptime"] = 191,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[228128] = {
+								["refreshamt"] = 0,
+								["activedamt"] = 1,
+								["appliedamt"] = 1,
+								["id"] = 228128,
+								["uptime"] = 47,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[72221] = {
+								["refreshamt"] = 0,
+								["appliedamt"] = 25,
+								["activedamt"] = 25,
+								["uptime"] = 1014,
+								["id"] = 72221,
+								["actived_at"] = 3210855980,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[326396] = {
+								["refreshamt"] = 0,
+								["appliedamt"] = 25,
+								["activedamt"] = 25,
+								["uptime"] = 1064,
+								["id"] = 326396,
+								["actived_at"] = 1605427866,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+						},
+					},
+					["pets"] = {
+					},
+					["interrompeu_oque"] = {
+						[259092] = 1,
+						[257899] = 1,
+					},
+					["fight_component"] = true,
+					["debuff_uptime"] = 1367,
+					["interrupt_spells"] = {
+						["tipo"] = 9,
+						["_ActorTable"] = {
+							[31935] = {
+								["id"] = 31935,
+								["interrompeu_oque"] = {
+									[259092] = 1,
+									[257899] = 1,
+								},
+								["targets"] = {
+									["무쇠파도 폭풍소환사"] = 1,
+									["무쇠파도 약탈자"] = 1,
+								},
+								["counter"] = 2,
+							},
+						},
+					},
+					["cc_done"] = 9.04709,
+					["buff_uptime_targets"] = {
+					},
+					["spec"] = 66,
+					["grupo"] = true,
+					["aID"] = "214-093AAE58",
+					["spell_cast"] = {
+						[31935] = 72,
+						[53595] = 117,
+						[26573] = 170,
+						[62124] = 42,
+						[275779] = 200,
+						[31884] = 6,
+						[853] = 22,
+						[19750] = 4,
+						[53600] = 122,
+						[31850] = 13,
+					},
+					["interrupt_targets"] = {
+						["무쇠파도 폭풍소환사"] = 1,
+						["무쇠파도 약탈자"] = 1,
+					},
+					["nome"] = "군신잔트라-데스윙",
+					["last_event"] = 0,
+					["cc_done_targets"] = {
+						["바다가름 작살사수"] = 1,
+						["검은이빨 주먹잡이"] = 1,
+						["무쇠파도 노꾼"] = 1,
+						["무쇠파도 약탈자"] = 1,
+						["항만의 시궁쥐단 선원"] = 1,
+						["항만의 시궁쥐단 해적단원"] = 1,
+						["무쇠파도 파수견"] = 1,
+						["항만의 시궁쥐단 평발여우"] = 1,
+						["야생 덫사냥꾼"] = 1,
+					},
+					["tipo"] = 4,
+					["serial"] = "Player-214-093AAE58",
+					["cooldowns_defensive_spells"] = {
+						["tipo"] = 9,
+						["_ActorTable"] = {
+							[31850] = {
+								["id"] = 31850,
+								["targets"] = {
+									["군신잔트라-데스윙"] = 13,
+								},
+								["counter"] = 13,
+							},
+						},
+					},
+				}, -- [2]
+				{
+					["flag_original"] = 1047,
+					["debuff_uptime_spells"] = {
+						["tipo"] = 9,
+						["_ActorTable"] = {
+							[22703] = {
+								["refreshamt"] = 0,
+								["activedamt"] = 0,
+								["appliedamt"] = 11,
+								["id"] = 22703,
+								["uptime"] = 6,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[234153] = {
+								["refreshamt"] = 0,
+								["activedamt"] = 0,
+								["appliedamt"] = 1,
+								["id"] = 234153,
+								["uptime"] = 3,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[157736] = {
+								["refreshamt"] = 0,
+								["activedamt"] = 0,
+								["appliedamt"] = 21,
+								["id"] = 157736,
+								["uptime"] = 272,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+						},
+					},
+					["pets"] = {
+						"제프구프 <판타지곤-데스윙>", -- [1]
+						"지옥불정령 <판타지곤-데스윙>", -- [2]
+					},
+					["aID"] = "214-07FC4C5D",
+					["boss_fight_component"] = true,
+					["buff_uptime_spells"] = {
+						["tipo"] = 9,
+						["_ActorTable"] = {
+							[326396] = {
+								["refreshamt"] = 0,
+								["appliedamt"] = 25,
+								["activedamt"] = 25,
+								["uptime"] = 1064,
+								["id"] = 326396,
+								["actived_at"] = 1605427866,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[117828] = {
+								["refreshamt"] = 12,
+								["activedamt"] = 87,
+								["appliedamt"] = 87,
+								["id"] = 117828,
+								["uptime"] = 338,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[228128] = {
+								["refreshamt"] = 0,
+								["appliedamt"] = 1,
+								["activedamt"] = 1,
+								["uptime"] = 0,
+								["id"] = 228128,
+								["actived_at"] = 1605427866,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[108366] = {
+								["refreshamt"] = 0,
+								["activedamt"] = 78,
+								["appliedamt"] = 78,
+								["id"] = 108366,
+								["uptime"] = 1069,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[72968] = {
+								["refreshamt"] = 0,
+								["appliedamt"] = 25,
+								["activedamt"] = 25,
+								["uptime"] = 1064,
+								["id"] = 72968,
+								["actived_at"] = 1605427866,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[20707] = {
+								["refreshamt"] = 0,
+								["activedamt"] = 1,
+								["appliedamt"] = 1,
+								["id"] = 20707,
+								["uptime"] = 10,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[142073] = {
+								["refreshamt"] = 0,
+								["appliedamt"] = 3,
+								["activedamt"] = 3,
+								["uptime"] = 0,
+								["id"] = 142073,
+								["actived_at"] = 4816285590,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[72221] = {
+								["refreshamt"] = 0,
+								["appliedamt"] = 25,
+								["activedamt"] = 25,
+								["uptime"] = 1014,
+								["id"] = 72221,
+								["actived_at"] = 3210855980,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[297871] = {
+								["refreshamt"] = 0,
+								["appliedamt"] = 3,
+								["activedamt"] = 3,
+								["uptime"] = 0,
+								["id"] = 297871,
+								["actived_at"] = 4816285590,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+						},
+					},
+					["fight_component"] = true,
+					["debuff_uptime"] = 281,
+					["debuff_uptime_targets"] = {
+					},
+					["nome"] = "판타지곤-데스윙",
+					["spec"] = 267,
+					["grupo"] = true,
+					["spell_cast"] = {
+						[1122] = 3,
+						[6353] = 19,
+						[348] = 2,
+						[5740] = 16,
+						[688] = 1,
+						[116858] = 20,
+						[29722] = 249,
+						[234153] = 1,
+						[17962] = 98,
+						[20707] = 1,
+					},
+					["last_event"] = 0,
+					["tipo"] = 4,
+					["buff_uptime_targets"] = {
+					},
+					["buff_uptime"] = 4559,
+					["serial"] = "Player-214-07FC4C5D",
+					["classe"] = "WARLOCK",
+				}, -- [3]
+				{
+					["flag_original"] = 1047,
+					["debuff_uptime_spells"] = {
+						["tipo"] = 9,
+						["_ActorTable"] = {
+							[271465] = {
+								["refreshamt"] = 0,
+								["activedamt"] = 0,
+								["appliedamt"] = 2,
+								["id"] = 271465,
+								["uptime"] = 6,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[41425] = {
+								["refreshamt"] = 0,
+								["activedamt"] = 2,
+								["appliedamt"] = 2,
+								["id"] = 41425,
+								["uptime"] = 46,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[210824] = {
+								["refreshamt"] = 0,
+								["activedamt"] = 0,
+								["appliedamt"] = 16,
+								["id"] = 210824,
+								["uptime"] = 125,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+						},
+					},
+					["cooldowns_defensive"] = 2.02125,
+					["buff_uptime"] = 4537,
+					["boss_fight_component"] = true,
+					["aID"] = "205-0713A4FD",
+					["cooldowns_defensive_targets"] = {
+						["법따리"] = 2,
+					},
+					["buff_uptime_spells"] = {
+						["tipo"] = 9,
+						["_ActorTable"] = {
+							[110960] = {
+								["refreshamt"] = 0,
+								["activedamt"] = 2,
+								["appliedamt"] = 2,
+								["id"] = 110960,
+								["uptime"] = 6,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[45438] = {
+								["refreshamt"] = 0,
+								["activedamt"] = 2,
+								["appliedamt"] = 2,
+								["id"] = 45438,
+								["uptime"] = 14,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[269279] = {
+								["refreshamt"] = 20,
+								["activedamt"] = 38,
+								["appliedamt"] = 38,
+								["id"] = 269279,
+								["uptime"] = 884,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[228128] = {
+								["refreshamt"] = 0,
+								["activedamt"] = 1,
+								["appliedamt"] = 1,
+								["id"] = 228128,
+								["uptime"] = 46,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[342246] = {
+								["refreshamt"] = 0,
+								["activedamt"] = 1,
+								["appliedamt"] = 1,
+								["id"] = 342246,
+								["uptime"] = 8,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[1459] = {
+								["refreshamt"] = 0,
+								["activedamt"] = 1,
+								["appliedamt"] = 1,
+								["id"] = 1459,
+								["uptime"] = 14,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[245725] = {
+								["actived_at"] = 1605429178,
+								["refreshamt"] = 0,
+								["activedamt"] = 1,
+								["appliedamt"] = 1,
+								["id"] = 245725,
+								["uptime"] = 0,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[186403] = {
+								["refreshamt"] = 0,
+								["activedamt"] = 25,
+								["appliedamt"] = 25,
+								["id"] = 186403,
+								["uptime"] = 1116,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[263725] = {
+								["refreshamt"] = 21,
+								["activedamt"] = 58,
+								["appliedamt"] = 58,
+								["id"] = 263725,
+								["uptime"] = 378,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[55342] = {
+								["refreshamt"] = 0,
+								["appliedamt"] = 1,
+								["activedamt"] = 1,
+								["uptime"] = 0,
+								["id"] = 55342,
+								["actived_at"] = 1605429380,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[12051] = {
+								["refreshamt"] = 0,
+								["activedamt"] = 4,
+								["appliedamt"] = 4,
+								["id"] = 12051,
+								["uptime"] = 15,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[116014] = {
+								["refreshamt"] = 0,
+								["activedamt"] = 23,
+								["appliedamt"] = 23,
+								["id"] = 116014,
+								["uptime"] = 198,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[212653] = {
+								["actived_at"] = 1605429202,
+								["refreshamt"] = 0,
+								["activedamt"] = 18,
+								["appliedamt"] = 18,
+								["id"] = 212653,
+								["uptime"] = 9,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[273330] = {
+								["refreshamt"] = 14,
+								["activedamt"] = 5,
+								["appliedamt"] = 5,
+								["id"] = 273330,
+								["uptime"] = 89,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[167152] = {
+								["refreshamt"] = 0,
+								["appliedamt"] = 2,
+								["activedamt"] = 2,
+								["uptime"] = 0,
+								["id"] = 167152,
+								["actived_at"] = 3210856799,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[235450] = {
+								["refreshamt"] = 1,
+								["activedamt"] = 15,
+								["appliedamt"] = 15,
+								["id"] = 235450,
+								["uptime"] = 351,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[72221] = {
+								["refreshamt"] = 0,
+								["activedamt"] = 25,
+								["appliedamt"] = 25,
+								["id"] = 72221,
+								["uptime"] = 1116,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[270670] = {
+								["refreshamt"] = 191,
+								["activedamt"] = 50,
+								["appliedamt"] = 50,
+								["id"] = 270670,
+								["uptime"] = 78,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[205025] = {
+								["refreshamt"] = 0,
+								["activedamt"] = 12,
+								["appliedamt"] = 12,
+								["id"] = 205025,
+								["uptime"] = 42,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[264774] = {
+								["refreshamt"] = 0,
+								["activedamt"] = 21,
+								["appliedamt"] = 21,
+								["id"] = 264774,
+								["uptime"] = 110,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[113862] = {
+								["refreshamt"] = 0,
+								["activedamt"] = 2,
+								["appliedamt"] = 2,
+								["id"] = 113862,
+								["uptime"] = 12,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[12042] = {
+								["refreshamt"] = 0,
+								["activedamt"] = 6,
+								["appliedamt"] = 6,
+								["id"] = 12042,
+								["uptime"] = 51,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+						},
+					},
+					["interrupt_spells"] = {
+						["tipo"] = 9,
+						["_ActorTable"] = {
+							[2139] = {
+								["id"] = 2139,
+								["interrompeu_oque"] = {
+									[257784] = 1,
+									[257736] = 1,
+									[259092] = 1,
+									[257732] = 1,
+									[256060] = 1,
+									[258777] = 1,
+									[281420] = 1,
+								},
+								["targets"] = {
+									["검은이빨 주먹잡이"] = 1,
+									["무쇠파도 노꾼"] = 1,
+									["무쇠파도 폭풍소환사"] = 2,
+									["하늘선장 크라그"] = 1,
+									["항만의 시궁쥐단 소금비늘"] = 2,
+								},
+								["counter"] = 7,
+							},
+						},
+					},
+					["interrompeu_oque"] = {
+						[257784] = 1,
+						[257736] = 1,
+						[259092] = 1,
+						[257732] = 1,
+						[256060] = 1,
+						[258777] = 1,
+						[281420] = 1,
+					},
+					["fight_component"] = true,
+					["debuff_uptime"] = 177,
+					["interrupt_targets"] = {
+						["검은이빨 주먹잡이"] = 1,
+						["무쇠파도 노꾼"] = 1,
+						["무쇠파도 폭풍소환사"] = 2,
+						["하늘선장 크라그"] = 1,
+						["항만의 시궁쥐단 소금비늘"] = 2,
+					},
+					["pets"] = {
+					},
+					["buff_uptime_targets"] = {
+					},
+					["spec"] = 62,
+					["grupo"] = true,
+					["interrupt"] = 7.034088,
+					["spell_cast"] = {
+						[30451] = 252,
+						[1449] = 60,
+						[116011] = 10,
+						[110960] = 2,
+						[205025] = 12,
+						[759] = 1,
+						[59638] = 12,
+						[321507] = 16,
+						[12051] = 4,
+						[342247] = 1,
+						[190336] = 1,
+						[44425] = 15,
+						[5143] = 51,
+						[110959] = 2,
+						[116014] = 23,
+						[212653] = 18,
+						[55342] = 1,
+						[235450] = 5,
+						[2139] = 8,
+						[5405] = 4,
+						[271462] = 2,
+						[153626] = 36,
+						[12042] = 6,
+						[45438] = 2,
+					},
+					["classe"] = "MAGE",
+					["debuff_uptime_targets"] = {
+					},
+					["last_event"] = 0,
+					["nome"] = "법따리",
+					["tipo"] = 4,
+					["serial"] = "Player-205-0713A4FD",
+					["cooldowns_defensive_spells"] = {
+						["tipo"] = 9,
+						["_ActorTable"] = {
+							[45438] = {
+								["id"] = 45438,
+								["targets"] = {
+									["법따리"] = 2,
+								},
+								["counter"] = 2,
+							},
+						},
+					},
+				}, -- [4]
+				{
+					["flag_original"] = 2632,
+					["monster"] = true,
+					["classe"] = "UNKNOW",
+					["nome"] = "무쇠파도 명사수",
+					["pets"] = {
+					},
+					["tipo"] = 4,
+					["spell_cast"] = {
+						[268440] = 29,
+						[258672] = 5,
+					},
+					["last_event"] = 0,
+					["fight_component"] = true,
+					["serial"] = "Creature-0-3058-1754-18048-126918-000230E279",
+					["aID"] = "126918",
+				}, -- [5]
+				{
+					["flag_original"] = 4370,
+					["ownerName"] = "판타지곤-데스윙",
+					["boss_fight_component"] = true,
+					["last_event"] = 0,
+					["fight_component"] = true,
+					["spell_cast"] = {
+						[3110] = 263,
+					},
+					["nome"] = "제프구프 <판타지곤-데스윙>",
+					["pets"] = {
+					},
+					["tipo"] = 4,
+					["classe"] = "PET",
+					["serial"] = "Pet-0-3057-1-819-416-03019C2D49",
+					["aID"] = "Pet-0-3057-1-819-416-03019C2D49",
+				}, -- [6]
+				{
+					["flag_original"] = 2632,
+					["monster"] = true,
+					["nome"] = "무쇠파도 해적",
+					["aID"] = "126928",
+					["pets"] = {
+					},
+					["spell_cast"] = {
+						[257436] = 37,
+						[257437] = 13,
+					},
+					["fight_component"] = true,
+					["last_event"] = 0,
+					["classe"] = "UNKNOW",
+					["serial"] = "Creature-0-3058-1754-18048-126928-000530E279",
+					["tipo"] = 4,
+				}, -- [7]
+				{
+					["flag_original"] = 2632,
+					["monster"] = true,
+					["classe"] = "UNKNOW",
+					["nome"] = "무쇠파도 파수견",
+					["pets"] = {
+					},
+					["tipo"] = 4,
+					["spell_cast"] = {
+						[257478] = 21,
+						[257476] = 5,
+					},
+					["last_event"] = 0,
+					["fight_component"] = true,
+					["serial"] = "Creature-0-3058-1754-18048-128551-000230E278",
+					["aID"] = "128551",
+				}, -- [8]
+				{
+					["flag_original"] = 2632,
+					["monster"] = true,
+					["nome"] = "무쇠파도 해골톱날",
+					["aID"] = "129788",
+					["pets"] = {
+					},
+					["spell_cast"] = {
+						[258321] = 12,
+						[257397] = 2,
+					},
+					["fight_component"] = true,
+					["last_event"] = 0,
+					["classe"] = "UNKNOW",
+					["serial"] = "Creature-0-3058-1754-18048-129788-0002B0E278",
+					["tipo"] = 4,
+				}, -- [9]
+				{
+					["monster"] = true,
+					["classe"] = "UNKNOW",
+					["boss_fight_component"] = true,
+					["nome"] = "상어밥",
+					["spell_cast"] = {
+						[257272] = 17,
+						[256005] = 6,
+					},
+					["flag_original"] = 2632,
+					["pets"] = {
+					},
+					["aID"] = "",
+					["tipo"] = 4,
+					["serial"] = "Vehicle-0-3058-1754-18048-129743-000030E278",
+					["last_event"] = 0,
+				}, -- [10]
+				{
+					["flag_original"] = 68168,
+					["monster"] = true,
+					["nome"] = "무쇠파도 집행자",
+					["aID"] = "129602",
+					["pets"] = {
+					},
+					["spell_cast"] = {
+						[257426] = 9,
+					},
+					["fight_component"] = true,
+					["last_event"] = 0,
+					["classe"] = "UNKNOW",
+					["serial"] = "Creature-0-3058-1754-18048-129602-000330E278",
+					["tipo"] = 4,
+				}, -- [11]
+				{
+					["flag_original"] = 1047,
+					["debuff_uptime_spells"] = {
+						["tipo"] = 9,
+						["_ActorTable"] = {
+							[105771] = {
+								["refreshamt"] = 0,
+								["activedamt"] = 0,
+								["appliedamt"] = 22,
+								["id"] = 105771,
+								["uptime"] = 22,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[115804] = {
+								["refreshamt"] = 25,
+								["activedamt"] = 0,
+								["appliedamt"] = 60,
+								["id"] = 115804,
+								["uptime"] = 529,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[262115] = {
+								["refreshamt"] = 48,
+								["activedamt"] = 0,
+								["appliedamt"] = 55,
+								["id"] = 262115,
+								["uptime"] = 632,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[208086] = {
+								["refreshamt"] = 0,
+								["activedamt"] = 0,
+								["appliedamt"] = 19,
+								["id"] = 208086,
+								["uptime"] = 128,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+						},
+					},
+					["buff_uptime"] = 5232,
+					["classe"] = "WARRIOR",
+					["interrupt_spells"] = {
+						["tipo"] = 9,
+						["_ActorTable"] = {
+							[6552] = {
+								["id"] = 6552,
+								["interrompeu_oque"] = {
+									[257899] = 1,
+									[257397] = 1,
+									[257732] = 1,
+									[257784] = 1,
+								},
+								["targets"] = {
+									["무쇠파도 해골톱날"] = 1,
+									["무쇠파도 약탈자"] = 1,
+									["항만의 시궁쥐단 소금비늘"] = 1,
+									["검은이빨 주먹잡이"] = 1,
+								},
+								["counter"] = 4,
+							},
+						},
+					},
+					["buff_uptime_spells"] = {
+						["tipo"] = 9,
+						["_ActorTable"] = {
+							[32216] = {
+								["refreshamt"] = 2,
+								["activedamt"] = 45,
+								["appliedamt"] = 45,
+								["id"] = 32216,
+								["uptime"] = 138,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[199854] = {
+								["actived_at"] = 9632573099,
+								["refreshamt"] = 15,
+								["activedamt"] = 117,
+								["appliedamt"] = 117,
+								["id"] = 199854,
+								["uptime"] = 211,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[93825] = {
+								["refreshamt"] = 0,
+								["activedamt"] = 24,
+								["appliedamt"] = 24,
+								["id"] = 93825,
+								["uptime"] = 1064,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[201405] = {
+								["refreshamt"] = 9,
+								["activedamt"] = 28,
+								["appliedamt"] = 28,
+								["id"] = 201405,
+								["uptime"] = 378,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[228128] = {
+								["refreshamt"] = 0,
+								["activedamt"] = 2,
+								["appliedamt"] = 2,
+								["id"] = 228128,
+								["uptime"] = 38,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[260708] = {
+								["refreshamt"] = 0,
+								["activedamt"] = 16,
+								["appliedamt"] = 16,
+								["id"] = 260708,
+								["uptime"] = 187,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[247402] = {
+								["refreshamt"] = 0,
+								["appliedamt"] = 6,
+								["activedamt"] = 6,
+								["uptime"] = 0,
+								["id"] = 247402,
+								["actived_at"] = 9632570916,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[272900] = {
+								["refreshamt"] = 0,
+								["activedamt"] = 0,
+								["appliedamt"] = 0,
+								["id"] = 272900,
+								["uptime"] = 0,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[7384] = {
+								["refreshamt"] = 54,
+								["activedamt"] = 92,
+								["appliedamt"] = 92,
+								["id"] = 7384,
+								["uptime"] = 637,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[118779] = {
+								["actived_at"] = 11238000285,
+								["refreshamt"] = 4,
+								["activedamt"] = 29,
+								["appliedamt"] = 29,
+								["id"] = 118779,
+								["uptime"] = 148,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[262232] = {
+								["refreshamt"] = 37,
+								["activedamt"] = 45,
+								["appliedamt"] = 45,
+								["id"] = 262232,
+								["uptime"] = 303,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[72221] = {
+								["refreshamt"] = 0,
+								["activedamt"] = 24,
+								["appliedamt"] = 24,
+								["id"] = 72221,
+								["uptime"] = 1064,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[326396] = {
+								["refreshamt"] = 0,
+								["activedamt"] = 24,
+								["appliedamt"] = 24,
+								["id"] = 326396,
+								["uptime"] = 1064,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+						},
+					},
+					["interrompeu_oque"] = {
+						[257899] = 1,
+						[257397] = 1,
+						[257732] = 1,
+						[257784] = 1,
+					},
+					["fight_component"] = true,
+					["debuff_uptime"] = 1311,
+					["interrupt"] = 4.020863,
+					["boss_fight_component"] = true,
+					["buff_uptime_targets"] = {
+					},
+					["spec"] = 71,
+					["grupo"] = true,
+					["pets"] = {
+					},
+					["spell_cast"] = {
+						[100] = 49,
+						[1464] = 12,
+						[199658] = 57,
+						[126664] = 49,
+						[260708] = 16,
+						[34428] = 33,
+						[281000] = 114,
+						[6552] = 4,
+						[1680] = 57,
+						[12294] = 73,
+						[167105] = 14,
+						[7384] = 135,
+					},
+					["interrupt_targets"] = {
+						["무쇠파도 해골톱날"] = 1,
+						["무쇠파도 약탈자"] = 1,
+						["항만의 시궁쥐단 소금비늘"] = 1,
+						["검은이빨 주먹잡이"] = 1,
+					},
+					["aID"] = "205-06251940",
+					["tipo"] = 4,
+					["nome"] = "해피뼈전사",
+					["debuff_uptime_targets"] = {
+					},
+					["serial"] = "Player-205-06251940",
+					["last_event"] = 0,
+				}, -- [12]
+				{
+					["flag_original"] = 8466,
+					["last_event"] = 0,
+					["ownerName"] = "덩치큰토템-데스윙",
+					["cc_done"] = 15.034866,
+					["nome"] = "축전 토템 <덩치큰토템-데스윙>",
+					["aID"] = "61245",
+					["spell_cast"] = {
+						[118905] = 4,
+					},
+					["cc_done_targets"] = {
+						["검은이빨 싸움꾼"] = 2,
+						["바다가름 작살사수"] = 2,
+						["무쇠파도 해적"] = 2,
+						["검은이빨 주먹잡이"] = 2,
+						["무쇠파도 해적단원"] = 1,
+						["무쇠파도 명사수"] = 1,
+						["무쇠파도 폭풍소환사"] = 1,
+						["무쇠파도 노꾼"] = 1,
+						["검은이빨 투사"] = 2,
+						["무쇠파도 약탈자"] = 1,
+					},
+					["cc_done_spells"] = {
+						["tipo"] = 9,
+						["_ActorTable"] = {
+							[118905] = {
+								["id"] = 118905,
+								["targets"] = {
+									["검은이빨 싸움꾼"] = 2,
+									["바다가름 작살사수"] = 2,
+									["무쇠파도 해적"] = 2,
+									["검은이빨 주먹잡이"] = 2,
+									["무쇠파도 해적단원"] = 1,
+									["무쇠파도 명사수"] = 1,
+									["무쇠파도 폭풍소환사"] = 1,
+									["무쇠파도 노꾼"] = 1,
+									["검은이빨 투사"] = 2,
+									["무쇠파도 약탈자"] = 1,
+								},
+								["counter"] = 15,
+							},
+						},
+					},
+					["tipo"] = 4,
+					["pets"] = {
+					},
+					["serial"] = "Creature-0-3058-1754-18048-61245-000030E31B",
+					["classe"] = "PET",
+				}, -- [13]
+				{
+					["flag_original"] = 8466,
+					["classe"] = "PET",
+					["ownerName"] = "덩치큰토템-데스윙",
+					["boss_fight_component"] = true,
+					["spell_cast"] = {
+						[320763] = 7,
+					},
+					["nome"] = "마나 해일 토템 <덩치큰토템-데스윙>",
+					["pets"] = {
+					},
+					["tipo"] = 4,
+					["last_event"] = 0,
+					["serial"] = "Creature-0-3058-1754-18048-10467-000030E340",
+					["aID"] = "10467",
+				}, -- [14]
+				{
+					["fight_component"] = true,
+					["classe"] = "PET",
+					["ownerName"] = "판타지곤-데스윙",
+					["nome"] = "지옥불정령 <판타지곤-데스윙>",
+					["spell_cast"] = {
+						[19483] = 3,
+					},
+					["flag_original"] = 8466,
+					["pets"] = {
+					},
+					["tipo"] = 4,
+					["last_event"] = 0,
+					["serial"] = "Creature-0-3058-1754-18048-89-000030E375",
+					["aID"] = "89",
+				}, -- [15]
+				{
+					["flag_original"] = 68168,
+					["boss_fight_component"] = true,
+					["monster"] = true,
+					["pets"] = {
+					},
+					["tipo"] = 4,
+					["nome"] = "하늘선장 크라그",
+					["last_event"] = 0,
+					["spell_cast"] = {
+						[256106] = 4,
+						[258773] = 2,
+						[263274] = 2,
+						[256060] = 2,
+						[255966] = 5,
+						[255952] = 2,
+					},
+					["classe"] = "UNKNOW",
+					["serial"] = "Creature-0-3058-1754-18048-126832-000030E40F",
+					["aID"] = "126832",
+				}, -- [16]
+				{
+					["flag_original"] = 2632,
+					["debuff_uptime_spells"] = {
+						["tipo"] = 9,
+						["_ActorTable"] = {
+						},
+					},
+					["pets"] = {
+					},
+					["aID"] = "",
+					["boss_debuff"] = true,
+					["monster"] = true,
+					["debuff_uptime"] = 21,
+					["spellschool"] = 8,
+					["debuff_uptime_targets"] = {
+						["법따리"] = {
+							["uptime"] = 12,
+							["appliedamt"] = 0,
+							["activedamt"] = 0,
+							["actived"] = false,
+							["refreshamt"] = 0,
+						},
+						["해피뼈전사"] = {
+							["uptime"] = 3,
+							["appliedamt"] = 0,
+							["activedamt"] = 0,
+							["actived"] = false,
+							["refreshamt"] = 0,
+						},
+						["군신잔트라-데스윙"] = {
+							["uptime"] = 4,
+							["appliedamt"] = 0,
+							["activedamt"] = 0,
+							["actived"] = false,
+							["refreshamt"] = 0,
+						},
+						["덩치큰토템-데스윙"] = {
+							["uptime"] = 2,
+							["appliedamt"] = 0,
+							["activedamt"] = 0,
+							["actived"] = false,
+							["refreshamt"] = 0,
+						},
+					},
+					["damage_spellid"] = 256016,
+					["boss_fight_component"] = true,
+					["last_event"] = 0,
+					["tipo"] = 4,
+					["damage_twin"] = "[*] 썩은내 범벅",
+					["nome"] = "썩은내 범벅",
+					["serial"] = "",
+					["classe"] = "UNKNOW",
+				}, -- [17]
+				{
+					["flag_original"] = 2632,
+					["monster"] = true,
+					["classe"] = "UNKNOW",
+					["nome"] = "바다가름 결투사",
+					["pets"] = {
+					},
+					["tipo"] = 4,
+					["spell_cast"] = {
+						[274400] = 6,
+					},
+					["last_event"] = 0,
+					["fight_component"] = true,
+					["serial"] = "Creature-0-3058-1754-18048-129559-000030E27A",
+					["aID"] = "129559",
+				}, -- [18]
+				{
+					["flag_original"] = 2632,
+					["monster"] = true,
+					["classe"] = "UNKNOW",
+					["nome"] = "검은이빨 투사",
+					["pets"] = {
+					},
+					["tipo"] = 4,
+					["spell_cast"] = {
+						[257747] = 19,
+					},
+					["last_event"] = 0,
+					["fight_component"] = true,
+					["serial"] = "Creature-0-3058-1754-18048-129548-0000B0E278",
+					["aID"] = "129548",
+				}, -- [19]
+				{
+					["monster"] = true,
+					["tipo"] = 4,
+					["spell_cast"] = {
+						[257774] = 1,
+					},
+					["nome"] = "항만의 시궁쥐단 평발여우",
+					["pets"] = {
+					},
+					["fight_component"] = true,
+					["flag_original"] = 2632,
+					["classe"] = "UNKNOW",
+					["aID"] = "129550",
+					["serial"] = "Creature-0-3058-1754-18048-129550-000030E27A",
+					["last_event"] = 0,
+				}, -- [20]
+				{
+					["flag_original"] = 2632,
+					["monster"] = true,
+					["classe"] = "UNKNOW",
+					["nome"] = "축축한 배쥐",
+					["pets"] = {
+					},
+					["tipo"] = 4,
+					["spell_cast"] = {
+						[274555] = 8,
+						[257476] = 7,
+					},
+					["last_event"] = 0,
+					["fight_component"] = true,
+					["serial"] = "Creature-0-3058-1754-18048-130024-000230E278",
+					["aID"] = "130024",
+				}, -- [21]
+				{
+					["flag_original"] = 68168,
+					["monster"] = true,
+					["classe"] = "UNKNOW",
+					["nome"] = "야생 덫사냥꾼",
+					["pets"] = {
+					},
+					["tipo"] = 4,
+					["spell_cast"] = {
+						[274383] = 3,
+					},
+					["last_event"] = 0,
+					["fight_component"] = true,
+					["serial"] = "Creature-0-3058-1754-18048-130404-0000B0E278",
+					["aID"] = "130404",
+				}, -- [22]
+				{
+					["flag_original"] = 8466,
+					["last_event"] = 0,
+					["ownerName"] = "덩치큰토템-데스윙",
+					["boss_fight_component"] = true,
+					["fight_component"] = true,
+					["spell_cast"] = {
+						[5672] = 6,
+					},
+					["nome"] = "치유의 토템 <덩치큰토템-데스윙>",
+					["aID"] = "3527",
+					["tipo"] = 4,
+					["pets"] = {
+					},
+					["serial"] = "Creature-0-3058-1754-18048-3527-000030E503",
+					["classe"] = "PET",
+				}, -- [23]
+				{
+					["monster"] = true,
+					["tipo"] = 4,
+					["spell_cast"] = {
+						[257739] = 2,
+					},
+					["nome"] = "검은이빨 싸움꾼",
+					["pets"] = {
+					},
+					["fight_component"] = true,
+					["flag_original"] = 2632,
+					["classe"] = "UNKNOW",
+					["aID"] = "129529",
+					["serial"] = "Creature-0-3058-1754-18048-129529-000030E509",
+					["last_event"] = 0,
+				}, -- [24]
+				{
+					["monster"] = true,
+					["tipo"] = 4,
+					["spell_cast"] = {
+						[274507] = 1,
+					},
+					["nome"] = "항만의 시궁쥐단 선원",
+					["pets"] = {
+					},
+					["fight_component"] = true,
+					["flag_original"] = 68168,
+					["classe"] = "UNKNOW",
+					["aID"] = "129526",
+					["serial"] = "Creature-0-3058-1754-18048-129526-0000B0E27A",
+					["last_event"] = 0,
+				}, -- [25]
+				{
+					["flag_original"] = 2632,
+					["dispell"] = 5.022296,
+					["pets"] = {
+					},
+					["aID"] = "129527",
+					["dispell_targets"] = {
+						["항만의 시궁쥐단 해적단원"] = 5,
+					},
+					["dispell_spells"] = {
+						["tipo"] = 9,
+						["_ActorTable"] = {
+							[257756] = {
+								["dispell"] = 5,
+								["id"] = 257756,
+								["dispell_oque"] = {
+									[204242] = 5,
+								},
+								["targets"] = {
+									["항만의 시궁쥐단 해적단원"] = 5,
+								},
+								["counter"] = 0,
+							},
+						},
+					},
+					["fight_component"] = true,
+					["nome"] = "항만의 시궁쥐단 해적단원",
+					["spell_cast"] = {
+						[257756] = 5,
+					},
+					["monster"] = true,
+					["last_event"] = 0,
+					["dispell_oque"] = {
+						[204242] = 5,
+					},
+					["tipo"] = 4,
+					["serial"] = "Creature-0-3058-1754-18048-129527-000030E27A",
+					["classe"] = "UNKNOW",
+				}, -- [26]
+				{
+					["flag_original"] = 2632,
+					["monster"] = true,
+					["classe"] = "UNKNOW",
+					["nome"] = "항만의 시궁쥐단 소금비늘",
+					["pets"] = {
+					},
+					["tipo"] = 4,
+					["spell_cast"] = {
+						[281420] = 12,
+						[257784] = 2,
+					},
+					["last_event"] = 0,
+					["fight_component"] = true,
+					["serial"] = "Creature-0-3058-1754-18048-129600-000030E27A",
+					["aID"] = "129600",
+				}, -- [27]
+				{
+					["flag_original"] = 2632,
+					["monster"] = true,
+					["classe"] = "UNKNOW",
+					["nome"] = "바다가름 칼부림꾼",
+					["pets"] = {
+					},
+					["tipo"] = 4,
+					["spell_cast"] = {
+						[272402] = 14,
+					},
+					["last_event"] = 0,
+					["fight_component"] = true,
+					["serial"] = "Creature-0-3058-1754-18048-129599-000130E279",
+					["aID"] = "129599",
+				}, -- [28]
+				{
+					["flag_original"] = 68168,
+					["boss_fight_component"] = true,
+					["monster"] = true,
+					["pets"] = {
+					},
+					["tipo"] = 4,
+					["nome"] = "선장 유도라",
+					["last_event"] = 0,
+					["spell_cast"] = {
+						[258352] = 14,
+						[258381] = 2,
+						[256979] = 10,
+					},
+					["classe"] = "UNKNOW",
+					["serial"] = "Creature-0-3058-1754-18048-126848-000030E278",
+					["aID"] = "126848",
+				}, -- [29]
+				{
+					["flag_original"] = 2632,
+					["boss_fight_component"] = true,
+					["monster"] = true,
+					["pets"] = {
+					},
+					["tipo"] = 4,
+					["nome"] = "선장 졸리",
+					["last_event"] = 0,
+					["spell_cast"] = {
+						[267523] = 3,
+						[267533] = 4,
+						[267522] = 3,
+					},
+					["classe"] = "UNKNOW",
+					["serial"] = "Creature-0-3058-1754-18048-126845-000030E278",
+					["aID"] = "126845",
+				}, -- [30]
+				{
+					["flag_original"] = 2584,
+					["last_event"] = 0,
+					["nome"] = "선장 라울",
+					["pets"] = {
+					},
+					["spell_cast"] = {
+						[272884] = 4,
+					},
+					["boss_fight_component"] = true,
+					["classe"] = "UNKNOW",
+					["aID"] = "",
+					["serial"] = "Vehicle-0-3058-1754-18048-126847-000030E278",
+					["tipo"] = 4,
+				}, -- [31]
+				{
+					["flag_original"] = 68168,
+					["monster"] = true,
+					["classe"] = "UNKNOW",
+					["nome"] = "바다가름 작살사수",
+					["pets"] = {
+					},
+					["tipo"] = 4,
+					["spell_cast"] = {
+						[272412] = 11,
+					},
+					["last_event"] = 0,
+					["fight_component"] = true,
+					["serial"] = "Creature-0-3058-1754-18048-129601-000030E279",
+					["aID"] = "129601",
+				}, -- [32]
+				{
+					["flag_original"] = 68168,
+					["monster"] = true,
+					["classe"] = "UNKNOW",
+					["nome"] = "무쇠파도 분쇄자",
+					["pets"] = {
+					},
+					["tipo"] = 4,
+					["spell_cast"] = {
+						[258199] = 3,
+						[258181] = 4,
+					},
+					["last_event"] = 0,
+					["fight_component"] = true,
+					["serial"] = "Creature-0-3058-1754-18048-130400-0000B0E279",
+					["aID"] = "130400",
+				}, -- [33]
+				{
+					["monster"] = true,
+					["tipo"] = 4,
+					["spell_cast"] = {
+						[257904] = 4,
+					},
+					["nome"] = "루드비히 폰 토르톨란",
+					["pets"] = {
+					},
+					["fight_component"] = true,
+					["flag_original"] = 68168,
+					["classe"] = "UNKNOW",
+					["aID"] = "129699",
+					["serial"] = "Creature-0-3058-1754-18048-129699-000030E278",
+					["last_event"] = 0,
+				}, -- [34]
+				{
+					["flag_original"] = 68168,
+					["boss_fight_component"] = true,
+					["monster"] = true,
+					["pets"] = {
+					},
+					["aID"] = "",
+					["nome"] = "트로삭",
+					["tipo"] = 4,
+					["spell_cast"] = {
+						[256363] = 2,
+						[256358] = 2,
+						[256405] = 2,
+					},
+					["classe"] = "UNKNOW",
+					["serial"] = "Vehicle-0-3058-1754-18048-126969-000030E739",
+					["last_event"] = 0,
+				}, -- [35]
+				{
+					["flag_original"] = 68168,
+					["debuff_uptime_spells"] = {
+						["tipo"] = 9,
+						["_ActorTable"] = {
+						},
+					},
+					["pets"] = {
+					},
+					["aID"] = "",
+					["boss_debuff"] = true,
+					["monster"] = true,
+					["debuff_uptime"] = 24,
+					["spellschool"] = 1,
+					["debuff_uptime_targets"] = {
+						["해피뼈전사"] = {
+							["uptime"] = 24,
+							["appliedamt"] = 0,
+							["activedamt"] = 0,
+							["actived"] = false,
+							["refreshamt"] = 0,
+						},
+					},
+					["damage_spellid"] = 256363,
+					["boss_fight_component"] = true,
+					["last_event"] = 0,
+					["tipo"] = 4,
+					["damage_twin"] = "트로삭",
+					["nome"] = "갈퀴 강타",
+					["serial"] = "Vehicle-0-3058-1754-18048-126969-000030E739",
+					["classe"] = "UNKNOW",
+				}, -- [36]
+				{
+					["flag_original"] = 2632,
+					["boss_fight_component"] = true,
+					["monster"] = true,
+					["pets"] = {
+					},
+					["tipo"] = 4,
+					["nome"] = "톱니 상어",
+					["last_event"] = 0,
+					["spell_cast"] = {
+						[256477] = 2,
+						[256551] = 14,
+						[256552] = 14,
+					},
+					["classe"] = "UNKNOW",
+					["serial"] = "Creature-0-3058-1754-18048-129359-000030E739",
+					["aID"] = "129359",
+				}, -- [37]
+				{
+					["flag_original"] = 2632,
+					["boss_fight_component"] = true,
+					["monster"] = true,
+					["pets"] = {
+					},
+					["tipo"] = 4,
+					["nome"] = "망치상어",
+					["last_event"] = 0,
+					["spell_cast"] = {
+						[256477] = 1,
+						[256551] = 3,
+						[256552] = 2,
+					},
+					["classe"] = "UNKNOW",
+					["serial"] = "Creature-0-3058-1754-18048-129448-000030E739",
+					["aID"] = "129448",
+				}, -- [38]
+				{
+					["monster"] = true,
+					["tipo"] = 4,
+					["spell_cast"] = {
+						[257736] = 2,
+						[259092] = 1,
+					},
+					["nome"] = "무쇠파도 폭풍소환사",
+					["pets"] = {
+					},
+					["fight_component"] = true,
+					["flag_original"] = 2632,
+					["classe"] = "UNKNOW",
+					["aID"] = "126919",
+					["serial"] = "Creature-0-3058-1754-18048-126919-0000B0E278",
+					["last_event"] = 0,
+				}, -- [39]
+				{
+					["monster"] = true,
+					["tipo"] = 4,
+					["spell_cast"] = {
+						[257870] = 5,
+					},
+					["nome"] = "무쇠파도 해적단원",
+					["pets"] = {
+					},
+					["fight_component"] = true,
+					["flag_original"] = 2632,
+					["classe"] = "UNKNOW",
+					["aID"] = "130011",
+					["serial"] = "Creature-0-3058-1754-18048-130011-000030E278",
+					["last_event"] = 0,
+				}, -- [40]
+				{
+					["monster"] = true,
+					["tipo"] = 4,
+					["spell_cast"] = {
+						[258777] = 1,
+					},
+					["nome"] = "무쇠파도 노꾼",
+					["pets"] = {
+					},
+					["fight_component"] = true,
+					["flag_original"] = 2632,
+					["classe"] = "UNKNOW",
+					["aID"] = "127111",
+					["serial"] = "Creature-0-3058-1754-18048-127111-0000B0E278",
+					["last_event"] = 0,
+				}, -- [41]
+				{
+					["monster"] = true,
+					["tipo"] = 4,
+					["spell_cast"] = {
+						[257908] = 2,
+					},
+					["nome"] = "무쇠파도 장교",
+					["pets"] = {
+					},
+					["fight_component"] = true,
+					["flag_original"] = 68168,
+					["classe"] = "UNKNOW",
+					["aID"] = "127106",
+					["serial"] = "Creature-0-3058-1754-18048-127106-000030E278",
+					["last_event"] = 0,
+				}, -- [42]
+				{
+					["flag_original"] = 68168,
+					["boss_fight_component"] = true,
+					["monster"] = true,
+					["pets"] = {
+					},
+					["tipo"] = 4,
+					["nome"] = "할란 스위트",
+					["last_event"] = 0,
+					["spell_cast"] = {
+						[257278] = 2,
+						[257316] = 2,
+						[257402] = 1,
+						[257458] = 1,
+					},
+					["classe"] = "UNKNOW",
+					["serial"] = "Creature-0-3058-1754-18048-126983-000030E278",
+					["aID"] = "126983",
+				}, -- [43]
+				{
+					["flag_original"] = 68168,
+					["debuff_uptime_spells"] = {
+						["tipo"] = 9,
+						["_ActorTable"] = {
+						},
+					},
+					["pets"] = {
+					},
+					["classe"] = "UNKNOW",
+					["boss_debuff"] = true,
+					["monster"] = true,
+					["debuff_uptime"] = 24,
+					["spellschool"] = 4,
+					["debuff_uptime_targets"] = {
+						["법따리"] = {
+							["uptime"] = 8,
+							["appliedamt"] = 0,
+							["activedamt"] = 0,
+							["actived"] = false,
+							["refreshamt"] = 0,
+						},
+						["해피뼈전사"] = {
+							["uptime"] = 4,
+							["appliedamt"] = 0,
+							["activedamt"] = 0,
+							["actived"] = false,
+							["refreshamt"] = 0,
+						},
+						["판타지곤-데스윙"] = {
+							["uptime"] = 4,
+							["appliedamt"] = 0,
+							["activedamt"] = 0,
+							["actived"] = false,
+							["refreshamt"] = 0,
+						},
+						["덩치큰토템-데스윙"] = {
+							["uptime"] = 8,
+							["appliedamt"] = 0,
+							["activedamt"] = 0,
+							["actived"] = false,
+							["refreshamt"] = 0,
+						},
+					},
+					["damage_spellid"] = 257305,
+					["boss_fight_component"] = true,
+					["aID"] = "126983",
+					["tipo"] = 4,
+					["damage_twin"] = "할란 스위트",
+					["nome"] = "대포 포화",
+					["serial"] = "Creature-0-3058-1754-18048-126983-000030E278",
+					["last_event"] = 0,
+				}, -- [44]
+				{
+					["flag_original"] = 2632,
+					["debuff_uptime_spells"] = {
+						["tipo"] = 9,
+						["_ActorTable"] = {
+						},
+					},
+					["pets"] = {
+					},
+					["aID"] = "",
+					["boss_debuff"] = true,
+					["monster"] = true,
+					["debuff_uptime"] = 4,
+					["spellschool"] = 4,
+					["debuff_uptime_targets"] = {
+						["판타지곤-데스윙"] = {
+							["uptime"] = 1,
+							["appliedamt"] = 0,
+							["activedamt"] = 0,
+							["actived"] = false,
+							["refreshamt"] = 0,
+						},
+						["법따리"] = {
+							["uptime"] = 1,
+							["appliedamt"] = 0,
+							["activedamt"] = 0,
+							["actived"] = false,
+							["refreshamt"] = 0,
+						},
+						["덩치큰토템-데스윙"] = {
+							["uptime"] = 2,
+							["appliedamt"] = 0,
+							["activedamt"] = 0,
+							["actived"] = false,
+							["refreshamt"] = 0,
+						},
+					},
+					["damage_spellid"] = 257460,
+					["boss_fight_component"] = true,
+					["last_event"] = 0,
+					["tipo"] = 4,
+					["damage_twin"] = "[*] 불꽃 파편",
+					["nome"] = "불꽃 파편",
+					["serial"] = "",
+					["classe"] = "UNKNOW",
+				}, -- [45]
+				{
+					["flag_original"] = 8466,
+					["ownerName"] = "덩치큰토템-데스윙",
+					["boss_fight_component"] = true,
+					["classe"] = "PET",
+					["pets"] = {
+					},
+					["tipo"] = 4,
+					["spell_cast"] = {
+						[325174] = 3,
+					},
+					["last_event"] = 0,
+					["nome"] = "정신의 고리 토템 <덩치큰토템-데스윙>",
+					["serial"] = "Creature-0-3058-1754-18048-53006-000030E860",
+					["aID"] = "53006",
+				}, -- [46]
+				{
+					["flag_original"] = 2632,
+					["boss_fight_component"] = true,
+					["monster"] = true,
+					["pets"] = {
+					},
+					["tipo"] = 4,
+					["nome"] = "무쇠파도 폭탄병",
+					["last_event"] = 0,
+					["spell_cast"] = {
+						[257314] = 1,
+					},
+					["classe"] = "UNKNOW",
+					["serial"] = "Creature-0-3058-1754-18048-129758-000030E854",
+					["aID"] = "129758",
+				}, -- [47]
+				{
+					["flag_original"] = 2632,
+					["debuff_uptime_spells"] = {
+						["tipo"] = 9,
+						["_ActorTable"] = {
+						},
+					},
+					["pets"] = {
+					},
+					["classe"] = "UNKNOW",
+					["boss_debuff"] = true,
+					["monster"] = true,
+					["debuff_uptime"] = 0,
+					["spellschool"] = 1,
+					["debuff_uptime_targets"] = {
+						["판타지곤-데스윙"] = {
+							["uptime"] = 0,
+							["appliedamt"] = 0,
+							["activedamt"] = 1,
+							["actived"] = false,
+							["refreshamt"] = 0,
+						},
+					},
+					["damage_spellid"] = 257314,
+					["boss_fight_component"] = true,
+					["aID"] = "129758",
+					["tipo"] = 4,
+					["damage_twin"] = "무쇠파도 폭탄병",
+					["nome"] = "검은 화약 폭탄",
+					["serial"] = "Creature-0-3058-1754-18048-129758-000030E854",
+					["last_event"] = 0,
+				}, -- [48]
+			},
+		}, -- [4]
+		{
+			["tipo"] = 2,
+			["_ActorTable"] = {
+			},
+		}, -- [5]
+		["raid_roster"] = {
+		},
+		["tempo_start"] = 1605427866,
+		["last_events_tables"] = {
+		},
+		["alternate_power"] = {
+		},
+		["combat_counter"] = 540,
+		["totals"] = {
+			3032721.194202, -- [1]
+			669791.6385469998, -- [2]
+			{
+				1670.007324380112, -- [1]
+				[0] = 7831.344694,
+				["alternatepower"] = 0,
+				[3] = 0,
+				[6] = 0,
+			}, -- [3]
+			{
+				["buff_uptime"] = 0,
+				["ress"] = 0,
+				["debuff_uptime"] = 0,
+				["cooldowns_defensive"] = 19.10186,
+				["interrupt"] = 14.069618,
+				["dispell"] = 8.032001000000001,
+				["cc_break"] = 0,
+				["dead"] = 0,
+			}, -- [4]
+			["frags_total"] = 0,
+			["voidzone_damage"] = 0,
+		},
+		["player_last_events"] = {
+		},
+		["spells_cast_timeline"] = {
+		},
+		["frags_need_refresh"] = false,
+		["aura_timeline"] = {
+		},
+		["__call"] = {
+		},
+		["data_inicio"] = "17:11:06",
+		["end_time"] = 35714.831,
+		["cleu_events"] = {
+			["n"] = 1,
+		},
+		["segments_added"] = {
+			{
+				["elapsed"] = 87.16599999999744,
+				["type"] = 6,
+				["name"] = "군주 할란 스위트",
+				["clock"] = "17:35:02",
+			}, -- [1]
+			{
+				["elapsed"] = 36.00400000000082,
+				["type"] = 5,
+				["name"] = "일반몹 정리",
+				["clock"] = "17:34:05",
+			}, -- [2]
+			{
+				["elapsed"] = 33,
+				["type"] = 5,
+				["name"] = "일반몹 정리",
+				["clock"] = "17:33:29",
+			}, -- [3]
+			{
+				["elapsed"] = 23.99900000000343,
+				["type"] = 5,
+				["name"] = "일반몹 정리",
+				["clock"] = "17:32:58",
+			}, -- [4]
+			{
+				["elapsed"] = 57.69900000000052,
+				["type"] = 6,
+				["name"] = "무법의 링",
+				["clock"] = "17:31:28",
+			}, -- [5]
+			{
+				["elapsed"] = 33.01599999999598,
+				["type"] = 5,
+				["name"] = "일반몹 정리",
+				["clock"] = "17:30:20",
+			}, -- [6]
+			{
+				["elapsed"] = 32,
+				["type"] = 5,
+				["name"] = "일반몹 정리",
+				["clock"] = "17:28:29",
+			}, -- [7]
+			{
+				["elapsed"] = 28.99899999999616,
+				["type"] = 5,
+				["name"] = "일반몹 정리",
+				["clock"] = "17:27:55",
+			}, -- [8]
+			{
+				["elapsed"] = 31.01499999999942,
+				["type"] = 5,
+				["name"] = "일반몹 정리",
+				["clock"] = "17:27:11",
+			}, -- [9]
+			{
+				["elapsed"] = 73.01400000000285,
+				["type"] = 5,
+				["name"] = "일반몹 정리",
+				["clock"] = "17:25:52",
+			}, -- [10]
+			{
+				["elapsed"] = 88.86699999999837,
+				["type"] = 6,
+				["name"] = "선장의 의회",
+				["clock"] = "17:23:58",
+			}, -- [11]
+			{
+				["elapsed"] = 20,
+				["type"] = 5,
+				["name"] = "일반몹 정리",
+				["clock"] = "17:23:28",
+			}, -- [12]
+			{
+				["elapsed"] = 19.00500000000466,
+				["type"] = 5,
+				["name"] = "일반몹 정리",
+				["clock"] = "17:23:06",
+			}, -- [13]
+			{
+				["elapsed"] = 25.00400000000082,
+				["type"] = 5,
+				["name"] = "일반몹 정리",
+				["clock"] = "17:22:35",
+			}, -- [14]
+			{
+				["elapsed"] = 116.0140000000029,
+				["type"] = 5,
+				["name"] = "일반몹 정리",
+				["clock"] = "17:20:27",
+			}, -- [15]
+			{
+				["elapsed"] = 41,
+				["type"] = 5,
+				["name"] = "일반몹 정리",
+				["clock"] = "17:19:39",
+			}, -- [16]
+			{
+				["elapsed"] = 25,
+				["type"] = 5,
+				["name"] = "일반몹 정리",
+				["clock"] = "17:19:02",
+			}, -- [17]
+			{
+				["elapsed"] = 63.98300000000018,
+				["type"] = 6,
+				["name"] = "하늘선장 크라그",
+				["clock"] = "17:17:24",
+			}, -- [18]
+			{
+				["elapsed"] = 43.99900000000343,
+				["type"] = 5,
+				["name"] = "일반몹 정리",
+				["clock"] = "17:16:35",
+			}, -- [19]
+			{
+				["elapsed"] = 50,
+				["type"] = 5,
+				["name"] = "일반몹 정리",
+				["clock"] = "17:15:14",
+			}, -- [20]
+			{
+				["elapsed"] = 36.00099999999657,
+				["type"] = 5,
+				["name"] = "일반몹 정리",
+				["clock"] = "17:14:30",
+			}, -- [21]
+			{
+				["elapsed"] = 32.01599999999598,
+				["type"] = 5,
+				["name"] = "일반몹 정리",
+				["clock"] = "17:13:47",
+			}, -- [22]
+			{
+				["elapsed"] = 36.01599999999598,
+				["type"] = 5,
+				["name"] = "일반몹 정리",
+				["clock"] = "17:13:05",
+			}, -- [23]
+			{
+				["elapsed"] = 32.99900000000343,
+				["type"] = 5,
+				["name"] = "일반몹 정리",
+				["clock"] = "17:12:28",
+			}, -- [24]
+			{
+				["elapsed"] = 52.01599999999598,
+				["type"] = 5,
+				["name"] = "일반몹 정리",
+				["clock"] = "17:11:06",
+			}, -- [25]
+		},
+		["totals_grupo"] = {
+			2144331.546976, -- [1]
+			657115.5539359997, -- [2]
+			{
+				1670.007324380112, -- [1]
+				[0] = 7831.344694,
+				["alternatepower"] = 0,
+				[3] = 0,
+				[6] = 0,
+			}, -- [3]
+			{
+				["buff_uptime"] = 0,
+				["ress"] = 0,
+				["debuff_uptime"] = 0,
+				["cooldowns_defensive"] = 19.10186,
+				["interrupt"] = 14.069618,
+				["dispell"] = 3.009705,
+				["cc_break"] = 0,
+				["dead"] = 0,
+			}, -- [4]
+		},
+		["frags"] = {
+		},
+		["data_fim"] = "17:36:29",
+		["overall_enemy_name"] = "-- x -- x --",
+		["CombatSkillCache"] = {
+		},
+		["cleu_timeline"] = {
+		},
+		["start_time"] = 34596.999,
+		["TimeData"] = {
+			["Player Damage Done"] = {
+			},
+		},
+		["PhaseData"] = {
+			{
+				1, -- [1]
+				1, -- [2]
+			}, -- [1]
+			["heal_section"] = {
+			},
+			["heal"] = {
+			},
+			["damage_section"] = {
+			},
+			["damage"] = {
+			},
+		},
+	},
+	["force_font_outline"] = "",
+	["SoloTablesSaved"] = {
+		["Mode"] = 1,
+	},
+	["announce_firsthit"] = {
+		["enabled"] = true,
+		["channel"] = "SELF",
+	},
+	["announce_cooldowns"] = {
+		["enabled"] = false,
+		["ignored_cooldowns"] = {
+		},
+		["custom"] = "",
+		["channel"] = "RAID",
+	},
+	["rank_window"] = {
+		["last_difficulty"] = 15,
+		["last_raid"] = "",
+	},
+	["announce_damagerecord"] = {
+		["enabled"] = true,
+		["channel"] = "SELF",
+	},
+	["cached_specs"] = {
+		["Player-205-0713A4FD"] = 62,
+		["Player-214-07FC4C5D"] = 267,
+		["Player-205-06251940"] = 71,
+		["Player-214-09483ED4"] = 264,
+		["Player-214-093AAE58"] = 66,
+	},
+}

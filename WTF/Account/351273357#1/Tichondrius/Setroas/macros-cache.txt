@@ -1,0 +1,7 @@
+VER 3 0100000000000002 "속임수 거래" "INV_MISC_QUESTIONMARK"
+#showtootip 속임수 거래
+/cast [@mouseover, exists, help, nodead][target=pet, exists, help, nodead][help] 속임수 거래
+END
+VER 3 0100000000000001 "절단" "ABILITY_ROGUE_SHADOWSTRIKES"
+#showtooltip 절단ㅁㅈㅈㅈ
+END

@@ -1,0 +1,12 @@
+VER 3 0100000000000001 "악마 스킬" "236292"
+#showtooltip
+/시전 [@focus,exists,nodead][] 악마 조종
+END
+VER 3 0100000000000002 "죽음의 고리" "607853"
+#showtooltip
+/시전 [@mouseover] 필멸의 고리
+END
+VER 3 0100000000000003 "차단" "236316"
+#showtooltip
+/시전 [@focus,exists,nodead][] 도끼 던지기
+END

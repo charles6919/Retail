@@ -1,0 +1,34 @@
+
+AbyssUIProfile = 1605665548
+AbyssUIAddonSettings = {
+	["ExtraFunctionSellGray"] = true,
+	["ExtraFunctionDisableHealingSpam"] = true,
+	["HideUnitImprovedFaction"] = true,
+	["ExtraFunctionInstanceLeave"] = true,
+	["HideGroupFrame"] = true,
+	["호있얍-아즈샤라"] = {
+		["Slider"] = {
+			["MinimapSlider"] = 1,
+			["RaidFrameSlider"] = 1,
+			["PartyFrameSlider"] = 1,
+			["UnitFrameSlider"] = 1,
+			["ObjectiveFrameSlider"] = 1,
+			["BuffFrameSlider"] = 1,
+		},
+	},
+	["UnitFrameImproved"] = true,
+	["ElitePortrait"] = true,
+	["ExtraFunctionInspectTarget"] = true,
+	["ExtraFunctionConfirmPopUps"] = true,
+	["FontsValue"] = false,
+	["TooltipOnCursor"] = true,
+}
+COLOR_MY_UI = {
+	["호있얍-아즈샤라"] = {
+		["Color"] = {
+			["b"] = 1,
+			["g"] = 1,
+			["r"] = 1,
+		},
+	},
+}

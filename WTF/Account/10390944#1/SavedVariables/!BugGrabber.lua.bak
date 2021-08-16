@@ -1,0 +1,157 @@
+
+BugGrabberDB = {
+	["session"] = 2,
+	["lastSanitation"] = 3,
+	["errors"] = {
+		{
+			["message"] = "Interface\\AddOns\\AddOnSkins\\Locale\\Global.lua:1: attempt to call global 'LibStub' (a nil value)",
+			["time"] = "2019/07/25 11:12:40",
+			["locals"] = "(*temporary) = nil\n(*temporary) = \"AceLocale-3.0\"\n(*temporary) = \"attempt to call global 'LibStub' (a nil value)\"\n",
+			["stack"] = "Interface\\AddOns\\AddOnSkins\\Locale\\Global.lua:1: in main chunk",
+			["session"] = 1,
+			["counter"] = 1,
+		}, -- [1]
+		{
+			["message"] = "Interface\\AddOns\\AddOnSkins\\Locale\\Chinese.lua:1: attempt to call global 'LibStub' (a nil value)",
+			["time"] = "2019/07/25 11:12:40",
+			["locals"] = "(*temporary) = nil\n(*temporary) = \"AceLocale-3.0\"\n(*temporary) = \"attempt to call global 'LibStub' (a nil value)\"\n",
+			["stack"] = "Interface\\AddOns\\AddOnSkins\\Locale\\Chinese.lua:1: in main chunk",
+			["session"] = 1,
+			["counter"] = 1,
+		}, -- [2]
+		{
+			["message"] = "Interface\\AddOns\\AddOnSkins\\Locale\\Korean.lua:1: attempt to call global 'LibStub' (a nil value)",
+			["time"] = "2019/07/25 11:12:40",
+			["locals"] = "(*temporary) = nil\n(*temporary) = \"AceLocale-3.0\"\n(*temporary) = \"attempt to call global 'LibStub' (a nil value)\"\n",
+			["stack"] = "Interface\\AddOns\\AddOnSkins\\Locale\\Korean.lua:1: in main chunk",
+			["session"] = 1,
+			["counter"] = 1,
+		}, -- [3]
+		{
+			["message"] = "Interface\\AddOns\\AddOnSkins\\Init.lua:29: attempt to call global 'LibStub' (a nil value)",
+			["time"] = "2019/07/25 11:12:40",
+			["locals"] = "AddOnName = \"AddOnSkins\"\nEngine = <table> {\n}\n(*temporary) = nil\n(*temporary) = \"AceAddon-3.0\"\n(*temporary) = \"attempt to call global 'LibStub' (a nil value)\"\n",
+			["stack"] = "Interface\\AddOns\\AddOnSkins\\Init.lua:29: in main chunk",
+			["session"] = 1,
+			["counter"] = 1,
+		}, -- [4]
+		{
+			["message"] = "Interface\\AddOns\\AddOnSkins\\Core\\API.lua:1: bad argument #1 to 'unpack' (table expected, got nil)",
+			["time"] = "2019/07/25 11:12:40",
+			["locals"] = "(*temporary) = nil\n(*temporary) = \"table expected, got nil\"\n",
+			["stack"] = "[C]: in function `unpack'\nInterface\\AddOns\\AddOnSkins\\Core\\API.lua:1: in main chunk",
+			["session"] = 1,
+			["counter"] = 1,
+		}, -- [5]
+		{
+			["message"] = "Interface\\AddOns\\AddOnSkins\\Core\\Options-설정.lua:1: bad argument #1 to 'unpack' (table expected, got nil)",
+			["time"] = "2019/07/25 11:12:40",
+			["locals"] = "(*temporary) = nil\n(*temporary) = \"table expected, got nil\"\n",
+			["stack"] = "[C]: in function `unpack'\nInterface\\AddOns\\AddOnSkins\\Core\\Options-설정.lua:1: in main chunk",
+			["session"] = 1,
+			["counter"] = 1,
+		}, -- [6]
+		{
+			["message"] = "Interface\\AddOns\\AddOnSkins\\Core\\Core.lua:1: bad argument #1 to 'unpack' (table expected, got nil)",
+			["time"] = "2019/07/25 11:12:40",
+			["locals"] = "(*temporary) = nil\n(*temporary) = \"table expected, got nil\"\n",
+			["stack"] = "[C]: in function `unpack'\nInterface\\AddOns\\AddOnSkins\\Core\\Core.lua:1: in main chunk",
+			["session"] = 1,
+			["counter"] = 1,
+		}, -- [7]
+		{
+			["message"] = "Interface\\AddOns\\AddOnSkins\\Core\\ElvUI.lua:1: bad argument #1 to 'unpack' (table expected, got nil)",
+			["time"] = "2019/07/25 11:12:40",
+			["locals"] = "(*temporary) = nil\n(*temporary) = \"table expected, got nil\"\n",
+			["stack"] = "[C]: in function `unpack'\nInterface\\AddOns\\AddOnSkins\\Core\\ElvUI.lua:1: in main chunk",
+			["session"] = 1,
+			["counter"] = 1,
+		}, -- [8]
+		{
+			["message"] = "Interface\\AddOns\\AddOnSkins\\Embed\\Core.lua:1: bad argument #1 to 'unpack' (table expected, got nil)",
+			["time"] = "2019/07/25 11:12:40",
+			["locals"] = "(*temporary) = nil\n(*temporary) = \"table expected, got nil\"\n",
+			["stack"] = "[C]: in function `unpack'\nInterface\\AddOns\\AddOnSkins\\Embed\\Core.lua:1: in main chunk",
+			["session"] = 1,
+			["counter"] = 1,
+		}, -- [9]
+		{
+			["message"] = "Interface\\AddOns\\AddOnSkins\\Embed\\alDamageMeter.lua:1: bad argument #1 to 'unpack' (table expected, got nil)",
+			["time"] = "2019/07/25 11:12:40",
+			["locals"] = "(*temporary) = nil\n(*temporary) = \"table expected, got nil\"\n",
+			["stack"] = "[C]: in function `unpack'\nInterface\\AddOns\\AddOnSkins\\Embed\\alDamageMeter.lua:1: in main chunk",
+			["session"] = 1,
+			["counter"] = 1,
+		}, -- [10]
+		{
+			["message"] = "[string \"FP_ListFrame:OnLoad\"]:1: attempt to call method 'SetBackdropBorderColor' (a nil value)",
+			["time"] = "2020/11/07 15:15:57",
+			["locals"] = "self = FP_ListFrame {\n 0 = <userdata>\n}\n(*temporary) = nil\n(*temporary) = FP_ListFrame {\n 0 = <userdata>\n}\n(*temporary) = 0.150000\n(*temporary) = 0.150000\n(*temporary) = 0.150000\n(*temporary) = 1\n(*temporary) = \"attempt to call method 'SetBackdropBorderColor' (a nil value)\"\n",
+			["stack"] = "[string \"*:OnLoad\"]:1: in function <[string \"*:OnLoad\"]:1>",
+			["session"] = 2,
+			["counter"] = 1,
+		}, -- [11]
+		{
+			["message"] = "[string \"FP_TitleFrame:OnLoad\"]:1: attempt to call method 'SetBackdropBorderColor' (a nil value)",
+			["time"] = "2020/11/07 15:15:57",
+			["locals"] = "self = FP_TitleFrame {\n 0 = <userdata>\n}\n(*temporary) = nil\n(*temporary) = FP_TitleFrame {\n 0 = <userdata>\n}\n(*temporary) = 0.150000\n(*temporary) = 0.150000\n(*temporary) = 0.150000\n(*temporary) = 1\n(*temporary) = \"attempt to call method 'SetBackdropBorderColor' (a nil value)\"\n",
+			["stack"] = "[string \"*:OnLoad\"]:1: in function <[string \"*:OnLoad\"]:1>",
+			["session"] = 2,
+			["counter"] = 1,
+		}, -- [12]
+		{
+			["message"] = "[string \"FP_MenuFrame:OnLoad\"]:1: attempt to call method 'SetBackdropBorderColor' (a nil value)",
+			["time"] = "2020/11/07 15:15:57",
+			["locals"] = "self = FP_MenuFrame {\n 0 = <userdata>\n}\n(*temporary) = nil\n(*temporary) = FP_MenuFrame {\n 0 = <userdata>\n}\n(*temporary) = 0.150000\n(*temporary) = 0.150000\n(*temporary) = 0.150000\n(*temporary) = 1\n(*temporary) = \"attempt to call method 'SetBackdropBorderColor' (a nil value)\"\n",
+			["stack"] = "[string \"*:OnLoad\"]:1: in function <[string \"*:OnLoad\"]:1>",
+			["session"] = 2,
+			["counter"] = 1,
+		}, -- [13]
+		{
+			["message"] = "Interface\\AddOns\\HandyNotes\\HandyNotes_EditFrame.lua:23: attempt to call method 'SetBackdrop' (a nil value)",
+			["time"] = "2020/11/07 15:15:57",
+			["locals"] = "HandyNotes = <table> {\n SetDefaultModuleLibraries = <function> defined @Interface\\AddOns\\Masque\\Libs\\AceAddon-3.0\\AceAddon-3.0.lua:367\n GetContinentZoneList = <function> defined @Interface\\AddOns\\HandyNotes\\HandyNotes.lua:226\n GetMapFiletoMapID = <function> defined @Interface\\AddOns\\HandyNotes\\HandyNotes.lua:258\n Enable = <function> defined @Interface\\AddOns\\Masque\\Libs\\AceAddon-3.0\\AceAddon-3.0.lua:294\n RegisterChatCommand = <function> defined @Interface\\AddOns\\Bartender4\\libs\\AceConsole-3.0\\AceConsole-3.0.lua:85\n EnableModule = <function> defined @Interface\\AddOns\\Masque\\Libs\\AceAddon-3.0\\AceAddon-3.0.lua:332\n modules = <table> {\n }\n GetModule = <function> defined @Interface\\AddOns\\Masque\\Libs\\AceAddon-3.0\\AceAddon-3.0.lua:210\n IterateEmbeds = <function> defined @Interface\\AddOns\\Masque\\Libs\\AceAddon-3.0\\AceAddon-3.0.lua:442\n plugins = <table> {\n }\n defaultModuleLibraries = <table> {\n }\n UnregisterChatCommand = <function> defined @Interface\\AddOns\\Bartender4\\libs\\AceConsole-3.0\\AceConsole-3.0.lua:111\n Printf = <function> defined @Interface\\AddOns\\Bartender4\\libs\\AceConsole-3.0\\AceConsole-3.0.lua:69\n OnProfileChanged = <function> defined @Interface\\AddOns\\HandyNotes\\HandyNotes.lua:648\n SetDefaultModulePrototype = <function> defined @Interface\\AddOns\\Masque\\Libs\\AceAddon-3.0\\AceAddon-3.0.lua:409\n UpdateMinimapPlugin = <function> defined @Interface\\AddOns\\HandyNotes\\HandyNotes.lua:418\n name = \"HandyNotes\"\n IsEnabled = <function> defined @Interface\\AddOns\\Masque\\Libs\\AceAddon-3.0\\AceAddon-3.0.lua:451\n orderedModules = <table> {\n }\n DisableModule = <function> defined @Interface\\AddOns\\Masque\\Libs\\AceAddon-3.0\\AceAddon-3.0.lua:350\n OnDisable = <function> defined @Interface\\AddOns\\HandyNotes\\HandyNotes.lua:636\n OnEnable = <function> defined @Interface\\AddOns\\HandyNotes\\HandyNotes.lua:623\n RegisterMessage = <function> defined @Interface\\AddOns\\Bagnon\\common\\Wildpants\\libs\\CallbackHandler-1.0\\CallbackHandler-1.0.lua:90\n GetArgs = <function> defined @Interface\\AddOns\\Bartender4\\libs\\AceConsole-3.0\\AceConsole-3.0.lua:144\n Print = <function> defined @Interface\\AddOns\\Bartender4\\libs\\AceConsole-3.0\\AceConsole-3.0.lua:54\n OnInitialize = <function> defined @Interface\\AddOns\\HandyNotes\\HandyNotes.lua:605\n UpdatePluginMap = <function> defined @Interface\\AddOns\\HandyNotes\\HandyNotes.lua:489\n UpdateMinimap = <function> defined @Interface\\AddOns\\HandyNotes\\HandyNotes.lua:479\n NewModule = <function> defined @Interface\\AddOns\\Masque\\Libs\\AceAddon-3.0\\AceAddon-3.0.lua:235\n IsModule = <function> defined @Interface\\AddOns\\Masque\\Libs\\AceAddon-3.0\\AceAddon-3.0.lua:468\n UpdateWorldMapPlugin = <function> defined @Interface\\AddOns\\HandyNotes\\HandyNotes.lua:403\n SetDefaultModuleState = <function> defined @Interface\\AddOns\\Masque\\Libs\\AceAddon-3.0\\AceAddon-3.0.lua:387\n WorldMapDataProvider = <table> {\n }\n GetMapIDtoMapFile = <function> defined @Interface\\AddOns\\HandyNotes\\HandyNotes.lua:264\n SetEnabledState = <function> defined @Interface\\AddOns\\Masque\\Libs\\AceAddon-3.0\\AceAddon-3.0.lua:424\n getXY = <function> defined @Interface\\AddOns\\HandyNotes\\HandyNotes.lua:252\n enabledState = true\n UpdateWorldMap = <function> defined @Interface\\AddOns\\HandyNotes\\HandyNotes.lua:409\n RegisterEvent = <function> defined @Interface\\AddOns\\Bagnon\\common\\Wildpants\\libs\\CallbackHandler-1.0\\CallbackHandler-1.0.lua:90\n UnregisterAllMessages = <function> defined @Interface\\AddOns\\Bagnon\\common\\Wildpants\\libs\\CallbackHandler-1.0\\CallbackHandler-1.0.lua:174\n RegisterPluginDB = <function> defined @Interface\\AddOns\\HandyNotes\\HandyNotes.lua:152\n UnregisterAllEvents = <function> defined @Interface\\AddOns\\Bagnon\\common\\Wildpants\\libs\\CallbackHandler-1.0\\CallbackHandler-1.0.lua:174\n SendMessage = <function> defined @Interface\\AddOns\\Bagnon\\common\\Wildpants\\libs\\CallbackHandler-1.0\\CallbackHandler-1.0.lua:59\n IterateModules = <function> defined @Interface\\AddOns\\Masque\\Libs\\AceAddon-3.0\\AceAddon-3.0.lua:437\n UnregisterMessage = <function> defined @Interface\\AddOns\\Bagnon\\common\\Wildpants\\libs\\CallbackHandler-1.0\\CallbackHandler-1.0.lua:153\n getCoord = <function> defined @Interfa",
+			["stack"] = "[string \"@Interface\\AddOns\\HandyNotes\\HandyNotes_EditFrame.lua\"]:23: in main chunk",
+			["session"] = 2,
+			["counter"] = 1,
+		}, -- [14]
+		{
+			["message"] = "...\\Libs\\LibUIDropDownMenuQuestie\\LibUIDropDownMenu.lua:223: attempt to call method 'SetBackdrop' (a nil value)",
+			["time"] = "2020/11/07 15:15:58",
+			["locals"] = "name = \"LQuestie_DropDownList1\"\nparent = nil\nf = LQuestie_DropDownList1 {\n 0 = <userdata>\n Backdrop = LQuestie_DropDownList1Backdrop {\n }\n}\n(*temporary) = nil\n(*temporary) = LQuestie_DropDownList1Backdrop {\n 0 = <userdata>\n}\n(*temporary) = <table> {\n bgFile = \"Interface\\DialogFrame\\UI-DialogBox-Background-Dark\"\n tileSize = 32\n edgeFile = \"Interface\\DialogFrame\\UI-DialogBox-Border\"\n tile = true\n edgeSize = 32\n insets = <table> {\n }\n}\n(*temporary) = \"attempt to call method 'SetBackdrop' (a nil value)\"\n_G = <table> {\n UpdateOnBarHighlightMarksBySpell = <function> defined =[C]:-1\n ERR_OUT_OF_CHI = \"기가 부족합니다.\"\n DH_HAVOC_CORE_ABILITY_2 = \"격노를 소모하는 강력한 근접 공격 능력입니다. 치명타로 적중하면 격노의 일부를 돌려받습니다.\"\n MultiCastActionButton6Cooldown = MultiCastActionButton6Cooldown {\n }\n MerchantItem9ItemButtonStock = MerchantItem9ItemButtonStock {\n }\n GetTrainerServiceTypeFilter = <function> defined =[C]:-1\n UNIT_NAMES_COMBATLOG_TOOLTIP = \"플레이어, NPC, 몬스터 이름에 색을 입힙니다.\"\n SetTrainerServiceTypeFilter = <function> defined =[C]:-1\n LE_GAME_ERR_CHAT_RAID_RESTRICTED_TRIAL = 741\n SPELL_FAILED_CUSTOM_ERROR_71 = \"파티 하객이 당신과 춤추고 싶어합니다.\"\n LE_GAME_ERR_PET_SPELL_TARGETS_DEAD = 400\n ERROR_CLUB_TICKET_COUNT_AT_MAX_COMMUNITY = \"이 커뮤니티는 초대 링크를 더 생성할 수 없습니다.\"\n RecruitAFriendFrame = RecruitAFriendFrame {\n }\n CompactUnitFrameProfilesGeneralOptionsFrameHealthTextDropdownButtonNormalTexture = CompactUnitFrameProfilesGeneralOptionsFrameHealthTextDropdownButtonNormalTexture {\n }\n TutorialFrameLeft19 = TutorialFrameLeft19 {\n }\n MultiCastActionButton2Cooldown = MultiCastActionButton2Cooldown {\n }\n ERR_TRADE_EQUIPPED_BAG = \"장착 중인 가방은 거래할 수 없습니다.\"\n PVP_RANK_6_1 = \"파수병\"\n MultiBarLeftButton7 = MultiBarLeftButton7 {\n }\n AudioOptionsVoicePanelOutputDeviceDropdownButtonHighlightTexture = AudioOptionsVoicePanelOutputDeviceDropdownButtonHighlightTexture {\n }\n VideoOptionsFrameDefaults = VideoOptionsFrameDefaults {\n }\n MerchantItem1AltCurrencyFrameItem1Text = MerchantItem1AltCurrencyFrameItem1Text {\n }\n DetailsWindowOptionsBarTextEditorEntryNumberLines = DetailsWindowOptionsBarTextEditorEntryNumberLines {\n }\n OPTION_TOOLTIP_ACTION_BUTTON_USE_KEY_DOWN = \"단축키를 눌렀다 뗐을 때가 아니라, 누르는 즉시 선택된 행동을 실행합니다.\"\n BINDING_NAME_NAMEPLATES = \"적 이름표 표시\"\n CHAT_HEADER_SUFFIX = \": \"\n MultiBarBottomRightButton8Shine5 = MultiBarBottomRightButton8Shine5 {\n }\n COVENANT_MISSIONS_HEALTH = \"생명력\"\n MAIL_LETTER_TOOLTIP = \"이 편지의 사본을 만들어 영원히\n보관하려면 클릭하십시오.\"\n UnitFrameManaBar_UnregisterDefaultEvents = <function> defined @Interface\\FrameXML\\UnitFrame.lua:782\n PaperDollTitlesPaneButton10BgTop = PaperDollTitlesPaneButton10BgTop {\n }\n DUNGEON_FLOOR_UPPERBLACKROCKSPIRE3 = \"블랙핸드의 전당\"\n CHAT_CONFIG_OTHER_COMBAT = <table> {\n }\n FP_ListFrameRow13 = FP_ListFrameRow13 {\n }\n FCFDockOverflowButton_OnClick = <function> defined @Interface\\FrameXML\\FloatingChatFrame.lua:2379\n TutorialFrameRight19 = TutorialFrameRight19 {\n }\n ChatFrame6EditBoxFocusMid = ChatFrame6EditBoxFocusMid {\n }\n BN_UNABLE_TO_RESOLVE_NAME = \"'%s' 님께 귓속말을 보낼 수 없습니다. 블리자드 서비스를 이용할 수 없습니다.\"\n AutoCompleteEditBox_OnKeyDown = <function> defined @Interface\\FrameXML\\AutoComplete.lua:366\n CompactRaidFrameManagerDisplayFrameHiddenModeToggleTopRight = CompactRaidFrameManagerDisplayFrameHiddenModeToggleTopRight {\n }\n LFGTeleport = <function> defined =[C]:-1\n LE_GAME_ERR_ONLY_ONE_QUIVER = 32\n INT_SPELL_DURATION_HOURS = \"%d시간\"\n ToggleEncounterJournal = <function> defined @Interface\\FrameXML\\UIParent.lua:1035\n LOSS_OF_CONTROL_DISPLAY_FEAR = \"공포\"\n Graphics_QualityText = Graphics_QualityText {\n }\n OverrideActionBarButton6Shine11 = OverrideActionBarButton6Shine11 {\n }\n ROGUE_COMBAT_CORE_ABILITY_4 = \"연계 점수를 소모하는 근접 공격 능력입니다.\"\n",
+			["stack"] = "[string \"@Interface\\AddOns\\Questie\\Libs\\LibUIDropDownMenuQuestie\\LibUIDropDownMenu.lua\"]:223: in function `creatre_UIDropDownList'\n[string \"@Interface\\AddOns\\Questie\\Libs\\LibUIDropDownMenuQuestie\\LibUIDropDownMenu.lua\"]:386: in main chunk",
+			["session"] = 2,
+			["counter"] = 1,
+		}, -- [15]
+		{
+			["message"] = "...s\\Questie\\Modules\\Options\\QuestieOptionsDefaults.lua:100: attempt to call global 'GetQuestGreenRange' (a nil value)",
+			["time"] = "2020/11/07 15:16:00",
+			["locals"] = "self = <table> {\n private = <table> {\n }\n Load = <function> defined @Interface\\AddOns\\Questie\\Modules\\Options\\QuestieOptionsDefaults.lua:4\n}\n(*temporary) = <table> {\n global = <table> {\n }\n}\n(*temporary) = <table> {\n}\n(*temporary) = nil\n(*temporary) = \"attempt to call global 'GetQuestGreenRange' (a nil value)\"\n",
+			["stack"] = "[string \"@Interface\\AddOns\\Questie\\Modules\\Options\\QuestieOptionsDefaults.lua\"]:100: in function `Load'\n[string \"@Interface\\AddOns\\Questie\\Modules\\Options\\AdvancedTab\\QuestieOptionsAdvanced.lua\"]:22: in main chunk",
+			["session"] = 2,
+			["counter"] = 5,
+		}, -- [16]
+		{
+			["message"] = "Interface\\AddOns\\FindParty\\FindParty-8.1.2.lua:1537: attempt to call method 'SetBackdropColor' (a nil value)",
+			["time"] = "2020/11/07 15:16:14",
+			["locals"] = "(*temporary) = nil\n(*temporary) = FP_ListFrame {\n 0 = <userdata>\n}\n(*temporary) = 0\n(*temporary) = 0\n(*temporary) = 0\n(*temporary) = 0.500000\n(*temporary) = \"attempt to call method 'SetBackdropColor' (a nil value)\"\n",
+			["stack"] = "[string \"@Interface\\AddOns\\FindParty\\FindParty-8.1.2.lua\"]:1537: in function `FP_SetListColor'\n[string \"@Interface\\AddOns\\FindParty\\FindParty-8.1.2.lua\"]:432: in function `FP_Init'\n[string \"@Interface\\AddOns\\FindParty\\FindParty-8.1.2.lua\"]:1908: in function `FP_OnEvent'\n[string \"*:OnEvent\"]:1: in function <[string \"*:OnEvent\"]:1>",
+			["session"] = 2,
+			["counter"] = 1,
+		}, -- [17]
+		{
+			["message"] = "(null)",
+			["time"] = "2020/11/07 15:16:15",
+			["session"] = 2,
+			["counter"] = 10,
+		}, -- [18]
+		{
+			["message"] = "...dOns\\Blizzard_ChallengesUI\\Blizzard_ChallengesUI.lua:225: attempt to index field '?' (a nil value)",
+			["time"] = "2020/11/07 15:16:14",
+			["locals"] = "self = ChallengesFrame {\n SeasonChangeNoticeFrame = <unnamed> {\n }\n leadersAvailable = false\n maps = <table> {\n }\n Background = <unnamed> {\n }\n DungeonIcons = <table> {\n }\n 0 = <userdata>\n WeeklyInfo = <unnamed> {\n }\n}\nsortedMaps = <table> {\n}\nhasWeeklyRun = false\nweeklySortedMaps = <table> {\n}\nframeWidth = 550.000061\nnum = 0\n(*temporary) = <function> defined =[C]:-1\n(*temporary) = nil\n(*temporary) = 1\n(*temporary) = ChallengesFrame {\n SeasonChangeNoticeFrame = <unnamed> {\n }\n leadersAvailable = false\n maps = <table> {\n }\n Background = <unnamed> {\n }\n DungeonIcons = <table> {\n }\n 0 = <userdata>\n WeeklyInfo = <unnamed> {\n }\n}\n(*temporary) = \"BOTTOM\"\n(*temporary) = 550.000061\n(*temporary) = 1\n(*temporary) = 2\n(*temporary) = 2\n(*temporary) = 548.000061\n(*temporary) = 275.000031\n(*temporary) = 548.000061\n(*temporary) = 1\n(*temporary) = 1\n(*temporary) = 1\n(*temporary) = ChallengesFrame {\n SeasonChangeNoticeFrame = <unnamed> {\n }\n leadersAvailable = false\n maps = <table> {\n }\n Background = <unnamed> {\n }\n DungeonIcons = <table> {\n }\n 0 = <userdata>\n WeeklyInfo = <unnamed> {\n }\n}\n(*temporary) = \"BOTTOM\"\n(*temporary) = -275.000031\n(*temporary) = 5\n(*temporary) = <userdata>\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = \"attempt to index field '?' (a nil value)\"\nGetRunQualityBasedOnLevel = <function> defined @Interface\\AddOns\\Blizzard_ChallengesUI\\Blizzard_ChallengesUI.lua:16\nCreateFrames = <function> defined @Interface\\AddOns\\Blizzard_ChallengesUI\\Blizzard_ChallengesUI.lua:32\nLineUpFrames = <function> defined @Interface\\AddOns\\Blizzard_ChallengesUI\\Blizzard_ChallengesUI.lua:83\nCHEST_STATE_WALL_OF_TEXT = 1\nCHEST_STATE_COLLECT = 4\nCHEST_STATE_COMPLETE = 3\nCHEST_STATE_INCOMPLETE = 2\n",
+			["stack"] = "[string \"@Interface\\AddOns\\Blizzard_ChallengesUI\\Blizzard_ChallengesUI.lua\"]:225: in function <...dOns\\Blizzard_ChallengesUI\\Blizzard_ChallengesUI.lua:163>\n[string \"=[C]\"]: in function `ChallengesFrame_Update'\n[string \"@Interface\\AddOns\\Blizzard_ChallengesUI\\Blizzard_ChallengesUI.lua\"]:134: in function <...dOns\\Blizzard_ChallengesUI\\Blizzard_ChallengesUI.lua:125>",
+			["session"] = 2,
+			["counter"] = 6,
+		}, -- [19]
+	},
+}

@@ -1,0 +1,6 @@
+Masque_Renaitre: disabled
+Masque: disabled
+RaiderIO_DB_KR_A: disabled
+RaiderIO_DB_KR_H: disabled
+RaiderIO: disabled
+WeakAuras: enabled

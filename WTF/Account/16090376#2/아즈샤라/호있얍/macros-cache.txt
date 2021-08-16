@@ -1,0 +1,19 @@
+VER 3 0100000000000005 "th손가락질" "3509650"
+/공격
+END
+VER 3 0100000000000001 "VuhDoDCShieldData" "Ability_Repair"
+END
+VER 3 0100000000000002 "VuhDoDCShieldNames" "Ability_Repair"
+NHyd만취악히츠블마법토[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]호있얍[x][x][x]물의 [x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END
+VER 3 0100000000000004 "늑대소환" "237577"
+#showtooltip 야수 정령
+/연속시전 reset=5 야수 정령
+END
+VER 3 0100000000000006 "덜덜" "136024"
+/공포
+END
+VER 3 0100000000000003 "주시짤" "136018"
+#showtooltip
+/시전 [@focus,exists,nodead][] 날카로운 바람
+END

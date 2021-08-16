@@ -1,0 +1,128 @@
+VER 3 0000000000000010 "ㅁㅁ" "INV_THROWINGKNIFE_02"
+#showtooltip
+/Stopcasting
+/target [@mouseover]
+/click ExtraActionButton1
+/s <%T>에게 눈 패스!
+/targetlasttarget
+END
+VER 3 0000000000000004 "고정 사격" "ABILITY_HUNTER_STEADYSHOT"
+#showtooltip
+/대상 B
+/시전 속임수 거래
+END
+VER 3 0000000000000016 "고함!" "ACHIEVEMENT_WORGANHEAD"
+#showtooltip
+/고함
+END
+VER 3 0000000000000020 "노" "413588"
+/run SendChatMessage("yellow", "WHISPER", nil, GetUnitName("PLAYERTARGET"))
+END
+VER 3 000000000000001E "녹" "132301"
+/run SendChatMessage("green", "WHISPER", nil, GetUnitName("PLAYERTARGET"))
+END
+VER 3 0000000000000017 "다나와!!" "133644"
+#showtooltip
+/y 그망킬께요~~혼자맞을수있어요!!
+END
+VER 3 0000000000000015 "매크" "INV_MISC_QUESTIONMARK"
+/click ExtraActionButton1
+END
+VER 3 0000000000000011 "바람걸음 토템" "ABILITY_SHAMAN_WINDWALKTOTEM"
+/시전 바람걸음 토템
+/외침 "바람걸음토템!!(슬로우 면역!!)"
+END
+VER 3 000000000000001C "박쥐" "572034"
+/대상 울부짖는
+END
+VER 3 0000000000000007 "번개화살" "SPELL_NATURE_LIGHTNING"
+#showtooltip
+/startattack
+/cast 번개 화살
+END
+VER 3 000000000000001F "보" "252272"
+/run SendChatMessage("purple", "WHISPER", nil, GetUnitName("PLAYERTARGET"))
+END
+VER 3 0000000000000002 "불불" "SPELL_SHAMAN_LAVABURST"
+#showtooltip
+/연속시전 화염 충격,용암 폭발
+END
+VER 3 000000000000001D "빨" "132096"
+/showtooltip
+/run SendChatMessage("red", "WHISPER", nil, GetUnitName("PLAYERTARGET"))
+END
+VER 3 0000000000000003 "신비한 사격" "ABILITY_IMPALINGBOLT"
+#showtooltip
+/startattack
+/cast 신비한 사격
+END
+VER 3 0000000000000013 "액션캠 온" "136206"
+/console actioncam full
+END
+VER 3 000000000000000A "얼음불꽃화살" "ABILITY_MAGE_FROSTFIREBOLT"
+#showtooltip
+/startattack
+/cast 얼음불꽃 화살
+END
+VER 3 000000000000000B "얼음화살" "SPELL_FROST_FROSTBOLT02"
+#showtooltip
+/startattack
+/cast 얼음 화살
+END
+VER 3 0000000000000001 "얼음화살 - 얼음창" "ABILITY_SHOOTWAND"
+#showtooltip
+/연속시전 얼음 화살,얼음창
+END
+VER 3 000000000000000D "연막" "ABILITY_ROGUE_SMOKE"
+#showtooltip
+/탈것감정표현
+END
+VER 3 0000000000000006 "연쇄번개" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/startattack
+/cast 연쇄 번개
+END
+VER 3 000000000000000C "으아아아 파워3버프~!!!" "SPELL_FROST_COLDHEARTED"
+#showtooltip
+/연속시전 얼음 핏줄,광폭화,환영 복제
+END
+VER 3 0000000000000005 "일제 사격" "ABILITY_UPGRADEMOONGLAIVE"
+#showtooltip
+/오라취소 최후: 절개
+END
+VER 3 0000000000000014 "전차" "134299"
+/외침 땅끄땅끄땅끄땅끄땅끄
+END
+VER 3 000000000000001B "차단" "136018"
+#showtooltips 날카로운 바람
+/script s,d,e=GetSpellCooldown("날카로운 바람");t=(s+d)-GetTime();if t>0 then SendChatMessage("날카로운 바람 "..ceil(t).."초 쿨다운") else SendChatMessage("『%t』  차단") end;
+/시전 날카로운 바람
+END
+VER 3 0000000000000012 "차단" "INV_AMMO_ARROW_03"
+/시전 반격의 사격
+/s 차아아아아아단!!
+END
+VER 3 0000000000000018 "카운트(5초)" "369214"
+/pull 10
+END
+VER 3 000000000000001A "탈것 감정표현" "1373910"
+#showtooltip
+/탈것감정표현
+END
+VER 3 0000000000000019 "탱커지원" "ABILITY_ROGUE_FEIGNDEATH"
+/assist [@raid1 ,exists,nodead]
+END
+VER 3 000000000000000F "토템 (화염,치유)" "SPELL_FIRE_SEARINGTOTEM"
+#showtooltip
+/연속시전 불타는 토템,치유의 토템 
+END
+VER 3 0000000000000009 "토템(4개)" "SPELL_FIRE_ELEMENTAL_TOTEM"
+#showtooltip
+/연속시전 불의 정령 토템,진동의 토템,치유의 해일 토템,폭풍채찍 토템
+END
+VER 3 0000000000000021 "파" "136103"
+/run SendChatMessage("blue", "WHISPER", nil, GetUnitName("PLAYERTARGET"))
+END
+VER 3 0000000000000008 "힅템팔기" "ABILITY_RACIAL_PACKHOBGOBLIN"
+/대상 지옥
+END

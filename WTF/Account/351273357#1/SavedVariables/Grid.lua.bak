@@ -1,0 +1,374 @@
+
+GridDB = {
+	["namespaces"] = {
+		["GridStatusStagger"] = {
+		},
+		["GridFrame"] = {
+			["profiles"] = {
+				["Default"] = {
+					["statusmap"] = {
+						["text2"] = {
+							["dispel_magic"] = false,
+							["alert_offline"] = false,
+							["dispel_poison"] = false,
+							["dispel_curse"] = false,
+							["debuff_오메가매개체"] = true,
+							["debuff_SacredDawn"] = false,
+							["debuff_혈장방출"] = true,
+							["dispel_disease"] = false,
+							["alert_feignDeath"] = false,
+							["debuff_Ghost"] = false,
+							["alert_death"] = false,
+							["debuff_악취를풍기는독기"] = true,
+						},
+						["gid_icon_2"] = {
+						},
+						["text"] = {
+							["buff_그림자망토"] = true,
+							["buff_승천"] = true,
+							["buff_GuardianSpirit"] = true,
+							["buff_탈태"] = true,
+							["buff_업보의손아귀"] = true,
+							["unit_healthDeficit"] = false,
+							["alert_heals"] = false,
+							["buff_LifeCocoon"] = true,
+							["buff_회피"] = true,
+							["buff_영혼이동"] = true,
+						},
+						["border"] = {
+							["debuff_오메가매개체"] = true,
+							["debuff_혈장방출"] = true,
+						},
+						["corner4"] = {
+							["debuff_악취를풍기는독기"] = true,
+							["debuff_부패의발작"] = true,
+							["leader"] = false,
+							["debuff_오메가매개체"] = true,
+							["debuff_혈장방출"] = true,
+							["dispel_disease"] = false,
+							["master_looter"] = false,
+							["dispel_poison"] = false,
+							["assistant"] = false,
+						},
+						["corner1"] = {
+							["alert_aggro"] = false,
+						},
+						["icon"] = {
+							["alert_RaidDebuff"] = true,
+						},
+					},
+					["fontOutline"] = "OUTLINE",
+					["iconSize"] = 20,
+					["texture"] = "DGround",
+					["frameHeight"] = 55,
+					["enableText2"] = true,
+					["font"] = "굵은 글꼴",
+					["cornerSize"] = 11,
+					["orientation"] = "HORIZONTAL",
+					["invertBarColor"] = true,
+					["frameWidth"] = 80,
+					["fontShadow"] = false,
+				},
+			},
+		},
+		["GridStatusVehicle"] = {
+		},
+		["LibDualSpec-1.0"] = {
+		},
+		["GridStatusAuras"] = {
+			["profiles"] = {
+				["Default"] = {
+					["buff_PowerWord:Fortitude"] = {
+						["icon"] = 135987,
+					},
+					["debuff_혈장방출"] = {
+						["priority"] = 50,
+						["desc"] = "약화 효과: 혈장 방출",
+						["color"] = {
+							["b"] = 0,
+							["g"] = 0,
+							["r"] = 0.501960784313726,
+						},
+						["text"] = "혈방",
+						["debuff"] = "혈장 방출",
+					},
+					["buff_PowerWord:Shield"] = {
+						["icon"] = 135940,
+					},
+					["buff_LifeCocoon"] = {
+						["icon"] = 627485,
+					},
+					["buff_승천"] = {
+						["icon"] = 135791,
+						["desc"] = "강화 효과: 승천",
+						["buff"] = "승천",
+						["text"] = "승천",
+					},
+					["buff_EarthShield"] = {
+						["icon"] = 136089,
+					},
+					["buff_회피"] = {
+						["icon"] = 136205,
+						["desc"] = "강화 효과: 회피",
+						["buff"] = "회피",
+						["text"] = "회피",
+					},
+					["debuff_부패의발작"] = {
+						["priority"] = 50,
+						["desc"] = "약화 효과: 부패의 발작",
+						["color"] = {
+							["r"] = 0,
+							["g"] = 0.501960784313726,
+							["b"] = 0.0392156862745098,
+						},
+						["text"] = "부발",
+						["debuff"] = "부패의 발작",
+					},
+					["buff_탈태"] = {
+						["icon"] = 1247262,
+						["desc"] = "강화 효과: 탈태",
+						["buff"] = "탈태",
+						["text"] = "탈태",
+					},
+					["buff_Riptide"] = {
+						["icon"] = 252995,
+					},
+					["buff_그림자망토"] = {
+						["icon"] = 136177,
+						["desc"] = "강화 효과: 그림자 망토",
+						["buff"] = "그림자 망토",
+						["text"] = "그망",
+					},
+					["debuff_오메가매개체"] = {
+						["priority"] = 50,
+						["desc"] = "약화 효과: 오메가 매개체",
+						["color"] = {
+							["b"] = 0,
+							["g"] = 0.411764705882353,
+							["r"] = 1,
+						},
+						["text"] = "오매",
+						["debuff"] = "오메가 매개체",
+					},
+					["debuff_악취를풍기는독기"] = {
+						["priority"] = 50,
+						["desc"] = "약화 효과: 악취를 풍기는 독기",
+						["color"] = {
+							["b"] = 0.43921568627451,
+							["g"] = 0.501960784313726,
+							["r"] = 0,
+						},
+						["text"] = "악풍독",
+						["debuff"] = "악취를 풍기는 독기",
+					},
+					["buff_Atonement"] = {
+						["icon"] = 458720,
+					},
+					["buff_업보의손아귀"] = {
+						["icon"] = 651728,
+						["desc"] = "강화 효과: 업보의 손아귀",
+						["buff"] = "업보의 손아귀",
+						["text"] = "업손",
+					},
+					["advancedOptions"] = true,
+					["buff_영혼이동"] = {
+						["icon"] = 538565,
+						["desc"] = "강화 효과: 영혼 이동",
+						["buff"] = "영혼 이동",
+						["text"] = "영이",
+					},
+				},
+			},
+		},
+		["GridStatusAbsorbs"] = {
+		},
+		["GridStatusHealTrace"] = {
+			["profiles"] = {
+				["Default"] = {
+					["alert_healTrace"] = {
+						["version"] = 1,
+					},
+				},
+			},
+		},
+		["GridStatusTarget"] = {
+		},
+		["GridStatusRaidDebuff"] = {
+			["profiles"] = {
+				["Default"] = {
+					["isFirst"] = false,
+				},
+			},
+		},
+		["GridStatusMana"] = {
+		},
+		["GridStatusName"] = {
+		},
+		["GridIndicatorsDynamic"] = {
+			["profiles"] = {
+				["Default"] = {
+					["settings"] = {
+						["iconId"] = 2,
+					},
+					["gid_icon_2"] = {
+						["enableIconStackText"] = true,
+						["frameLevel"] = 1,
+						["enableIconCooldown"] = true,
+						["stackFontSize"] = 7,
+						["iconSize"] = 12,
+						["offsetX"] = 0,
+						["iconBorderSize"] = 0,
+						["anchor"] = "CENTER",
+						["offsetY"] = 0,
+						["stackOffsetX"] = 4,
+						["stackOffsetY"] = -2,
+					},
+				},
+			},
+		},
+		["GridStatusHealth"] = {
+		},
+		["GridStatusRaidIcon"] = {
+		},
+		["GridStatusRange"] = {
+		},
+		["GridLayoutManager"] = {
+		},
+		["GridStatus"] = {
+			["profiles"] = {
+				["Default"] = {
+					["colors"] = {
+						["HUNTER"] = {
+							["b"] = 0.45,
+							["g"] = 0.83,
+							["r"] = 0.67,
+						},
+						["SHAMAN"] = {
+							["b"] = 0.87,
+							["g"] = 0.44,
+							["r"] = 0,
+						},
+						["MAGE"] = {
+							["b"] = 0.92,
+							["g"] = 0.78,
+							["r"] = 0.25,
+						},
+						["DRUID"] = {
+							["b"] = 0.04,
+							["g"] = 0.49,
+							["r"] = 1,
+						},
+						["MONK"] = {
+							["b"] = 0.59,
+							["g"] = 1,
+							["r"] = 0,
+						},
+						["DEATHKNIGHT"] = {
+							["b"] = 0.23,
+							["g"] = 0.12,
+							["r"] = 0.77,
+						},
+						["WARRIOR"] = {
+							["b"] = 0.43,
+							["g"] = 0.61,
+							["r"] = 0.78,
+						},
+						["PRIEST"] = {
+							["b"] = 1,
+							["g"] = 1,
+							["r"] = 1,
+						},
+						["WARLOCK"] = {
+							["b"] = 0.93,
+							["g"] = 0.53,
+							["r"] = 0.53,
+						},
+						["DEMONHUNTER"] = {
+							["b"] = 0.79,
+							["g"] = 0.19,
+							["r"] = 0.64,
+						},
+						["PALADIN"] = {
+							["b"] = 0.73,
+							["g"] = 0.55,
+							["r"] = 0.96,
+						},
+						["ROGUE"] = {
+							["b"] = 0.41,
+							["g"] = 0.96,
+							["r"] = 1,
+						},
+					},
+				},
+			},
+		},
+		["GridStatusAggro"] = {
+		},
+		["GridStatusHeals"] = {
+		},
+		["GridStatusReadyCheck"] = {
+		},
+		["GridStatusResurrect"] = {
+		},
+		["GridStatusGroup"] = {
+		},
+		["GridLayout"] = {
+			["profiles"] = {
+				["Default"] = {
+					["backgroundTexture"] = "None",
+					["layouts"] = {
+						["solo"] = "None",
+						["raid"] = "ByGroup",
+					},
+					["borderTexture"] = "None",
+					["anchor"] = "CENTER",
+					["backgroundColor"] = {
+						["a"] = 0.650000005960465,
+						["r"] = 0.101960784313725,
+						["g"] = 0.101960784313725,
+						["b"] = 0.101960784313725,
+					},
+					["PosY"] = 1,
+					["clickThrough"] = false,
+					["layout"] = "None",
+					["showOffline"] = true,
+					["anchorRel"] = "CENTER",
+					["layoutPadding"] = 4,
+					["PosX"] = -505,
+				},
+			},
+		},
+		["GridStatusMouseover"] = {
+		},
+		["GridStatusRole"] = {
+			["profiles"] = {
+				["Default"] = {
+					["role"] = {
+						["TANK"] = {
+							["color"] = {
+								["r"] = 0.917647058823529,
+							},
+						},
+					},
+				},
+			},
+		},
+		["GridRoster"] = {
+		},
+	},
+	["profileKeys"] = {
+		["꽁따리 - 아즈샤라"] = "Default",
+		["쿵따리 - 하이잘"] = "Default",
+		["죽었따리 - 아즈샤라"] = "Default",
+		["호있얍 - 아즈샤라"] = "Default",
+		["싸딸라 - 아즈샤라"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+			["minimap"] = {
+				["minimapPos"] = 136.981750959188,
+				["hide"] = false,
+			},
+		},
+	},
+}
